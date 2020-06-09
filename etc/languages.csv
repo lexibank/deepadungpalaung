@@ -1,4 +1,4 @@
-ID,Name,Abbreviation,Location,EthnicName,Glottocode,latitude,longitude
+ID,Name,Abbreviation,Location,EthnicName,Glottocode,Latitude,Longitude
 ChuDongGua,Chu Dong Gua,CDG,"Santaishan, Dehong",Liang/Ta-ang,, 24.330889, 98.393125
 MengDan,Meng Dan,MD,"Santaishan, Dehong",Pule/Ka-ang,khan1274, 24.296522, 98.379886
 NanSang,Nan Sang,NS,"Ruili, Dehong",Rumai,ruma1248, 24.019728, 97.819736
@@ -15,4 +15,3 @@ NyaungGone,Nyaung Gone,NG,"Kalaw, Shan",Da-ang,, 20.635025, 96.545772
 BanPaw,Ban Paw,BP,"KengTung, Shan",Dara-ang,, 21.311225, 99.557550
 NoeLae,Noe Lae,NL,"Fang, Chiang Mai",Dara-ang,, 19.941803, 99.044742
 PongNuea,Pong Nuea,PN,"Mae Sai, Chiang Rai",Dara-ang,, 20.321525, 99.866817
-

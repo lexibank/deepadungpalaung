@@ -1,0 +1,34 @@
+{
+    "title": "CLDF dataset derived from Deepadung et al.'s \"Lexical Comparison of Palaung Dialects\" from 2015",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Johann-Mattis List"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Deepadung, Sujaritlak",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Buakaw, Supakit",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Rattanapitak, Ampika",
+            "type": "DataCollector"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Deepadung, Sujaritlak; Buakaw, Supakit; and Rattanapitak, Ampica (2015): A lexical comparison of the Palaung dialects spoken in China, Myanmar, and Thailand. Mon-Khmer Studies 44. 19-38.</p>\n</blockquote>"
+}
