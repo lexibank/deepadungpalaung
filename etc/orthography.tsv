@@ -1,7 +1,7 @@
 Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
 ^	NULL				
 $	NULL				
-a	NULL	sanam, saŋaj	NyaungGone, PangKham, NoeLae, ChaYeQing, ManLoi, PongNuea, ChuDongGua, GuangKa, MangBang, NanSang, BanPaw, NamHsan, MengDan, XiangZhaiTang, HtanHsan, KhunHawt	100	U+0061
+a	a	sanam, saŋaj	NyaungGone, PangKham, NoeLae, ChaYeQing, ManLoi, PongNuea, ChuDongGua, GuangKa, MangBang, NanSang, BanPaw, NamHsan, MengDan, XiangZhaiTang, HtanHsan, KhunHawt	100	U+0061
 ^k	k	kaː, kaɁaːŋ	MengDan, NamHsan, NanSang, KhunHawt, GuangKa, ChuDongGua, MangBang, HtanHsan, ChaYeQing, ManLoi, NyaungGone, PongNuea, PangKham, XiangZhaiTang, NoeLae, BanPaw	100	U+005e U+006b
 ŋ$	ŋ	nɨŋ, kaɁaːŋ	NamHsan, ManLoi, ChuDongGua, KhunHawt, HtanHsan, MengDan, PangKham, NanSang, GuangKa, PongNuea, NoeLae, BanPaw, XiangZhaiTang, ChaYeQing, MangBang	100	U+014b U+0024
 i	i	sim, riah	MengDan, PangKham, ChuDongGua, HtanHsan, ManLoi, NoeLae, PongNuea, NyaungGone, NamHsan, BanPaw, KhunHawt, XiangZhaiTang, NanSang	100	U+0069
@@ -41,11 +41,11 @@ k$	k	nok, tok	NyaungGone, GuangKa, ChaYeQing, MangBang, NanSang, ManLoi, PangKha
 ʔ$	ʔ	mojʔ, ɗoʔ	MengDan, NyaungGone, ChaYeQing, ChuDongGua, GuangKa, MangBang, HtanHsan, XiangZhaiTang, ManLoi, PongNuea, NoeLae, PangKham, BanPaw	54	U+0294 U+0024
 ^kh	kʰ	khuːr, khuː	ChaYeQing, NamHsan, ManLoi, HtanHsan, PongNuea, PangKham, NoeLae, KhunHawt, BanPaw, NyaungGone, GuangKa, MengDan, ChuDongGua, MangBang, NanSang, XiangZhaiTang	51	U+005e U+006b U+0068
 ɨ	ɨ	nɨŋ, ɡɨn	BanPaw, NyaungGone, PongNuea, NamHsan, ChaYeQing, NoeLae, NanSang, XiangZhaiTang, GuangKa, MangBang, HtanHsan, PangKham, ChuDongGua	51	U+0268
-ә	<?>	ʥәm, kәrɗaɁ	HtanHsan, NamHsan, KhunHawt, ManLoi, PongNuea, PangKham	50	U+04d9
+ә	ə	ʥәm, kәrɗaɁ	HtanHsan, NamHsan, KhunHawt, ManLoi, PongNuea, PangKham	50	U+04d9
 d	d	sada, kadom	ChaYeQing, NyaungGone, NamHsan, PongNuea, NoeLae, BanPaw, XiangZhaiTang, ChuDongGua, MengDan, MangBang, KhunHawt, GuangKa, NanSang	46	U+0064
 ^t	t	toŋ, tok	GuangKa, MangBang, NanSang, ManLoi, PongNuea, NoeLae, BanPaw, NyaungGone, XiangZhaiTang, NamHsan, KhunHawt	45	U+005e U+0074
 w$	w	maːw, jew	ChaYeQing, MangBang, NanSang, GuangKa, PongNuea, XiangZhaiTang, PangKham, MengDan, NoeLae, KhunHawt, HtanHsan, NyaungGone, ManLoi, ChuDongGua, BanPaw	43	U+0077 U+0024
-̆	<?>	kaɲăh, dăk	BanPaw, NyaungGone, NoeLae	43	U+0306
+̆	NULL	kaɲăh, dăk	BanPaw, NyaungGone, NoeLae	43	U+0306
 k	k	hɨk ken, pakjəː	GuangKa, HtanHsan, NamHsan, ChaYeQing, ChuDongGua, PangKham, NanSang, KhunHawt, BanPaw, PongNuea, MangBang, MengDan, NoeLae, NyaungGone, ManLoi, XiangZhaiTang	42	U+006b
 ^ʨ	tɕ	ʨɨː, ʨan	ManLoi, PangKham, MengDan, XiangZhaiTang, PongNuea, NamHsan, ChaYeQing, GuangKa, ChuDongGua, MangBang, NanSang	42	U+005e U+02a8
 ɲ$	ɲ	ɡiɲ, haɲ	PongNuea, NoeLae, HtanHsan, KhunHawt, BanPaw, XiangZhaiTang, PangKham, ChuDongGua, NamHsan	39	U+0272 U+0024
@@ -83,7 +83,7 @@ c$	c	vac, tuc	PongNuea, NoeLae, XiangZhaiTang, HtanHsan, NyaungGone, KhunHawt	19
 ^ph	pʰ	phon, phoːn	MengDan, ManLoi, ChuDongGua, HtanHsan, NyaungGone, NamHsan, ChaYeQing, GuangKa, PangKham, MangBang, NanSang, KhunHawt, BanPaw	17	U+005e U+0070 U+0068
 ^n̥	n̥	n̥aːm, n̥am	HtanHsan, NyaungGone, NamHsan, ChaYeQing, ManLoi, PongNuea, GuangKa, PangKham, MengDan, ChuDongGua, NoeLae, MangBang, NanSang, KhunHawt, BanPaw, XiangZhaiTang	16	U+005e U+006e U+0325
 ɛ$	ɛ	masɛ, saŋɛ	NoeLae, BanPaw, NyaungGone	15	U+025b U+0024
-әː	<?>	bleː phәːm, l̥әːŋ	HtanHsan, NamHsan, KhunHawt, ManLoi, PangKham	15	U+04d9 U+02d0
+әː	əː	bleː phәːm, l̥әːŋ	HtanHsan, NamHsan, KhunHawt, ManLoi, PangKham	15	U+04d9 U+02d0
 m̥	m̥	khɛm̥ə, ʨhim̥əː	NanSang, HtanHsan, NyaungGone, NamHsan, ChaYeQing, ManLoi, PongNuea, PangKham, MengDan, ChuDongGua, NoeLae, KhunHawt, BanPaw, XiangZhaiTang	15	U+006d U+0325
 i$	i	ni, hi	ChuDongGua, ChaYeQing, MengDan, NoeLae, NanSang, HtanHsan, NyaungGone, MangBang	15	U+0069 U+0024
 ə̆	ə̆	pə̆t, ɡə̆h	NoeLae, BanPaw, NyaungGone	14	U+0259 U+0306
@@ -106,13 +106,13 @@ eː$	eː	Ɂaseː, ɗɨŋ heː	NamHsan, PangKham, ChaYeQing, ManLoi	7	U+0065 U+02
 o$	o	maso, Ɂo	BanPaw, NoeLae, NyaungGone	7	U+006f U+0024
 ^ɲ	ɲ	ɲɔjɁ, ɲɔŋ vac	NyaungGone, PongNuea, GuangKa, MangBang, NoeLae, NanSang, BanPaw	7	U+005e U+0272
 əː$	əː	pakjəː, jəː	NanSang, GuangKa, HtanHsan, MangBang	6	U+0259 U+02d0 U+0024
-?$	<?>	bɛ?, ɡa?	ChuDongGua, GuangKa, MangBang	6	U+003f U+0024
+?$	ʔ	bɛ?, ɡa?	ChuDongGua, GuangKa, MangBang	6	U+003f U+0024
 ^th	tʰ	thuthiː, thuʔɗaj	HtanHsan, GuangKa, PangKham, MengDan, MangBang, NanSang	6	U+005e U+0074 U+0068
 ăh$	ăh	kaɲăh, ɁaɁăh	NoeLae, BanPaw, NyaungGone	6	U+0103 U+0068 U+0024
 ɓ	ɓ	kadam ɓeɁ, paiɁ ɓaiɁ	NamHsan, ManLoi, ChuDongGua	5	U+0253
 ^j̊	j̊	j̊ok, j̊o?	NyaungGone, PangKham, MengDan, ChuDongGua, XiangZhaiTang	5	U+005e U+006a U+030a
 ^ʨh	ʨh	ʨhok, ʨhim̥əː	NanSang, GuangKa, ChaYeQing	5	U+005e U+02a8 U+0068
-әː$	<?>	ʥәː, rәnm̥әː	KhunHawt, HtanHsan, ManLoi	4	U+04d9 U+02d0 U+0024
+әː$	əː	ʥәː, rәnm̥әː	KhunHawt, HtanHsan, ManLoi	4	U+04d9 U+02d0 U+0024
 r̥$	r̥	mur̥, kɔŋmur̥	KhunHawt, HtanHsan	4	U+0072 U+0325 U+0024
 l$	l	ŋal, ɗәkŋal	MengDan, HtanHsan	4	U+006c U+0024
 ŋh	ŋh	taŋhɔːj, daŋhej	GuangKa, MangBang, XiangZhaiTang, NanSang	4	U+014b U+0068
@@ -121,31 +121,25 @@ j̊	j̊	Ɂaj̊ouʔ, lɛːj̊ok	PongNuea, BanPaw, NoeLae, ManLoi	4	U+006a U+030a
 ɨ$	ɨ	cɨ, ha?ɨ	NoeLae, BanPaw, NyaungGone, ChuDongGua	4	U+0268 U+0024
 ^ɲ̥	ɲ̊	ɲ̥ɔɁ, ɲ̥ɔʔ	PongNuea, BanPaw, NoeLae, NyaungGone	4	U+005e U+0272 U+0325
 th	tʰ	thuthiː, thuthik	GuangKa, NanSang, HtanHsan, MangBang	4	U+0074 U+0068
-Ɂu, l̥eih	<???>	Ɂu, l̥eih	BanPaw, NoeLae	4	U+0241 U+0075 U+002c U+0020 U+006c U+0325 U+0065 U+0069 U+0068
 ʨ	tɕ	kaʨam, təʨɔm	GuangKa, NanSang, HtanHsan, MangBang	4	U+02a8
 w	w	ɡraːw ʔiar, klaw khaj	ChuDongGua, MengDan, ManLoi	3	U+0077
 x$	x	ɡəx, box	XiangZhaiTang, ChaYeQing	3	U+0078 U+0024
 ʨh	ʨh	konʨhaː, lajʨhɔːɁ	NamHsan, MangBang	3	U+02a8 U+0068
 ^x	x	xaːŋ	NanSang, ChaYeQing, MangBang	3	U+005e U+0078
-ә:	<?>	blej phә:m, kanhɔh phә:m	KhunHawt, NamHsan	3	U+04d9 U+003a
+ә:	əː	blej phә:m, kanhɔh phә:m	KhunHawt, NamHsan	3	U+04d9 U+003a
 u$	u	ŋ Ɂu, Ɂau	GuangKa, NoeLae	2	U+0075 U+0024
 ^ɣ	ɣ	ɣəhhɔj, ɣəh	ChaYeQing, MangBang	2	U+005e U+0263
 a:$	aː	Ɂa:, l̥a:	NamHsan, HtanHsan	2	U+0061 U+003a U+0024
 kh	kʰ	klaw khaj, lɛ khɛ prɛ	NyaungGone, ManLoi	2	U+006b U+0068
 kk	kk	hɨkkən	MangBang, NanSang	2	U+006b U+006b
-kaɗoːm, ɗap	<???>	kaɗoːm, ɗap	HtanHsan	2	U+006b U+0061 U+0257 U+006f U+02d0 U+006d U+002c U+0020 U+0257 U+0061 U+0070
 i:$	iː	ɓi:, ɗi:	KhunHawt	2	U+0069 U+003a U+0024
 nh	nh	kanhɔh phә:m, rәnhim	KhunHawt, HtanHsan	2	U+006e U+0068
 ^ŋh	ŋh	ŋhiːm	PongNuea, XiangZhaiTang	2	U+005e U+014b U+0068
-ʔi, duʔi	<???>	ʔi, duʔi	NyaungGone	2	U+0294 U+0069 U+002c U+0020 U+0064 U+0075 U+0294 U+0069
 ^d̤	dʱ	d̤eːŋ, d̤oŋ	PangKham, HtanHsan	2	U+005e U+0064 U+0324
 c	c	kacua	NoeLae, NyaungGone	2	U+0063
-Ɂuː, l̥ejh	<???>	Ɂuː, l̥ejh	XiangZhaiTang	2	U+0241 U+0075 U+02d0 U+002c U+0020 U+006c U+0325 U+0065 U+006a U+0068
-ʔu, l̥eih	<???>	ʔu, l̥eih	NyaungGone	2	U+0294 U+0075 U+002c U+0020 U+006c U+0325 U+0065 U+0069 U+0068
 nn	nn	khɔnnap	KhunHawt, HtanHsan	2	U+006e U+006e
-?	<?>	dua?ɔjh, ha?ɨ	ChuDongGua	2	U+003f
-Ɂiluj, luj	<???>	Ɂiluj, luj	NanSang	2	U+0241 U+0069 U+006c U+0075 U+006a U+002c U+0020 U+006c U+0075 U+006a
-әh$	<?>	ʔase mimәh, sәnmәh	NamHsan, HtanHsan	2	U+04d9 U+0068 U+0024
+?	ʔ	dua?ɔjh, ha?ɨ	ChuDongGua	2	U+003f
+әh$	əh	ʔase mimәh, sәnmәh	NamHsan, HtanHsan	2	U+04d9 U+0068 U+0024
 ^ʐ	ʐ	ʐəh hɔːj	GuangKa	1	U+005e U+0290
 Ɂs	Ɂs	sɛɁsɔŋ	XiangZhaiTang	1	U+0241 U+0073
 ɨː	ɨː	pɨːh	GuangKa	1	U+0268 U+02d0
@@ -157,11 +151,10 @@ a:	aː	n̥a:m	PangKham	1	U+0061 U+003a
 e:	eː	rade:ŋ	KhunHawt	1	U+0065 U+003a
 ʥ	dʑ	kaʥən	GuangKa	1	U+02a5
 ^g	g	graːɁ	NamHsan	1	U+005e U+0067
-әh	<?>	kәhɓɨŋ	NamHsan	1	U+04d9 U+0068
+әh	əh	kәhɓɨŋ	NamHsan	1	U+04d9 U+0068
 pp	pp	lɨpprɛː	XiangZhaiTang	1	U+0070 U+0070
 u:$	uː	Ɂu:	HtanHsan	1	U+0075 U+003a U+0024
-sәp,	<???>	sәp,	KhunHawt	1	U+0073 U+04d9 U+0070 U+002c
 r̥	r̥	r̥әŋr̥әŋ	NamHsan	1	U+0072 U+0325
-^?	<?>	?aka?	ChuDongGua	1	U+005e U+003f
+^?	ʔ	?aka?	ChuDongGua	1	U+005e U+003f
 d̤	dʱ	Ɂad̤at	PangKham	1	U+0064 U+0324
 ɯː$	ɯː	ɗuʔɯː	MengDan	1	U+026f U+02d0 U+0024
