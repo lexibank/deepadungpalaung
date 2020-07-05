@@ -42,7 +42,7 @@ class Dataset(BaseDataset):
             idx = concept.id.split("-")[-1] + "_" + slug(concept.english)
             args.writer.add_concept(
                 ID=idx,
-                Name=concept.gloss,
+                Name=concept.english,
                 Number=concept.number,
                 Concepticon_ID=concept.concepticon_id,
                 Concepticon_Gloss=concept.concepticon_gloss,
