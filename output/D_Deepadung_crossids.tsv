@@ -1,0 +1,164 @@
+ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCEPTICON	LATITUDE	LONGITUDE	COGNACY	SONARS	PROSTRINGS	CLASSES	LANGID	NUMBERS	WEIGHTS	IPA	DUPLICATES	COGIDS	ALIGNMENT	STRUCTURE	CROSSIDS
+1555	99_i	I	NamHsan	Namhsan	Ɂɔː	Ɂɔː	ʔ ɔː		1209	22.965064	97.163239		1 7	AX	HU	10	10.H.C 10.U.V	2.0 1.5	ʔɔː	0	1	ʔ ɔː	i n	1
+1556	99_i	I	KhunHawt	Khun Hawt	Ɂoː	Ɂoː	ʔ oː		1209	22.965064	97.163239		1 7	AX	HU	6	6.H.C 6.U.V	2.0 1.5	ʔoː	0	1	ʔ oː	i n	1
+1557	99_i	I	HtanHsan	Htan Hsan	Ɂɔː	Ɂɔː	ʔ ɔː		1209	22.675133	97.289942		1 7	AX	HU	5	5.H.C 5.U.V	2.0 1.5	ʔɔː	0	1	ʔ ɔː	i n	1
+1558	99_i	I	ManLoi	Man Loi	Ɂɔː	Ɂɔː	ʔ ɔː		1209	22.636019	97.139264		1 7	AX	HU	8	8.H.C 8.U.V	2.0 1.5	ʔɔː	0	1	ʔ ɔː	i n	1
+1559	99_i	I	MengDan	Meng Dan	ʔoː	ʔoː	ʔ oː	khan1274	1209	24.296522	98.379886		1 7	AX	HU	9	9.H.C 9.U.V	2.0 1.5	ʔoː	0	1	ʔ oː	i n	1
+1560	99_i	I	ChuDongGua	Chu Dong Gua	ʔoː	ʔoː	ʔ oː		1209	24.330889	98.393125		1 7	AX	HU	3	3.H.C 3.U.V	2.0 1.5	ʔoː	0	1	ʔ oː	i n	1
+1563	99_i	I	NyaungGone	Nyaung Gone	ʔo	ʔo	ʔ o		1209	20.635025	96.545772		1 7	AX	HU	13	13.H.C 13.U.V	2.0 1.5	ʔo	0	1	ʔ o	i n	1
+1564	99_i	I	NoeLae	Noe Lae	Ɂo	Ɂo	ʔ o		1209	19.941803	99.044742		1 7	AX	HU	12	12.H.C 12.U.V	2.0 1.5	ʔo	0	1	ʔ o	i n	1
+1565	99_i	I	BanPaw	Ban Paw	Ɂo	Ɂo	ʔ o		1209	21.311225	99.557550		1 7	AX	HU	1	1.H.C 1.U.V	2.0 1.5	ʔo	0	1	ʔ o	i n	1
+863	55_ashes	ashes	NyaungGone	Nyaung Gone	brɔ ŋɔ	brɔ ŋɔ	b r ɔ + ŋ ɔ		646	20.635025	96.545772		1 5 7 9 4 7	ACX_AX	PRU_NU	13	13.P.C 13.R.C 13.U.V 13._._ 13.N.C 13.U.V	2.0 1.5 1.5 0.0 2.0 1.5	brɔ+ŋɔ	0	34 35	b r ɔ + ŋ ɔ	i m n + i n	34 35
+864	55_ashes	ashes	NoeLae	Noe Lae	brɔ ŋɔ	brɔ ŋɔ	b r ɔ + ŋ ɔ		646	19.941803	99.044742		1 5 7 9 4 7	ACX_AX	PRU_NU	12	12.P.C 12.R.C 12.U.V 12._._ 12.N.C 12.U.V	2.0 1.5 1.5 0.0 2.0 1.5	brɔ+ŋɔ	0	34 35	b r ɔ + ŋ ɔ	i m n + i n	34 35
+865	55_ashes	ashes	BanPaw	Ban Paw	brɔ ŋɔ	brɔ ŋɔ	b r ɔ + ŋ ɔ		646	21.311225	99.557550		1 5 7 9 4 7	ACX_AX	PRU_NU	1	1.P.C 1.R.C 1.U.V 1._._ 1.N.C 1.U.V	2.0 1.5 1.5 0.0 2.0 1.5	brɔ+ŋɔ	0	34 35	b r ɔ + ŋ ɔ	i m n + i n	34 35
+59	4_cloud	cloud	NoeLae	Noe Lae	ŋ Ɂu	ŋ Ɂu	ŋ + ʔ u		1489	19.941803	99.044742		4 9 1 7	A_AX	N_HY	12	12.N.C 12._._ 12.H.C 12.Y.V	2.0 0.0 2.0 1.5	ŋ+ʔu	0	202 203	ŋ + ʔ u	i + i n	202 203
+1014	65_fear	fear	NamHsan	Namhsan	ʥɔː	ʥɔː	dʑ ɔː		1419	22.965064	97.163239		2 7	AX	CU	10	10.C.C 10.U.V	2.0 1.5	dʑɔː	0	468	dʑ - ɔː	i n	468
+1016	65_fear	fear	HtanHsan	Htan Hsan	ʥoː	ʥoː	dʑ oː		1419	22.675133	97.289942		2 7	AX	CU	5	5.C.C 5.U.V	2.0 1.5	dʑoː	0	468	dʑ - oː	i n	468
+1017	65_fear	fear	PangKham	Pangkham	ʥoː	ʥoː	dʑ oː		1419	22.672097	97.161167		2 7	AX	CU	14	14.C.C 14.U.V	2.0 1.5	dʑoː	0	468	dʑ - oː	i n	468
+1018	65_fear	fear	ManLoi	Man Loi	ʥɔː	ʥɔː	dʑ ɔː		1419	22.636019	97.139264		2 7	AX	CU	8	8.C.C 8.U.V	2.0 1.5	dʑɔː	0	468	dʑ - ɔː	i n	468
+1019	65_fear	fear	MengDan	Meng Dan	ʥoː	ʥoː	dʑ oː	khan1274	1419	24.296522	98.379886		2 7	AX	CU	9	9.C.C 9.U.V	2.0 1.5	dʑoː	0	468	dʑ - oː	i n	468
+1020	65_fear	fear	ChuDongGua	Chu Dong Gua	joː	joː	j oː		1419	24.330889	98.393125		6 7	AX	JU	3	3.J.C 3.U.V	2.0 1.5	joː	0	468	- j oː	m n	468
+1024	65_fear	fear	BanPaw	Ban Paw	jo	jo	j o		1419	21.311225	99.557550		6 7	AX	JU	1	1.J.C 1.U.V	2.0 1.5	jo	0	468	- j o	m n	468
+841	54_fire	fire	PangKham	Pangkham	ŋɔː	ŋɔː	ŋ ɔː		221	22.672097	97.161167		4 7	AX	NU	14	14.N.C 14.U.V	2.0 1.5	ŋɔː	0	484	ŋ ɔː	i n	35
+842	54_fire	fire	ManLoi	Man Loi	ŋɔː	ŋɔː	ŋ ɔː		221	22.636019	97.139264		4 7	AX	NU	8	8.N.C 8.U.V	2.0 1.5	ŋɔː	0	484	ŋ ɔː	i n	35
+845	54_fire	fire	XiangZhaiTang	Xiang Zhai Tang	ŋɔː	ŋɔː	ŋ ɔː	ruma1248	221	24.323819	98.556639		4 7	AX	NU	16	16.N.C 16.U.V	2.0 1.5	ŋɔː	0	484	ŋ ɔː	i n	35
+846	54_fire	fire	PongNuea	Pong Nuea	ŋɔː	ŋɔː	ŋ ɔː		221	20.321525	99.866817		4 7	AX	NU	15	15.N.C 15.U.V	2.0 1.5	ŋɔː	0	484	ŋ ɔː	i n	35
+847	54_fire	fire	NyaungGone	Nyaung Gone	ŋɔ	ŋɔ	ŋ ɔ		221	20.635025	96.545772		4 7	AX	NU	13	13.N.C 13.U.V	2.0 1.5	ŋɔ	0	484	ŋ ɔ	i n	35
+848	54_fire	fire	NoeLae	Noe Lae	ŋɔ	ŋɔ	ŋ ɔ		221	19.941803	99.044742		4 7	AX	NU	12	12.N.C 12.U.V	2.0 1.5	ŋɔ	0	484	ŋ ɔ	i n	35
+849	54_fire	fire	BanPaw	Ban Paw	ŋɔ	ŋɔ	ŋ ɔ		221	21.311225	99.557550		4 7	AX	NU	1	1.N.C 1.U.V	2.0 1.5	ŋɔ	0	484	ŋ ɔ	i n	35
+417	27_fish	fish	NamHsan	Namhsan	kaː	kaː	k aː		227	22.965064	97.163239		1 7	AX	KA	10	10.K.C 10.A.V	2.0 1.5	kaː	0	502	k aː	i n	502
+418	27_fish	fish	KhunHawt	Khun Hawt	kaː	kaː	k aː		227	22.965064	97.163239		1 7	AX	KA	6	6.K.C 6.A.V	2.0 1.5	kaː	0	502	k aː	i n	502
+419	27_fish	fish	HtanHsan	Htan Hsan	kaː	kaː	k aː		227	22.675133	97.289942		1 7	AX	KA	5	5.K.C 5.A.V	2.0 1.5	kaː	0	502	k aː	i n	502
+420	27_fish	fish	PangKham	Pangkham	ɡaː	ɡaː	g aː		227	22.672097	97.161167		1 7	AX	KA	14	14.K.C 14.A.V	2.0 1.5	gaː	0	502	g aː	i n	502
+421	27_fish	fish	ManLoi	Man Loi	ɡɛː	ɡɛː	g ɛː		227	22.636019	97.139264		1 7	AX	KE	8	8.K.C 8.E.V	2.0 1.5	gɛː	0	502	g ɛː	i n	502
+422	27_fish	fish	MengDan	Meng Dan	kɛː	kɛː	k ɛː	khan1274	227	24.296522	98.379886		1 7	AX	KE	9	9.K.C 9.E.V	2.0 1.5	kɛː	0	502	k ɛː	i n	502
+423	27_fish	fish	ChuDongGua	Chu Dong Gua	kaː	kaː	k aː		227	24.330889	98.393125		1 7	AX	KA	3	3.K.C 3.A.V	2.0 1.5	kaː	0	502	k aː	i n	502
+424	27_fish	fish	XiangZhaiTang	Xiang Zhai Tang	ɡaː	ɡaː	g aː	ruma1248	227	24.323819	98.556639		1 7	AX	KA	16	16.K.C 16.A.V	2.0 1.5	gaː	0	502	g aː	i n	502
+429	27_fish	fish	ChaYeQing	Cha Ye Qing	kaː	kaː	k aː		227	24.305717	98.463661		1 7	AX	KA	2	2.K.C 2.A.V	2.0 1.5	kaː	0	502	k aː	i n	502
+430	27_fish	fish	GuangKa	Guang Ka	kaː	kaː	k aː	ruma1248	227	24.065714	97.796281		1 7	AX	KA	4	4.K.C 4.A.V	2.0 1.5	kaː	0	502	k aː	i n	502
+431	27_fish	fish	MangBang	Mang Bang	kaː	kaː	k aː	ruma1248	227	24.416392	98.399078		1 7	AX	KA	7	7.K.C 7.A.V	2.0 1.5	kaː	0	502	k aː	i n	502
+432	27_fish	fish	NanSang	Nan Sang	kaː	kaː	k aː	ruma1248	227	24.019728	97.819736		1 7	AX	KA	11	11.K.C 11.A.V	2.0 1.5	kaː	0	502	k aː	i n	502
+390	25_fly	fly	MengDan	Meng Dan	phruː	phruː	pʰ r uː	khan1274	1504	24.296522	98.379886		1 5 7	ACX	PRY	9	9.P.C 9.R.C 9.Y.V	2.0 1.5 1.5	pʰruː	0	535	pʰ r uː	i m n	535
+391	25_fly	fly	ChuDongGua	Chu Dong Gua	phruː	phruː	pʰ r uː		1504	24.330889	98.393125		1 5 7	ACX	PRY	3	3.P.C 3.R.C 3.Y.V	2.0 1.5 1.5	pʰruː	0	535	pʰ r uː	i m n	535
+399	25_fly	fly	MangBang	Mang Bang	pɨː	pɨː	p ɨː	ruma1248	1504	24.416392	98.399078		1 7	AX	PI	7	7.P.C 7.I.V	2.0 1.5	pɨː	0	535	p - ɨː	i n	535
+400	25_fly	fly	NanSang	Nan Sang	pɨː	pɨː	p ɨː	ruma1248	1504	24.019728	97.819736		1 7	AX	PI	11	11.P.C 11.I.V	2.0 1.5	pɨː	0	535	p - ɨː	i n	535
+690	44_foot	foot	NyaungGone	Nyaung Gone	plɔ	plɔ	p l ɔ		1301	20.635025	96.545772		1 5 7	ACX	PLU	13	13.P.C 13.L.C 13.U.V	2.0 1.5 1.5	plɔ	0	553	p l ɔ	i m n	553
+257	17_fruit	fruit	NamHsan	Namhsan	ɓleː	ɓleː	ɓ l eː		1507	22.965064	97.163239		1 5 7	ACX	PLE	10	10.P.C 10.L.C 10.E.V	2.0 1.5 1.5	ɓleː	0	588	ɓ l eː	i m n	588
+260	17_fruit	fruit	PangKham	Pangkham	bleː	bleː	b l eː		1507	22.672097	97.161167		1 5 7	ACX	PLE	14	14.P.C 14.L.C 14.E.V	2.0 1.5 1.5	bleː	0	588	b l eː	i m n	588
+262	17_fruit	fruit	MengDan	Meng Dan	bliː	bliː	b l iː	khan1274	1507	24.296522	98.379886		1 5 7	ACX	PLI	9	9.P.C 9.L.C 9.I.V	2.0 1.5 1.5	bliː	0	588	b l iː	i m n	588
+263	17_fruit	fruit	ChuDongGua	Chu Dong Gua	ɓliː	ɓliː	ɓ l iː		1507	24.330889	98.393125		1 5 7	ACX	PLI	3	3.P.C 3.L.C 3.I.V	2.0 1.5 1.5	ɓliː	0	588	ɓ l iː	i m n	588
+266	17_fruit	fruit	NyaungGone	Nyaung Gone	ble	ble	b l e		1507	20.635025	96.545772		1 5 7	ACX	PLE	13	13.P.C 13.L.C 13.E.V	2.0 1.5 1.5	ble	0	588	b l e	i m n	588
+267	17_fruit	fruit	NoeLae	Noe Lae	ble	ble	b l e		1507	19.941803	99.044742		1 5 7	ACX	PLE	12	12.P.C 12.L.C 12.E.V	2.0 1.5 1.5	ble	0	588	b l e	i m n	588
+268	17_fruit	fruit	BanPaw	Ban Paw	ble	ble	b l e		1507	21.311225	99.557550		1 5 7	ACX	PLE	1	1.P.C 1.L.C 1.E.V	2.0 1.5 1.5	ble	0	588	b l e	i m n	588
+649	42_hand	hand	NamHsan	Namhsan	ɗiː	ɗiː	ɗ iː		1277	22.965064	97.163239		1 7	AX	TI	10	10.T.C 10.I.V	2.0 1.5	ɗiː	0	685	ɗ iː	i n	685
+650	42_hand	hand	KhunHawt	Khun Hawt	ɗi:	ɗi:	ɗ iː		1277	22.965064	97.163239		1 7	AX	TI	6	6.T.C 6.I.V	2.0 1.5	ɗiː	0	685	ɗ iː	i n	685
+651	42_hand	hand	HtanHsan	Htan Hsan	ɗiː	ɗiː	ɗ iː		1277	22.675133	97.289942		1 7	AX	TI	5	5.T.C 5.I.V	2.0 1.5	ɗiː	0	685	ɗ iː	i n	685
+656	42_hand	hand	XiangZhaiTang	Xiang Zhai Tang	dɛː	dɛː	d ɛː	ruma1248	1277	24.323819	98.556639		1 7	AX	TE	16	16.T.C 16.E.V	2.0 1.5	dɛː	0	685	d ɛː	i n	685
+657	42_hand	hand	PongNuea	Pong Nuea	dɛː	dɛː	d ɛː		1277	20.321525	99.866817		1 7	AX	TE	15	15.T.C 15.E.V	2.0 1.5	dɛː	0	685	d ɛː	i n	685
+658	42_hand	hand	NyaungGone	Nyaung Gone	dɛ	dɛ	d ɛ		1277	20.635025	96.545772		1 7	AX	TE	13	13.T.C 13.E.V	2.0 1.5	dɛ	0	685	d ɛ	i n	685
+659	42_hand	hand	NoeLae	Noe Lae	dɛ	dɛ	d ɛ		1277	19.941803	99.044742		1 7	AX	TE	12	12.T.C 12.E.V	2.0 1.5	dɛ	0	685	d ɛ	i n	685
+660	42_hand	hand	BanPaw	Ban Paw	dɛ	dɛ	d ɛ		1277	21.311225	99.557550		1 7	AX	TE	1	1.T.C 1.E.V	2.0 1.5	dɛ	0	685	d ɛ	i n	685
+1213	77_hunt	hunt	NyaungGone	Nyaung Gone	lɛ khɛ prɛ	lɛ khɛ prɛ	l ɛ + kʰ ɛ + p r ɛ		1435	20.635025	96.545772		5 7 9 1 7 9 1 5 7	AX_AX_ACX	LE_KE_PRE	13	13.L.C 13.E.V 13._._ 13.K.C 13.E.V 13._._ 13.P.C 13.R.C 13.E.V	2.0 1.5 0.0 2.0 1.5 0.0 2.0 1.5 1.5	lɛ+kʰɛ+prɛ	0	779 785 778	l ɛ + kʰ ɛ + p r ɛ	i n + i n + i m n	779 785 778
+1214	77_hunt	hunt	NoeLae	Noe Lae	lɛ prɛ	lɛ prɛ	l ɛ + p r ɛ		1435	19.941803	99.044742		5 7 9 1 5 7	AX_ACX	LE_PRE	12	12.L.C 12.E.V 12._._ 12.P.C 12.R.C 12.E.V	2.0 1.5 0.0 2.0 1.5 1.5	lɛ+prɛ	0	779 778	l ɛ + p r ɛ	i n + i m n	779 778
+1215	77_hunt	hunt	BanPaw	Ban Paw	ba prɛ	ba prɛ	b a + p r ɛ		1435	21.311225	99.557550		1 7 9 1 5 7	AX_ACX	PA_PRE	1	1.P.C 1.A.V 1._._ 1.P.C 1.R.C 1.E.V	2.0 1.5 0.0 2.0 1.5 1.5	ba+prɛ	0	777 778	b a + p r ɛ	i n + i m n	777 778
+1218	77_hunt	hunt	MangBang	Mang Bang	lɛː	lɛː	l ɛː	ruma1248	1435	24.416392	98.399078		5 7	AX	LE	7	7.L.C 7.E.V	2.0 1.5	lɛː	0	779	l ɛː	i n	779
+1013	64_know	know	NanSang	Nan Sang	naː	naː	n aː	ruma1248	3626	24.019728	97.819736		4 7	AX	NA	11	11.N.C 11.A.V	2.0 1.5	naː	0	839	n aː	i n	839
+225	15_leaf	leaf	NamHsan	Namhsan	l̥a:	l̥a:	l̥ aː		628	22.965064	97.163239		5 7	AX	LA	10	10.L.C 10.A.V	2.0 1.5	l̥aː	0	872	l̥ aː	i n	872
+227	15_leaf	leaf	HtanHsan	Htan Hsan	l̥aː	l̥aː	l̥ aː		628	22.675133	97.289942		5 7	AX	LA	5	5.L.C 5.A.V	2.0 1.5	l̥aː	0	872	l̥ aː	i n	872
+228	15_leaf	leaf	PangKham	Pangkham	l̥aː	l̥aː	l̥ aː		628	22.672097	97.161167		5 7	AX	LA	14	14.L.C 14.A.V	2.0 1.5	l̥aː	0	872	l̥ aː	i n	872
+229	15_leaf	leaf	ManLoi	Man Loi	l̥ɛː	l̥ɛː	l̥ ɛː		628	22.636019	97.139264		5 7	AX	LE	8	8.L.C 8.E.V	2.0 1.5	l̥ɛː	0	872	l̥ ɛː	i n	872
+230	15_leaf	leaf	MengDan	Meng Dan	l̥ɛː hi	l̥ɛː hi	l̥ ɛː + h i	khan1274	628	24.296522	98.379886		5 7 9 3 7	AX_AX	LE_HI	9	9.L.C 9.E.V 9._._ 9.H.C 9.I.V	2.0 1.5 0.0 2.0 1.5	l̥ɛː+hi	0	872 873	l̥ ɛː + h i	i n + i n	872 873
+231	15_leaf	leaf	ChuDongGua	Chu Dong Gua	l̥aː hiː	l̥aː hiː	l̥ aː + h iː		628	24.330889	98.393125		5 7 9 3 7	AX_AX	LA_HI	3	3.L.C 3.A.V 3._._ 3.H.C 3.I.V	2.0 1.5 0.0 2.0 1.5	l̥aː+hiː	0	872 873	l̥ aː + h iː	i n + i n	872 873
+232	15_leaf	leaf	XiangZhaiTang	Xiang Zhai Tang	l̥aː	l̥aː	l̥ aː	ruma1248	628	24.323819	98.556639		5 7	AX	LA	16	16.L.C 16.A.V	2.0 1.5	l̥aː	0	872	l̥ aː	i n	872
+234	15_leaf	leaf	NyaungGone	Nyaung Gone	l̥a	l̥a	l̥ a		628	20.635025	96.545772		5 7	AX	LA	13	13.L.C 13.A.V	2.0 1.5	l̥a	0	872	l̥ a	i n	872
+235	15_leaf	leaf	NoeLae	Noe Lae	l̥a	l̥a	l̥ a		628	19.941803	99.044742		5 7	AX	LA	12	12.L.C 12.A.V	2.0 1.5	l̥a	0	872	l̥ a	i n	872
+236	15_leaf	leaf	BanPaw	Ban Paw	l̥a	l̥a	l̥ a		628	21.311225	99.557550		5 7	AX	LA	1	1.L.C 1.A.V	2.0 1.5	l̥a	0	872	l̥ a	i n	872
+237	15_leaf	leaf	ChaYeQing	Cha Ye Qing	l̥aː	l̥aː	l̥ aː		628	24.305717	98.463661		5 7	AX	LA	2	2.L.C 2.A.V	2.0 1.5	l̥aː	0	872	l̥ aː	i n	872
+240	15_leaf	leaf	NanSang	Nan Sang	l̥aː	l̥aː	l̥ aː	ruma1248	628	24.019728	97.819736		5 7	AX	LA	11	11.L.C 11.A.V	2.0 1.5	l̥aː	0	872	l̥ aː	i n	872
+449	29_louse	louse	NamHsan	Namhsan	siː	siː	s iː		1392	22.965064	97.163239		3 7	AX	SI	10	10.S.C 10.I.V	2.0 1.5	siː	0	945	s iː	i n	945
+450	29_louse	louse	KhunHawt	Khun Hawt	siː	siː	s iː		1392	22.965064	97.163239		3 7	AX	SI	6	6.S.C 6.I.V	2.0 1.5	siː	0	945	s iː	i n	945
+189	12_mountain	mountain	ChaYeQing	Cha Ye Qing	noː	noː	n oː		639	24.305717	98.463661		4 7	AX	NU	2	2.N.C 2.U.V	2.0 1.5	noː	0	993	n oː	i n	993
+191	12_mountain	mountain	MangBang	Mang Bang	nɔː	nɔː	n ɔː	ruma1248	639	24.416392	98.399078		4 7	AX	NU	7	7.N.C 7.U.V	2.0 1.5	nɔː	0	993	n ɔː	i n	993
+792	51_name	name	NamHsan	Namhsan	ʨɨː	ʨɨː	tɕ ɨː		1405	22.965064	97.163239		2 7	AX	CI	10	10.C.C 10.I.V	2.0 1.5	tɕɨː	0	1047	tɕ ɨː	i n	1047
+793	51_name	name	KhunHawt	Khun Hawt	ʥɨː	ʥɨː	dʑ ɨː		1405	22.965064	97.163239		2 7	AX	CI	6	6.C.C 6.I.V	2.0 1.5	dʑɨː	0	1047	dʑ ɨː	i n	1047
+794	51_name	name	HtanHsan	Htan Hsan	ʥɨː	ʥɨː	dʑ ɨː		1405	22.675133	97.289942		2 7	AX	CI	5	5.C.C 5.I.V	2.0 1.5	dʑɨː	0	1047	dʑ ɨː	i n	1047
+795	51_name	name	PangKham	Pangkham	ʨɨː	ʨɨː	tɕ ɨː		1405	22.672097	97.161167		2 7	AX	CI	14	14.C.C 14.I.V	2.0 1.5	tɕɨː	0	1047	tɕ ɨː	i n	1047
+796	51_name	name	ManLoi	Man Loi	ʨɨː	ʨɨː	tɕ ɨː		1405	22.636019	97.139264		2 7	AX	CI	8	8.C.C 8.I.V	2.0 1.5	tɕɨː	0	1047	tɕ ɨː	i n	1047
+797	51_name	name	MengDan	Meng Dan	ʨɨː	ʨɨː	tɕ ɨː	khan1274	1405	24.296522	98.379886		2 7	AX	CI	9	9.C.C 9.I.V	2.0 1.5	tɕɨː	0	1047	tɕ ɨː	i n	1047
+798	51_name	name	ChuDongGua	Chu Dong Gua	ʨɨː	ʨɨː	tɕ ɨː		1405	24.330889	98.393125		2 7	AX	CI	3	3.C.C 3.I.V	2.0 1.5	tɕɨː	0	1047	tɕ ɨː	i n	1047
+799	51_name	name	XiangZhaiTang	Xiang Zhai Tang	ʨɨː	ʨɨː	tɕ ɨː	ruma1248	1405	24.323819	98.556639		2 7	AX	CI	16	16.C.C 16.I.V	2.0 1.5	tɕɨː	0	1047	tɕ ɨː	i n	1047
+800	51_name	name	PongNuea	Pong Nuea	ʨɨː	ʨɨː	tɕ ɨː		1405	20.321525	99.866817		2 7	AX	CI	15	15.C.C 15.I.V	2.0 1.5	tɕɨː	0	1047	tɕ ɨː	i n	1047
+801	51_name	name	NyaungGone	Nyaung Gone	cɨ	cɨ	c ɨ		1405	20.635025	96.545772		1 7	AX	CI	13	13.C.C 13.I.V	2.0 1.5	cɨ	0	1047	c ɨ	i n	1047
+802	51_name	name	NoeLae	Noe Lae	cɨ	cɨ	c ɨ		1405	19.941803	99.044742		1 7	AX	CI	12	12.C.C 12.I.V	2.0 1.5	cɨ	0	1047	c ɨ	i n	1047
+803	51_name	name	BanPaw	Ban Paw	cɨ	cɨ	c ɨ		1405	21.311225	99.557550		1 7	AX	CI	1	1.C.C 1.I.V	2.0 1.5	cɨ	0	1047	c ɨ	i n	1047
+804	51_name	name	ChaYeQing	Cha Ye Qing	ʥɨː	ʥɨː	dʑ ɨː		1405	24.305717	98.463661		2 7	AX	CI	2	2.C.C 2.I.V	2.0 1.5	dʑɨː	0	1047	dʑ ɨː	i n	1047
+805	51_name	name	MangBang	Mang Bang	ʥɨː	ʥɨː	dʑ ɨː	ruma1248	1405	24.416392	98.399078		2 7	AX	CI	7	7.C.C 7.I.V	2.0 1.5	dʑɨː	0	1047	dʑ ɨː	i n	1047
+806	51_name	name	NanSang	Nan Sang	ʨɨː	ʨɨː	tɕ ɨː	ruma1248	1405	24.019728	97.819736		2 7	AX	CI	11	11.C.C 11.I.V	2.0 1.5	tɕɨː	0	1047	tɕ ɨː	i n	1047
+1237	79_one	one	KhunHawt	Khun Hawt	Ɂuː	Ɂuː	ʔ uː		1493	22.965064	97.163239		1 7	AX	HY	6	6.H.C 6.Y.V	2.0 1.5	ʔuː	0	1151	ʔ uː	i n	1151
+1238	79_one	one	HtanHsan	Htan Hsan	Ɂu:	Ɂu:	ʔ uː		1493	22.675133	97.289942		1 7	AX	HY	5	5.H.C 5.Y.V	2.0 1.5	ʔuː	0	1151	ʔ uː	i n	1151
+1239	79_one	one	PangKham	Pangkham	Ɂuː	Ɂuː	ʔ uː		1493	22.672097	97.161167		1 7	AX	HY	14	14.H.C 14.Y.V	2.0 1.5	ʔuː	0	1151	ʔ uː	i n	1151
+1240	79_one	one	ManLoi	Man Loi	Ɂuː	Ɂuː	ʔ uː		1493	22.636019	97.139264		1 7	AX	HY	8	8.H.C 8.Y.V	2.0 1.5	ʔuː	0	1151	ʔ uː	i n	1151
+1242	79_one	one	ChuDongGua	Chu Dong Gua	Ɂuː	Ɂuː	ʔ uː		1493	24.330889	98.393125		1 7	AX	HY	3	3.H.C 3.Y.V	2.0 1.5	ʔuː	0	1151	ʔ uː	i n	1151
+1243	79_one	one	XiangZhaiTang	Xiang Zhai Tang	Ɂuː, l̥ejh	Ɂuː	ʔ uː	ruma1248	1493	24.323819	98.556639		1 7	AX	HY	16	16.H.C 16.Y.V	2.0 1.5	ʔuː	0	1151	ʔ uː	i n	1151
+1245	79_one	one	NyaungGone	Nyaung Gone	ʔu, l̥eih	ʔu	ʔ u		1493	20.635025	96.545772		1 7	AX	HY	13	13.H.C 13.Y.V	2.0 1.5	ʔu	0	1151	ʔ u	i n	1151
+1246	79_one	one	NoeLae	Noe Lae	Ɂu, l̥eih	Ɂu	ʔ u		1493	19.941803	99.044742		1 7	AX	HY	12	12.H.C 12.Y.V	2.0 1.5	ʔu	0	1151	ʔ u	i n	1151
+1248	79_one	one	BanPaw	Ban Paw	Ɂu, l̥eih	Ɂu	ʔ u		1493	21.311225	99.557550		1 7	AX	HY	1	1.H.C 1.Y.V	2.0 1.5	ʔu	0	1151	ʔ u	i n	1151
+1250	79_one	one	ChaYeQing	Cha Ye Qing	ʔuː	ʔuː	ʔ uː		1493	24.305717	98.463661		1 7	AX	HY	2	2.H.C 2.Y.V	2.0 1.5	ʔuː	0	1151	ʔ uː	i n	1151
+1251	79_one	one	GuangKa	Guang Ka	Ɂuː	Ɂuː	ʔ uː	ruma1248	1493	24.065714	97.796281		1 7	AX	HY	4	4.H.C 4.Y.V	2.0 1.5	ʔuː	0	1151	ʔ uː	i n	1151
+1252	79_one	one	MangBang	Mang Bang	Ɂuː	Ɂuː	ʔ uː	ruma1248	1493	24.416392	98.399078		1 7	AX	HY	7	7.H.C 7.Y.V	2.0 1.5	ʔuː	0	1151	ʔ uː	i n	1151
+1253	79_one	one	NanSang	Nan Sang	Ɂuː	Ɂuː	ʔ uː	ruma1248	1493	24.019728	97.819736		1 7	AX	HY	11	11.H.C 11.Y.V	2.0 1.5	ʔuː	0	1151	ʔ uː	i n	1151
+761	49_personhuman	person, human	NamHsan	Namhsan	biː	biː	b iː		683	22.965064	97.163239		1 7	AX	PI	10	10.P.C 10.I.V	2.0 1.5	biː	0	1171	b iː	i n	1171
+762	49_personhuman	person, human	KhunHawt	Khun Hawt	ɓi:	ɓi:	ɓ iː		683	22.965064	97.163239		1 7	AX	PI	6	6.P.C 6.I.V	2.0 1.5	ɓiː	0	1171	ɓ iː	i n	1171
+763	49_personhuman	person, human	HtanHsan	Htan Hsan	ɓi	ɓi	ɓ i		683	22.675133	97.289942		1 7	AX	PI	5	5.P.C 5.I.V	2.0 1.5	ɓi	0	1171	ɓ i	i n	1171
+770	49_personhuman	person, human	NyaungGone	Nyaung Gone	ʔi, duʔi	ʔi	ʔ i		683	20.635025	96.545772		1 7	AX	HI	13	13.H.C 13.I.V	2.0 1.5	ʔi	0	1172	ʔ i	i n	1172
+903	58_see	see	KhunHawt	Khun Hawt	ʥәː	ʥәː	dʑ əː		1409	22.965064	97.163239		2 7	AX	CE	6	6.C.C 6.E.V	2.0 1.5	dʑəː	0	1319	dʑ əː	i n	1319
+904	58_see	see	HtanHsan	Htan Hsan	jəː	jəː	j əː		1409	22.675133	97.289942		6 7	AX	JE	5	5.J.C 5.E.V	2.0 1.5	jəː	0	1318	j əː	m n	1318
+906	58_see	see	ManLoi	Man Loi	ʥәː	ʥәː	dʑ əː		1409	22.636019	97.139264		2 7	AX	CE	8	8.C.C 8.E.V	2.0 1.5	dʑəː	0	1319	dʑ əː	i n	1319
+907	58_see	see	MengDan	Meng Dan	ʥɨː	ʥɨː	dʑ ɨː	khan1274	1409	24.296522	98.379886		2 7	AX	CI	9	9.C.C 9.I.V	2.0 1.5	dʑɨː	0	1319	dʑ ɨː	i n	1319
+908	58_see	see	ChuDongGua	Chu Dong Gua	jɨː	jɨː	j ɨː		1409	24.330889	98.393125		6 7	AX	JI	3	3.J.C 3.I.V	2.0 1.5	jɨː	0	1318	j ɨː	m n	1318
+911	58_see	see	NyaungGone	Nyaung Gone	jə	jə	j ə		1409	20.635025	96.545772		6 7	AX	JE	13	13.J.C 13.E.V	2.0 1.5	jə	0	1318	j ə	m n	1318
+912	58_see	see	NoeLae	Noe Lae	jə	jə	j ə		1409	19.941803	99.044742		6 7	AX	JE	12	12.J.C 12.E.V	2.0 1.5	jə	0	1318	j ə	m n	1318
+913	58_see	see	BanPaw	Ban Paw	jə	jə	j ə		1409	21.311225	99.557550		6 7	AX	JE	1	1.J.C 1.E.V	2.0 1.5	jə	0	1318	j ə	m n	1318
+741	47_skin	skin	ChaYeQing	Cha Ye Qing	huː	huː	h uː		763	24.305717	98.463661		3 7	AX	HY	2	2.H.C 2.Y.V	2.0 1.5	huː	0	1369	h uː	i n	1369
+742	47_skin	skin	GuangKa	Guang Ka	huː	huː	h uː	ruma1248	763	24.065714	97.796281		3 7	AX	HY	4	4.H.C 4.Y.V	2.0 1.5	huː	0	1369	h uː	i n	1369
+743	47_skin	skin	MangBang	Mang Bang	huː	huː	h uː	ruma1248	763	24.416392	98.399078		3 7	AX	HY	7	7.H.C 7.Y.V	2.0 1.5	huː	0	1369	h uː	i n	1369
+744	47_skin	skin	NanSang	Nan Sang	huː	huː	h uː	ruma1248	763	24.019728	97.819736		3 7	AX	HY	11	11.H.C 11.Y.V	2.0 1.5	huː	0	1369	h uː	i n	1369
+161	11_stone	stone	NamHsan	Namhsan	moː	moː	m oː		1762	22.965064	97.163239		4 7	AX	MU	10	10.M.C 10.U.V	2.0 1.5	moː	0	1507	m oː	i n	1507
+1414	90_this	this	PangKham	Pangkham	niː	niː	n iː		1214	22.672097	97.161167		4 7	AX	NI	14	14.N.C 14.I.V	2.0 1.5	niː	0	1558	n iː	i n	1558
+1420	90_this	this	NyaungGone	Nyaung Gone	ni	ni	n i		1214	20.635025	96.545772		4 7	AX	NI	13	13.N.C 13.I.V	2.0 1.5	ni	0	1558	n i	i n	1558
+1421	90_this	this	NoeLae	Noe Lae	ni	ni	n i		1214	19.941803	99.044742		4 7	AX	NI	12	12.N.C 12.I.V	2.0 1.5	ni	0	1558	n i	i n	1558
+1424	90_this	this	GuangKa	Guang Ka	niː	niː	n iː	ruma1248	1214	24.065714	97.796281		4 7	AX	NI	4	4.N.C 4.I.V	2.0 1.5	niː	0	1558	n iː	i n	1558
+198	13_tree	tree	MengDan	Meng Dan	hi	hi	h i	khan1274	906	24.296522	98.379886		3 7	AX	HI	9	9.H.C 9.I.V	2.0 1.5	hi	0	1626	h i	i n	1626
+199	13_tree	tree	ChuDongGua	Chu Dong Gua	hi	hi	h i		906	24.330889	98.393125		3 7	AX	HI	3	3.H.C 3.I.V	2.0 1.5	hi	0	1626	h i	i n	1626
+202	13_tree	tree	NyaungGone	Nyaung Gone	he	he	h e		906	20.635025	96.545772		3 7	AX	HE	13	13.H.C 13.E.V	2.0 1.5	he	0	1626	h e	i n	1626
+203	13_tree	tree	NoeLae	Noe Lae	he	he	h e		906	19.941803	99.044742		3 7	AX	HE	12	12.H.C 12.E.V	2.0 1.5	he	0	1626	h e	i n	1626
+204	13_tree	tree	BanPaw	Ban Paw	he	he	h e		906	21.311225	99.557550		3 7	AX	HE	1	1.H.C 1.E.V	2.0 1.5	he	0	1626	h e	i n	1626
+1256	80_two	two	HtanHsan	Htan Hsan	Ɂa:	Ɂa:	ʔ aː		1498	22.675133	97.289942		1 7	AX	HA	5	5.H.C 5.A.V	2.0 1.5	ʔaː	0	1647	ʔ aː	i n	1647
+1257	80_two	two	PangKham	Pangkham	Ɂaː	Ɂaː	ʔ aː		1498	22.672097	97.161167		1 7	AX	HA	14	14.H.C 14.A.V	2.0 1.5	ʔaː	0	1647	ʔ aː	i n	1647
+1258	80_two	two	ManLoi	Man Loi	Ɂɛː	Ɂɛː	ʔ ɛː		1498	22.636019	97.139264		1 7	AX	HE	8	8.H.C 8.E.V	2.0 1.5	ʔɛː	0	1647	ʔ ɛː	i n	1647
+1259	80_two	two	MengDan	Meng Dan	ʔɛː	ʔɛː	ʔ ɛː	khan1274	1498	24.296522	98.379886		1 7	AX	HE	9	9.H.C 9.E.V	2.0 1.5	ʔɛː	0	1647	ʔ ɛː	i n	1647
+1260	80_two	two	ChuDongGua	Chu Dong Gua	Ɂaː	Ɂaː	ʔ aː		1498	24.330889	98.393125		1 7	AX	HA	3	3.H.C 3.A.V	2.0 1.5	ʔaː	0	1647	ʔ aː	i n	1647
+1261	80_two	two	XiangZhaiTang	Xiang Zhai Tang	Ɂaː	Ɂaː	ʔ aː	ruma1248	1498	24.323819	98.556639		1 7	AX	HA	16	16.H.C 16.A.V	2.0 1.5	ʔaː	0	1647	ʔ aː	i n	1647
+1262	80_two	two	PongNuea	Pong Nuea	Ɂaː	Ɂaː	ʔ aː		1498	20.321525	99.866817		1 7	AX	HA	15	15.H.C 15.A.V	2.0 1.5	ʔaː	0	1647	ʔ aː	i n	1647
+1264	80_two	two	NoeLae	Noe Lae	Ɂa	Ɂa	ʔ a		1498	19.941803	99.044742		1 7	AX	HA	12	12.H.C 12.A.V	2.0 1.5	ʔa	0	1647	ʔ a	i n	1647
+1265	80_two	two	BanPaw	Ban Paw	Ɂa	Ɂa	ʔ a		1498	21.311225	99.557550		1 7	AX	HA	1	1.H.C 1.A.V	2.0 1.5	ʔa	0	1647	ʔ a	i n	1647
+1266	80_two	two	ChaYeQing	Cha Ye Qing	ʔeː	ʔeː	ʔ eː		1498	24.305717	98.463661		1 7	AX	HE	2	2.H.C 2.E.V	2.0 1.5	ʔeː	0	1647	ʔ eː	i n	1647
+1267	80_two	two	GuangKa	Guang Ka	ʔɛː	ʔɛː	ʔ ɛː	ruma1248	1498	24.065714	97.796281		1 7	AX	HE	4	4.H.C 4.E.V	2.0 1.5	ʔɛː	0	1647	ʔ ɛː	i n	1647
+1268	80_two	two	MangBang	Mang Bang	ʔɛː	ʔɛː	ʔ ɛː	ruma1248	1498	24.416392	98.399078		1 7	AX	HE	7	7.H.C 7.E.V	2.0 1.5	ʔɛː	0	1647	ʔ ɛː	i n	1647
+1269	80_two	two	NanSang	Nan Sang	Ɂaː	Ɂaː	ʔ aː	ruma1248	1498	24.019728	97.819736		1 7	AX	HA	11	11.H.C 11.A.V	2.0 1.5	ʔaː	0	1647	ʔ aː	i n	1647
+1553	98_what	what?	MangBang	Mang Bang	si	si	s i	ruma1248	1236	24.416392	98.399078		3 7	AX	SI	7	7.S.C 7.I.V	2.0 1.5	si	0	1683	s i	i n	1683
+1528	97_who	who?	MengDan	Meng Dan	ʔi siː	ʔi siː	ʔ i + s iː	khan1274	1235	24.296522	98.379886		1 7 9 3 7	AX_AX	HI_SI	9	9.H.C 9.I.V 9._._ 9.S.C 9.I.V	2.0 1.5 0.0 2.0 1.5	ʔi+siː	0	1721 1717	ʔ i + s iː	i n + i n	1721 1717
+1536	97_who	who?	GuangKa	Guang Ka	siː	siː	s iː	ruma1248	1235	24.065714	97.796281		3 7	AX	SI	4	4.S.C 4.I.V	2.0 1.5	siː	0	1717	s iː	i n	1717
+85	6_wind	wind	ManLoi	Man Loi	khuː	khuː	kʰ uː		960	22.636019	97.139264		1 7	AX	KY	8	8.K.C 8.Y.V	2.0 1.5	kʰuː	0	1738	kʰ uː	i n	1738
+93	6_wind	wind	ChaYeQing	Cha Ye Qing	khuː	khuː	kʰ uː		960	24.305717	98.463661		1 7	AX	KY	2	2.K.C 2.Y.V	2.0 1.5	kʰuː	0	1738	kʰ uː	i n	1738
+94	6_wind	wind	GuangKa	Guang Ka	khuː	khuː	kʰ uː	ruma1248	960	24.065714	97.796281		1 7	AX	KY	4	4.K.C 4.Y.V	2.0 1.5	kʰuː	0	1738	kʰ uː	i n	1738
+95	6_wind	wind	MangBang	Mang Bang	khuː	khuː	kʰ uː	ruma1248	960	24.416392	98.399078		1 7	AX	KY	7	7.K.C 7.Y.V	2.0 1.5	kʰuː	0	1738	kʰ uː	i n	1738
+96	6_wind	wind	NanSang	Nan Sang	khuː	khuː	kʰ uː	ruma1248	960	24.019728	97.819736		1 7	AX	KY	11	11.K.C 11.Y.V	2.0 1.5	kʰuː	0	1738	kʰ uː	i n	1738
+1570	100_yousg	you (sg.)	NamHsan	Namhsan	miː	miː	m iː		1213	22.965064	97.163239		4 7	AX	MI	10	10.M.C 10.I.V	2.0 1.5	miː	0	1772	m iː	i n	1772
+1571	100_yousg	you (sg.)	KhunHawt	Khun Hawt	miː	miː	m iː		1213	22.965064	97.163239		4 7	AX	MI	6	6.M.C 6.I.V	2.0 1.5	miː	0	1772	m iː	i n	1772
+1572	100_yousg	you (sg.)	HtanHsan	Htan Hsan	miː	miː	m iː		1213	22.675133	97.289942		4 7	AX	MI	5	5.M.C 5.I.V	2.0 1.5	miː	0	1772	m iː	i n	1772
+1577	100_yousg	you (sg.)	XiangZhaiTang	Xiang Zhai Tang	mɛː	mɛː	m ɛː	ruma1248	1213	24.323819	98.556639		4 7	AX	ME	16	16.M.C 16.E.V	2.0 1.5	mɛː	0	1772	m ɛː	i n	1772
+1578	100_yousg	you (sg.)	PongNuea	Pong Nuea	mɛː	mɛː	m ɛː		1213	20.321525	99.866817		4 7	AX	ME	15	15.M.C 15.E.V	2.0 1.5	mɛː	0	1772	m ɛː	i n	1772
+1579	100_yousg	you (sg.)	NyaungGone	Nyaung Gone	mɛ	mɛ	m ɛ		1213	20.635025	96.545772		4 7	AX	ME	13	13.M.C 13.E.V	2.0 1.5	mɛ	0	1772	m ɛ	i n	1772
+1580	100_yousg	you (sg.)	NoeLae	Noe Lae	mɛ	mɛ	m ɛ		1213	19.941803	99.044742		4 7	AX	ME	12	12.M.C 12.E.V	2.0 1.5	mɛ	0	1772	m ɛ	i n	1772
+1581	100_yousg	you (sg.)	BanPaw	Ban Paw	mɛ	mɛ	m ɛ		1213	21.311225	99.557550		4 7	AX	ME	1	1.M.C 1.E.V	2.0 1.5	mɛ	0	1772	m ɛ	i n	1772

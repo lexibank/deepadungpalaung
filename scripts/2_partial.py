@@ -3,9 +3,9 @@ from lingpy.compare.partial import Partial
 from sys import argv
 
 if 'all' in argv:
-    fname='A_Deepadung_'
+    fname='../output/A_Deepadung_'
 else:
-    fname='D_Deepadung_'
+    fname='../output/D_Deepadung_'
 
 try:
     part = Partial(fname+'partial.bin.tsv')

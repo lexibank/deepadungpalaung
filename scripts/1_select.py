@@ -64,11 +64,11 @@ if not 'all' in argv:
             if tally<=10:
                 print(idx)
                 print(wl[idx])
-    Wordlist(D).output('tsv', filename='D_Deepadung_subset', prettify=False)
+    Wordlist(D).output('tsv', filename='../output/D_Deepadung_subset', prettify=False)
     # revise columns commend
-    wl = Wordlist('D_Deepadung_subset.tsv')
+    wl = Wordlist('../output/D_Deepadung_subset.tsv')
 else:
-    wl.output('tsv', filename='A_Deepadung_subset', prettify=False)
+    wl.output('tsv', filename='../output/A_Deepadung_subset', prettify=False)
 
 print('Wordlist has {0} concepts and {1} varieties across {2} words.'.format(
       wl.height, wl.width, len(wl)))
