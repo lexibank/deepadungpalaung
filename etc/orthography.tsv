@@ -9,8 +9,10 @@ ou	ou
 oj	oi
 ɛa	ɛa
 əa	əa
+ai$	a j
 ai	ai
 ej	ei
+ei	ei
 a	a	sanam, saŋaj	NyaungGone, PangKham, NoeLae, ChaYeQing, ManLoi, PongNuea, ChuDongGua, GuangKa, MangBang, NanSang, BanPaw, NamHsan, MengDan, XiangZhaiTang, HtanHsan, KhunHawt	100	U+0061
 ^k	k	kaː, kaɁaːŋ	MengDan, NamHsan, NanSang, KhunHawt, GuangKa, ChuDongGua, MangBang, HtanHsan, ChaYeQing, ManLoi, NyaungGone, PongNuea, PangKham, XiangZhaiTang, NoeLae, BanPaw	100	U+005e U+006b
 ŋ$	ŋ	nɨŋ, kaɁaːŋ	NamHsan, ManLoi, ChuDongGua, KhunHawt, HtanHsan, MengDan, PangKham, NanSang, GuangKa, PongNuea, NoeLae, BanPaw, XiangZhaiTang, ChaYeQing, MangBang	100	U+014b U+0024
@@ -107,7 +109,6 @@ f	f	kafaːŋ, kəfɛːŋ	HtanHsan, NamHsan, ChaYeQing, ManLoi, GuangKa, PangKham
 ɯ$	ɯ	jəɯ, pәrʨәɯ	PongNuea, PangKham, XiangZhaiTang, HtanHsan, NamHsan, ManLoi, MengDan, ChuDongGua	11	U+026f U+0024
 oː$	oː	ʥoː, ʔoː	MengDan, ChuDongGua, HtanHsan, NamHsan, ChaYeQing, GuangKa, PangKham, NanSang, KhunHawt	11	U+006f U+02d0 U+0024
 əː	əː	bəːn, hək phəːm	MangBang, NanSang, XiangZhaiTang, ChaYeQing, GuangKa, PongNuea, ChuDongGua, MengDan	11	U+0259 U+02d0
-jh$	 j̊ 	ʔujh, dua?ɔjh	ChuDongGua, MengDan, ChaYeQing, XiangZhaiTang	10	U+006a U+0068 U+0024
 p	p	lɛ prɛ, ba prɛ	KhunHawt, NyaungGone, ChaYeQing, ManLoi, PangKham, MengDan, NoeLae, BanPaw	9	U+0070
 v	v	sɔnvat, ɲɔŋ vac	PongNuea, NanSang, NyaungGone, NamHsan, MangBang, NoeLae, BanPaw	9	U+0076
 ɔ$	ɔ	brɔ ŋɔ, ŋɔ	NoeLae, NyaungGone, BanPaw	8	U+0254 U+0024
