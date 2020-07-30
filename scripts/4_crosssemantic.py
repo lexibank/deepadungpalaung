@@ -23,11 +23,7 @@ find_colexified_alignments(
 
 # re-align the data
 print('[i] re-align the data')
-template_alignment(alms,
-                   ref='crossids',
-                   template='imnct+imnct+imnct+imnct+imnct+imnct',
-                   #structure = 'structure',
-                   fuzzy=True,
-                   segments='tokens')
+alms = Alignments(alms, ref='crossids')
+alms.align()
 
 alms.output('tsv', filename=fname+'crossids', prettify=False)

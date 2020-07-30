@@ -26,7 +26,7 @@ part = Partial.from_cldf(Dataset().cldf_dir.joinpath('cldf-metadata.json'),
         columns=columns, namespace=namespace)
 
 input('loaded data')
-part.get_partial_scorer(runs=100) # make tests with 100 and 1000, when debugging)
+part.get_partial_scorer(runs=1000) # make tests with 100 and 1000, when debugging)
 part.partial_cluster(method='lexstat', threshold=0.5, ref='cogids', cluster_method='infomap')
 alms = Alignments(part, ref='cogids')
 alms.align()
