@@ -2,18 +2,17 @@ Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
 ^	NULL				
 $	NULL
 oj$	o j
-ej$	e j		
+ej$	e j
 au$	a u		
 au	au
 ou	ou
-oj	oj
+oj	oi
 ɛa	ɛa
 əa	əa
 ai	ai
-ej	ej
+ej	ei
 ŋʔ	ŋˀ
 ŋ h	ŋʰ
-ri	rʲ
 a	a	sanam, saŋaj	NyaungGone, PangKham, NoeLae, ChaYeQing, ManLoi, PongNuea, ChuDongGua, GuangKa, MangBang, NanSang, BanPaw, NamHsan, MengDan, XiangZhaiTang, HtanHsan, KhunHawt	100	U+0061
 ^k	k	kaː, kaɁaːŋ	MengDan, NamHsan, NanSang, KhunHawt, GuangKa, ChuDongGua, MangBang, HtanHsan, ChaYeQing, ManLoi, NyaungGone, PongNuea, PangKham, XiangZhaiTang, NoeLae, BanPaw	100	U+005e U+006b
 ŋ$	ŋ	nɨŋ, kaɁaːŋ	NamHsan, ManLoi, ChuDongGua, KhunHawt, HtanHsan, MengDan, PangKham, NanSang, GuangKa, PongNuea, NoeLae, BanPaw, XiangZhaiTang, ChaYeQing, MangBang	100	U+014b U+0024
