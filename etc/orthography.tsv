@@ -1,6 +1,184 @@
 Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
 ^	NULL				
-$	NULL				
+$	NULL
+oj$	o j
+ej$	e j
+au$	a u
+au	au
+ou	ou
+oj	oi
+ɛa	ɛa
+əa	əa
+ai$	a j
+ai	ai
+ej	ei
+ei	ei
+aŋiː	a + ŋ iː	1_sun
+aŋa	a + ŋ a
+əŋɔ	ə + ŋ ɔ
+aŋɛː	a + ŋ ɛː
+aŋɛ	a + ŋ ɛ
+ŋk	ŋ + k	2_moon
+ŋɡ	ŋ + g
+əɡ	ə + g
+aɡ	a + g
+nl	n + l
+akj	a + k j
+amɛ	a + m ɛ	3_star
+әme	ə + m e
+ame	a + m e
+əma	ə + m a
+ama	a + m a
+amă	a + m ă
+aɁuː	a + ʔ uː	4_cloud
+aɁu	a + ʔ u
+ɨʔuː	ɨ + ʔ uː
+^ŋɁ	ŋ + ʔ
+ŋɁ	ŋ + ʔ
+m̥	+ m̥	7_night
+w m̥	w + m̥
+ŋm̥	ŋ + m̥
+as	a + s
+anә	a + n ə	8_year
+әnә	ə + n ə
+ana	a + n a
+әna	ə + n a
+anɔ	a + n ɔ
+ană	a + n ă
+əna	ə + n a
+anə	a + n ə
+anə̆	a + n ə̆
+әɗ	ə + ɗ	10_earthsoil
+nd	n + d
+aɗ	a + ɗ
+əd	ə + d
+ad	a + d
+ata	a + t a
+ataː	a + t aː
+ŋh	ŋ + h	13_tree
+hh	h + h	14_root
+rb	r + b	18_grass
+Ɂs	ʔ + s	19_salty
+aɁo	a + ʔ o	20_dog
+aʔu	a + ʔ u
+aʔo	a + ʔ o
+əɗ	ə + ɗ	23_tail
+aha	a + h a	28_snake
+ahă	a + h ă
+əb	ə + b	29_louse
+Ɂk	ʔ + k	31_hair
+kk	k + k
+ŋm	ŋ + m	33_nose
+amu	a + m u
+umu	u + m u
+ajʨh	a j + ʨʰ	34_ear
+ala	a + l a
+ɛːj̊	ɛː + j̊
+aj̊	a + j̊
+aʨh	a + ʨʰ
+rɗ	r + ɗ	36_tongue
+ɨd	ɨ + d
+ətaː	ə + t aː
+ejnɔ	ei + n ɔ	39_heart
+erɔː	e + r ɔː
+ara	a + r a
+ahujə	a + h u + j ə
+ɔːjnɔ	ɔː j + n ɔ
+ənɔ	ə + n ɔ
+atɔː	a + t ɔː	40_liver, start Jun
+əɣa	ə + ɣ a	41_intestines
+ɔnv	ɔ + n v 
+әni	ə + n i	43_nail
+mɗ	m + ɗ
+әnh	ə + n h
+ahi	a + h i
+ŋhiː	ŋ + h iː
+^ŋh	ŋ + h
+aʔɛː	a + ʔ ɛː	45_bone
+aʔa	a + ʔ a
+aʔaː	a + ʔ aː
+uvɨ	u + v ɨ	49_personhuman
+uɁi	u + ʔ i
+uɁɨ	u + ʔ ɨ
+uʔu	u + ʔ u
+aɁiː	a + ʔ iː
+uʔiː	u + ʔ iː
+ɔnɲɔ	ɔ n + ɲ ɔ	50_child
+^nt	n + t	52_roadpath
+^nd	n + d
+aʥ	a + dʑ	53_sew
+afaː	a + f aː	55_ashes
+ɔŋɔː	ɔ + ŋ ɔː
+əfɛː	ə + f ɛː
+kŋ	k + ŋ	56_smoke
+ʔŋ	ʔ + ŋ
+nhɔ	n + h ɔ	62_breathe
+nɁɔ	n + ʔ ɔ
+hph	h + pʰ
+nɲ	n + ɲ	63_laugh
+əɲa	ə + ɲ a
+aɲa	a + ɲ a
+aŋi	a + ŋ i
+^kaŋi	k a + ŋ i
+acu	a + c u	65_fear
+abaː	a + b aː	67_scratch
+aku	a + k u	73_rub
+udi	u + d i
+^thuth	tʰ u + tʰ
+abɔ	a + b ɔ
+ʔɗa	ʔ + ɗ a
+əɓɔː	ə + ɓ ɔː
+abɔː	a + b ɔː
+ab	a + b
+aɓɔ	a + ɓ ɔ
+akə̆	a + k ə̆	74_cut
+hɓɨ	h + ɓ ɨ
+ŋb	ŋ + b
+әhɓɨ	ə h + ɓ ɨ	75_dig
+pp	p + p	77_hunt
+^mph	m + pʰ	82_four
+rʨә	r + tɕ ə	83_many
+ŋr̥	ŋ + r̥	84_long
+nn	n + n	86_rightside
+aʔɔ	a + ʔ ɔ
+ŋʔa	ŋ + ʔ a
+a?ɔ	a + ʔ ɔ
+aɁa	a + ʔ a
+aʔe	a + ʔ e
+aɁɛ	a + ʔ ɛ
+aɁə	a + ʔ ə
+aʔă	a + ʔ a
+nka	n + k a	87_leftside
+aka	a + k a
+akɛ	a + k ɛ
+aŋaː	a + ŋ aː	88_far
+nda	n + d a	89_near
+ad̤	a + d̤
+^mt	m + t
+əʨɔ	ə + tɕ ɔ
+aʨa	a + tɕ a
+ani	a + n i	90_this
+aniː	a + n iː
+aɁɨː	a + ʔ ɨː
+uʔɯː	u + ʔ ɯː
+ivɔ	i + v ɔ	91_black
+ilu	i + l u	92_white
+nmɛː	n + m ɛː	93_new
+amaː	a + m aː
+rme	r + m e
+nme	n + m e 
+nʨh	n + ʨʰ	94_oldaged
+aɁaː	a + ʔ aː
+әɁaː	ə + ʔ aː 
+imɔ	i + m ɔ	97_who
+iɁa	i + ʔ a
+imi	i + m i
+nmә	n + m ə	98_what
+imu	i + m u
+nmu	n + m u 
+əmu	ə + m u
+əmo	ə + m o
+inə	i + n ə
 a	a	sanam, saŋaj	NyaungGone, PangKham, NoeLae, ChaYeQing, ManLoi, PongNuea, ChuDongGua, GuangKa, MangBang, NanSang, BanPaw, NamHsan, MengDan, XiangZhaiTang, HtanHsan, KhunHawt	100	U+0061
 ^k	k	kaː, kaɁaːŋ	MengDan, NamHsan, NanSang, KhunHawt, GuangKa, ChuDongGua, MangBang, HtanHsan, ChaYeQing, ManLoi, NyaungGone, PongNuea, PangKham, XiangZhaiTang, NoeLae, BanPaw	100	U+005e U+006b
 ŋ$	ŋ	nɨŋ, kaɁaːŋ	NamHsan, ManLoi, ChuDongGua, KhunHawt, HtanHsan, MengDan, PangKham, NanSang, GuangKa, PongNuea, NoeLae, BanPaw, XiangZhaiTang, ChaYeQing, MangBang	100	U+014b U+0024
@@ -84,7 +262,6 @@ c$	c	vac, tuc	PongNuea, NoeLae, XiangZhaiTang, HtanHsan, NyaungGone, KhunHawt	19
 ^n̥	n̥	n̥aːm, n̥am	HtanHsan, NyaungGone, NamHsan, ChaYeQing, ManLoi, PongNuea, GuangKa, PangKham, MengDan, ChuDongGua, NoeLae, MangBang, NanSang, KhunHawt, BanPaw, XiangZhaiTang	16	U+005e U+006e U+0325
 ɛ$	ɛ	masɛ, saŋɛ	NoeLae, BanPaw, NyaungGone	15	U+025b U+0024
 әː	əː	bleː phәːm, l̥әːŋ	HtanHsan, NamHsan, KhunHawt, ManLoi, PangKham	15	U+04d9 U+02d0
-m̥	m̥	khɛm̥ə, ʨhim̥əː	NanSang, HtanHsan, NyaungGone, NamHsan, ChaYeQing, ManLoi, PongNuea, PangKham, MengDan, ChuDongGua, NoeLae, KhunHawt, BanPaw, XiangZhaiTang	15	U+006d U+0325
 i$	i	ni, hi	ChuDongGua, ChaYeQing, MengDan, NoeLae, NanSang, HtanHsan, NyaungGone, MangBang	15	U+0069 U+0024
 ə̆	ə̆	pə̆t, ɡə̆h	NoeLae, BanPaw, NyaungGone	14	U+0259 U+0306
 b	b	kәrbaːn, luaŋbrej	ChaYeQing, HtanHsan, NyaungGone, NamHsan, PongNuea, PangKham, MengDan, ChuDongGua, NoeLae, NanSang, KhunHawt, BanPaw, XiangZhaiTang	14	U+0062
@@ -97,7 +274,6 @@ f	f	kafaːŋ, kəfɛːŋ	HtanHsan, NamHsan, ChaYeQing, ManLoi, GuangKa, PangKham
 ɯ$	ɯ	jəɯ, pәrʨәɯ	PongNuea, PangKham, XiangZhaiTang, HtanHsan, NamHsan, ManLoi, MengDan, ChuDongGua	11	U+026f U+0024
 oː$	oː	ʥoː, ʔoː	MengDan, ChuDongGua, HtanHsan, NamHsan, ChaYeQing, GuangKa, PangKham, NanSang, KhunHawt	11	U+006f U+02d0 U+0024
 əː	əː	bəːn, hək phəːm	MangBang, NanSang, XiangZhaiTang, ChaYeQing, GuangKa, PongNuea, ChuDongGua, MengDan	11	U+0259 U+02d0
-jh$	 j̊ 	ʔujh, dua?ɔjh	ChuDongGua, MengDan, ChaYeQing, XiangZhaiTang	10	U+006a U+0068 U+0024
 p	p	lɛ prɛ, ba prɛ	KhunHawt, NyaungGone, ChaYeQing, ManLoi, PangKham, MengDan, NoeLae, BanPaw	9	U+0070
 v	v	sɔnvat, ɲɔŋ vac	PongNuea, NanSang, NyaungGone, NamHsan, MangBang, NoeLae, BanPaw	9	U+0076
 ɔ$	ɔ	brɔ ŋɔ, ŋɔ	NoeLae, NyaungGone, BanPaw	8	U+0254 U+0024
@@ -115,8 +291,6 @@ o$	o	maso, Ɂo	BanPaw, NoeLae, NyaungGone	7	U+006f U+0024
 әː$	əː	ʥәː, rәnm̥әː	KhunHawt, HtanHsan, ManLoi	4	U+04d9 U+02d0 U+0024
 r̥$	r̥	mur̥, kɔŋmur̥	KhunHawt, HtanHsan	4	U+0072 U+0325 U+0024
 l$	l	ŋal, ɗәkŋal	MengDan, HtanHsan	4	U+006c U+0024
-ŋh	ŋh	taŋhɔːj, daŋhej	GuangKa, MangBang, XiangZhaiTang, NanSang	4	U+014b U+0068
-hh	hː	rəhhɔj, ɣəhhɔj	ChuDongGua, ChaYeQing, XiangZhaiTang, NanSang	4	U+0068 U+0068
 j̊	j̊	Ɂaj̊ouʔ, lɛːj̊ok	PongNuea, BanPaw, NoeLae, ManLoi	4	U+006a U+030a
 ɨ$	ɨ	cɨ, ha?ɨ	NoeLae, BanPaw, NyaungGone, ChuDongGua	4	U+0268 U+0024
 ^ɲ̥	ɲ̊	ɲ̥ɔɁ, ɲ̥ɔʔ	PongNuea, BanPaw, NoeLae, NyaungGone	4	U+005e U+0272 U+0325
@@ -131,17 +305,13 @@ u$	u	ŋ Ɂu, Ɂau	GuangKa, NoeLae	2	U+0075 U+0024
 ^ɣ	ɣ	ɣəhhɔj, ɣəh	ChaYeQing, MangBang	2	U+005e U+0263
 a:$	aː	Ɂa:, l̥a:	NamHsan, HtanHsan	2	U+0061 U+003a U+0024
 kh	kʰ	klaw khaj, lɛ khɛ prɛ	NyaungGone, ManLoi	2	U+006b U+0068
-kk	kk	hɨkkən	MangBang, NanSang	2	U+006b U+006b
 i:$	iː	ɓi:, ɗi:	KhunHawt	2	U+0069 U+003a U+0024
-nh	nh	kanhɔh phә:m, rәnhim	KhunHawt, HtanHsan	2	U+006e U+0068
-^ŋh	ŋh	ŋhiːm	PongNuea, XiangZhaiTang	2	U+005e U+014b U+0068
+nh	n h	kanhɔh phә:m, rәnhim	KhunHawt, HtanHsan	2	U+006e U+0068
 ^d̤	dʱ	d̤eːŋ, d̤oŋ	PangKham, HtanHsan	2	U+005e U+0064 U+0324
 c	c	kacua	NoeLae, NyaungGone	2	U+0063
-nn	nː	khɔnnap	KhunHawt, HtanHsan	2	U+006e U+006e
 ?	ʔ	dua?ɔjh, ha?ɨ	ChuDongGua	2	U+003f
 әh$	ə h	ʔase mimәh, sәnmәh	NamHsan, HtanHsan	2	U+04d9 U+0068 U+0024
 ^ʐ	ʐ	ʐəh hɔːj	GuangKa	1	U+005e U+0290
-Ɂs	ʔs	sɛɁsɔŋ	XiangZhaiTang	1	U+0241 U+0073
 ɨː	ɨː	pɨːh	GuangKa	1	U+0268 U+02d0
 ^ʂ	ʂ	ʂaːŋ	ChuDongGua	1	U+005e U+0282
 ^ᶊ	sʲ	ᶊaːŋ	GuangKa	1	U+005e U+1d8a
@@ -152,7 +322,6 @@ e:	eː	rade:ŋ	KhunHawt	1	U+0065 U+003a
 ʥ	dʑ	kaʥən	GuangKa	1	U+02a5
 ^g	g	graːɁ	NamHsan	1	U+005e U+0067
 әh	ə h	kәhɓɨŋ	NamHsan	1	U+04d9 U+0068
-pp	pp	lɨpprɛː	XiangZhaiTang	1	U+0070 U+0070
 u:$	uː	Ɂu:	HtanHsan	1	U+0075 U+003a U+0024
 r̥	r̥	r̥әŋr̥әŋ	NamHsan	1	U+0072 U+0325
 ^?	ʔ	?aka?	ChuDongGua	1	U+005e U+003f
