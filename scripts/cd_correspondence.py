@@ -12,11 +12,7 @@ cop = CoPaR(
         fuzzy=True,
         segments='tokens'
         )
-<<<<<<< HEAD
-cop.get_sites(minrefs=3, structure=False)
-=======
 cop.get_sites(minrefs=3)  #part where change was made.,structure='structure' deleted
->>>>>>> a82093682bb7541a6438b44db8db847b00f4858e
 cop.cluster_sites()
 cop.sites_to_pattern()
 cop.add_patterns()
