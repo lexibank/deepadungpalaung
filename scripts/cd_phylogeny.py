@@ -5,6 +5,10 @@ from clldutils.text import strip_brackets, split_text
 from collections import defaultdict
 from lingpy import basictypes
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> a82093682bb7541a6438b44db8db847b00f4858e
 fname='../output/cd_'
 
 part = Partial(fname+'crossids.tsv')

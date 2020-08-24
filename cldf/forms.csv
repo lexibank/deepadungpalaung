@@ -15,7 +15,11 @@ ChaYeQing-1_sun-1,,ChaYeQing,1_sun,khaŋaj,khaŋaj,kʰ a + ŋ a j,,Deepadung2015
 GuangKa-1_sun-1,,GuangKa,1_sun,saŋaj,saŋaj,s a + ŋ a j,,Deepadung2015,,,^s aŋa j$,default
 MangBang-1_sun-1,,MangBang,1_sun,saŋaj,saŋaj,s a + ŋ a j,,Deepadung2015,,,^s aŋa j$,default
 NanSang-1_sun-1,,NanSang,1_sun,saŋaj,saŋaj,s a + ŋ a j,,Deepadung2015,,,^s aŋa j$,default
+<<<<<<< HEAD
 NamHsan-2_moon-1,,NamHsan,2_moon,blaŋkiәːr,blaŋkiәːr,b l a ŋ + k iəː r,,Deepadung2015,,,^b l a ŋk iәː r$,default
+=======
+NamHsan-2_moon-1,,NamHsan,2_moon,blaŋkiәːr,blaŋkiәːr,b l a ŋ + k i əː r,,Deepadung2015,,,^b l a ŋk i әː r$,default
+>>>>>>> a82093682bb7541a6438b44db8db847b00f4858e
 KhunHawt-2_moon-1,,KhunHawt,2_moon,paŋkia,paŋkia,p a ŋ + k ia,,Deepadung2015,,,^p a ŋk ia $,default
 HtanHsan-2_moon-1,,HtanHsan,2_moon,baŋkia,baŋkia,b a ŋ + k ia,,Deepadung2015,,,^b a ŋk ia $,default
 PangKham-2_moon-1,,PangKham,2_moon,blaŋɡian,blaŋɡian,b l a ŋ + g ia n,,Deepadung2015,,,^b l a ŋɡ ia n$,default
@@ -665,7 +669,11 @@ MangBang-42_hand-1,,MangBang,42_hand,taj,taj,t a j,,Deepadung2015,,,^t aj$,defau
 NanSang-42_hand-1,,NanSang,42_hand,taiɁ,taiɁ,t ai ʔ,,Deepadung2015,,,^t ai Ɂ$,default
 NamHsan-43_nail-1,,NamHsan,43_nail,rәnim,rәnim,r ə + n i m,,Deepadung2015,,,^r әni m$,default
 KhunHawt-43_nail-1,,KhunHawt,43_nail,rәnimɗiː,rәnimɗiː,r ə + n i m + ɗ iː,,Deepadung2015,,,^r әni mɗ iː$,default
+<<<<<<< HEAD
 HtanHsan-43_nail-1,,HtanHsan,43_nail,rәnhim,rәnhim,r ə n + h i m,,Deepadung2015,,,^r әnh i m$,default
+=======
+HtanHsan-43_nail-1,,HtanHsan,43_nail,rәnhim,rәnhim,r ə + n h i m,,Deepadung2015,,,^r әnh i m$,default
+>>>>>>> a82093682bb7541a6438b44db8db847b00f4858e
 PangKham-43_nail-1,,PangKham,43_nail,ʔahim,ʔahim,ʔ a + h i m,,Deepadung2015,,,^ʔ ahi m$,default
 ManLoi-43_nail-1,,ManLoi,43_nail,ʔahim,ʔahim,ʔ a + h i m,,Deepadung2015,,,^ʔ ahi m$,default
 MengDan-43_nail-1,,MengDan,43_nail,ʔahim,ʔahim,ʔ a + h i m,,Deepadung2015,,,^ʔ ahi m$,default
@@ -989,9 +997,15 @@ MengDan-63_laugh-1,,MengDan,63_laugh,kaŋiah,kaŋiah,k a + ŋ i a h,,Deepadung20
 ChuDongGua-63_laugh-1,,ChuDongGua,63_laugh,kəɲajh,kəɲajh,k ə + ɲ a j h,,Deepadung2015,,,^k əɲa j h$,default
 XiangZhaiTang-63_laugh-1,,XiangZhaiTang,63_laugh,kaɲah,kaɲah,k a + ɲ a h,,Deepadung2015,,,^k aɲa h$,default
 PongNuea-63_laugh-1,,PongNuea,63_laugh,kaɲah,kaɲah,k a + ɲ a h,,Deepadung2015,,,^k aɲa h$,default
+<<<<<<< HEAD
 NyaungGone-63_laugh-1,,NyaungGone,63_laugh,kaɲăh,kaɲăh,k a + ɲ a h,,Deepadung2015,,,^k aɲă h$,default
 NoeLae-63_laugh-1,,NoeLae,63_laugh,kaɲăh,kaɲăh,k a + ɲ a h,,Deepadung2015,,,^k aɲă h$,default
 BanPaw-63_laugh-1,,BanPaw,63_laugh,kaɲăh,kaɲăh,k a + ɲ a h,,Deepadung2015,,,^k aɲă h$,default
+=======
+NyaungGone-63_laugh-1,,NyaungGone,63_laugh,kaɲăh,kaɲăh,k a ɲ a h,,Deepadung2015,,,^k a ɲ ăh$,default
+NoeLae-63_laugh-1,,NoeLae,63_laugh,kaɲăh,kaɲăh,k a ɲ a h,,Deepadung2015,,,^k a ɲ ăh$,default
+BanPaw-63_laugh-1,,BanPaw,63_laugh,kaɲăh,kaɲăh,k a ɲ a h,,Deepadung2015,,,^k a ɲ ăh$,default
+>>>>>>> a82093682bb7541a6438b44db8db847b00f4858e
 ChaYeQing-63_laugh-1,,ChaYeQing,63_laugh,kəɲah,kəɲah,k ə + ɲ a h,,Deepadung2015,,,^k əɲa h$,default
 GuangKa-63_laugh-1,,GuangKa,63_laugh,kəɲah,kəɲah,k ə + ɲ a h,,Deepadung2015,,,^k əɲa h$,default
 MangBang-63_laugh-1,,MangBang,63_laugh,kəɲah,kəɲah,k ə + ɲ a h,,Deepadung2015,,,^k əɲa h$,default
@@ -1217,7 +1231,11 @@ BanPaw-77_hunt-1,,BanPaw,77_hunt,ba prɛ,ba prɛ,b a + p r ɛ,,Deepadung2015,,,^
 ChaYeQing-77_hunt-1,,ChaYeQing,77_hunt,ləp bjaj,ləp bjaj,l ə p + b ia j,,Deepadung2015,,,^l ə p + b ja j$,default
 GuangKa-77_hunt-1,,GuangKa,77_hunt,pai toː,pai toː,p ai + t oː,,Deepadung2015,,,^p ai + t oː$,default
 MangBang-77_hunt-1,,MangBang,77_hunt,lɛː,lɛː,l ɛː,,Deepadung2015,,,^l ɛː$,default
+<<<<<<< HEAD
 NanSang-77_hunt-1,,NanSang,77_hunt,jɨtoː,jɨtoː,j ɨ + t oː,,Deepadung2015,,,^j ɨtoː $,default
+=======
+NanSang-77_hunt-1,,NanSang,77_hunt,jɨtoː,jɨtoː,j ɨ t oː,,Deepadung2015,,,^j ɨ t oː$,default
+>>>>>>> a82093682bb7541a6438b44db8db847b00f4858e
 NamHsan-78_kill-1,,NamHsan,78_kill,biam,biam,b ia m,,Deepadung2015,,,^b ia m$,default
 KhunHawt-78_kill-1,,KhunHawt,78_kill,piam,piam,p ia m,,Deepadung2015,,,^p ia m$,default
 HtanHsan-78_kill-1,,HtanHsan,78_kill,ɓiam,ɓiam,ɓ ia m,,Deepadung2015,,,^ɓ ia m$,default

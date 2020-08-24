@@ -5,6 +5,7 @@ ID	STRUCTURE	FREQUENCY	BanPaw	ChaYeQing	ChuDongGua	GuangKa	HtanHsan	KhunHawt	Man
 45-1	c	1	ʔ	k	k	k	ʔ	ʔ	k	k	ʔ	ʔ	k	ʔ	ʔ	ʔ	ʔ	ʔ	703:2	full
 89-1	c	1	ʔ	ʔ	ʔ	ʔ	ʔ	ʔ	ʔ	ʔ	ʔ	ʔ	ʔ	ʔ	h	ʔ	ʔ	ʔ	2036:0	two
 126-1	c	1	ʔ	ʔ	ʔ	ʔ	-	-	ʔ	ʔ	ʔ	Ø	ʔ	ʔ	ʔ	ʔ	ʔ	ʔ	1023:2	left side
+<<<<<<< HEAD
 238-1	c	1	ʔ	ʔ	t	Ø	Ø	Ø	Ø	ʔ	Ø	Ø	Ø	-	ʔ	t	ʔ	ʔ	1559:2	rub hard with both hands
 268-1	c	1	ɲ̊	Ø	Ø	ɲ	Ø	Ø	ɲ	Ø	Ø	Ø	ɲ	ɲ̊	ɲ̊	Ø	ɲ̊	Ø	1716:0	smell
 123-3	c	3	ɲ	n	ŋ	n	ŋ	ŋ	n	ŋ	ŋ	ŋ	n	ɲ	n	ŋ	ɲ	n	648:2, 1504:2, 522:0	far / foot / road, path
@@ -14,17 +15,36 @@ ID	STRUCTURE	FREQUENCY	BanPaw	ChaYeQing	ChuDongGua	GuangKa	HtanHsan	KhunHawt	Man
 264-1	c	1	ɲ	ɣ	r	Ø	Ø	Ø	Ø	Ø	r	Ø	Ø	ɲ	ɲ	Ø	ɲ	Ø	920:0	intestines
 51-2	c	2	ɨ	e	i	e	i	e	ə	i	i	i	ə	i	ɨ	i	i	i	805:1, 757:1	hair / head
 231-2	c	2	ɨ	ɨ	Ø	ɨ	aː	aː	ɨ	ia	Ø	aː	ɨ	ɨ	ɨ	ia	Ø	Ø	1130:1, 1613:2	many / scratch
+=======
+176-1	c	1	ʔ	ʔ	ʔ	ʔ	Ø	Ø	ʔ	ʔ	ʔ	Ø	ʔ	ʔ	ʔ	ʔ	v	ʔ	1427:0	person, human
+239-1	c	1	ʔ	ʔ	t	Ø	Ø	Ø	Ø	ʔ	Ø	Ø	Ø	-	ʔ	t	ʔ	ʔ	1559:2	rub hard with both hands
+267-1	c	1	ɲ̊	Ø	Ø	ɲ	Ø	Ø	ɲ	Ø	Ø	Ø	ɲ	ɲ̊	ɲ̊	Ø	ɲ̊	Ø	1716:0	smell
+123-3	c	3	ɲ	n	ŋ	n	ŋ	ŋ	n	ŋ	ŋ	ŋ	n	ɲ	n	ŋ	ɲ	n	648:2, 1504:2, 522:0	far / foot / road, path
+52-2	c	2	ɲ	n	ŋ	n	ɲ	ɲ	n	ŋ	ŋ	ŋ	n	ɲ	n	ɲ	ɲ	ɲ	805:2, 757:2	hair / head
+257-2	c	2	ɲ	ɣ	r	Ø	r	-	Ø	r	r	-	Ø	ɲ	ɲ	r	ɲ	Ø	739:1, 920:0	grass / intestines
+75-1	c	1	ɲ	n	ɲ	n	ɲ	ɲ	n	n	n	ɲ	n	ɲ	n	ɲ	ɲ	ɲ	1754:2	snake
+168-1	c	1	ɲ	ɲ	ɲ	ɲ	Ø	Ø	ɲ	ɲ	ŋ	Ø	ɲ	ɲ	ɲ	ɲ	ɲ	ɲ	973:2	laugh
+51-2	c	2	ɨ	e	i	e	i	e	ə	i	i	i	ə	i	ɨ	i	i	i	805:1, 757:1	hair / head
+251-2	c	2	ɨ	Ø	Ø	a	aː	aː	ə	ia	Ø	aː	a	a	a	ia	a	ɨ	1961:1, 1613:2	scratch / tongue
+>>>>>>> a82093682bb7541a6438b44db8db847b00f4858e
 48-1	c	1	ɨ	ɨ	u	ɨ	ou	ou	ɨ	u	u	u	ɨ	ɨ	ɨ	ɨ	ɨ	uː	756:1	hair
 54-1	c	1	ɨ	ɨ	u	ɨ	u	ə	ɨ	u	u	u	ɨ	ɨ	ɨ	ɨ	ɨ	ɨ	872:1	horn
 92-1	c	1	ɨ	ɛ	uː	ɛ	oː	oː	ə	oː	uː	oː	ə	ɨ	ɨ	oː	ɨ	ɨ	2054:1	water
 135-1	c	1	ɨ	ɨː	ɨː	Ø	ɨː	ɨː	ɨː	ɨː	ɨː	ɨː	ɨː	ɨ	ɨ	ɨː	ɨː	ɨː	1244:1	name
+<<<<<<< HEAD
 184-1	c	1	ɨ	i	Ø	iː	i	i	iː	a	Ø	Ø	i	i	i	iː	ɨ	iː	1918:1	this
 198-1	c	1	ɨ	u	iː	iː	Ø	Ø	iː	iː	iː	Ø	iː	i	i	iː	Ø	u	1427:1	person, human
 258-1	c	1	ɨ	Ø	Ø	a	Ø	Ø	ə	Ø	Ø	Ø	a	a	a	Ø	a	ɨ	1961:1	tongue
+=======
+177-1	c	1	ɨ	u	iː	iː	Ø	Ø	iː	iː	iː	Ø	iː	i	i	iː	ɨ	u	1427:1	person, human
+183-1	c	1	ɨ	i	Ø	iː	i	i	iː	a	Ø	Ø	i	i	i	iː	ɨ	iː	1918:1	this
+231-1	c	1	ɨ	ɨ	Ø	ɨ	Ø	Ø	ɨ	ia	Ø	Ø	ɨ	ɨ	ɨ	ia	Ø	Ø	1130:1	many
+>>>>>>> a82093682bb7541a6438b44db8db847b00f4858e
 132-2	c	2	ɛ	a	aː	a	e	iː	a	a	ɛː	iː	ai	ɛ	ɛ	a	ɛː	ɛː	1107:1, 461:2	egg / louse
 64-1	c	1	ɛ	a	a	a	iː	iː	a	a	a	iː	ai	ɛ	ɛ	a	ɛː	ɛː	1560:1	hand / rub hard with both hands
 80-1	c	1	ɛ	a	ɔ	a	iː	iː	a	a	ə	iː	a	ɛ	ɛ	a	ɛ	ɛː	1854:1	sun
 101-1	c	1	ɛ	a	ɔː	a	iː	iː	a	a	ə	iː	a	ɛ	ɛ	a	ɛː	ɛː	2207:1	you (sg.)
+<<<<<<< HEAD
 166-1	c	1	ɛ	ia	a	ai	e	iː	Ø	a	i	ia	Ø	ɛ	ɛ	a	Ø	ɛː	891:2	hunt
 236-1	c	1	ɛ	a	a	a	Ø	Ø	a	iː	Ø	Ø	a	ɛ	Ø	Ø	ɛ	Ø	1318:1	night
 250-2	c	2	ə̆	Ø	ə	a	ɔ	ɔ	ə	Ø	Ø	Ø	a	ə̆	ə̆	Ø	ə	ə	737:1, 173:1	breathe / grass
@@ -52,6 +72,35 @@ ID	STRUCTURE	FREQUENCY	BanPaw	ChaYeQing	ChuDongGua	GuangKa	HtanHsan	KhunHawt	Man
 192-2	c	2	ă	ɔ	a	ə	a	a	Ø	a	a	a	aː	ă	ă	a	a	a	956:1, 1262:1	know / near
 197-2	c	2	ă	a	a	a	a	a	a	a	ə	a	a	a	a	a	ai	a	1264:1, 921:2	ashes / intestines / near / nose
 209-2	c	2	ă	a	a	ɔ	e	e	ɔ	Ø	a	ɛ	a	ă	ă	Ø	a	ɛ	1809:1, 1666:1	sit / star
+=======
+162-1	c	1	ɛ	ia	a	ai	e	iː	Ø	a	i	ia	Ø	ɛ	ɛ	a	Ø	ɛː	891:2	hunt
+219-1	c	1	ɛ	a	a	a	Ø	Ø	a	iː	iː	Ø	a	ɛ	Ø	Ø	ɛ	Ø	1318:1	night
+246-2	c	2	ə̆	Ø	ə	a	ɔ	ɔ	ə	Ø	Ø	Ø	a	ə̆	ə̆	Ø	ə	ə	737:1, 173:1	breathe / grass
+119-1	c	1	ə̆	a	uː	ɨː	ə	ə	ɨː	ə	uː	ə	ɨː	ə̆	ə̆	Ø	ə	ə	631:2	fly
+187-1	c	1	ə̆	e	a	Ø	ə	ə	Ø	Ø	ia	ə	Ø	ə̆	ă	a	ə	ə	287:1	cut
+190-1	c	1	ə̆	u	Ø	Ø	əː	əː	Ø	ə	Ø	ə	ə	ə̆	ə̆	ə	ə	ə	321:1	dig
+229-3	c	3	ə	əː	u	əː	i	ɔ	əː	Ø	Ø	i	əː	ə	ə	Ø	əa	əː	459:1, 2125:1, 1150:2	egg / moon / who?
+21-1	c	1	ə	eː	əː	ɛː	əː	əː	əː	əː	əː	əː	əː	ə	ə	əː	əː	əː	174:1	breathe
+173-1	c	1	ə	eː	ɯ	Ø	əː	əː	Ø	ə	ə	ə	Ø	ə	ə	ə	ə	ə	1319:2	night
+223-1	c	1	ə	Ø	ɨː	e	əː	Ø	e	Ø	Ø	Ø	e	ə	ə	Ø	ə	ə	1630:1	see
+79-4	c	4	ɔ	a	a	ɔ	a	a	ɔ	a	a	ə	ɔ	ɔ	ɔ	a	ɔ	ɔ	1791:1, 105:1, 1592:1, 34:2	ashes / black / salty / stand
+72-2	c	2	ɔ	a	ɔ	a	a	a	a	ɔː	a	a	ai	ɔ	ɔ	ɔː	ɔː	ɔː	1734:1, 35:1	ashes / fire / smoke
+233-2	c	2	ɔ	oː	Ø	ɔi	Ø	Ø	ɔː	au	Ø	Ø	ɔi	ɔ	ɔ	ɔː	ɔː	ɔ	1179:1, 1716:1	mountain / smell
+238-2	c	2	ɔ	o	ɔː	u	Ø	Ø	ɔ	ɔ	Ø	Ø	u	ɔ	ɔ	ɔ	ɔː	o	1559:1, 1354:1	nose / rub hard with both hands
+108-1	c	1	ɔ	oː	ɔː	ɔː	ua	Ø	ɔː	ɔː	ɔ	ua	ɔː	ɔ	ɔ	ɔː	ɔː	ɔː	223:1	child
+264-1	c	1	ɔ	a	ɔː	Ø	Ø	Ø	Ø	Ø	ɔː	Ø	Ø	ɔ	ɔ	Ø	ɔ	Ø	920:1	intestines
+4-14	c	14	ŋ	ŋ	ŋ	ŋ	ŋ	ŋ	ŋ	ŋ	ŋ	ŋ	ŋ	ŋ	k	ŋ	ŋ	ŋ	141:2, 368:2, 541:3, 1791:2, 1994:2, 105:2, 520:2, 37:2, 1089:2, 1592:2, 2012:2, 1090:2, 1456:2, 1354:2	ashes / black / bone / drink / far / fat / long / nose / rain / salty / stand / tooth / tree
+7-5	c	5	ŋ	ŋ	ŋ	ŋ	ŋ	ŋ	ŋ	ŋ	ŋ	ŋ	ŋ	ŋ	ŋ	ŋ	ŋ	ŋ	485:0, 1734:0, 1854:0, 939:0, 35:0	ashes / eye / fire / kill / smoke / sun
+203-2	c	2	ŋ	n	ŋ	-	ŋ	ŋ	-	ŋ	ŋ	ŋ	-	ŋ	-	ŋ	ŋ	ŋ	1148:3, 1351:2	moon / nose
+235-2	c	2	ŋ	ŋ	j	Ø	j	n	ŋ	j	j	n	ŋ	ŋ	ŋ	j	ŋ	ŋ	1214:0, 739:3	cloud / grass / nail
+55-1	c	1	ŋ	ŋ	ŋ	ŋ	k	ŋ	ŋ	ŋ	ŋ	ŋ	ŋ	ŋ	k	ŋ	ŋ	ŋ	872:2	horn
+265-1	c	1	ŋ	n	n	Ø	Ø	Ø	Ø	Ø	n	Ø	Ø	ŋ	ŋ	Ø	ŋ	Ø	920:2	intestines
+100-3	c	3	ă	a	ɔ	a	ə	ə	a	a	a	ə	a	ə̆	ă	a	ə	ə	2175:1, 106:1, 1218:1	black / nail / year
+110-2	c	2	ă	ɔ	a	ɔː	a	a	ɔː	a	a	a	ɔː	ă	ă	ia	a	a	269:1, 957:1	cold / know
+194-2	c	2	ă	ɔ	a	ə	a	a	Ø	a	a	a	aː	ă	ă	a	a	a	956:1, 1262:1	know / near
+199-2	c	2	ă	a	a	a	a	a	a	a	ə	a	a	a	a	a	ai	a	1264:1, 921:2	ashes / intestines / near / nose
+207-2	c	2	ă	a	a	ɔ	e	e	ɔ	Ø	a	ɛ	a	ă	ă	Ø	a	ɛ	1809:1, 1666:1	sit / star
+>>>>>>> a82093682bb7541a6438b44db8db847b00f4858e
 74-1	c	1	ă	a	ɔ	a	e	e	a	a	ɔ	a	a	a	a	a	a	a	1754:1	snake
 77-1	c	1	ă	a	ɛ	a	ai	ai	a	ai	e	ɛ	a	ă	ă	a	ai	e	1773:1	spit
 85-1	c	1	ă	a	a	a	a	a	aː	a	ɛ	a	a	ă	ă	a	a	a	1962:1	tongue
@@ -59,6 +108,7 @@ ID	STRUCTURE	FREQUENCY	BanPaw	ChaYeQing	ChuDongGua	GuangKa	HtanHsan	KhunHawt	Man
 113-1	c	1	ă	ɔː	a	ɔː	a	a	ɔ	aː	a	Ø	ɔ	ă	ă	a	a	a	304:1	die
 125-1	c	1	ă	a	a	a	a	a	a	a	ɛ	Ø	a	ă	ă	a	a	a	1023:1	left side
 140-1	c	1	ă	a	ɔː	a	ə	Ø	a	a	ɔ	ɨ	a	ă	ă	ɔ	a	a	1733:1	smoke
+<<<<<<< HEAD
 154-1	c	1	ă	ɔ	a	ɔː	Ø	Ø	ɔː	a	ɛ	o	ɔ	ă	ă	a	a	a	1387:1	old-aged
 262-3	c	3	Ø	a	oː	a	uː	o	a	ɔ	Ø	u	a	Ø	Ø	u	o	Ø	559:1, 894:2, 1456:1	fear / hunt / rain
 222-2	c	2	Ø	w	-	w	w	w	w	Ø	Ø	-	w	w	Ø	Ø	w	w	1837:2, 559:2	fear / stone
@@ -157,21 +207,134 @@ ID	STRUCTURE	FREQUENCY	BanPaw	ChaYeQing	ChuDongGua	GuangKa	HtanHsan	KhunHawt	Man
 160-1	c	1	ou	o	o	o	Ø	Ø	o	o	Ø	ɔː	o	ou	ou	o	a	au	386:1	ear
 163-2	c	2	o	o	o	o	Ø	Ø	o	o	o	Ø	o	o	o	o	o	o	520:1, 1089:1	far / long
 241-2	c	2	o	Ø	Ø	a	a	a	a	ɛː	Ø	Ø	o	o	o	Ø	o	o	340:1, 387:1	dog / ear
+=======
+150-1	c	1	ă	ɔ	a	ɔː	Ø	Ø	ɔː	a	ɛ	o	ɔ	ă	ă	a	a	a	1387:1	old-aged
+214-3	c	3	Ø	j	-	ŋ	-	-	Ø	-	-	-	ŋ	Ø	Ø	-	Ø	-	486:3, 243:2, 1180:2	cloud / dog / eye / heart / mountain / nail
+212-2	c	2	Ø	l	r	-	l	l	Ø	l	l	l	-	Ø	Ø	l	Ø	l	486:1, 461:1	egg / eye / heart
+226-2	c	2	Ø	a	a	ɔ	a	a	a	ɨː	ɯː	a	a	Ø	Ø	Ø	Ø	a	1919:1, 1263:1	near / this
+244-2	c	2	Ø	dʑ	Ø	Ø	dʑ	dʑ	Ø	dʑ	dʑ	dʑ	Ø	c	c	dʑ	Ø	Ø	559:0, 1631:0	fear / see
+252-2	c	2	Ø	d	Ø	t	ɗ	ɗ	t	d	Ø	ɗ	t	Ø	Ø	tʰ	Ø	d	2012:0, 175:0	breathe / tree
+259-2	c	2	Ø	ɔ	ɔː	ɔ	Ø	o	ɔ	ɔ	ɔi	Ø	ɔ	Ø	Ø	u	Ø	ɔ	826:1, 893:2	heart / hunt
+260-2	c	2	Ø	h	j	h	Ø	Ø	h	Ø	h	Ø	h	Ø	Ø	j	Ø	x	826:2, 175:2	breathe / heart
+269-2	c	2	Ø	Ø	Ø	tʰ	tʰ	d	tʰ	Ø	tʰ	Ø	tʰ	Ø	Ø	Ø	Ø	Ø	1561:0, 1562:0	rub hard with both hands
+275-2	c	2	Ø	Ø	w	Ø	Ø	Ø	Ø	w	w	Ø	Ø	Ø	Ø	w	Ø	Ø	461:3, 1838:2	egg / stone
+287-2	c	2	Ø	Ø	ɔ	Ø	ɔ	ɔː	Ø	ɛ	ɔ	ɔ	Ø	Ø	Ø	Ø	Ø	ɛ	2106:2, 1594:1	salty / white
+185-1	c	1	Ø	f	f	f	f	f	f	f	f	f	f	Ø	Ø	f	Ø	f	37:0	ashes
+201-1	c	1	Ø	-	b	p	b	p	p	b	b	b	p	Ø	Ø	b	Ø	Ø	1148:0	moon
+211-1	c	1	Ø	b	Ø	p	b	b	Ø	b	b	b	p	Ø	Ø	b	Ø	b	486:0	eye / heart
+213-1	c	1	Ø	ɔː	Ø	o	ei	ei	Ø	eː	i	e	o	Ø	Ø	eː	Ø	ei	486:2	eye / heart
+215-1	c	1	Ø	-	-	-	Ø	Ø	-	-	-	Ø	-	Ø	Ø	n	-	-	827:2	heart / laugh
+217-1	c	1	Ø	ʔ	t	-	t	t	Ø	ʔ	t	-	Ø	Ø	Ø	t	Ø	t	1262:2	near
+225-1	c	1	Ø	ʔ	h	Ø	ʔ	ʔ	ʔ	ʔ	ʔ	h	ʔ	Ø	Ø	Ø	Ø	ʔ	1919:0	this
+227-1	c	1	Ø	-	ʔ	Ø	-	-	-	-	-	-	-	Ø	Ø	Ø	Ø	-	1919:2	this
+228-1	c	1	Ø	-	ɨ	Ø	-	-	-	-	-	-	-	Ø	Ø	Ø	Ø	-	1919:3	this
+241-1	c	1	Ø	Ø	a	o	a	a	Ø	a	a	a	Ø	Ø	Ø	a	Ø	Ø	243:1	cloud / dog / nail
+245-1	c	1	Ø	a	Ø	Ø	oː	Ø	Ø	ɔː	oː	ɔː	Ø	u	u	oː	Ø	Ø	559:1	fear
+247-1	c	1	Ø	kʰ	k	Ø	k	k	Ø	k	k	k	Ø	Ø	Ø	k	Ø	Ø	740:0	grass / tongue
+248-1	c	1	Ø	a	a	Ø	ə	ə	Ø	a	ə	ə	Ø	Ø	Ø	a	Ø	Ø	740:1	grass / tongue
+249-1	c	1	Ø	-	-	Ø	r	r	Ø	-	-	r	Ø	Ø	Ø	-	Ø	Ø	740:2	grass / tongue
+250-1	c	1	Ø	ɔ	i	ɔː	e	Ø	Ø	e	iː	Ø	ɔ	Ø	Ø	Ø	Ø	e	1534:1	root
+253-1	c	1	Ø	Ø	Ø	a	ɨ	ə	a	a	Ø	ɨ	a	Ø	Ø	Ø	Ø	a	2012:1	tree
+256-1	c	1	Ø	Ø	ɓ	Ø	b	b	Ø	p	p	b	Ø	Ø	Ø	p	Ø	Ø	739:0	grass
+258-1	c	1	Ø	Ø	a	Ø	e	aː	Ø	a	a	aː	Ø	Ø	Ø	a	Ø	Ø	739:2	grass
+261-1	c	1	Ø	Ø	Ø	Ø	əː	əː	Ø	əː	Ø	əː	Ø	a	Ø	əː	e	Ø	828:1	heart
+262-1	c	1	Ø	ə	Ø	Ø	ua	Ø	ɛː	Ø	i	Ø	Ø	ɛ	ɛ	Ø	Ø	ɨ	892:1	hunt
+263-1	c	1	Ø	p	Ø	Ø	ŋ	Ø	-	Ø	p	Ø	Ø	-	-	Ø	Ø	p	892:2	hunt
+270-1	c	1	Ø	tɕ	tɕ	tɕ	Ø	Ø	tɕ	Ø	Ø	tɕ	Ø	Ø	Ø	j	Ø	Ø	1593:0	salty
+271-1	c	1	Ø	eː	eː	ɛː	Ø	Ø	eː	Ø	Ø	ɛː	Ø	Ø	Ø	ɛː	Ø	Ø	1593:1	salty
+272-1	c	1	Ø	Ø	Ø	Ø	k	k	Ø	k	Ø	g	k	Ø	Ø	k	Ø	Ø	1613:0	scratch
+273-1	c	1	Ø	Ø	Ø	Ø	j	j	Ø	-	Ø	-	-	Ø	Ø	-	Ø	Ø	1613:3	scratch
+274-1	c	1	Ø	Ø	Ø	Ø	ʔ	ʔ	Ø	ʔ	Ø	ʔ	-	Ø	Ø	h	Ø	Ø	1613:4	scratch
+276-1	c	1	Ø	o	Ø	o	Ø	Ø	o	Ø	Ø	Ø	o	Ø	Ø	u	Ø	Ø	175:1	breathe
+277-1	c	1	Ø	Ø	Ø	Ø	l	r	l	l	Ø	l	Ø	Ø	Ø	Ø	Ø	Ø	387:0	ear
+278-1	c	1	Ø	Ø	Ø	Ø	-	-	-	-	Ø	j	Ø	Ø	Ø	Ø	Ø	Ø	387:2	ear
+279-1	c	1	Ø	Ø	iː	ɔː	Ø	eː	ɔː	Ø	i	Ø	Ø	Ø	Ø	Ø	Ø	Ø	1001:1	leaf
+281-1	c	1	Ø	Ø	Ø	i	ei	i	iː	Ø	Ø	Ø	iː	Ø	Ø	Ø	Ø	Ø	1562:1	rub hard with both hands
+282-1	c	1	Ø	Ø	Ø	k	ʔ	t	-	Ø	Ø	Ø	-	Ø	Ø	Ø	Ø	Ø	1562:2	rub hard with both hands
+283-1	c	1	Ø	eː	Ø	Ø	Ø	əː	Ø	əː	ɨː	Ø	Ø	Ø	Ø	ə	Ø	Ø	1631:1	see
+284-1	c	1	Ø	-	Ø	Ø	Ø	-	Ø	-	-	Ø	Ø	Ø	Ø	ɯ	Ø	Ø	1631:3	see
+285-1	c	1	Ø	Ø	Ø	Ø	ɨ	uə	Ø	i	Ø	i	Ø	Ø	Ø	ɔː	Ø	Ø	1718:2	smell
+286-1	c	1	Ø	Ø	b	Ø	p	b	Ø	Ø	p	b	Ø	Ø	Ø	Ø	Ø	Ø	2106:0	white
+288-1	c	1	Ø	Ø	-	Ø	m	-	Ø	Ø	Ø	m	-	Ø	Ø	Ø	Ø	Ø	2125:2	who?
+289-1	c	1	Ø	Ø	-	Ø	ɔ	-	Ø	Ø	Ø	ə	-	Ø	Ø	Ø	Ø	Ø	2125:3	who?
+290-1	c	1	Ø	Ø	h	Ø	h	h	Ø	Ø	Ø	h	-	Ø	Ø	Ø	Ø	Ø	2125:4	who?
+291-1	c	1	Ø	Ø	g	Ø	Ø	Ø	Ø	k	g	Ø	Ø	Ø	Ø	g	Ø	Ø	461:0	egg
+292-1	c	1	Ø	Ø	Ø	Ø	aː	aː	Ø	Ø	Ø	aː	Ø	Ø	-	Ø	Ø	Ø	522:1	far
+293-1	c	1	Ø	Ø	Ø	Ø	j	j	Ø	Ø	Ø	j	Ø	Ø	-	Ø	Ø	Ø	522:2	far
+294-1	c	1	Ø	Ø	l	Ø	Ø	-	Ø	r	Ø	Ø	Ø	Ø	Ø	-	Ø	Ø	893:1	hunt
+295-1	c	1	Ø	Ø	-	Ø	Ø	h	Ø	h	Ø	Ø	Ø	Ø	Ø	h	Ø	Ø	893:3	hunt
+296-1	c	1	Ø	Ø	-	Ø	ə	Ø	Ø	Ø	-	-	Ø	Ø	Ø	Ø	Ø	Ø	1131:1	many
+297-1	c	1	Ø	Ø	m	Ø	-	Ø	Ø	Ø	m	m	Ø	Ø	Ø	Ø	Ø	Ø	1131:4	many
+298-1	c	1	Ø	Ø	Ø	Ø	r̥	r	Ø	Ø	l	r	Ø	Ø	Ø	Ø	Ø	Ø	1182:2	mountain
+299-1	c	1	Ø	Ø	Ø	s	Ø	Ø	s	Ø	Ø	Ø	s	Ø	Ø	kʰ	Ø	Ø	1320:0	night
+300-1	c	1	Ø	Ø	Ø	ɛ	Ø	Ø	ə	Ø	Ø	Ø	ə	Ø	Ø	i	Ø	Ø	1320:1	night
+302-1	c	1	Ø	Ø	Ø	Ø	ɗ	ɗ	Ø	Ø	Ø	d	Ø	Ø	Ø	Ø	Ø	Ø	463:0	egg
+303-1	c	1	Ø	Ø	Ø	Ø	ɓ	p	Ø	Ø	Ø	b	Ø	Ø	Ø	Ø	Ø	Ø	940:0	kill
+304-1	c	1	Ø	Ø	Ø	Ø	l̥	l̥	Ø	Ø	Ø	r̥	Ø	Ø	Ø	Ø	Ø	Ø	1090:0	long
+305-1	c	1	Ø	Ø	ə	o	Ø	Ø	Ø	Ø	Ø	Ø	ɔ	Ø	Ø	Ø	Ø	Ø	1180:1	mountain
+306-1	c	1	Ø	Ø	Ø	Ø	ɓ	ɓ	Ø	Ø	Ø	b	Ø	Ø	Ø	Ø	Ø	Ø	1428:0	person, human
+307-1	c	1	Ø	Ø	Ø	Ø	i	iː	Ø	Ø	Ø	iː	Ø	Ø	Ø	Ø	Ø	Ø	1428:1	person, human
+106-3	c	3	v	v	v	v	v	v	v	v	v	v	v	v	v	v	v	v	17:0, 105:0, 921:1	abdomen / black / intestines
+38-1	c	1	ua	oː	ɔ	oː	oː	o	oː	ɔː	o	o	o	ua	ua	ua	au	ua	665:1	four
+60-3	c	3	u	u	u	u	u	u	u	u	u	u	u	u	u	u	u	u	1352:1, 1561:1, 1717:1	nose / rub hard with both hands / smell
+152-3	c	3	u	uː	uː	uː	uː	uː	uː	uː	Ø	u	uː	u	u	uː	ui	uː	1407:1, 1665:1, 207:1	burn / one / sit
+205-2	c	2	u	u	u	a	u	o	a	u	u	u	a	u	Ø	u	u	Ø	1288:1, 1182:1	mountain / new / person, human
+221-2	c	2	u	Ø	Ø	Ø	ɔ	ɔ	Ø	ɔ	Ø	ɔ	Ø	o	u	ɔ	u	u	1351:1, 1025:1	left side / nose / right side
+24-1	c	1	u	uː	uː	uː	uː	uː	u	u	uː	uː	uː	u	u	uː	u	u	241:1	cloud
+68-1	c	1	u	uː	u	uː	uː	u	uː	u	u	u	uː	u	u	uː	uː	uː	1682:1	skin
+98-1	c	1	u	uː	uː	uː	uː	uː	uː	uː	uː	uː	uː	u	u	uː	uː	uː	2157:1	wind
+209-1	c	1	u	ɨ	Ø	u	Ø	Ø	uː	uː	Ø	Ø	u	u	u	uː	uː	uː	2105:1	white
+46-4	c	4	t	d	d	d	d	d	d	t	d	d	d	t	t	d	t	t	720:0, 520:0, 1354:0, 1665:0	far / give / nose / sit
+71-3	c	3	t	ʔ	t	ʔ	ʔ	t	ʔ	t	t	ʔ	ʔ	ʔ	ʔ	t	ʔ	ʔ	1699:2, 1718:3, 207:2	burn / sleep / smell
+78-3	c	3	t	t	ʔ	t	c	c	t	ʔ	ʔ	ʔ	t	c	t	ʔ	c	c	1773:2, 17:2, 921:3	abdomen / intestines / spit
+58-2	c	2	t	ʔ	ʔ	ʔ	r̥	r̥	ʔ	ʔ	ʔ	ʔ	ʔ	c	c	ʔ	c	ʔ	1197:2, 1665:2	mouth / sit
+216-2	c	2	t	d	d	t	d	d	t	t	d	t	t	t	t	d̤	t	t	1262:0, 737:2	grass / near
+111-1	c	1	t	Ø	t	ʔ	t	t	ʔ	ʔ	t	t	ʔ	t	t	ʔ	t	t	269:2	cold
+136-1	c	1	t	d	d	d	dʱ	d	d	t	Ø	d	d	t	t	t	t	t	1504:0	road, path
+151-1	c	1	t	ʔ	t	ʔ	Ø	Ø	ʔ	ʔ	t	n	ʔ	t	t	t	t	t	1387:2	old-aged
+195-1	c	1	t	d	d	d	Ø	Ø	d	t	d	Ø	d	t	t	dʱ	t	Ø	1089:0	long
+15-8	c	8	s	s	s	s	s	s	s	s	s	s	s	s	s	s	s	s	68:0, 521:0, 1885:0, 1107:0, 2174:0, 1592:0, 340:0, 1961:0	bird / dog / far / louse / salty / sun / tail / tongue / year
+14-5	c	5	s	s	s	s	s	s	s	s	s	s	ʨʰ	s	s	s	s	s	2072:0, 2124:0, 1808:0, 1182:0, 1594:0	mountain / rub hard with both hands / salty / star / what? / who?
+86-1	c	1	r̥	x	ʂ	sʲ	r̥	r̥	x	r̥	r̥	r̥	x	r̥	r̥	r̥	r̥	r̥	1994:0	tooth
+35-7	c	7	r	-	r	-	r	r	-	r	r	r	-	r	r	r	r	r	541:1, 1613:1, 34:1, 1260:1, 1718:1, 1131:2, 1218:0	ashes / fat / many / nail / near / scratch / smell
+138-1	c	1	r	ɣ	r	ʐ	r	r	ɣ	r	r	r	Ø	r	r	r	r	r	1533:0	root
+161-1	c	1	r	-	r	-	r	r	Ø	r	r	-	Ø	r	r	r	Ø	r	891:1	hunt
+10-2	c	2	pʰ	pʰ	pʰ	pʰ	pʰ	pʰ	pʰ	pʰ	pʰ	pʰ	pʰ	pʰ	pʰ	pʰ	pʰ	pʰ	174:0, 665:0	breathe / four
+76-3	c	3	p	b	b	b	b	b	b	p	p	b	b	p	p	p	p	p	1773:0, 459:0, 737:0	egg / grass / spit
+188-2	c	2	p	p	p	Ø	p	p	Ø	Ø	p	p	-	p	p	p	p	p	287:2, 956:2	cut / know
+160-1	c	1	p	b	b	p	b	p	Ø	p	-	b	Ø	p	p	p	Ø	p	891:0	hunt
+44-3	c	3	ou	o	o	o	au	o	o	o	o	ɔ	o	ou	ou	o	ou	ou	703:1, 1612:1, 322:1	dig / full / scratch
+114-1	c	1	ou	ɔ	ɔ	o	ɔ	o	o	ɔ	ɔ	ɔ	o	o	ou	o	ou	Ø	504:1	fall, to drop
+116-1	c	1	ou	Ø	o	o	o	o	o	o	o	o	o	ou	ou	o	ou	o	614:1	flower
+154-1	c	1	ou	o	o	o	Ø	Ø	o	o	o	Ø	o	ou	ou	ɔ	ou	ou	206:1	burn
+156-1	c	1	ou	o	o	o	Ø	Ø	o	o	Ø	ɔː	o	ou	ou	o	a	au	386:1	ear
+159-2	c	2	o	o	o	o	Ø	Ø	o	o	o	Ø	o	o	o	o	o	o	520:1, 1089:1	far / long
+242-2	c	2	o	Ø	Ø	a	a	a	a	ɛː	Ø	a	o	o	o	Ø	o	o	340:1, 387:1	dog / ear
+255-2	c	2	o	Ø	oː	a	uː	o	a	Ø	Ø	u	a	Ø	Ø	Ø	o	Ø	558:1, 1456:1	fear / rain
+>>>>>>> a82093682bb7541a6438b44db8db847b00f4858e
 32-1	c	1	o	oː	oː	oː	ɔ	ɔː	o	ɔː	ɔː	ɔː	oː	o	o	ɔː	oː	oː	442:1	eat
 57-1	c	1	o	oi	oi	oi	u	u	oi	ua	oi	oː	oi	o	o	ua	oː	oi	1197:1	mouth
 83-1	c	1	o	oː	o	oː	ua	ua	oː	ua	o	ua	o	o	o	ua	oː	oː	1944:1	three
 103-1	c	1	o	a	oː	a	ɔː	oː	a	ɔː	oː	ɔː	a	o	o	Ø	o	o	1:1	I
 131-1	c	1	o	oː	ɔː	ɔː	oː	oː	ɔː	ɔː	ɔː	ɔː	Ø	o	o	ɔː	oː	oː	1059:1	liver
+<<<<<<< HEAD
 248-1	c	1	o	Ø	Ø	Ø	oː	Ø	Ø	ɔː	oː	ɔː	Ø	u	u	oː	Ø	Ø	558:1	fear
 20-1	c	1	n̥	n̥	n̥	n̥	n̥	n̥	n̥	n̥	n̥	n̥	n̥	n̥	n̥	n̥	n̥	n̥	123:0	blood
 5-14	c	14	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	703:0, 855:2, 872:0, 2175:0, 223:2, 1918:0, 956:0, 1503:0, 459:2, 1130:2, 826:0, 1473:0, 957:0, 1025:2	child / egg / full / heart / heavy / horn / know / left side / many / right side / road, path / this / year
 69-2	c	2	n	-	r	-	r	r	-	r	r	r	-	n	n	n	n	n	1682:2, 460:2	egg / skin
 181-2	c	2	n	-	d	-	-	-	-	-	ʔ	Ø	-	ʔ	-	-	-	-	1472:0, 1561:2	right side / rub hard with both hands
+=======
+20-1	c	1	n̥	n̥	n̥	n̥	n̥	n̥	n̥	n̥	n̥	n̥	n̥	n̥	n̥	n̥	n̥	n̥	123:0	blood
+5-14	c	14	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	703:0, 855:2, 872:0, 2175:0, 223:2, 1918:0, 956:0, 1503:0, 459:2, 1130:2, 826:0, 1473:0, 957:0, 1025:2	child / egg / full / heart / heavy / horn / know / left side / many / right side / road, path / this / year
+69-2	c	2	n	-	r	-	r	r	-	r	r	r	-	n	n	n	n	n	1682:2, 460:2	egg / skin
+180-2	c	2	n	-	d	-	-	-	-	-	ʔ	Ø	-	ʔ	-	-	-	-	1472:0, 1561:2	right side / rub hard with both hands
+>>>>>>> a82093682bb7541a6438b44db8db847b00f4858e
 232-2	c	2	n	n	Ø	Ø	ʔ	ʔ	n	ŋ	Ø	ʔ	Ø	n	n	ŋ	n	n	1179:0, 1668:2	mountain / sit
 39-1	c	1	n	m	n	n	n	n	m	n	n	n	n	n	n	n	n	n	665:2	four
 67-1	c	1	n	n	ŋ	n	ɲ	ɲ	n	n	ŋ	ŋ	n	ɲ	n	ŋ	ɲ	ɲ	1647:2	sew
 99-1	c	1	n	-	r	-	r	r	-	-	r	r	-	n	n	n	n	n	2157:2	wind
 120-1	c	1	n	j	-	h	r	r	-	r	-	r	-	n	n	Ø	n	n	631:3	fly
+<<<<<<< HEAD
 196-1	c	1	n	Ø	r	Ø	-	-	Ø	-	r	r	Ø	n	n	n	n	n	1147:3	moon
 210-1	c	1	n	n	ɲ	Ø	ɲ	ɲ	Ø	Ø	n	ŋ	Ø	ɲ	n	Ø	ɲ	ɲ	1809:2	star
 234-1	c	1	n	-	Ø	Ø	Ø	Ø	-	ʔ	Ø	Ø	Ø	n	n	t	n	n	1179:2	mountain
@@ -185,10 +348,26 @@ ID	STRUCTURE	FREQUENCY	BanPaw	ChaYeQing	ChuDongGua	GuangKa	HtanHsan	KhunHawt	Man
 235-2	c	2	kʰ	kʰ	kʰ	k	kʰ	k	k	kʰ	Ø	kʰ	k	kʰ	Ø	kʰ	kʰ	Ø	1318:0, 1718:0	night / smell
 11-8	c	8	k	k	k	k	k	k	k	k	k	k	k	k	k	k	k	k	176:0, 409:0, 560:0, 1264:0, 828:0, 1666:2, 1150:0, 1180:0	ashes / bone / breathe / earth, soil / fear / heart / laugh / moon / mountain / near / new / nose / sit
 127-3	c	3	k	k	k	k	k	k	k	kʰ	k	k	Ø	k	k	k	k	k	1058:0, 462:0, 894:0	egg / hunt / liver
+=======
+198-1	c	1	n	Ø	r	Ø	-	-	Ø	-	r	r	Ø	n	n	n	n	n	1147:3	moon
+208-1	c	1	n	n	ɲ	Ø	ɲ	ɲ	Ø	Ø	n	ŋ	Ø	ɲ	n	Ø	ɲ	ɲ	1809:2	star
+234-1	c	1	n	-	Ø	Ø	Ø	Ø	-	ʔ	Ø	Ø	Ø	n	n	t	n	n	1179:2	mountain
+172-1	c	1	m̥	m̥	m̥	Ø	m̥	m̥	Ø	m̥	m̥	m̥	Ø	m̥	m̥	m̥	m̥	m̥	1319:1	night
+1-27	c	27	m	m	m	m	m	m	m	m	m	m	m	m	m	m	m	m	68:2, 123:2, 174:2, 442:2, 1197:0, 1286:0, 1352:0, 2054:2, 2175:2, 2207:0, 304:2, 1059:2, 1215:3, 1809:0, 1837:0, 1106:0, 1753:0, 1593:2, 106:2, 463:2, 940:2, 1668:0, 666:0, 1216:2, 1320:2, 1838:0, 1263:2	bird / black / blood / breathe / die / dog / eat / egg / fish / four / kill / liver / louse / moon / mouth / nail / near / new / night / nose / salty / sit / snake / star / stone / water / year / you (sg.)
+144-2	c	2	m	m	m	m	m	m	Ø	m	m	m	m̥	m	m	m	m	m	2071:2, 2125:0	what? / who?
+202-2	c	2	l̥	l	l	-	-	-	-	l	l	l	-	l̥	Ø	l	l	Ø	1148:1, 1408:0	moon / one
+56-1	c	1	l̥	l̥	l̥	l̥	l̥	l̥	l̥	l̥	l̥	l̥	l̥	l̥	l̥	l̥	l̥	l̥	1000:0	leaf
+41-7	c	7	l	l	l	l	l	l	l	l	l	l	l	l	l	l	l	l	686:1, 1455:1, 2105:0, 892:0, 2106:1, 322:0, 1811:0	dig / fruit / hunt / rain / star / white
+97-3	c	3	kʰ	kʰ	kʰ	kʰ	kʰ	kʰ	kʰ	kʰ	kʰ	kʰ	kʰ	kʰ	kʰ	kʰ	kʰ	kʰ	2157:0, 1260:0, 1025:0	left side / near / right side / wind
+218-2	c	2	kʰ	kʰ	kʰ	k	kʰ	k	k	kʰ	kʰ	kʰ	k	kʰ	Ø	kʰ	kʰ	Ø	1318:0, 1718:0	night / smell
+11-8	c	8	k	k	k	k	k	k	k	k	k	k	k	k	k	k	k	k	176:0, 409:0, 560:0, 1264:0, 827:0, 1666:2, 1150:0, 1180:0	ashes / bone / breathe / earth, soil / fear / heart / laugh / moon / mountain / near / new / nose / sit
+127-3	c	3	k	k	k	k	k	k	k	kʰ	k	k	Ø	k	k	k	k	k	1058:0, 462:0, 893:0	egg / hunt / liver
+>>>>>>> a82093682bb7541a6438b44db8db847b00f4858e
 17-2	c	2	k	g	g	g	g	g	g	k	k	g	k	k	k	g	k	k	88:0, 207:0	bite / burn
 230-2	c	2	k	g	h	g	h	h	g	r	Ø	Ø	k	k	k	r	k	k	1130:0, 173:2	breathe / many
 49-1	c	1	k	k	ʔ	k	ʔ	ʔ	k	k	ʔ	ʔ	k	k	k	k	k	j	756:2	hair
 141-1	c	1	k	k	k	k	k	Ø	k	k	ʔ	ʔ	k	k	k	k	k	k	1733:2	smoke
+<<<<<<< HEAD
 153-1	c	1	k	g	g	g	Ø	Ø	g	k	k	k	g	k	k	k	k	k	1387:0	old-aged
 170-1	c	1	k	-	-	-	Ø	Ø	-	-	-	Ø	-	k	k	-	-	-	973:0	laugh
 187-1	c	1	k	k	k	Ø	g	g	Ø	Ø	k	g	Ø	k	k	k	k	k	287:0	cut
@@ -217,6 +396,34 @@ ID	STRUCTURE	FREQUENCY	BanPaw	ChaYeQing	ChuDongGua	GuangKa	HtanHsan	KhunHawt	Man
 50-1	c	1	g	k	g	k	k	k	k	g	k	k	k	g	g	g	g	g	805:0	head
 124-1	c	1	g	k	k	k	k	k	k	g	k	Ø	k	g	g	k	g	g	1023:0	left side
 150-1	c	1	g	d	Ø	d	k	k	d	g	Ø	k	d	g	g	g	g	g	1351:0	nose
+=======
+149-1	c	1	k	g	g	g	Ø	Ø	g	k	k	k	g	k	k	k	k	k	1387:0	old-aged
+166-1	c	1	k	-	-	-	Ø	Ø	-	-	-	Ø	-	k	k	-	-	-	973:0	laugh
+186-1	c	1	k	k	k	Ø	g	g	Ø	Ø	k	g	Ø	k	k	k	k	k	287:0	cut
+155-1	c	1	j̊	ʨʰ	j̊	ʨʰ	Ø	Ø	ʨʰ	j̊	Ø	ʨʰ	ʨʰ	j̊	j̊	j̊	j	j̊	386:0	ear
+12-7	c	7	j	j	j	j	j	j	j	j	j	-	j	j	j	j	j	j	410:2, 1286:2, 1455:3, 2105:2, 1630:0, 558:0, 1150:1	earth, soil / fear / moon / new / rain / see / white
+13-2	c	2	j	j	j	j	j	j	j	j	j	j	j	j	j	j	j	j	485:2, 1944:2	eye / three
+112-1	c	1	j	dʑ	j	dʑ	j	j	j	j	dʑ	Ø	j	j	j	j	j	j	304:0	die
+178-1	c	1	j	j	-	-	Ø	Ø	-	-	-	Ø	-	-	-	-	j	j	1427:2	person, human
+184-1	c	1	j	n	Ø	-	n	n	-	ŋ	Ø	Ø	-	-	-	-	j	-	1918:2	this
+27-4	c	4	ia	o	ia	o	ia	ia	o	ia	ia	ia	o	ia	ia	ia	ia	ia	368:1, 460:1, 1260:2, 940:1	drink / egg / kill / near
+36-1	c	1	ia	io	ia	io	ia	ia	io	ia	ia	ia	io	ia	ia	ia	ia	ia	541:2	fat
+139-1	c	1	ia	ə	ia	ə	ia	ia	ə	ia	ia	ia	Ø	ia	ia	ia	ia	ia	1533:1	root
+196-1	c	1	ia	Ø	ia	Ø	ia	ia	Ø	iaː	ia	i	Ø	ia	ia	ia	ia	ia	1147:1	moon
+16-3	c	3	i	iː	i	iː	i	i	iː	i	i	i	iː	i	i	i	iː	iː	68:1, 1215:2, 1216:1	bird / nail
+66-1	c	1	i	e	i	ə	i	e	ə	i	i	ɨ	ə	i	i	i	i	i	1647:1	sew
+70-1	c	1	i	i	i	i	i	iː	i	i	i	i	i	i	i	iː	iː	i	1699:1	sleep
+3-14	c	14	h	h	h	h	h	h	h	h	h	h	h	h	h	h	h	h	442:0, 720:2, 756:0, 1682:0, 1754:0, 2011:0, 504:2, 614:2, 1533:2, 973:6, 1472:4, 1534:0, 1001:0, 1717:3	eat / fall, to drop / flower / give / hair / laugh / leaf / right side / root / skin / smell / snake / tree
+165-2	c	2	h	h	h	ʔ	h	Ø	j	h	h	-	j	h	h	h	h	h	939:2, 1215:1	kill / nail
+191-2	c	2	h	t	Ø	Ø	ŋ	ŋ	Ø	h	ʔ	h	h	h	h	h	h	x	321:2, 1408:3	dig / one
+62-1	c	1	h	h	h	h	h	-	h	h	h	h	h	h	h	h	h	h	1352:3	nose
+254-1	c	1	h	Ø	h	Ø	ʔ	h	Ø	Ø	Ø	Ø	Ø	h	Ø	Ø	h	h	173:0	breathe
+37-4	c	4	g	k	k	k	k	k	k	g	k	k	k	g	g	g	g	g	594:0, 223:0, 757:0, 1351:0	child / fish / hair / nose
+109-3	c	3	g	g	k	k	k	k	k	g	g	k	k	g	g	g	g	g	269:0, 1455:0, 1147:0	cold / moon / rain
+189-2	c	2	g	kʰ	Ø	kʰ	k	k	kʰ	g	Ø	k	k	g	g	g	g	g	321:0, 1216:0	dig / nail
+50-1	c	1	g	k	g	k	k	k	k	g	k	k	k	g	g	g	g	g	805:0	head
+124-1	c	1	g	k	k	k	k	k	k	g	k	Ø	k	g	g	k	g	g	1023:0	left side
+>>>>>>> a82093682bb7541a6438b44db8db847b00f4858e
 243-2	c	2	ei	o	o	Ø	o	o	Ø	o	u	o	Ø	ei	Ø	o	ə	Ø	341:1, 1408:1	dog / one
 122-2	c	2	e	ɔː	ə	ɔː	əː	əː	ɔː	eː	ə	ə	ɔː	e	Ø	e	e	eː	648:1, 1090:1	foot / long
 42-1	c	1	e	ɔː	iː	ɔː	e	e	ɔː	e	iː	eː	ɔː	e	e	eː	e	e	686:2	fruit
@@ -226,25 +433,42 @@ ID	STRUCTURE	FREQUENCY	BanPaw	ChaYeQing	ChuDongGua	GuangKa	HtanHsan	KhunHawt	Man
 137-1	c	1	e	ɔː	e	ɔː	eː	eː	ɔː	eː	Ø	eː	ɔ	e	e	eː	eː	eː	1504:1	road, path
 63-3	c	3	d	ɗ	ɗ	t	ɗ	ɗ	t	ɗ	ɗ	ɗ	t	d	d	ɗ	d	d	1560:0, 1733:0, 206:0	burn / hand / rub hard with both hands / smoke
 26-2	c	2	d	tɕ	d	tɕ	ɗ	t	tɕ	ɗ	d	ɗ	tɕ	d	d	ɗ	d	d	368:0, 1263:0	drink / near
+<<<<<<< HEAD
 30-2	c	2	d	d	ɗ	t	ɗ	d	t	ɗ	d	ɗ	t	d	d	ɗ	d	d	410:0, 175:0	breathe / earth, soil
 82-1	c	1	d	ɗ	d	t	ɗ	ɗ	t	ɗ	ɗ	ɗ	t	d	d	ɗ	d	d	1886:0	tail
 84-1	c	1	d	d	ɗ	t	ɗ	ɗ	t	ɗ	d	ɗ	t	d	d	ɗ	d	d	1962:0	tongue
 130-1	c	1	d	d	ɗ	t	ɗ	ɗ	t	ɗ	ɗ	ɗ	Ø	d	d	ɗ	d	d	1059:0	liver
 206-1	c	1	d	d	d	t	Ø	Ø	t	ɗ	d	Ø	t	d	Ø	d	d	Ø	1288:0	new / person, human
+=======
+30-1	c	1	d	d	ɗ	t	ɗ	d	t	ɗ	d	ɗ	t	d	d	ɗ	d	d	410:0	earth, soil
+82-1	c	1	d	ɗ	d	t	ɗ	ɗ	t	ɗ	ɗ	ɗ	t	d	d	ɗ	d	d	1886:0	tail
+84-1	c	1	d	d	ɗ	t	ɗ	ɗ	t	ɗ	d	ɗ	t	d	d	ɗ	d	d	1962:0	tongue
+130-1	c	1	d	d	ɗ	t	ɗ	ɗ	t	ɗ	ɗ	ɗ	Ø	d	d	ɗ	d	d	1059:0	liver
+204-1	c	1	d	d	d	t	Ø	Ø	t	ɗ	d	Ø	t	d	Ø	d	d	Ø	1288:0	new / person, human
+>>>>>>> a82093682bb7541a6438b44db8db847b00f4858e
 9-5	c	5	c	dʑ	dʑ	dʑ	dʑ	dʑ	dʑ	tɕ	tɕ	dʑ	dʑ	c	c	tɕ	tɕ	tɕ	855:0, 1647:0, 1791:0, 504:0, 106:0	black / fall, to drop / heavy / sew / stand
 134-2	c	2	c	dʑ	tɕ	Ø	dʑ	dʑ	dʑ	tɕ	tɕ	tɕ	tɕ	c	c	tɕ	tɕ	tɕ	1244:0, 1456:0	name / rain
 121-1	c	1	c	dʑ	dʑ	dʑ	dʑ	dʑ	dʑ	tɕ	tɕ	dʑ	dʑ	c	Ø	tɕ	c	tɕ	648:0	foot
 34-2	c	2	b	b	p	p	p	p	p	b	p	p	p	b	b	b	b	b	541:0, 34:0	ashes / fat
 115-2	c	2	b	b	ɓ	p	ɓ	ɓ	p	ɓ	ɓ	ɓ	p	b	b	b	b	b	614:0, 1559:0	flower / rub hard with both hands
+<<<<<<< HEAD
 219-2	c	2	b	ɓ	b	p	pʰ	pʰ	p	pʰ	b	pʰ	p	b	b	pʰ	b	b	1612:0, 827:0	heart / scratch
 40-1	c	1	b	ɓ	ɓ	p	ɓ	p	p	b	b	ɓ	p	b	b	b	b	b	686:0	fruit
 117-1	c	1	b	ɓ	pʰ	p	ɓ	b	p	b	pʰ	p	p	b	b	Ø	b	b	631:0	fly
 18-3	c	3	au	a	a	a	a	a	ɔ	a	ia	a	ɔ	au	au	a	au	ɔ	88:1, 462:1, 463:1	bite / egg
 168-2	c	2	au	ɔ	a	ai	-	Ø	a	a	a	a	a	au	au	ɔ	au	ɔ	939:1, 1131:3	kill / many
+=======
+222-2	c	2	b	ɓ	b	p	pʰ	pʰ	p	pʰ	b	pʰ	Ø	b	b	pʰ	b	b	1612:0, 828:0	heart / scratch
+40-1	c	1	b	ɓ	ɓ	p	ɓ	p	p	b	b	ɓ	p	b	b	b	b	b	686:0	fruit
+117-1	c	1	b	ɓ	pʰ	p	ɓ	b	p	b	pʰ	p	p	b	b	Ø	b	b	631:0	fly
+18-3	c	3	au	a	a	a	a	a	ɔ	a	ia	a	ɔ	au	au	a	au	ɔ	88:1, 462:1, 463:1	bite / egg
+164-2	c	2	au	ɔ	a	ai	-	Ø	a	a	a	a	a	au	au	ɔ	au	ɔ	939:1, 1131:3	kill / many
+>>>>>>> a82093682bb7541a6438b44db8db847b00f4858e
 47-1	c	1	ai	ɛ	ɛ	ɛ	ai	ai	ɛ	ɛ	e	ɛ	ɛ	ai	ai	e	ai	ai	720:1	give
 6-6	c	6	a	aː	aː	aː	aː	aː	aː	aː	ɛː	aː	aː	a	a	aː	aː	aː	123:1, 141:1, 1994:1, 37:1, 1838:1, 1811:1	ashes / blood / bone / star / stone / tooth
 8-3	c	3	a	aː	aː	aː	aː	aː	aː	ɛː	ɛː	aː	aː	a	a	aː	ɛa	aː	594:1, 1000:1, 1886:1	fish / leaf / tail
 22-3	c	3	a	a	a	a	ə	a	a	a	a	a	a	a	a	a	a	a	176:1, 973:4, 1106:1	bone / breathe / laugh / louse
+<<<<<<< HEAD
 208-3	c	3	a	a	a	a	e	Ø	a	a	a	i	a	a	a	a	a	ə	1474:1, 1753:1, 739:2	bird / dog / fish / grass / left side / moon / right side / snake
 128-2	c	2	a	a	a	a	a	a	a	a	ə	ə	Ø	a	a	a	a	a	1058:1, 1473:1	left side / liver / right side
 148-2	c	2	a	a	ə	a	a	a	a	a	i	a	a	a	a	a	a	a	521:1, 385:1	ear / far / sun / who?
@@ -252,6 +476,16 @@ ID	STRUCTURE	FREQUENCY	BanPaw	ChaYeQing	ChuDongGua	GuangKa	HtanHsan	KhunHawt	Man
 180-2	c	2	a	aː	a	aː	oː	oː	aː	aː	aː	oː	aː	a	a	aː	aː	aː	1455:2, 1837:1	rain / stone
 183-2	c	2	a	e	ɔi	ɛ	ɔ	o	ə	ɔ	ɔi	ɔ	ə	a	a	ɔ	a	a	1472:3, 1668:1	right side / sit
 200-2	c	2	a	ə	ə	ə	a	ə	ə	a	a	a	a	a	a	a	a	a	1808:1, 828:1	heart / laugh / rub hard with both hands / star
+=======
+128-2	c	2	a	a	a	a	a	a	a	a	ə	ə	Ø	a	a	a	a	a	1058:1, 1473:1	left side / liver / right side
+148-2	c	2	a	a	ə	a	a	a	a	a	i	a	a	a	a	a	a	a	521:1, 385:1	ear / far / sun / who?
+153-2	c	2	a	ə	a	a	a	a	a	a	a	a	a	a	a	a	a	ə	1885:1, 1148:2	moon / tail
+167-2	c	2	a	-	-	-	-	Ø	-	-	-	-	-	a	a	-	-	-	973:1, 559:3	fear / laugh
+179-2	c	2	a	aː	a	aː	oː	oː	aː	aː	aː	oː	aː	a	a	aː	aː	aː	1455:2, 1837:1	rain / stone
+182-2	c	2	a	e	ɔi	ɛ	ɔ	o	ə	ɔ	ɔi	ɔ	ə	a	a	ɔ	a	a	1472:3, 1668:1	right side / sit
+200-2	c	2	a	ə	ə	ə	a	ə	ə	a	a	a	a	a	a	a	a	a	1808:1, 827:1	heart / laugh / rub hard with both hands / star
+206-2	c	2	a	a	a	a	Ø	Ø	a	a	a	i	a	a	a	a	a	ə	1474:1, 1753:1	bird / dog / fish / left side / moon / right side / snake
+>>>>>>> a82093682bb7541a6438b44db8db847b00f4858e
 28-1	c	1	a	a	a	a	a	ə	a	a	ə	ə	a	a	a	a	a	a	409:1	earth, soil
 31-1	c	1	a	aː	aː	aː	e	ɛ	aː	aː	a	ɛː	aː	a	a	aː	aː	ɛː	410:1	earth, soil
 33-1	c	1	a	aː	aː	aː	aː	aː	aː	aː	aː	aː	aː	a	a	aː	aː	aː	485:1	eye
@@ -260,6 +494,7 @@ ID	STRUCTURE	FREQUENCY	BanPaw	ChaYeQing	ChuDongGua	GuangKa	HtanHsan	KhunHawt	Man
 90-1	c	1	a	eː	aː	ɛː	aː	a	ɛː	ɛː	ɛː	a	aː	a	a	aː	aː	aː	2036:1	two
 145-1	c	1	a	u	u	o	ə	ɔ	Ø	u	u	ə	əː	a	a	u	a	a	2071:3	what?
 147-1	c	1	a	Ø	a	a	ə	a	a	a	ə	a	a	a	a	a	a	a	2174:1	year
+<<<<<<< HEAD
 171-1	c	1	a	-	-	-	Ø	Ø	-	-	-	Ø	-	a	a	-	-	-	973:1	laugh
 182-1	c	1	a	-	ua	-	Ø	Ø	-	-	a	Ø	-	a	-	-	-	-	1472:1	right side
 190-1	c	1	a	Ø	a	Ø	ə	a	Ø	a	a	ə	Ø	a	a	a	a	a	560:1	fear / new
@@ -273,6 +508,22 @@ ID	STRUCTURE	FREQUENCY	BanPaw	ChaYeQing	ChuDongGua	GuangKa	HtanHsan	KhunHawt	Man
 216-2	c	2	-	-	m	Ø	-	m	-	Ø	m	m	-	-	-	Ø	-	-	1214:2, 1131:4	cloud / many / nail
 221-2	c	2	-	Ø	-	w	-	Ø	w	Ø	Ø	Ø	w	-	-	Ø	-	-	1630:2, 1811:2	see / star
 276-2	c	2	-	-	b	Ø	p	p	Ø	Ø	b	b	Ø	Ø	Ø	Ø	Ø	-	1473:2, 1131:0	left side / many / right side
+=======
+181-1	c	1	a	-	ua	-	Ø	Ø	-	-	a	Ø	-	a	-	-	-	-	1472:1	right side
+192-1	c	1	a	Ø	a	Ø	ə	a	Ø	a	a	ə	Ø	a	a	a	a	a	560:1	fear / new
+43-3	c	3	-	j	-	j	j	j	j	j	-	-	j	-	-	-	j	j	686:3, 1534:2, 1001:2	fruit / leaf / root
+105-3	c	3	-	w	-	-	-	-	w	-	-	-	w	-	-	-	w	w	1:3, 559:2, 1631:2	I / fear / see
+240-3	c	3	-	w	-	w	w	w	w	Ø	Ø	-	w	-	-	Ø	w	w	1837:2, 340:2, 558:2	dog / fear / stone
+23-2	c	2	-	-	-	-	n	n	-	-	-	-	-	-	-	-	-	-	176:2, 385:2	bone / breathe / ear / who?
+61-2	c	2	-	-	j	-	-	r̥	-	-	j	-	-	-	-	-	-	-	1352:2, 1717:2	nose / smell
+65-2	c	2	-	j	j	j	-	-	j	j	j	-	ʔ	-	-	j	-	-	1560:2, 462:2	egg / hand / rub hard with both hands
+129-2	c	2	-	-	-	-	-	-	-	-	-	r	-	-	-	-	-	-	1058:2, 1407:2	liver / one
+175-2	c	2	-	-	-	-	-	-	-	ɯ	ɯ	ɯ	-	-	-	ɯ	ɯ	ɯ	1319:4, 1630:3	night / see
+193-2	c	2	-	Ø	-	Ø	n	r	Ø	-	-	n	Ø	-	-	-	-	-	560:2, 1215:0	fear / nail / new
+224-2	c	2	-	Ø	-	w	-	Ø	w	Ø	Ø	Ø	w	-	-	Ø	-	-	1630:2, 1811:2	see / star
+237-2	c	2	-	-	Ø	Ø	m	m	-	m	Ø	m	-	-	-	m	-	-	1214:2, 828:2	cloud / heart / nail
+280-2	c	2	-	-	b	Ø	p	p	Ø	Ø	b	b	Ø	Ø	Ø	Ø	Ø	-	1473:2, 1131:0	left side / many / right side
+>>>>>>> a82093682bb7541a6438b44db8db847b00f4858e
 29-1	c	1	-	-	-	-	-	n	-	-	-	-	-	-	-	-	-	-	409:2	earth, soil
 73-1	c	1	-	j	r	j	l	r	j	-	l	r	ʔ	-	-	-	-	-	1734:2	fire / smoke
 81-1	c	1	-	j	j	j	-	-	j	j	j	-	j	-	-	j	j	-	1854:2	sun
@@ -287,6 +538,7 @@ ID	STRUCTURE	FREQUENCY	BanPaw	ChaYeQing	ChuDongGua	GuangKa	HtanHsan	KhunHawt	Man
 142-1	c	1	-	-	-	-	-	-	Ø	-	n	-	-	-	-	-	-	-	2071:0	what?
 143-1	c	1	-	-	-	-	-	-	Ø	-	ə	-	-	-	-	-	-	-	2071:1	what?
 146-1	c	1	-	h	h	h	h	h	Ø	h	h	-	-	-	-	h	-	-	2071:4	what?
+<<<<<<< HEAD
 161-1	c	1	-	-	-	-	Ø	Ø	-	-	Ø	-	-	-	-	-	j̊	-	386:2	ear
 162-1	c	1	-	-	-	-	Ø	Ø	-	-	Ø	-	-	-	-	-	au	-	386:3	ear
 167-1	c	1	-	j	j	-	j	-	Ø	j	ŋ	m	Ø	-	-	j	Ø	-	891:3	hunt
@@ -303,3 +555,19 @@ ID	STRUCTURE	FREQUENCY	BanPaw	ChaYeQing	ChuDongGua	GuangKa	HtanHsan	KhunHawt	Man
 269-1	c	1	-	Ø	Ø	-	Ø	Ø	j	Ø	Ø	Ø	-	-	-	Ø	-	Ø	1716:2	smell
 297-1	c	1	-	Ø	Ø	Ø	Ø	Ø	Ø	Ø	-	Ø	Ø	-	Ø	Ø	i	Ø	1408:2	one
 175-1	+	1	-	-	-	Ø	-	-	Ø	-	+	-	Ø	-	-	-	-	-	1319:0	night
+=======
+157-1	c	1	-	-	-	-	Ø	Ø	-	-	Ø	-	-	-	-	-	j̊	-	386:2	ear
+158-1	c	1	-	-	-	-	Ø	Ø	-	-	Ø	-	-	-	-	-	au	-	386:3	ear
+163-1	c	1	-	j	j	-	j	-	Ø	j	ŋ	m	Ø	-	-	j	Ø	-	891:3	hunt
+169-1	c	1	-	-	-	-	Ø	Ø	-	-	i	Ø	-	-	-	-	-	-	973:3	laugh
+170-1	c	1	-	-	j	-	Ø	Ø	-	-	-	Ø	-	-	-	-	-	-	973:5	laugh
+174-1	c	1	-	w	-	Ø	-	-	Ø	-	-	-	Ø	-	-	-	-	-	1319:3	night
+197-1	c	1	-	Ø	-	Ø	-	-	Ø	-	-	əː	Ø	-	-	-	-	-	1147:2	moon
+210-1	c	1	-	h	Ø	-	Ø	Ø	-	-	Ø	Ø	-	-	-	-	-	-	2105:3	white
+220-1	c	1	-	-	-	-	Ø	Ø	-	-	w	Ø	-	-	Ø	Ø	-	Ø	1318:2	night
+236-1	c	1	-	-	Ø	Ø	Ø	i	-	Ø	Ø	Ø	-	-	-	Ø	-	-	1214:1	cloud / nail
+266-1	c	1	-	Ø	Ø	Ø	Ø	Ø	n	Ø	Ø	Ø	n	-	-	Ø	-	-	921:0	intestines
+268-1	c	1	-	Ø	Ø	-	Ø	Ø	j	Ø	Ø	Ø	-	-	-	Ø	-	Ø	1716:2	smell
+301-1	c	1	-	Ø	Ø	Ø	Ø	Ø	Ø	Ø	-	Ø	Ø	-	Ø	Ø	i	Ø	1408:2	one
+171-1	+	1	-	-	-	Ø	-	-	Ø	-	+	-	Ø	-	-	-	-	-	1319:0	night
+>>>>>>> a82093682bb7541a6438b44db8db847b00f4858e

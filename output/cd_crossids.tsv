@@ -129,7 +129,11 @@ ID	CONCEPT	DOCULECT	VALUE	FORM	TOKENS	GLOTTOLOG	COG	SONARS	PROSTRINGS	CLASSES	LA
 966	breathe	NamHsan	khriɁ phә:m	khriɁ phә:m	kʰ r i ʔ + pʰ əː m		1-62	1 5 7 1 9 1 7 4	ACXN_AXN	KRIH_PEM	10	10.K.C 10.R.C 10.I.V 10.H.c 10._._ 10.P.C 10.E.V 10.M.c	2.0 1.5 1.5 0.8 0.0 2.0 1.5 0.8	kʰriʔ+pʰəːm	0	178 174	kʰ r i ʔ + pʰ əː m	178 174
 967	breathe	KhunHawt	kanhɔh phә:m	kanhɔh phә:m	k a n + h ɔ h + pʰ əː m		1-62	1 7 4 9 3 7 3 9 1 7 4	AXN_AXN_AXN	KAN_HUH_PEM	6	6.K.C 6.A.V 6.N.c 6._._ 6.H.C 6.U.V 6.H.c 6._._ 6.P.C 6.E.V 6.M.c	2.0 1.5 0.8 0.0 2.0 1.5 0.8 0.0 2.0 1.5 0.8	kan+hɔh+pʰəːm	0	176 173 174	k a n + h ɔ h + pʰ əː m	176 173 174
 968	breathe	HtanHsan	kәnɁɔh phәːm	kәnɁɔh phәːm	k ə n + ʔ ɔ h + pʰ əː m		1-62	1 7 4 9 1 7 3 9 1 7 4	AXN_AXN_AXN	KEN_HUH_PEM	5	5.K.C 5.E.V 5.N.c 5._._ 5.H.C 5.U.V 5.H.c 5._._ 5.P.C 5.E.V 5.M.c	2.0 1.5 0.8 0.0 2.0 1.5 0.8 0.0 2.0 1.5 0.8	kən+ʔɔh+pʰəːm	0	176 173 174	k ə n + ʔ ɔ h + pʰ əː m	176 173 174
+<<<<<<< HEAD
 969	breathe	PangKham	thuj phәːm	thuj phәːm	tʰ u j + pʰ əː m		1-62	1 7 6 9 1 7 4	AXN_AXN	TYJ_PEM	14	14.T.C 14.Y.V 14.J.c 14._._ 14.P.C 14.E.V 14.M.c	2.0 1.5 0.8 0.0 2.0 1.5 0.8	tʰuj+pʰəːm	0	179 174	tʰ u j + pʰ əː m	179 174
+=======
+969	breathe	PangKham	thuj phәːm	thuj phәːm	tʰ u j + pʰ əː m		1-62	1 7 6 9 1 7 4	AXN_AXN	TYJ_PEM	14	14.T.C 14.Y.V 14.J.c 14._._ 14.P.C 14.E.V 14.M.c	2.0 1.5 0.8 0.0 2.0 1.5 0.8	tʰuj+pʰəːm	0	175 174	tʰ u j + pʰ əː m	175 174
+>>>>>>> a82093682bb7541a6438b44db8db847b00f4858e
 970	breathe	ManLoi	phәːm leh	phәːm leh	pʰ əː m + l e h		1-62	1 7 4 9 5 7 3	AXN_AXN	PEM_LEH	8	8.P.C 8.E.V 8.M.c 8._._ 8.L.C 8.E.V 8.H.c	2.0 1.5 0.8 0.0 2.0 1.5 0.8	pʰəːm+leh	0	174 177	pʰ əː m + l e h	174 177
 971	breathe	MengDan	phəːm	phəːm	pʰ əː m	khan1274	1-62	1 7 4	AXN	PEM	9	9.P.C 9.E.V 9.M.c	2.0 1.5 0.8	pʰəːm	0	174	pʰ əː m	174
 972	breathe	ChuDongGua	həh phəːm	həh phəːm	h ə h + pʰ əː m		1-62	3 7 3 9 1 7 4	AXN_AXN	HEH_PEM	3	3.H.C 3.E.V 3.H.c 3._._ 3.P.C 3.E.V 3.M.c	2.0 1.5 0.8 0.0 2.0 1.5 0.8	həh+pʰəːm	0	173 174	h ə h + pʰ əː m	173 174
@@ -237,21 +241,36 @@ ID	CONCEPT	DOCULECT	VALUE	FORM	TOKENS	GLOTTOLOG	COG	SONARS	PROSTRINGS	CLASSES	LA
 1074	die	GuangKa	ʥɔːm	ʥɔːm	dʑ ɔː m	ruma1248	1-68	2 7 4	AXN	CUM	4	4.C.C 4.U.V 4.M.c	2.0 1.5 0.8	dʑɔːm	0	304	dʑ ɔː m	304
 1075	die	MangBang	jɔm	jɔm	j ɔ m	ruma1248	1-68	6 7 4	AXN	JUM	7	7.J.C 7.U.V 7.M.c	2.0 1.5 0.8	jɔm	0	304	j ɔ m	304
 1076	die	NanSang	jɔm	jɔm	j ɔ m	ruma1248	1-68	6 7 4	AXN	JUM	11	11.J.C 11.U.V 11.M.c	2.0 1.5 0.8	jɔm	0	304	j ɔ m	304
+<<<<<<< HEAD
 1172	dig	NamHsan	kәhɓɨŋ	kәhɓɨŋ	k ə h + ɓ ɨ ŋ		1-75	1 7 3 9 1 7 4	AXN_AXN	KEH_PIN	10	10.K.C 10.E.V 10.H.c 10._._ 10.P.C 10.I.V 10.N.c	2.0 1.5 0.8 0.0 2.0 1.5 0.8	kəh+ɓɨŋ	0	321 324	k ə h + ɓ ɨ ŋ	321 324
+=======
+1172	dig	NamHsan	kәhɓɨŋ	kәhɓɨŋ	k ə h + ɓ ɨ ŋ		1-75	1 7 3 9 1 7 4	AXN_AXN	KEH_PIN	10	10.K.C 10.E.V 10.H.c 10._._ 10.P.C 10.I.V 10.N.c	2.0 1.5 0.8 0.0 2.0 1.5 0.8	kəh+ɓɨŋ	0	321 323	k ə h + ɓ ɨ ŋ	321 323
+>>>>>>> a82093682bb7541a6438b44db8db847b00f4858e
 1173	dig	KhunHawt	kәːŋ	kәːŋ	k əː ŋ		2-75	1 7 4	AXN	KEN	6	6.K.C 6.E.V 6.N.c	2.0 1.5 0.8	kəːŋ	0	321	k əː ŋ	321
 1174	dig	HtanHsan	kәːŋ	kәːŋ	k əː ŋ		2-75	1 7 4	AXN	KEN	5	5.K.C 5.E.V 5.N.c	2.0 1.5 0.8	kəːŋ	0	321	k əː ŋ	321
 1175	dig	PangKham	ɡəh	ɡəh	g ə h		2-75	1 7 3	AXN	KEH	14	14.K.C 14.E.V 14.H.c	2.0 1.5 0.8	gəh	0	321	g ə h	321
 1176	dig	ManLoi	ɡəh	ɡəh	g ə h		2-75	1 7 3	AXN	KEH	8	8.K.C 8.E.V 8.H.c	2.0 1.5 0.8	gəh	0	321	g ə h	321
+<<<<<<< HEAD
 1177	dig	MengDan	loʔ	loʔ	l o ʔ	khan1274	3-75	5 7 1	AXN	LUH	9	9.L.C 9.U.V 9.H.c	2.0 1.5 0.8	loʔ	0	323	l o ʔ	323
 1178	dig	ChuDongGua	loʔ	loʔ	l o ʔ		3-75	5 7 1	AXN	LUH	3	3.L.C 3.U.V 3.H.c	2.0 1.5 0.8	loʔ	0	323	l o ʔ	323
+=======
+1177	dig	MengDan	loʔ	loʔ	l o ʔ	khan1274	3-75	5 7 1	AXN	LUH	9	9.L.C 9.U.V 9.H.c	2.0 1.5 0.8	loʔ	0	322	l o ʔ	322
+1178	dig	ChuDongGua	loʔ	loʔ	l o ʔ		3-75	5 7 1	AXN	LUH	3	3.L.C 3.U.V 3.H.c	2.0 1.5 0.8	loʔ	0	322	l o ʔ	322
+>>>>>>> a82093682bb7541a6438b44db8db847b00f4858e
 1179	dig	XiangZhaiTang	ɡəx	ɡəx	g ə x	ruma1248	2-75	1 7 3	AXN	KEG	16	16.K.C 16.E.V 16.G.c	2.0 1.5 0.8	gəx	0	321	g ə x	321
 1180	dig	PongNuea	ɡəh	ɡəh	g ə h		2-75	1 7 3	AXN	KEH	15	15.K.C 15.E.V 15.H.c	2.0 1.5 0.8	gəh	0	321	g ə h	321
 1181	dig	NyaungGone	ɡə̆h	ɡə̆h	g ə̆ h		2-75	1 7 3	AXN	KEH	13	13.K.C 13.E.V 13.H.c	2.0 1.5 0.8	gə̆h	0	321	g ə̆ h	321
 1182	dig	NoeLae	ɡə̆h	ɡə̆h	g ə̆ h		2-75	1 7 3	AXN	KEH	12	12.K.C 12.E.V 12.H.c	2.0 1.5 0.8	gə̆h	0	321	g ə̆ h	321
 1183	dig	BanPaw	ɡə̆h	ɡə̆h	g ə̆ h		2-75	1 7 3	AXN	KEH	1	1.K.C 1.E.V 1.H.c	2.0 1.5 0.8	gə̆h	0	321	g ə̆ h	321
+<<<<<<< HEAD
 1184	dig	ChaYeQing	khut	khut	kʰ u t		4-75	1 7 1	AXN	KYT	2	2.K.C 2.Y.V 2.T.c	2.0 1.5 0.8	kʰut	0	322	kʰ u t	322
 1185	dig	GuangKa	lok	lok	l o k	ruma1248	3-75	5 7 1	AXN	LUK	4	4.L.C 4.U.V 4.K.c	2.0 1.5 0.8	lok	0	323	l o k	323
 1186	dig	MangBang	lok	lok	l o k	ruma1248	3-75	5 7 1	AXN	LUK	7	7.L.C 7.U.V 7.K.c	2.0 1.5 0.8	lok	0	323	l o k	323
+=======
+1184	dig	ChaYeQing	khut	khut	kʰ u t		4-75	1 7 1	AXN	KYT	2	2.K.C 2.Y.V 2.T.c	2.0 1.5 0.8	kʰut	0	321	kʰ u t	321
+1185	dig	GuangKa	lok	lok	l o k	ruma1248	3-75	5 7 1	AXN	LUK	4	4.L.C 4.U.V 4.K.c	2.0 1.5 0.8	lok	0	322	l o k	322
+1186	dig	MangBang	lok	lok	l o k	ruma1248	3-75	5 7 1	AXN	LUK	7	7.L.C 7.U.V 7.K.c	2.0 1.5 0.8	lok	0	322	l o k	322
+>>>>>>> a82093682bb7541a6438b44db8db847b00f4858e
 1187	dig	NanSang	kəh	kəh	k ə h	ruma1248	2-75	1 7 3	AXN	KEH	11	11.K.C 11.E.V 11.H.c	2.0 1.5 0.8	kəh	0	321	k ə h	321
 305	dog	NamHsan	ɁaɁoɁ	ɁaɁoɁ	ʔ a + ʔ o ʔ		1-20	1 7 9 1 7 1	AX_AXN	HA_HUH	10	10.H.C 10.A.V 10._._ 10.H.C 10.U.V 10.H.c	2.0 1.5 0.0 2.0 1.5 0.8	ʔa+ʔoʔ	0	342 341	ʔ a - + ʔ o ʔ	243 341
 306	dog	KhunHawt	ɁaɁoɁ	ɁaɁoɁ	ʔ a + ʔ o ʔ		1-20	1 7 9 1 7 1	AX_AXN	HA_HUH	6	6.H.C 6.A.V 6._._ 6.H.C 6.U.V 6.H.c	2.0 1.5 0.0 2.0 1.5 0.8	ʔa+ʔoʔ	0	342 341	ʔ a - + ʔ o ʔ	243 341
@@ -285,11 +304,19 @@ ID	CONCEPT	DOCULECT	VALUE	FORM	TOKENS	GLOTTOLOG	COG	SONARS	PROSTRINGS	CLASSES	LA
 947	drink	GuangKa	ʨoŋ	ʨoŋ	tɕ o ŋ	ruma1248	2-60	2 7 4	AXN	CUN	4	4.C.C 4.U.V 4.N.c	2.0 1.5 0.8	tɕoŋ	0	368	tɕ o ŋ	368
 948	drink	MangBang	ʨoŋ	ʨoŋ	tɕ o ŋ	ruma1248	2-60	2 7 4	AXN	CUN	7	7.C.C 7.U.V 7.N.c	2.0 1.5 0.8	tɕoŋ	0	368	tɕ o ŋ	368
 949	drink	NanSang	ʨoŋ	ʨoŋ	tɕ o ŋ	ruma1248	2-60	2 7 4	AXN	CUN	11	11.C.C 11.U.V 11.N.c	2.0 1.5 0.8	tɕoŋ	0	368	tɕ o ŋ	368
+<<<<<<< HEAD
 529	ear	NamHsan	lajʨhɔːɁ	lajʨhɔːɁ	l a j + ʨʰ ɔː ʔ		1-34	5 7 6 9 2 7 1	AXN_AXN	LAJ_CUH	10	10.L.C 10.A.V 10.J.c 10._._ 10.C.C 10.U.V 10.H.c	2.0 1.5 0.8 0.0 2.0 1.5 0.8	laj+ʨʰɔːʔ	0	390 386	l a j + ʨʰ ɔː - - ʔ	390 386
 530	ear	KhunHawt	ralaŋ	ralaŋ	r a + l a ŋ		2-34	5 7 9 5 7 4	AX_AXN	RA_LAN	6	6.R.C 6.A.V 6._._ 6.L.C 6.A.V 6.N.c	2.0 1.5 0.0 2.0 1.5 0.8	ra+laŋ	0	387 388	r a + l a ŋ	387 388
 531	ear	HtanHsan	lalaŋ	lalaŋ	l a + l a ŋ		2-34	5 7 9 5 7 4	AX_AXN	LA_LAN	5	5.L.C 5.A.V 5._._ 5.L.C 5.A.V 5.N.c	2.0 1.5 0.0 2.0 1.5 0.8	la+laŋ	0	387 388	l a + l a ŋ	387 388
 532	ear	PangKham	j̊ok	j̊ok	j̊ o k		1-34	6 7 1	AXN	JUK	14	14.J.C 14.U.V 14.K.c	2.0 1.5 0.8	j̊ok	0	386	j̊ o - - k	386
 533	ear	ManLoi	lɛːj̊ok	lɛːj̊ok	l ɛː + j̊ o k		1-34	5 7 9 6 7 1	AX_AXN	LE_JUK	8	8.L.C 8.E.V 8._._ 8.J.C 8.U.V 8.K.c	2.0 1.5 0.0 2.0 1.5 0.8	lɛː+j̊ok	0	387 386	l ɛː + j̊ o - - k	387 386
+=======
+529	ear	NamHsan	lajʨhɔːɁ	lajʨhɔːɁ	l a j + ʨʰ ɔː ʔ		1-34	5 7 6 9 2 7 1	AXN_AXN	LAJ_CUH	10	10.L.C 10.A.V 10.J.c 10._._ 10.C.C 10.U.V 10.H.c	2.0 1.5 0.8 0.0 2.0 1.5 0.8	laj+ʨʰɔːʔ	0	387 386	l a j + ʨʰ ɔː - - ʔ	387 386
+530	ear	KhunHawt	ralaŋ	ralaŋ	r a + l a ŋ		2-34	5 7 9 5 7 4	AX_AXN	RA_LAN	6	6.R.C 6.A.V 6._._ 6.L.C 6.A.V 6.N.c	2.0 1.5 0.0 2.0 1.5 0.8	ra+laŋ	0	387 388	r a - + l a ŋ	387 388
+531	ear	HtanHsan	lalaŋ	lalaŋ	l a + l a ŋ		2-34	5 7 9 5 7 4	AX_AXN	LA_LAN	5	5.L.C 5.A.V 5._._ 5.L.C 5.A.V 5.N.c	2.0 1.5 0.0 2.0 1.5 0.8	la+laŋ	0	387 388	l a - + l a ŋ	387 388
+532	ear	PangKham	j̊ok	j̊ok	j̊ o k		1-34	6 7 1	AXN	JUK	14	14.J.C 14.U.V 14.K.c	2.0 1.5 0.8	j̊ok	0	386	j̊ o - - k	386
+533	ear	ManLoi	lɛːj̊ok	lɛːj̊ok	l ɛː + j̊ o k		1-34	5 7 9 6 7 1	AX_AXN	LE_JUK	8	8.L.C 8.E.V 8._._ 8.J.C 8.U.V 8.K.c	2.0 1.5 0.0 2.0 1.5 0.8	lɛː+j̊ok	0	387 386	l ɛː - + j̊ o - - k	387 386
+>>>>>>> a82093682bb7541a6438b44db8db847b00f4858e
 534	ear	MengDan	j̊ok	j̊ok	j̊ o k	khan1274	1-34	6 7 1	AXN	JUK	9	9.J.C 9.U.V 9.K.c	2.0 1.5 0.8	j̊ok	0	389	j̊ o k	389
 535	ear	ChuDongGua	j̊o?	j̊o?	j̊ o ʔ		1-34	6 7 1	AXN	JUH	3	3.J.C 3.U.V 3.H.c	2.0 1.5 0.8	j̊oʔ	0	386	j̊ o - - ʔ	386
 536	ear	XiangZhaiTang	j̊auɁ	j̊auɁ	j̊ au ʔ	ruma1248	1-34	6 7 1	AXN	JAH	16	16.J.C 16.A.V 16.H.c	2.0 1.5 0.8	j̊auʔ	0	386	j̊ au - - ʔ	386
@@ -299,7 +326,11 @@ ID	CONCEPT	DOCULECT	VALUE	FORM	TOKENS	GLOTTOLOG	COG	SONARS	PROSTRINGS	CLASSES	LA
 540	ear	BanPaw	Ɂaj̊ouɁ	Ɂaj̊ouɁ	ʔ a + j̊ ou ʔ		1-34	1 7 9 6 7 1	AX_AXN	HA_JUH	1	1.H.C 1.A.V 1._._ 1.J.C 1.U.V 1.H.c	2.0 1.5 0.0 2.0 1.5 0.8	ʔa+j̊ouʔ	0	385 386	ʔ a - + j̊ ou - - ʔ	385 386
 541	ear	ChaYeQing	ʨhok	ʨhok	ʨʰ o k		1-34	2 7 1	AXN	CUK	2	2.C.C 2.U.V 2.K.c	2.0 1.5 0.8	ʨʰok	0	386	ʨʰ o - - k	386
 542	ear	GuangKa	ʨhok	ʨhok	ʨʰ o k	ruma1248	1-34	2 7 1	AXN	CUK	4	4.C.C 4.U.V 4.K.c	2.0 1.5 0.8	ʨʰok	0	386	ʨʰ o - - k	386
+<<<<<<< HEAD
 543	ear	MangBang	laʨhok	laʨhok	l a + ʨʰ o k	ruma1248	1-34	5 7 9 2 7 1	AX_AXN	LA_CUK	7	7.L.C 7.A.V 7._._ 7.C.C 7.U.V 7.K.c	2.0 1.5 0.0 2.0 1.5 0.8	la+ʨʰok	0	387 386	l a + ʨʰ o - - k	387 386
+=======
+543	ear	MangBang	laʨhok	laʨhok	l a + ʨʰ o k	ruma1248	1-34	5 7 9 2 7 1	AX_AXN	LA_CUK	7	7.L.C 7.A.V 7._._ 7.C.C 7.U.V 7.K.c	2.0 1.5 0.0 2.0 1.5 0.8	la+ʨʰok	0	387 386	l a - + ʨʰ o - - k	387 386
+>>>>>>> a82093682bb7541a6438b44db8db847b00f4858e
 544	ear	NanSang	ʨhok	ʨhok	ʨʰ o k	ruma1248	1-34	2 7 1	AXN	CUK	11	11.C.C 11.U.V 11.K.c	2.0 1.5 0.8	ʨʰok	0	386	ʨʰ o - - k	386
 145	earth, soil	NamHsan	kәɗɛː	kәɗɛː	k ə + ɗ ɛː		1-10	1 7 9 1 7	AX_AX	KE_TE	10	10.K.C 10.E.V 10._._ 10.T.C 10.E.V	2.0 1.5 0.0 2.0 1.5	kə+ɗɛː	0	409 410	k ə - + ɗ ɛː -	409 410
 146	earth, soil	KhunHawt	kәndɛj	kәndɛj	k ə n + d ɛ j		2-10	1 7 4 9 1 7 6	AXN_AXN	KEN_TEJ	6	6.K.C 6.E.V 6.N.c 6._._ 6.T.C 6.E.V 6.J.c	2.0 1.5 0.8 0.0 2.0 1.5 0.8	kən+dɛj	0	409 410	k ə n + d ɛ j	409 410
@@ -412,6 +443,7 @@ ID	CONCEPT	DOCULECT	VALUE	FORM	TOKENS	GLOTTOLOG	COG	SONARS	PROSTRINGS	CLASSES	LA
 726	fat	GuangKa	pjoŋ	pjoŋ	p io ŋ	ruma1248	2-46	1 7 4	AXN	PIN	4	4.P.C 4.I.V 4.N.c	2.0 1.5 0.8	pioŋ	0	541	p - io ŋ	541
 727	fat	MangBang	pjoŋ	pjoŋ	p io ŋ	ruma1248	2-46	1 7 4	AXN	PIN	7	7.P.C 7.I.V 7.N.c	2.0 1.5 0.8	pioŋ	0	541	p - io ŋ	541
 728	fat	NanSang	pjoŋ	pjoŋ	p io ŋ	ruma1248	2-46	1 7 4	AXN	PIN	11	11.P.C 11.I.V 11.N.c	2.0 1.5 0.8	pioŋ	0	541	p - io ŋ	541
+<<<<<<< HEAD
 1014	fear	NamHsan	ʥɔː	ʥɔː	dʑ ɔː		1-65	2 7	AX	CU	10	10.C.C 10.U.V	2.0 1.5	dʑɔː	0	558	dʑ ɔː -	558
 1015	fear	KhunHawt	jow	jow	j o w		1-65	6 7 6	AXN	JUW	6	6.J.C 6.U.V 6.W.c	2.0 1.5 0.8	jow	0	559	j o w	559
 1016	fear	HtanHsan	ʥoː	ʥoː	dʑ oː		1-65	2 7	AX	CU	5	5.C.C 5.U.V	2.0 1.5	dʑoː	0	558	dʑ oː -	558
@@ -427,6 +459,23 @@ ID	CONCEPT	DOCULECT	VALUE	FORM	TOKENS	GLOTTOLOG	COG	SONARS	PROSTRINGS	CLASSES	LA
 1026	fear	GuangKa	jaw	jaw	j a w	ruma1248	1-65	6 7 6	AXN	JAW	4	4.J.C 4.A.V 4.W.c	2.0 1.5 0.8	jaw	0	559	j a w	559
 1027	fear	MangBang	jaw	jaw	j a w	ruma1248	1-65	6 7 6	AXN	JAW	7	7.J.C 7.A.V 7.W.c	2.0 1.5 0.8	jaw	0	559	j a w	559
 1028	fear	NanSang	jaw	jaw	j a w	ruma1248	1-65	6 7 6	AXN	JAW	11	11.J.C 11.A.V 11.W.c	2.0 1.5 0.8	jaw	0	559	j a w	559
+=======
+1014	fear	NamHsan	ʥɔː	ʥɔː	dʑ ɔː		1-65	2 7	AX	CU	10	10.C.C 10.U.V	2.0 1.5	dʑɔː	0	559	dʑ ɔː - -	559
+1015	fear	KhunHawt	jow	jow	j o w		1-65	6 7 6	AXN	JUW	6	6.J.C 6.U.V 6.W.c	2.0 1.5 0.8	jow	0	558	j o w	558
+1016	fear	HtanHsan	ʥoː	ʥoː	dʑ oː		1-65	2 7	AX	CU	5	5.C.C 5.U.V	2.0 1.5	dʑoː	0	559	dʑ oː - -	559
+1017	fear	PangKham	ʥoː	ʥoː	dʑ oː		1-65	2 7	AX	CU	14	14.C.C 14.U.V	2.0 1.5	dʑoː	0	559	dʑ oː - -	559
+1018	fear	ManLoi	ʥɔː	ʥɔː	dʑ ɔː		1-65	2 7	AX	CU	8	8.C.C 8.U.V	2.0 1.5	dʑɔː	0	559	dʑ ɔː - -	559
+1019	fear	MengDan	ʥoː	ʥoː	dʑ oː	khan1274	1-65	2 7	AX	CU	9	9.C.C 9.U.V	2.0 1.5	dʑoː	0	559	dʑ oː - -	559
+1020	fear	ChuDongGua	joː	joː	j oː		1-65	6 7	AX	JU	3	3.J.C 3.U.V	2.0 1.5	joː	0	558	j oː -	558
+1021	fear	PongNuea	jow	jow	j o w		1-65	6 7 6	AXN	JUW	15	15.J.C 15.U.V 15.W.c	2.0 1.5 0.8	jow	0	558	j o w	558
+1022	fear	NyaungGone	kacua	kacua	k a + c u a		2-65	1 7 9 1 7 7	AX_AXZ	KA_CYA	13	13.K.C 13.A.V 13._._ 13.C.C 13.Y.V 13.A.V	2.0 1.5 0.0 2.0 1.5 0.8	ka+cua	0	560 559	k a - + c u - a	560 559
+1023	fear	NoeLae	kacua	kacua	k a + c u a		2-65	1 7 9 1 7 7	AX_AXZ	KA_CYA	12	12.K.C 12.A.V 12._._ 12.C.C 12.Y.V 12.A.V	2.0 1.5 0.0 2.0 1.5 0.8	ka+cua	0	560 559	k a - + c u - a	560 559
+1024	fear	BanPaw	jo	jo	j o		1-65	6 7	AX	JU	1	1.J.C 1.U.V	2.0 1.5	jo	0	558	j o -	558
+1025	fear	ChaYeQing	ʥaw	ʥaw	dʑ a w		1-65	2 7 6	AXN	CAW	2	2.C.C 2.A.V 2.W.c	2.0 1.5 0.8	dʑaw	0	559	dʑ a w -	559
+1026	fear	GuangKa	jaw	jaw	j a w	ruma1248	1-65	6 7 6	AXN	JAW	4	4.J.C 4.A.V 4.W.c	2.0 1.5 0.8	jaw	0	558	j a w	558
+1027	fear	MangBang	jaw	jaw	j a w	ruma1248	1-65	6 7 6	AXN	JAW	7	7.J.C 7.A.V 7.W.c	2.0 1.5 0.8	jaw	0	558	j a w	558
+1028	fear	NanSang	jaw	jaw	j a w	ruma1248	1-65	6 7 6	AXN	JAW	11	11.J.C 11.A.V 11.W.c	2.0 1.5 0.8	jaw	0	558	j a w	558
+>>>>>>> a82093682bb7541a6438b44db8db847b00f4858e
 838	fire	NamHsan	ŋar	ŋar	ŋ a r		1-54	4 7 5	AXN	NAR	10	10.N.C 10.A.V 10.R.c	2.0 1.5 0.8	ŋar	0	576	ŋ a r	1734
 839	fire	KhunHawt	ŋar	ŋar	ŋ a r		1-54	4 7 5	AXN	NAR	6	6.N.C 6.A.V 6.R.c	2.0 1.5 0.8	ŋar	0	576	ŋ a r	1734
 840	fire	HtanHsan	ŋal	ŋal	ŋ a l		1-54	4 7 5	AXN	NAL	5	5.N.C 5.A.V 5.L.c	2.0 1.5 0.8	ŋal	0	576	ŋ a l	1734
@@ -571,8 +620,13 @@ ID	CONCEPT	DOCULECT	VALUE	FORM	TOKENS	GLOTTOLOG	COG	SONARS	PROSTRINGS	CLASSES	LA
 1137	give	GuangKa	dɛh	dɛh	d ɛ h	ruma1248	1-72	1 7 3	AXN	TEH	4	4.T.C 4.E.V 4.H.c	2.0 1.5 0.8	dɛh	0	720	d ɛ h	720
 1138	give	MangBang	dɛh	dɛh	d ɛ h	ruma1248	1-72	1 7 3	AXN	TEH	7	7.T.C 7.E.V 7.H.c	2.0 1.5 0.8	dɛh	0	720	d ɛ h	720
 1139	give	NanSang	dɛh	dɛh	d ɛ h	ruma1248	1-72	1 7 3	AXN	TEH	11	11.T.C 11.E.V 11.H.c	2.0 1.5 0.8	dɛh	0	720	d ɛ h	720
+<<<<<<< HEAD
 273	grass	NamHsan	kәrbaːn	kәrbaːn	k ə r + b aː n		1-18	1 7 5 9 1 7 4	AXN_AXN	KER_PAN	10	10.K.C 10.E.V 10.R.c 10._._ 10.P.C 10.A.V 10.N.c	2.0 1.5 0.8 0.0 2.0 1.5 0.8	kər+baːn	0	740 741	k ə r + b aː n	740 741
 274	grass	KhunHawt	kәrbaːn	kәrbaːn	k ə r + b aː n		1-18	1 7 5 9 1 7 4	AXN_AXN	KER_PAN	6	6.K.C 6.E.V 6.R.c 6._._ 6.P.C 6.A.V 6.N.c	2.0 1.5 0.8 0.0 2.0 1.5 0.8	kər+baːn	0	740 741	k ə r + b aː n	740 741
+=======
+273	grass	NamHsan	kәrbaːn	kәrbaːn	k ə r + b aː n		1-18	1 7 5 9 1 7 4	AXN_AXN	KER_PAN	10	10.K.C 10.E.V 10.R.c 10._._ 10.P.C 10.A.V 10.N.c	2.0 1.5 0.8 0.0 2.0 1.5 0.8	kər+baːn	0	740 739	k ə r + b - aː n	740 739
+274	grass	KhunHawt	kәrbaːn	kәrbaːn	k ə r + b aː n		1-18	1 7 5 9 1 7 4	AXN_AXN	KER_PAN	6	6.K.C 6.E.V 6.R.c 6._._ 6.P.C 6.A.V 6.N.c	2.0 1.5 0.8 0.0 2.0 1.5 0.8	kər+baːn	0	740 739	k ə r + b - aː n	740 739
+>>>>>>> a82093682bb7541a6438b44db8db847b00f4858e
 275	grass	HtanHsan	brej	brej	b r e j		2-18	1 5 7 6	ACXN	PREJ	5	5.P.C 5.R.C 5.E.V 5.J.c	2.0 1.5 1.5 0.8	brej	0	739	b r e j	739
 276	grass	PangKham	praj	praj	p r a j		2-18	1 5 7 6	ACXN	PRAJ	14	14.P.C 14.R.C 14.A.V 14.J.c	2.0 1.5 1.5 0.8	praj	0	739	p r a j	739
 277	grass	ManLoi	praj	praj	p r a j		2-18	1 5 7 6	ACXN	PRAJ	8	8.P.C 8.R.C 8.A.V 8.J.c	2.0 1.5 1.5 0.8	praj	0	739	p r a j	739
@@ -635,6 +689,7 @@ ID	CONCEPT	DOCULECT	VALUE	FORM	TOKENS	GLOTTOLOG	COG	SONARS	PROSTRINGS	CLASSES	LA
 478	head	GuangKa	ken	ken	k e n	ruma1248	1-30	1 7 4	AXN	KEN	4	4.K.C 4.E.V 4.N.c	2.0 1.5 0.8	ken	0	805	k e n	805
 479	head	MangBang	kən	kən	k ə n	ruma1248	1-30	1 7 4	AXN	KEN	7	7.K.C 7.E.V 7.N.c	2.0 1.5 0.8	kən	0	805	k ə n	805
 480	head	NanSang	kən	kən	k ə n	ruma1248	1-30	1 7 4	AXN	KEN	11	11.K.C 11.E.V 11.N.c	2.0 1.5 0.8	kən	0	805	k ə n	805
+<<<<<<< HEAD
 609	heart	NamHsan	ble phәːm	ble phәːm	b l e + pʰ əː m		1-39	1 5 7 9 1 7 4	ACX_AXN	PLE_PEM	10	10.P.C 10.L.C 10.E.V 10._._ 10.P.C 10.E.V 10.M.c	2.0 1.5 1.5 0.0 2.0 1.5 0.8	ble+pʰəːm	0	825 827	b l e - + pʰ əː m	486 827
 610	heart	KhunHawt	blej phә:m	blej phә:m	b l ei + pʰ əː m		1-39	1 5 7 9 1 7 4	ACX_AXN	PLE_PEM	6	6.P.C 6.L.C 6.E.V 6._._ 6.P.C 6.E.V 6.M.c	2.0 1.5 1.5 0.0 2.0 1.5 0.8	blei+pʰəːm	0	825 827	b l ei - + pʰ əː m	486 827
 611	heart	HtanHsan	blej phәːm	blej phәːm	b l ei + pʰ əː m		1-39	1 5 7 9 1 7 4	ACX_AXN	PLE_PEM	5	5.P.C 5.L.C 5.E.V 5._._ 5.P.C 5.E.V 5.M.c	2.0 1.5 1.5 0.0 2.0 1.5 0.8	blei+pʰəːm	0	825 827	b l ei - + pʰ əː m	486 827
@@ -650,6 +705,23 @@ ID	CONCEPT	DOCULECT	VALUE	FORM	TOKENS	GLOTTOLOG	COG	SONARS	PROSTRINGS	CLASSES	LA
 621	heart	GuangKa	poŋ kənɔh	poŋ kənɔh	p o ŋ + k ə + n ɔ h	ruma1248	2-39	1 7 4 9 1 7 9 4 7 3	AXN_AX_AXN	PUN_KE_NUH	4	4.P.C 4.U.V 4.N.c 4._._ 4.K.C 4.E.V 4._._ 4.N.C 4.U.V 4.H.c	2.0 1.5 0.8 0.0 2.0 1.5 0.0 2.0 1.5 0.8	poŋ+kə+nɔh	0	827 828 826	p o ŋ + k ə - + n ɔ h	827 828 826
 622	heart	MangBang	kənɔh	kənɔh	k ə + n ɔ h	ruma1248	2-39	1 7 9 4 7 3	AX_AXN	KE_NUH	7	7.K.C 7.E.V 7._._ 7.N.C 7.U.V 7.H.c	2.0 1.5 0.0 2.0 1.5 0.8	kə+nɔh	0	828 826	k ə - + n ɔ h	828 826
 623	heart	NanSang	poŋkanɔh	poŋkanɔh	p o ŋ + k a + n ɔ h	ruma1248	2-39	1 7 4 9 1 7 9 4 7 3	AXN_AX_AXN	PUN_KA_NUH	11	11.P.C 11.U.V 11.N.c 11._._ 11.K.C 11.A.V 11._._ 11.N.C 11.U.V 11.H.c	2.0 1.5 0.8 0.0 2.0 1.5 0.0 2.0 1.5 0.8	poŋ+ka+nɔh	0	827 828 826	p o ŋ + k a - + n ɔ h	827 828 826
+=======
+609	heart	NamHsan	ble phәːm	ble phәːm	b l e + pʰ əː m		1-39	1 5 7 9 1 7 4	ACX_AXN	PLE_PEM	10	10.P.C 10.L.C 10.E.V 10._._ 10.P.C 10.E.V 10.M.c	2.0 1.5 1.5 0.0 2.0 1.5 0.8	ble+pʰəːm	0	825 828	b l e - + pʰ əː m	486 828
+610	heart	KhunHawt	blej phә:m	blej phә:m	b l ei + pʰ əː m		1-39	1 5 7 9 1 7 4	ACX_AXN	PLE_PEM	6	6.P.C 6.L.C 6.E.V 6._._ 6.P.C 6.E.V 6.M.c	2.0 1.5 1.5 0.0 2.0 1.5 0.8	blei+pʰəːm	0	825 828	b l ei - + pʰ əː m	486 828
+611	heart	HtanHsan	blej phәːm	blej phәːm	b l ei + pʰ əː m		1-39	1 5 7 9 1 7 4	ACX_AXN	PLE_PEM	5	5.P.C 5.L.C 5.E.V 5._._ 5.P.C 5.E.V 5.M.c	2.0 1.5 1.5 0.0 2.0 1.5 0.8	blei+pʰəːm	0	825 828	b l ei - + pʰ əː m	486 828
+612	heart	PangKham	bleː phәːm	bleː phәːm	b l eː + pʰ əː m		1-39	1 5 7 9 1 7 4	ACX_AXN	PLE_PEM	14	14.P.C 14.L.C 14.E.V 14._._ 14.P.C 14.E.V 14.M.c	2.0 1.5 1.5 0.0 2.0 1.5 0.8	bleː+pʰəːm	0	825 828	b l eː - + pʰ əː m	486 828
+613	heart	ManLoi	bleː phәːm	bleː phәːm	b l eː + pʰ əː m		1-39	1 5 7 9 1 7 4	ACX_AXN	PLE_PEM	8	8.P.C 8.L.C 8.E.V 8._._ 8.P.C 8.E.V 8.M.c	2.0 1.5 1.5 0.0 2.0 1.5 0.8	bleː+pʰəːm	0	825 828	b l eː - + pʰ əː m	486 828
+614	heart	MengDan	bli nɔjh	bli nɔjh	b l i + n ɔi h	khan1274	2-39	1 5 7 9 4 7 3	ACX_AXN	PLI_NUH	9	9.P.C 9.L.C 9.I.V 9._._ 9.N.C 9.U.V 9.H.c	2.0 1.5 1.5 0.0 2.0 1.5 0.8	bli+nɔih	0	825 826	b l i - + n ɔi h	486 826
+615	heart	ChuDongGua	nɔːj	nɔːj	n ɔː j		2-39	4 7 6	AXN	NUJ	3	3.N.C 3.U.V 3.J.c	2.0 1.5 0.8	nɔːj	0	826	n ɔː j	826
+616	heart	XiangZhaiTang	blejnɔx	blejnɔx	b l ei + n ɔ x	ruma1248	2-39	1 5 7 9 4 7 3	ACX_AXN	PLE_NUG	16	16.P.C 16.L.C 16.E.V 16._._ 16.N.C 16.U.V 16.G.c	2.0 1.5 1.5 0.0 2.0 1.5 0.8	blei+nɔx	0	825 826	b l ei - + n ɔ x	486 826
+617	heart	PongNuea	berɔː	berɔː	b e + r ɔː		3-39	1 7 9 5 7	AX_AX	PE_RU	15	15.P.C 15.E.V 15._._ 15.R.C 15.U.V	2.0 1.5 0.0 2.0 1.5	be+rɔː	0	828 830	b e - + r ɔː	828 830
+618	heart	NoeLae	baraw	baraw	b a + r a w		3-39	1 7 9 5 7 6	AX_AXN	PA_RAW	12	12.P.C 12.A.V 12._._ 12.R.C 12.A.V 12.W.c	2.0 1.5 0.0 2.0 1.5 0.8	ba+raw	0	828 829	b a - + r a w	828 829
+619	heart	BanPaw	mahujə	mahujə	m a + h u + j ə		4-39	4 7 9 3 7 9 6 7	AX_AX_AX	MA_HY_JE	1	1.M.C 1.A.V 1._._ 1.H.C 1.Y.V 1._._ 1.J.C 1.E.V	2.0 1.5 0.0 2.0 1.5 0.0 2.0 1.5	ma+hu+jə	0	822 823 824	m a + h u + j ə	822 823 824
+620	heart	ChaYeQing	blɔːjnɔh	blɔːjnɔh	b l ɔː j + n ɔ h		2-39	1 5 7 6 9 4 7 3	ACXN_AXN	PLUJ_NUH	2	2.P.C 2.L.C 2.U.V 2.J.c 2._._ 2.N.C 2.U.V 2.H.c	2.0 1.5 1.5 0.8 0.0 2.0 1.5 0.8	blɔːj+nɔh	0	825 826	b l ɔː j + n ɔ h	486 826
+621	heart	GuangKa	poŋ kənɔh	poŋ kənɔh	p o ŋ + k ə + n ɔ h	ruma1248	2-39	1 7 4 9 1 7 9 4 7 3	AXN_AX_AXN	PUN_KE_NUH	4	4.P.C 4.U.V 4.N.c 4._._ 4.K.C 4.E.V 4._._ 4.N.C 4.U.V 4.H.c	2.0 1.5 0.8 0.0 2.0 1.5 0.0 2.0 1.5 0.8	poŋ+kə+nɔh	0	825 827 826	p - o ŋ + k ə - + n ɔ h	486 827 826
+622	heart	MangBang	kənɔh	kənɔh	k ə + n ɔ h	ruma1248	2-39	1 7 9 4 7 3	AX_AXN	KE_NUH	7	7.K.C 7.E.V 7._._ 7.N.C 7.U.V 7.H.c	2.0 1.5 0.0 2.0 1.5 0.8	kə+nɔh	0	827 826	k ə - + n ɔ h	827 826
+623	heart	NanSang	poŋkanɔh	poŋkanɔh	p o ŋ + k a + n ɔ h	ruma1248	2-39	1 7 4 9 1 7 9 4 7 3	AXN_AX_AXN	PUN_KA_NUH	11	11.P.C 11.U.V 11.N.c 11._._ 11.K.C 11.A.V 11._._ 11.N.C 11.U.V 11.H.c	2.0 1.5 0.8 0.0 2.0 1.5 0.0 2.0 1.5 0.8	poŋ+ka+nɔh	0	825 827 826	p - o ŋ + k a - + n ɔ h	486 827 826
+>>>>>>> a82093682bb7541a6438b44db8db847b00f4858e
 1507	heavy	NamHsan	ʥan	ʥan	dʑ a n		1-96	2 7 4	AXN	CAN	10	10.C.C 10.A.V 10.N.c	2.0 1.5 0.8	dʑan	0	855	dʑ a n	855
 1508	heavy	KhunHawt	ʥan	ʥan	dʑ a n		1-96	2 7 4	AXN	CAN	6	6.C.C 6.A.V 6.N.c	2.0 1.5 0.8	dʑan	0	855	dʑ a n	855
 1509	heavy	HtanHsan	ʥan	ʥan	dʑ a n		1-96	2 7 4	AXN	CAN	5	5.C.C 5.A.V 5.N.c	2.0 1.5 0.8	dʑan	0	855	dʑ a n	855
@@ -683,6 +755,7 @@ ID	CONCEPT	DOCULECT	VALUE	FORM	TOKENS	GLOTTOLOG	COG	SONARS	PROSTRINGS	CLASSES	LA
 351	horn	MangBang	nɨŋ	nɨŋ	n ɨ ŋ	ruma1248	1-22	4 7 4	AXN	NIN	7	7.N.C 7.I.V 7.N.c	2.0 1.5 0.8	nɨŋ	0	872	n ɨ ŋ	872
 352	horn	NanSang	nɨŋ	nɨŋ	n ɨ ŋ	ruma1248	1-22	4 7 4	AXN	NIN	11	11.N.C 11.I.V 11.N.c	2.0 1.5 0.8	nɨŋ	0	872	n ɨ ŋ	872
 1204	hunt	NamHsan	biam	biam	b ia m		1-77	1 7 4	AXN	PIM	10	10.P.C 10.I.V 10.M.c	2.0 1.5 0.8	biam	0	891	b - ia m	891
+<<<<<<< HEAD
 1205	hunt	KhunHawt	koh priː	koh priː	k o h + p r iː		2-77	1 7 3 9 1 5 7	AXN_ACX	KUH_PRI	6	6.K.C 6.U.V 6.H.c 6._._ 6.P.C 6.R.C 6.I.V	2.0 1.5 0.8 0.0 2.0 1.5 1.5	koh+priː	0	894 891	k - o h + p r iː -	894 891
 1206	hunt	HtanHsan	luaŋbrej	luaŋbrej	l ua ŋ + b r e j		3-77	5 7 4 9 1 5 7 6	AXN_ACXN	LYN_PREJ	5	5.L.C 5.Y.V 5.N.c 5._._ 5.P.C 5.R.C 5.E.V 5.J.c	2.0 1.5 0.8 0.0 2.0 1.5 1.5 0.8	luaŋ+brej	0	892 891	- l ua ŋ + b r e j	892 891
 1207	hunt	PangKham	kuh praj	kuh praj	k u h + p r a j		2-77	1 7 3 9 1 5 7 6	AXN_ACXN	KYH_PRAJ	14	14.K.C 14.Y.V 14.H.c 14._._ 14.P.C 14.R.C 14.A.V 14.J.c	2.0 1.5 0.8 0.0 2.0 1.5 1.5 0.8	kuh+praj	0	894 891	k - u h + p r a j	894 891
@@ -698,6 +771,23 @@ ID	CONCEPT	DOCULECT	VALUE	FORM	TOKENS	GLOTTOLOG	COG	SONARS	PROSTRINGS	CLASSES	LA
 1217	hunt	GuangKa	pai toː	pai toː	p ai + t oː	ruma1248	7-77	1 7 9 1 7	AX_AX	PA_TU	4	4.P.C 4.A.V 4._._ 4.T.C 4.U.V	2.0 1.5 0.0 2.0 1.5	pai+toː	0	891 893	p - ai - + - - t oː	891 893
 1218	hunt	MangBang	lɛː	lɛː	l ɛː	ruma1248	8-77	5 7	AX	LE	7	7.L.C 7.E.V	2.0 1.5	lɛː	0	892	- l ɛː -	892
 1219	hunt	NanSang	jɨtoː	jɨtoː	j ɨ t oː	ruma1248	9-77	6 7 1 7	AXBZ	JITU	11	11.J.C 11.I.V 11.T.C 11.U.V	2.0 1.5 1.75 0.8	jɨtoː	0	893	j ɨ t oː	893
+=======
+1205	hunt	KhunHawt	koh priː	koh priː	k o h + p r iː		2-77	1 7 3 9 1 5 7	AXN_ACX	KUH_PRI	6	6.K.C 6.U.V 6.H.c 6._._ 6.P.C 6.R.C 6.I.V	2.0 1.5 0.8 0.0 2.0 1.5 1.5	koh+priː	0	893 891	k - o h + p r iː -	893 891
+1206	hunt	HtanHsan	luaŋbrej	luaŋbrej	l ua ŋ + b r e j		3-77	5 7 4 9 1 5 7 6	AXN_ACXN	LYN_PREJ	5	5.L.C 5.Y.V 5.N.c 5._._ 5.P.C 5.R.C 5.E.V 5.J.c	2.0 1.5 0.8 0.0 2.0 1.5 1.5 0.8	luaŋ+brej	0	892 891	l ua ŋ + b r e j	892 891
+1207	hunt	PangKham	kuh praj	kuh praj	k u h + p r a j		2-77	1 7 3 9 1 5 7 6	AXN_ACXN	KYH_PRAJ	14	14.K.C 14.Y.V 14.H.c 14._._ 14.P.C 14.R.C 14.A.V 14.J.c	2.0 1.5 0.8 0.0 2.0 1.5 1.5 0.8	kuh+praj	0	893 891	k - u h + p r a j	893 891
+1208	hunt	ManLoi	khrɔh praj	khrɔh praj	kʰ r ɔ h + p r a j		2-77	1 5 7 3 9 1 5 7 6	ACXN_ACXN	KRUH_PRAJ	8	8.K.C 8.R.C 8.U.V 8.H.c 8._._ 8.P.C 8.R.C 8.A.V 8.J.c	2.0 1.5 1.5 0.8 0.0 2.0 1.5 1.5 0.8	kʰrɔh+praj	0	893 891	kʰ r ɔ h + p r a j	893 891
+1209	hunt	MengDan	lip riŋ	lip riŋ	l i p + r i ŋ	khan1274	3-77	5 7 1 9 5 7 4	AXN_AXN	LIP_RIN	9	9.L.C 9.I.V 9.P.c 9._._ 9.R.C 9.I.V 9.N.c	2.0 1.5 0.8 0.0 2.0 1.5 0.8	lip+riŋ	0	892 891	l i p + - r i ŋ	892 891
+1210	hunt	ChuDongGua	klɔː brai	klɔː brai	k l ɔː + b r a j		2-77	1 5 7 9 1 5 7 6	ACX_ACXN	KLU_PRAJ	3	3.K.C 3.L.C 3.U.V 3._._ 3.P.C 3.R.C 3.A.V 3.J.c	2.0 1.5 1.5 0.0 2.0 1.5 1.5 0.8	klɔː+braj	0	893 891	k l ɔː - + b r a j	893 891
+1211	hunt	XiangZhaiTang	lɨpprɛː	lɨpprɛː	l ɨ p + p r ɛː	ruma1248	4-77	5 7 1 9 1 5 7	AXN_ACX	LIP_PRE	16	16.L.C 16.I.V 16.P.c 16._._ 16.P.C 16.R.C 16.E.V	2.0 1.5 0.8 0.0 2.0 1.5 1.5	lɨp+prɛː	0	892 891	l ɨ p + p r ɛː -	892 891
+1212	hunt	PongNuea	ŋauh	ŋauh	ŋ au h		5-77	4 7 3	AXN	NAH	15	15.N.C 15.A.V 15.H.c	2.0 1.5 0.8	ŋauh	0	897	ŋ au h	897
+1213	hunt	NyaungGone	lɛ khɛ prɛ	lɛ khɛ prɛ	l ɛ + kʰ ɛ + p r ɛ		6-77	5 7 9 1 7 9 1 5 7	AX_AX_ACX	LE_KE_PRE	13	13.L.C 13.E.V 13._._ 13.K.C 13.E.V 13._._ 13.P.C 13.R.C 13.E.V	2.0 1.5 0.0 2.0 1.5 0.0 2.0 1.5 1.5	lɛ+kʰɛ+prɛ	0	892 896 891	l ɛ - + kʰ ɛ + p r ɛ -	892 896 891
+1214	hunt	NoeLae	lɛ prɛ	lɛ prɛ	l ɛ + p r ɛ		6-77	5 7 9 1 5 7	AX_ACX	LE_PRE	12	12.L.C 12.E.V 12._._ 12.P.C 12.R.C 12.E.V	2.0 1.5 0.0 2.0 1.5 1.5	lɛ+prɛ	0	892 891	l ɛ - + p r ɛ -	892 891
+1215	hunt	BanPaw	ba prɛ	ba prɛ	b a + p r ɛ		6-77	1 7 9 1 5 7	AX_ACX	PA_PRE	1	1.P.C 1.A.V 1._._ 1.P.C 1.R.C 1.E.V	2.0 1.5 0.0 2.0 1.5 1.5	ba+prɛ	0	890 891	b a + p r ɛ -	890 891
+1216	hunt	ChaYeQing	ləp bjaj	ləp bjaj	l ə p + b ia j		4-77	5 7 1 9 1 7 6	AXN_AXN	LEP_PIJ	2	2.L.C 2.E.V 2.P.c 2._._ 2.P.C 2.I.V 2.J.c	2.0 1.5 0.8 0.0 2.0 1.5 0.8	ləp+biaj	0	892 891	l ə p + b - ia j	892 891
+1217	hunt	GuangKa	pai toː	pai toː	p ai + t oː	ruma1248	7-77	1 7 9 1 7	AX_AX	PA_TU	4	4.P.C 4.A.V 4._._ 4.T.C 4.U.V	2.0 1.5 0.0 2.0 1.5	pai+toː	0	891 894	p - ai - + t oː	891 894
+1218	hunt	MangBang	lɛː	lɛː	l ɛː	ruma1248	8-77	5 7	AX	LE	7	7.L.C 7.E.V	2.0 1.5	lɛː	0	892	l ɛː -	892
+1219	hunt	NanSang	jɨtoː	jɨtoː	j ɨ t oː	ruma1248	9-77	6 7 1 7	AXBZ	JITU	11	11.J.C 11.I.V 11.T.C 11.U.V	2.0 1.5 1.75 0.8	jɨtoː	0	895	j ɨ t oː	895
+>>>>>>> a82093682bb7541a6438b44db8db847b00f4858e
 639	intestines	MengDan	rɔːn ʔiar	rɔːn ʔiar	r ɔː n + ʔ ia r	khan1274	1-41	5 7 4 9 1 7 5	AXN_AXN	RUN_HIR	9	9.R.C 9.U.V 9.N.c 9._._ 9.H.C 9.I.V 9.R.c	2.0 1.5 0.8 0.0 2.0 1.5 0.8	rɔːn+ʔiar	0	920 924	r ɔː n + ʔ ia r	920 924
 640	intestines	ChuDongGua	rɔːn	rɔːn	r ɔː n		1-41	5 7 4	AXN	RUN	3	3.R.C 3.U.V 3.N.c	2.0 1.5 0.8	rɔːn	0	920	r ɔː n	920
 641	intestines	XiangZhaiTang	vac	vac	v a c	ruma1248	2-41	3 7 1	AXN	BAC	16	16.B.C 16.A.V 16.C.c	2.0 1.5 0.8	vac	1	921	- v a c	921
@@ -743,6 +833,7 @@ ID	CONCEPT	DOCULECT	VALUE	FORM	TOKENS	GLOTTOLOG	COG	SONARS	PROSTRINGS	CLASSES	LA
 982	laugh	NamHsan	jum	jum	j u m		1-63	6 7 4	AXN	JYM	10	10.J.C 10.Y.V 10.M.c	2.0 1.5 0.8	jum	0	976	j u m	976
 983	laugh	KhunHawt	ʥum	ʥum	dʑ u m		1-63	2 7 4	AXN	CYM	6	6.C.C 6.Y.V 6.M.c	2.0 1.5 0.8	dʑum	0	975	dʑ u m	975
 984	laugh	HtanHsan	ʥum	ʥum	dʑ u m		1-63	2 7 4	AXN	CYM	5	5.C.C 5.Y.V 5.M.c	2.0 1.5 0.8	dʑum	0	975	dʑ u m	975
+<<<<<<< HEAD
 985	laugh	PangKham	kanɲah	kanɲah	k a n + ɲ a h		2-63	1 7 4 9 4 7 3	AXN_AXN	KAN_NAH	14	14.K.C 14.A.V 14.N.c 14._._ 14.N.C 14.A.V 14.H.c	2.0 1.5 0.8 0.0 2.0 1.5 0.8	kan+ɲah	0	974 973	k a n + - - ɲ - a - h	828 973
 986	laugh	ManLoi	kaɲah	kaɲah	k a + ɲ a h		2-63	1 7 9 4 7 3	AX_AXN	KA_NAH	8	8.K.C 8.A.V 8._._ 8.N.C 8.A.V 8.H.c	2.0 1.5 0.0 2.0 1.5 0.8	ka+ɲah	0	974 973	k a - + - - ɲ - a - h	828 973
 987	laugh	MengDan	kaŋiah	kaŋiah	k a + ŋ i a h	khan1274	2-63	1 7 9 4 7 7 3	AX_AXYN	KA_NIAH	9	9.K.C 9.A.V 9._._ 9.N.C 9.I.V 9.A.V 9.H.c	2.0 1.5 0.0 2.0 1.5 1.3 0.8	ka+ŋiah	0	974 973	k a - + - - ŋ i a - h	828 973
@@ -756,6 +847,21 @@ ID	CONCEPT	DOCULECT	VALUE	FORM	TOKENS	GLOTTOLOG	COG	SONARS	PROSTRINGS	CLASSES	LA
 995	laugh	GuangKa	kəɲah	kəɲah	k ə + ɲ a h	ruma1248	2-63	1 7 9 4 7 3	AX_AXN	KE_NAH	4	4.K.C 4.E.V 4._._ 4.N.C 4.A.V 4.H.c	2.0 1.5 0.0 2.0 1.5 0.8	kə+ɲah	0	974 973	k ə - + - - ɲ - a - h	828 973
 996	laugh	MangBang	kəɲah	kəɲah	k ə + ɲ a h	ruma1248	2-63	1 7 9 4 7 3	AX_AXN	KE_NAH	7	7.K.C 7.E.V 7._._ 7.N.C 7.A.V 7.H.c	2.0 1.5 0.0 2.0 1.5 0.8	kə+ɲah	0	974 973	k ə - + - - ɲ - a - h	828 973
 997	laugh	NanSang	kaɲah	kaɲah	k a + ɲ a h	ruma1248	2-63	1 7 9 4 7 3	AX_AXN	KA_NAH	11	11.K.C 11.A.V 11._._ 11.N.C 11.A.V 11.H.c	2.0 1.5 0.0 2.0 1.5 0.8	ka+ɲah	0	974 973	k a - + - - ɲ - a - h	828 973
+=======
+985	laugh	PangKham	kanɲah	kanɲah	k a n + ɲ a h		2-63	1 7 4 9 4 7 3	AXN_AXN	KAN_NAH	14	14.K.C 14.A.V 14.N.c 14._._ 14.N.C 14.A.V 14.H.c	2.0 1.5 0.8 0.0 2.0 1.5 0.8	kan+ɲah	0	974 973	k a n + - - ɲ - a - h	827 973
+986	laugh	ManLoi	kaɲah	kaɲah	k a + ɲ a h		2-63	1 7 9 4 7 3	AX_AXN	KA_NAH	8	8.K.C 8.A.V 8._._ 8.N.C 8.A.V 8.H.c	2.0 1.5 0.0 2.0 1.5 0.8	ka+ɲah	0	974 973	k a - + - - ɲ - a - h	827 973
+987	laugh	MengDan	kaŋiah	kaŋiah	k a + ŋ i a h	khan1274	2-63	1 7 9 4 7 7 3	AX_AXYN	KA_NIAH	9	9.K.C 9.A.V 9._._ 9.N.C 9.I.V 9.A.V 9.H.c	2.0 1.5 0.0 2.0 1.5 1.3 0.8	ka+ŋiah	0	974 973	k a - + - - ŋ i a - h	827 973
+988	laugh	ChuDongGua	kəɲajh	kəɲajh	k ə + ɲ a j h		2-63	1 7 9 4 7 6 3	AX_AXLN	KE_NAJH	3	3.K.C 3.E.V 3._._ 3.N.C 3.A.V 3.J.c 3.H.c	2.0 1.5 0.0 2.0 1.5 1.1 0.8	kə+ɲajh	0	974 973	k ə - + - - ɲ - a j h	827 973
+989	laugh	XiangZhaiTang	kaɲah	kaɲah	k a + ɲ a h	ruma1248	2-63	1 7 9 4 7 3	AX_AXN	KA_NAH	16	16.K.C 16.A.V 16._._ 16.N.C 16.A.V 16.H.c	2.0 1.5 0.0 2.0 1.5 0.8	ka+ɲah	0	974 973	k a - + - - ɲ - a - h	827 973
+990	laugh	PongNuea	kaɲah	kaɲah	k a + ɲ a h		2-63	1 7 9 4 7 3	AX_AXN	KA_NAH	15	15.K.C 15.A.V 15._._ 15.N.C 15.A.V 15.H.c	2.0 1.5 0.0 2.0 1.5 0.8	ka+ɲah	0	974 973	k a - + - - ɲ - a - h	827 973
+991	laugh	NyaungGone	kaɲăh	kaɲăh	k a ɲ a h		2-63	1 7 4 7 3	AXBYN	KANAH	13	13.K.C 13.A.V 13.N.C 13.A.V 13.H.c	2.0 1.5 1.75 1.3 0.8	kaɲah	0	973	k a ɲ - a - h	973
+992	laugh	NoeLae	kaɲăh	kaɲăh	k a ɲ a h		2-63	1 7 4 7 3	AXBYN	KANAH	12	12.K.C 12.A.V 12.N.C 12.A.V 12.H.c	2.0 1.5 1.75 1.3 0.8	kaɲah	0	973	k a ɲ - a - h	973
+993	laugh	BanPaw	kaɲăh	kaɲăh	k a ɲ a h		2-63	1 7 4 7 3	AXBYN	KANAH	1	1.K.C 1.A.V 1.N.C 1.A.V 1.H.c	2.0 1.5 1.75 1.3 0.8	kaɲah	0	973	k a ɲ - a - h	973
+994	laugh	ChaYeQing	kəɲah	kəɲah	k ə + ɲ a h		2-63	1 7 9 4 7 3	AX_AXN	KE_NAH	2	2.K.C 2.E.V 2._._ 2.N.C 2.A.V 2.H.c	2.0 1.5 0.0 2.0 1.5 0.8	kə+ɲah	0	974 973	k ə - + - - ɲ - a - h	827 973
+995	laugh	GuangKa	kəɲah	kəɲah	k ə + ɲ a h	ruma1248	2-63	1 7 9 4 7 3	AX_AXN	KE_NAH	4	4.K.C 4.E.V 4._._ 4.N.C 4.A.V 4.H.c	2.0 1.5 0.0 2.0 1.5 0.8	kə+ɲah	0	974 973	k ə - + - - ɲ - a - h	827 973
+996	laugh	MangBang	kəɲah	kəɲah	k ə + ɲ a h	ruma1248	2-63	1 7 9 4 7 3	AX_AXN	KE_NAH	7	7.K.C 7.E.V 7._._ 7.N.C 7.A.V 7.H.c	2.0 1.5 0.0 2.0 1.5 0.8	kə+ɲah	0	974 973	k ə - + - - ɲ - a - h	827 973
+997	laugh	NanSang	kaɲah	kaɲah	k a + ɲ a h	ruma1248	2-63	1 7 9 4 7 3	AX_AXN	KA_NAH	11	11.K.C 11.A.V 11._._ 11.N.C 11.A.V 11.H.c	2.0 1.5 0.0 2.0 1.5 0.8	ka+ɲah	0	974 973	k a - + - - ɲ - a - h	827 973
+>>>>>>> a82093682bb7541a6438b44db8db847b00f4858e
 225	leaf	NamHsan	l̥a:	l̥a:	l̥ aː		1-15	5 7	AX	LA	10	10.L.C 10.A.V	2.0 1.5	l̥aː	0	1000	l̥ aː	1000
 226	leaf	KhunHawt	l̥aː heːj	l̥aː heːj	l̥ aː + h eː j		1-15	5 7 9 3 7 6	AX_AXN	LA_HEJ	6	6.L.C 6.A.V 6._._ 6.H.C 6.E.V 6.J.c	2.0 1.5 0.0 2.0 1.5 0.8	l̥aː+heːj	0	1000 1001	l̥ aː + h eː j	1000 1001
 227	leaf	HtanHsan	l̥aː	l̥aː	l̥ aː		1-15	5 7	AX	LA	5	5.L.C 5.A.V	2.0 1.5	l̥aː	0	1000	l̥ aː	1000
@@ -896,6 +1002,7 @@ ID	CONCEPT	DOCULECT	VALUE	FORM	TOKENS	GLOTTOLOG	COG	SONARS	PROSTRINGS	CLASSES	LA
 558	mouth	GuangKa	mojʔ	mojʔ	m oi ʔ	ruma1248	1-35	4 7 1	AXN	MUH	4	4.M.C 4.U.V 4.H.c	2.0 1.5 0.8	moiʔ	0	1197	m oi ʔ	1197
 559	mouth	MangBang	mojʔ	mojʔ	m oi ʔ	ruma1248	1-35	4 7 1	AXN	MUH	7	7.M.C 7.U.V 7.H.c	2.0 1.5 0.8	moiʔ	0	1197	m oi ʔ	1197
 560	mouth	NanSang	mojɁ	mojɁ	m oi ʔ	ruma1248	1-35	4 7 1	AXN	MUH	11	11.M.C 11.U.V 11.H.c	2.0 1.5 0.8	moiʔ	0	1197	m oi ʔ	1197
+<<<<<<< HEAD
 665	nail	NamHsan	rәnim	rәnim	r ə + n i m		1-43	5 7 9 4 7 4	AX_AXN	RE_NIM	10	10.R.C 10.E.V 10._._ 10.N.C 10.I.V 10.M.c	2.0 1.5 0.0 2.0 1.5 0.8	rə+nim	0	1217 1214	r ə + n i m	1217 1214
 666	nail	KhunHawt	rәnimɗiː	rәnimɗiː	r ə + n i m + ɗ iː		1-43	5 7 9 4 7 4 9 1 7	AX_AXN_AX	RE_NIM_TI	6	6.R.C 6.E.V 6._._ 6.N.C 6.I.V 6.M.c 6._._ 6.T.C 6.I.V	2.0 1.5 0.0 2.0 1.5 0.8 0.0 2.0 1.5	rə+nim+ɗiː	0	1217 1214 1218	r ə + n i m + ɗ iː	1217 1214 1218
 667	nail	HtanHsan	rәnhim	rәnhim	r ə + n h i m		1-43	5 7 9 4 3 7 4	AX_ACYN	RE_NHIM	5	5.R.C 5.E.V 5._._ 5.N.C 5.H.C 5.I.V 5.M.c	2.0 1.5 0.0 2.0 1.5 1.3 0.8	rə+nhim	0	1217 1215	r ə + n h i m	1217 1215
@@ -903,15 +1010,31 @@ ID	CONCEPT	DOCULECT	VALUE	FORM	TOKENS	GLOTTOLOG	COG	SONARS	PROSTRINGS	CLASSES	LA
 669	nail	ManLoi	ʔahim	ʔahim	ʔ a + h i m		2-43	1 7 9 3 7 4	AX_AXN	HA_HIM	8	8.H.C 8.A.V 8._._ 8.H.C 8.I.V 8.M.c	2.0 1.5 0.0 2.0 1.5 0.8	ʔa+him	0	1216 1215	ʔ a - + - h i m	243 1215
 670	nail	MengDan	ʔahim	ʔahim	ʔ a + h i m	khan1274	2-43	1 7 9 3 7 4	AX_AXN	HA_HIM	9	9.H.C 9.A.V 9._._ 9.H.C 9.I.V 9.M.c	2.0 1.5 0.0 2.0 1.5 0.8	ʔa+him	0	1216 1215	ʔ a - + - h i m	243 1215
 671	nail	ChuDongGua	ʔahim	ʔahim	ʔ a + h i m		2-43	1 7 9 3 7 4	AX_AXN	HA_HIM	3	3.H.C 3.A.V 3._._ 3.H.C 3.I.V 3.M.c	2.0 1.5 0.0 2.0 1.5 0.8	ʔa+him	0	1216 1215	ʔ a - + - h i m	243 1215
+=======
+665	nail	NamHsan	rәnim	rәnim	r ə + n i m		1-43	5 7 9 4 7 4	AX_AXN	RE_NIM	10	10.R.C 10.E.V 10._._ 10.N.C 10.I.V 10.M.c	2.0 1.5 0.0 2.0 1.5 0.8	rə+nim	0	1218 1215	r ə + n - i m	1218 1215
+666	nail	KhunHawt	rәnimɗiː	rәnimɗiː	r ə + n i m + ɗ iː		1-43	5 7 9 4 7 4 9 1 7	AX_AXN_AX	RE_NIM_TI	6	6.R.C 6.E.V 6._._ 6.N.C 6.I.V 6.M.c 6._._ 6.T.C 6.I.V	2.0 1.5 0.0 2.0 1.5 0.8 0.0 2.0 1.5	rə+nim+ɗiː	0	1218 1214 1219	r ə + n i m + ɗ iː	1218 1214 1219
+667	nail	HtanHsan	rәnhim	rәnhim	r ə + n h i m		1-43	5 7 9 4 3 7 4	AX_ACYN	RE_NHIM	5	5.R.C 5.E.V 5._._ 5.N.C 5.H.C 5.I.V 5.M.c	2.0 1.5 0.0 2.0 1.5 1.3 0.8	rə+nhim	0	1218 1215	r ə + n h i m	1218 1215
+668	nail	PangKham	ʔahim	ʔahim	ʔ a + h i m		2-43	1 7 9 3 7 4	AX_AXN	HA_HIM	14	14.H.C 14.A.V 14._._ 14.H.C 14.I.V 14.M.c	2.0 1.5 0.0 2.0 1.5 0.8	ʔa+him	0	1217 1215	ʔ a - + - h i m	243 1215
+669	nail	ManLoi	ʔahim	ʔahim	ʔ a + h i m		2-43	1 7 9 3 7 4	AX_AXN	HA_HIM	8	8.H.C 8.A.V 8._._ 8.H.C 8.I.V 8.M.c	2.0 1.5 0.0 2.0 1.5 0.8	ʔa+him	0	1217 1215	ʔ a - + - h i m	243 1215
+670	nail	MengDan	ʔahim	ʔahim	ʔ a + h i m	khan1274	2-43	1 7 9 3 7 4	AX_AXN	HA_HIM	9	9.H.C 9.A.V 9._._ 9.H.C 9.I.V 9.M.c	2.0 1.5 0.0 2.0 1.5 0.8	ʔa+him	0	1217 1215	ʔ a - + - h i m	243 1215
+671	nail	ChuDongGua	ʔahim	ʔahim	ʔ a + h i m		2-43	1 7 9 3 7 4	AX_AXN	HA_HIM	3	3.H.C 3.A.V 3._._ 3.H.C 3.I.V 3.M.c	2.0 1.5 0.0 2.0 1.5 0.8	ʔa+him	0	1217 1215	ʔ a - + - h i m	243 1215
+>>>>>>> a82093682bb7541a6438b44db8db847b00f4858e
 672	nail	XiangZhaiTang	ŋhiːm	ŋhiːm	ŋ + h iː m	ruma1248	2-43	4 9 3 7 4	A_AXN	N_HIM	16	16.N.C 16._._ 16.H.C 16.I.V 16.M.c	2.0 0.0 2.0 1.5 0.8	ŋ+hiːm	0	1214 1215	ŋ - - + - h iː m	1214 1215
 673	nail	PongNuea	ŋhiːm	ŋhiːm	ŋ + h iː m		2-43	4 9 3 7 4	A_AXN	N_HIM	15	15.N.C 15._._ 15.H.C 15.I.V 15.M.c	2.0 0.0 2.0 1.5 0.8	ŋ+hiːm	0	1214 1215	ŋ - - + - h iː m	1214 1215
 674	nail	NyaungGone	ŋ him	ŋ him	ŋ + h i m		2-43	4 9 3 7 4	A_AXN	N_HIM	13	13.N.C 13._._ 13.H.C 13.I.V 13.M.c	2.0 0.0 2.0 1.5 0.8	ŋ+him	0	1214 1215	ŋ - - + - h i m	1214 1215
 675	nail	NoeLae	ŋ him	ŋ him	ŋ + h i m		2-43	4 9 3 7 4	A_AXN	N_HIM	12	12.N.C 12._._ 12.H.C 12.I.V 12.M.c	2.0 0.0 2.0 1.5 0.8	ŋ+him	0	1214 1215	ŋ - - + - h i m	1214 1215
 676	nail	BanPaw	ŋ him	ŋ him	ŋ + h i m		2-43	4 9 3 7 4	A_AXN	N_HIM	1	1.N.C 1._._ 1.H.C 1.I.V 1.M.c	2.0 0.0 2.0 1.5 0.8	ŋ+him	0	1214 1215	ŋ - - + - h i m	1214 1215
+<<<<<<< HEAD
 677	nail	ChaYeQing	khiːm	khiːm	kʰ iː m		3-43	1 7 4	AXN	KIM	2	2.K.C 2.I.V 2.M.c	2.0 1.5 0.8	kʰiːm	0	1215	- kʰ iː m	1215
 678	nail	GuangKa	khiːm	khiːm	kʰ iː m	ruma1248	3-43	1 7 4	AXN	KIM	4	4.K.C 4.I.V 4.M.c	2.0 1.5 0.8	kʰiːm	0	1215	- kʰ iː m	1215
 679	nail	MangBang	khiːm	khiːm	kʰ iː m	ruma1248	3-43	1 7 4	AXN	KIM	7	7.K.C 7.I.V 7.M.c	2.0 1.5 0.8	kʰiːm	0	1215	- kʰ iː m	1215
 680	nail	NanSang	kiːm	kiːm	k iː m	ruma1248	3-43	1 7 4	AXN	KIM	11	11.K.C 11.I.V 11.M.c	2.0 1.5 0.8	kiːm	0	1215	- k iː m	1215
+=======
+677	nail	ChaYeQing	khiːm	khiːm	kʰ iː m		3-43	1 7 4	AXN	KIM	2	2.K.C 2.I.V 2.M.c	2.0 1.5 0.8	kʰiːm	0	1216	kʰ iː m	1216
+678	nail	GuangKa	khiːm	khiːm	kʰ iː m	ruma1248	3-43	1 7 4	AXN	KIM	4	4.K.C 4.I.V 4.M.c	2.0 1.5 0.8	kʰiːm	0	1216	kʰ iː m	1216
+679	nail	MangBang	khiːm	khiːm	kʰ iː m	ruma1248	3-43	1 7 4	AXN	KIM	7	7.K.C 7.I.V 7.M.c	2.0 1.5 0.8	kʰiːm	0	1216	kʰ iː m	1216
+680	nail	NanSang	kiːm	kiːm	k iː m	ruma1248	3-43	1 7 4	AXN	KIM	11	11.K.C 11.I.V 11.M.c	2.0 1.5 0.8	kiːm	0	1216	k iː m	1216
+>>>>>>> a82093682bb7541a6438b44db8db847b00f4858e
 792	name	NamHsan	ʨɨː	ʨɨː	tɕ ɨː		1-51	2 7	AX	CI	10	10.C.C 10.I.V	2.0 1.5	tɕɨː	0	1244	tɕ ɨː	1244
 793	name	KhunHawt	ʥɨː	ʥɨː	dʑ ɨː		1-51	2 7	AX	CI	6	6.C.C 6.I.V	2.0 1.5	dʑɨː	0	1244	dʑ ɨː	1244
 794	name	HtanHsan	ʥɨː	ʥɨː	dʑ ɨː		1-51	2 7	AX	CI	5	5.C.C 5.I.V	2.0 1.5	dʑɨː	0	1244	dʑ ɨː	1244
@@ -927,7 +1050,11 @@ ID	CONCEPT	DOCULECT	VALUE	FORM	TOKENS	GLOTTOLOG	COG	SONARS	PROSTRINGS	CLASSES	LA
 804	name	ChaYeQing	ʥɨː	ʥɨː	dʑ ɨː		1-51	2 7	AX	CI	2	2.C.C 2.I.V	2.0 1.5	dʑɨː	0	1244	dʑ ɨː	1244
 805	name	MangBang	ʥɨː	ʥɨː	dʑ ɨː	ruma1248	1-51	2 7	AX	CI	7	7.C.C 7.I.V	2.0 1.5	dʑɨː	0	1244	dʑ ɨː	1244
 806	name	NanSang	ʨɨː	ʨɨː	tɕ ɨː	ruma1248	1-51	2 7	AX	CI	11	11.C.C 11.I.V	2.0 1.5	tɕɨː	0	1244	tɕ ɨː	1244
+<<<<<<< HEAD
 1395	near	NamHsan	tadaɁ	tadaɁ	t a + d a ʔ		1-89	1 7 9 1 7 1	AX_AXN	TA_TAH	10	10.T.C 10.A.V 10._._ 10.T.C 10.A.V 10.H.c	2.0 1.5 0.0 2.0 1.5 0.8	ta+daʔ	0	1265 1262	t a + d a ʔ	1265 1262
+=======
+1395	near	NamHsan	tadaɁ	tadaɁ	t a + d a ʔ		1-89	1 7 9 1 7 1	AX_AXN	TA_TAH	10	10.T.C 10.A.V 10._._ 10.T.C 10.A.V 10.H.c	2.0 1.5 0.0 2.0 1.5 0.8	ta+daʔ	0	1262 1265	t a - + d a ʔ	1262 1265
+>>>>>>> a82093682bb7541a6438b44db8db847b00f4858e
 1396	near	KhunHawt	dat	dat	d a t		1-89	1 7 1	AXN	TAT	6	6.T.C 6.A.V 6.T.c	2.0 1.5 0.8	dat	0	1262	d a t	1262
 1397	near	HtanHsan	dat	dat	d a t		1-89	1 7 1	AXN	TAT	5	5.T.C 5.A.V 5.T.c	2.0 1.5 0.8	dat	0	1262	d a t	1262
 1398	near	PangKham	Ɂad̤at	Ɂad̤at	ʔ a + d̤ a t		1-89	1 7 9 1 7 1	AX_AXN	HA_TAT	14	14.H.C 14.A.V 14._._ 14.T.C 14.A.V 14.T.c	2.0 1.5 0.0 2.0 1.5 0.8	ʔa+d̤at	0	1266 1262	ʔ a + d̤ a t	1266 1262
@@ -963,6 +1090,7 @@ ID	CONCEPT	DOCULECT	VALUE	FORM	TOKENS	GLOTTOLOG	COG	SONARS	PROSTRINGS	CLASSES	LA
 98	night	KhunHawt	lapm̥әː	lapm̥әː	l a p + m̥ əː		1-7	5 7 1 9 4 7	AXN_AX	LAP_ME	6	6.L.C 6.A.V 6.P.c 6._._ 6.M.C 6.E.V	2.0 1.5 0.8 0.0 2.0 1.5	lap+m̥əː	0	1322 1319	l a p + - - m̥ əː - -	1322 1319
 99	night	HtanHsan	rәnm̥әː	rәnm̥әː	r ə n + m̥ əː		1-7	5 7 4 9 4 7	AXN_AX	REN_ME	5	5.R.C 5.E.V 5.N.c 5._._ 5.M.C 5.E.V	2.0 1.5 0.8 0.0 2.0 1.5	rən+m̥əː	0	1321 1319	r ə n + - - m̥ əː - -	1321 1319
 100	night	PangKham	khimm̥әɯ	khimm̥әɯ	kʰ i m + m̥ ə ɯ		1-7	1 7 4 9 4 7 7	AXN_AXZ	KIM_MEI	14	14.K.C 14.I.V 14.M.c 14._._ 14.M.C 14.E.V 14.I.V	2.0 1.5 0.8 0.0 2.0 1.5 0.8	kʰim+m̥əɯ	0	1320 1319	kʰ i m + - - m̥ ə - ɯ	1320 1319
+<<<<<<< HEAD
 101	night	ManLoi	khiːm̥әɯ	khiːm̥әɯ	kʰ iː + m̥ ə ɯ		1-7	1 7 9 4 7 7	AX_AXZ	KI_MEI	8	8.K.C 8.I.V 8._._ 8.M.C 8.E.V 8.I.V	2.0 1.5 0.0 2.0 1.5 0.8	kʰiː+m̥əɯ	0	1318 1319	kʰ iː + - - m̥ ə - ɯ	1318 1319
 102	night	MengDan	khiːw m̥əɯ	khiːw m̥əɯ	kʰ iː w + + m̥ ə ɯ	khan1274	1-7	1 7 6 9 9 4 7 7	AXN__AXZ	KIW__MEI	9	9.K.C 9.I.V 9.W.c 9._._ 9._._ 9.M.C 9.E.V 9.I.V	2.0 1.5 0.8 0.0 0.0 2.0 1.5 0.8	kʰiːw++m̥əɯ	0	1323 1319	kʰ iː w + + - m̥ ə - ɯ	1323 1319
 103	night	ChuDongGua	kham̥ɯ	kham̥ɯ	kʰ a + m̥ ɯ		1-7	1 7 9 4 7	AX_AX	KA_MI	3	3.K.C 3.A.V 3._._ 3.M.C 3.I.V	2.0 1.5 0.0 2.0 1.5	kʰa+m̥ɯ	0	1318 1319	kʰ a + - - m̥ ɯ - -	1318 1319
@@ -975,22 +1103,47 @@ ID	CONCEPT	DOCULECT	VALUE	FORM	TOKENS	GLOTTOLOG	COG	SONARS	PROSTRINGS	CLASSES	LA
 110	night	GuangKa	kasɛm	kasɛm	k a + s ɛ m	ruma1248	3-7	1 7 9 3 7 4	AX_AXN	KA_SEM	4	4.K.C 4.A.V 4._._ 4.S.C 4.E.V 4.M.c	2.0 1.5 0.0 2.0 1.5 0.8	ka+sɛm	0	1318 1320	k a + s ɛ m	1318 1320
 111	night	MangBang	kasəm	kasəm	k a + s ə m	ruma1248	3-7	1 7 9 3 7 4	AX_AXN	KA_SEM	7	7.K.C 7.A.V 7._._ 7.S.C 7.E.V 7.M.c	2.0 1.5 0.0 2.0 1.5 0.8	ka+səm	0	1318 1320	k a + s ə m	1318 1320
 112	night	NanSang	kasəm	kasəm	k a + s ə m	ruma1248	3-7	1 7 9 3 7 4	AX_AXN	KA_SEM	11	11.K.C 11.A.V 11._._ 11.S.C 11.E.V 11.M.c	2.0 1.5 0.0 2.0 1.5 0.8	ka+səm	0	1318 1320	k a + s ə m	1318 1320
+=======
+101	night	ManLoi	khiːm̥әɯ	khiːm̥әɯ	kʰ iː + m̥ ə ɯ		1-7	1 7 9 4 7 7	AX_AXZ	KI_MEI	8	8.K.C 8.I.V 8._._ 8.M.C 8.E.V 8.I.V	2.0 1.5 0.0 2.0 1.5 0.8	kʰiː+m̥əɯ	0	1318 1319	kʰ iː - + - - m̥ ə - ɯ	1318 1319
+102	night	MengDan	khiːw m̥əɯ	khiːw m̥əɯ	kʰ iː w + + m̥ ə ɯ	khan1274	1-7	1 7 6 9 9 4 7 7	AXN__AXZ	KIW__MEI	9	9.K.C 9.I.V 9.W.c 9._._ 9._._ 9.M.C 9.E.V 9.I.V	2.0 1.5 0.8 0.0 0.0 2.0 1.5 0.8	kʰiːw++m̥əɯ	0	1318 1319	kʰ iː w + + - m̥ ə - ɯ	1318 1319
+103	night	ChuDongGua	kham̥ɯ	kham̥ɯ	kʰ a + m̥ ɯ		1-7	1 7 9 4 7	AX_AX	KA_MI	3	3.K.C 3.A.V 3._._ 3.M.C 3.I.V	2.0 1.5 0.0 2.0 1.5	kʰa+m̥ɯ	0	1318 1319	kʰ a - + - - m̥ ɯ - -	1318 1319
+104	night	XiangZhaiTang	ʨuŋm̥əɯ	ʨuŋm̥əɯ	tɕ u ŋ + m̥ ə ɯ	ruma1248	1-7	2 7 4 9 4 7 7	AXN_AXZ	CYN_MEI	16	16.C.C 16.Y.V 16.N.c 16._._ 16.M.C 16.E.V 16.I.V	2.0 1.5 0.8 0.0 2.0 1.5 0.8	tɕuŋ+m̥əɯ	0	1324 1319	tɕ u ŋ + - - m̥ ə - ɯ	1324 1319
+105	night	PongNuea	khɛm̥әɯ	khɛm̥әɯ	kʰ ɛ + m̥ ə ɯ		1-7	1 7 9 4 7 7	AX_AXZ	KE_MEI	15	15.K.C 15.E.V 15._._ 15.M.C 15.E.V 15.I.V	2.0 1.5 0.0 2.0 1.5 0.8	kʰɛ+m̥əɯ	0	1318 1319	kʰ ɛ - + - - m̥ ə - ɯ	1318 1319
+106	night	NyaungGone	pam̥ə	pam̥ə	p a + m̥ ə		1-7	1 7 9 4 7	AX_AX	PA_ME	13	13.P.C 13.A.V 13._._ 13.M.C 13.E.V	2.0 1.5 0.0 2.0 1.5	pa+m̥ə	0	1323 1319	p a + - - m̥ ə - -	1323 1319
+107	night	NoeLae	khɛm̥ə	khɛm̥ə	kʰ ɛ + m̥ ə		1-7	1 7 9 4 7	AX_AX	KE_ME	12	12.K.C 12.E.V 12._._ 12.M.C 12.E.V	2.0 1.5 0.0 2.0 1.5	kʰɛ+m̥ə	0	1318 1319	kʰ ɛ - + - - m̥ ə - -	1318 1319
+108	night	BanPaw	khɛm̥ə	khɛm̥ə	kʰ ɛ + m̥ ə		1-7	1 7 9 4 7	AX_AX	KE_ME	1	1.K.C 1.E.V 1._._ 1.M.C 1.E.V	2.0 1.5 0.0 2.0 1.5	kʰɛ+m̥ə	0	1318 1319	kʰ ɛ - + - - m̥ ə - -	1318 1319
+109	night	ChaYeQing	kham̥eːw	kham̥eːw	kʰ a + m̥ eː w		1-7	1 7 9 4 7 6	AX_AXN	KA_MEW	2	2.K.C 2.A.V 2._._ 2.M.C 2.E.V 2.W.c	2.0 1.5 0.0 2.0 1.5 0.8	kʰa+m̥eːw	0	1318 1319	kʰ a - + - - m̥ eː w -	1318 1319
+110	night	GuangKa	kasɛm	kasɛm	k a + s ɛ m	ruma1248	3-7	1 7 9 3 7 4	AX_AXN	KA_SEM	4	4.K.C 4.A.V 4._._ 4.S.C 4.E.V 4.M.c	2.0 1.5 0.0 2.0 1.5 0.8	ka+sɛm	0	1318 1320	k a - + s ɛ m	1318 1320
+111	night	MangBang	kasəm	kasəm	k a + s ə m	ruma1248	3-7	1 7 9 3 7 4	AX_AXN	KA_SEM	7	7.K.C 7.A.V 7._._ 7.S.C 7.E.V 7.M.c	2.0 1.5 0.0 2.0 1.5 0.8	ka+səm	0	1318 1320	k a - + s ə m	1318 1320
+112	night	NanSang	kasəm	kasəm	k a + s ə m	ruma1248	3-7	1 7 9 3 7 4	AX_AXN	KA_SEM	11	11.K.C 11.A.V 11._._ 11.S.C 11.E.V 11.M.c	2.0 1.5 0.0 2.0 1.5 0.8	ka+səm	0	1318 1320	k a - + s ə m	1318 1320
+>>>>>>> a82093682bb7541a6438b44db8db847b00f4858e
 513	nose	NamHsan	kɔŋmuh	kɔŋmuh	k ɔ ŋ + m u h		1-33	1 7 4 9 4 7 3	AXN_AXN	KUN_MYH	10	10.K.C 10.U.V 10.N.c 10._._ 10.M.C 10.Y.V 10.H.c	2.0 1.5 0.8 0.0 2.0 1.5 0.8	kɔŋ+muh	0	1351 1352	k ɔ ŋ + m u - h	1351 1352
 514	nose	KhunHawt	kɔŋmur̥	kɔŋmur̥	k ɔ ŋ + m u r̥		2-33	1 7 4 9 4 7 5	AXN_AXN	KUN_MYR	6	6.K.C 6.U.V 6.N.c 6._._ 6.M.C 6.Y.V 6.R.c	2.0 1.5 0.8 0.0 2.0 1.5 0.8	kɔŋ+mur̥	0	1351 1352	k ɔ ŋ + m u r̥ -	1351 1352
 515	nose	HtanHsan	kɔŋmuh	kɔŋmuh	k ɔ ŋ + m u h		1-33	1 7 4 9 4 7 3	AXN_AXN	KUN_MYH	5	5.K.C 5.U.V 5.N.c 5._._ 5.M.C 5.Y.V 5.H.c	2.0 1.5 0.8 0.0 2.0 1.5 0.8	kɔŋ+muh	0	1351 1352	k ɔ ŋ + m u - h	1351 1352
 516	nose	PangKham	ɡɔŋmuh	ɡɔŋmuh	g ɔ ŋ + m u h		1-33	1 7 4 9 4 7 3	AXN_AXN	KUN_MYH	14	14.K.C 14.U.V 14.N.c 14._._ 14.M.C 14.Y.V 14.H.c	2.0 1.5 0.8 0.0 2.0 1.5 0.8	gɔŋ+muh	0	1351 1352	g ɔ ŋ + m u - h	1351 1352
 517	nose	ManLoi	ɡɔŋmuh	ɡɔŋmuh	g ɔ ŋ + m u h		1-33	1 7 4 9 4 7 3	AXN_AXN	KUN_MYH	8	8.K.C 8.U.V 8.N.c 8._._ 8.M.C 8.Y.V 8.H.c	2.0 1.5 0.8 0.0 2.0 1.5 0.8	gɔŋ+muh	0	1351 1352	g ɔ ŋ + m u - h	1351 1352
+<<<<<<< HEAD
 518	nose	MengDan	ʔamujh	ʔamujh	ʔ a + m u j h	khan1274	1-33	1 7 9 4 7 6 3	AX_AXLN	HA_MYJH	9	9.H.C 9.A.V 9._._ 9.M.C 9.Y.V 9.J.c 9.H.c	2.0 1.5 0.0 2.0 1.5 1.1 0.8	ʔa+mujh	0	1354 1352	ʔ a + m u j h	1354 1352
+=======
+518	nose	MengDan	ʔamujh	ʔamujh	ʔ a + m u j h	khan1274	1-33	1 7 9 4 7 6 3	AX_AXLN	HA_MYJH	9	9.H.C 9.A.V 9._._ 9.M.C 9.Y.V 9.J.c 9.H.c	2.0 1.5 0.0 2.0 1.5 1.1 0.8	ʔa+mujh	0	1355 1352	ʔ a + m u j h	1355 1352
+>>>>>>> a82093682bb7541a6438b44db8db847b00f4858e
 519	nose	ChuDongGua	mujh	mujh	m u j h		1-33	4 7 6 3	AXLN	MYJH	3	3.M.C 3.Y.V 3.J.c 3.H.c	2.0 1.5 1.1 0.8	mujh	0	1352	m u j h	1352
 520	nose	XiangZhaiTang	ɡuŋmuh	ɡuŋmuh	g u ŋ + m u h	ruma1248	1-33	1 7 4 9 4 7 3	AXN_AXN	KYN_MYH	16	16.K.C 16.Y.V 16.N.c 16._._ 16.M.C 16.Y.V 16.H.c	2.0 1.5 0.8 0.0 2.0 1.5 0.8	guŋ+muh	0	1351 1352	g u ŋ + m u - h	1351 1352
 521	nose	PongNuea	ɡuŋmuh	ɡuŋmuh	g u ŋ + m u h		1-33	1 7 4 9 4 7 3	AXN_AXN	KYN_MYH	15	15.K.C 15.Y.V 15.N.c 15._._ 15.M.C 15.Y.V 15.H.c	2.0 1.5 0.8 0.0 2.0 1.5 0.8	guŋ+muh	0	1351 1352	g u ŋ + m u - h	1351 1352
 522	nose	NyaungGone	ɡumuh	ɡumuh	g u + m u h		1-33	1 7 9 4 7 3	AX_AXN	KY_MYH	13	13.K.C 13.Y.V 13._._ 13.M.C 13.Y.V 13.H.c	2.0 1.5 0.0 2.0 1.5 0.8	gu+muh	0	1351 1352	g u - + m u - h	1351 1352
 523	nose	NoeLae	ɡoŋmuh	ɡoŋmuh	g o ŋ + m u h		1-33	1 7 4 9 4 7 3	AXN_AXN	KUN_MYH	12	12.K.C 12.U.V 12.N.c 12._._ 12.M.C 12.Y.V 12.H.c	2.0 1.5 0.8 0.0 2.0 1.5 0.8	goŋ+muh	0	1351 1352	g o ŋ + m u - h	1351 1352
 524	nose	BanPaw	ɡuŋmuh	ɡuŋmuh	g u ŋ + m u h		1-33	1 7 4 9 4 7 3	AXN_AXN	KYN_MYH	1	1.K.C 1.Y.V 1.N.c 1._._ 1.M.C 1.Y.V 1.H.c	2.0 1.5 0.8 0.0 2.0 1.5 0.8	guŋ+muh	0	1351 1352	g u ŋ + m u - h	1351 1352
+<<<<<<< HEAD
 525	nose	ChaYeQing	kadoŋmuh	kadoŋmuh	k a + d o ŋ + m u h		1-33	1 7 9 1 7 4 9 4 7 3	AX_AXN_AXN	KA_TUN_MYH	2	2.K.C 2.A.V 2._._ 2.T.C 2.U.V 2.N.c 2._._ 2.M.C 2.Y.V 2.H.c	2.0 1.5 0.0 2.0 1.5 0.8 0.0 2.0 1.5 0.8	ka+doŋ+muh	0	1353 1351 1352	k a + d o ŋ + m u - h	1264 1351 1352
 526	nose	GuangKa	kaduŋ muh	kaduŋ muh	k a + d u ŋ + m u h	ruma1248	1-33	1 7 9 1 7 4 9 4 7 3	AX_AXN_AXN	KA_TYN_MYH	4	4.K.C 4.A.V 4._._ 4.T.C 4.Y.V 4.N.c 4._._ 4.M.C 4.Y.V 4.H.c	2.0 1.5 0.0 2.0 1.5 0.8 0.0 2.0 1.5 0.8	ka+duŋ+muh	0	1353 1351 1352	k a + d u ŋ + m u - h	1264 1351 1352
 527	nose	MangBang	kadɔŋ muh	kadɔŋ muh	k a + d ɔ ŋ + m u h	ruma1248	1-33	1 7 9 1 7 4 9 4 7 3	AX_AXN_AXN	KA_TUN_MYH	7	7.K.C 7.A.V 7._._ 7.T.C 7.U.V 7.N.c 7._._ 7.M.C 7.Y.V 7.H.c	2.0 1.5 0.0 2.0 1.5 0.8 0.0 2.0 1.5 0.8	ka+dɔŋ+muh	0	1353 1351 1352	k a + d ɔ ŋ + m u - h	1264 1351 1352
 528	nose	NanSang	kaduŋmuh	kaduŋmuh	k a + d u ŋ + m u h	ruma1248	1-33	1 7 9 1 7 4 9 4 7 3	AX_AXN_AXN	KA_TYN_MYH	11	11.K.C 11.A.V 11._._ 11.T.C 11.Y.V 11.N.c 11._._ 11.M.C 11.Y.V 11.H.c	2.0 1.5 0.0 2.0 1.5 0.8 0.0 2.0 1.5 0.8	ka+duŋ+muh	0	1353 1351 1352	k a + d u ŋ + m u - h	1264 1351 1352
+=======
+525	nose	ChaYeQing	kadoŋmuh	kadoŋmuh	k a + d o ŋ + m u h		1-33	1 7 9 1 7 4 9 4 7 3	AX_AXN_AXN	KA_TUN_MYH	2	2.K.C 2.A.V 2._._ 2.T.C 2.U.V 2.N.c 2._._ 2.M.C 2.Y.V 2.H.c	2.0 1.5 0.0 2.0 1.5 0.8 0.0 2.0 1.5 0.8	ka+doŋ+muh	0	1353 1354 1352	k a + d o ŋ + m u - h	1264 1354 1352
+526	nose	GuangKa	kaduŋ muh	kaduŋ muh	k a + d u ŋ + m u h	ruma1248	1-33	1 7 9 1 7 4 9 4 7 3	AX_AXN_AXN	KA_TYN_MYH	4	4.K.C 4.A.V 4._._ 4.T.C 4.Y.V 4.N.c 4._._ 4.M.C 4.Y.V 4.H.c	2.0 1.5 0.0 2.0 1.5 0.8 0.0 2.0 1.5 0.8	ka+duŋ+muh	0	1353 1354 1352	k a + d u ŋ + m u - h	1264 1354 1352
+527	nose	MangBang	kadɔŋ muh	kadɔŋ muh	k a + d ɔ ŋ + m u h	ruma1248	1-33	1 7 9 1 7 4 9 4 7 3	AX_AXN_AXN	KA_TUN_MYH	7	7.K.C 7.A.V 7._._ 7.T.C 7.U.V 7.N.c 7._._ 7.M.C 7.Y.V 7.H.c	2.0 1.5 0.0 2.0 1.5 0.8 0.0 2.0 1.5 0.8	ka+dɔŋ+muh	0	1353 1354 1352	k a + d ɔ ŋ + m u - h	1264 1354 1352
+528	nose	NanSang	kaduŋmuh	kaduŋmuh	k a + d u ŋ + m u h	ruma1248	1-33	1 7 9 1 7 4 9 4 7 3	AX_AXN_AXN	KA_TYN_MYH	11	11.K.C 11.A.V 11._._ 11.T.C 11.Y.V 11.N.c 11._._ 11.M.C 11.Y.V 11.H.c	2.0 1.5 0.0 2.0 1.5 0.8 0.0 2.0 1.5 0.8	ka+duŋ+muh	0	1353 1354 1352	k a + d u ŋ + m u - h	1264 1354 1352
+>>>>>>> a82093682bb7541a6438b44db8db847b00f4858e
 1475	old-aged	NamHsan	konʨhaː	konʨhaː	k o n + ʨʰ aː		1-94	1 7 4 9 2 7	AXN_AX	KUN_CA	10	10.K.C 10.U.V 10.N.c 10._._ 10.C.C 10.A.V	2.0 1.5 0.8 0.0 2.0 1.5	kon+ʨʰaː	0	1387 1390	k o n + ʨʰ aː	1387 1390
 1476	old-aged	KhunHawt	paɁaːn	paɁaːn	p a + ʔ aː n		2-94	1 7 9 1 7 4	AX_AXN	PA_HAN	6	6.P.C 6.A.V 6._._ 6.H.C 6.A.V 6.N.c	2.0 1.5 0.0 2.0 1.5 0.8	pa+ʔaːn	0	1388 1389	p a + ʔ aː n	1388 1389
 1477	old-aged	HtanHsan	pәɁaːn	pәɁaːn	p ə + ʔ aː n		2-94	1 7 9 1 7 4	AX_AXN	PE_HAN	5	5.P.C 5.E.V 5._._ 5.H.C 5.A.V 5.N.c	2.0 1.5 0.0 2.0 1.5 0.8	pə+ʔaːn	0	1388 1389	p ə + ʔ aː n	1388 1389
@@ -1032,8 +1185,13 @@ ID	CONCEPT	DOCULECT	VALUE	FORM	TOKENS	GLOTTOLOG	COG	SONARS	PROSTRINGS	CLASSES	LA
 765	person, human	ManLoi	ɗuʔiː	ɗuʔiː	ɗ u + ʔ iː		1-49	1 7 9 1 7	AX_AX	TY_HI	8	8.T.C 8.Y.V 8._._ 8.H.C 8.I.V	2.0 1.5 0.0 2.0 1.5	ɗu+ʔiː	0	1426 1427	ɗ u + ʔ iː -	1288 1427
 766	person, human	MengDan	duʔiː	duʔiː	d u + ʔ iː	khan1274	1-49	1 7 9 1 7	AX_AX	TY_HI	9	9.T.C 9.Y.V 9._._ 9.H.C 9.I.V	2.0 1.5 0.0 2.0 1.5	du+ʔiː	0	1426 1427	d u + ʔ iː -	1288 1427
 767	person, human	ChuDongGua	duʔiː	duʔiː	d u + ʔ iː		1-49	1 7 9 1 7	AX_AX	TY_HI	3	3.T.C 3.Y.V 3._._ 3.H.C 3.I.V	2.0 1.5 0.0 2.0 1.5	du+ʔiː	0	1426 1427	d u + ʔ iː -	1288 1427
+<<<<<<< HEAD
 768	person, human	XiangZhaiTang	naɁuj	naɁuj	n a + ʔ u j	ruma1248	2-49	4 7 9 1 7 6	AX_AXN	NA_HYJ	16	16.N.C 16.A.V 16._._ 16.H.C 16.Y.V 16.J.c	2.0 1.5 0.0 2.0 1.5 0.8	na+ʔuj	0	1430 1427	n a + ʔ u j	1430 1427
 769	person, human	PongNuea	duvɨj	duvɨj	d u + v ɨ j		3-49	1 7 9 3 7 6	AX_AXN	TY_BIJ	15	15.T.C 15.Y.V 15._._ 15.B.C 15.I.V 15.J.c	2.0 1.5 0.0 2.0 1.5 0.8	du+vɨj	0	1426 1429	d u + v ɨ j	1288 1429
+=======
+768	person, human	XiangZhaiTang	naɁuj	naɁuj	n a + ʔ u j	ruma1248	2-49	4 7 9 1 7 6	AX_AXN	NA_HYJ	16	16.N.C 16.A.V 16._._ 16.H.C 16.Y.V 16.J.c	2.0 1.5 0.0 2.0 1.5 0.8	na+ʔuj	0	1429 1427	n a + ʔ u j	1429 1427
+769	person, human	PongNuea	duvɨj	duvɨj	d u + v ɨ j		3-49	1 7 9 3 7 6	AX_AXN	TY_BIJ	15	15.T.C 15.Y.V 15._._ 15.B.C 15.I.V 15.J.c	2.0 1.5 0.0 2.0 1.5 0.8	du+vɨj	0	1426 1427	d u + v ɨ j	1288 1427
+>>>>>>> a82093682bb7541a6438b44db8db847b00f4858e
 770	person, human	NyaungGone	ʔi, duʔi	ʔi	ʔ i		1-49	1 7	AX	HI	13	13.H.C 13.I.V	2.0 1.5	ʔi	0	1427	ʔ i -	1427
 771	person, human	NoeLae	duɁi	duɁi	d u + ʔ i		1-49	1 7 9 1 7	AX_AX	TY_HI	12	12.T.C 12.Y.V 12._._ 12.H.C 12.I.V	2.0 1.5 0.0 2.0 1.5	du+ʔi	0	1426 1427	d u + ʔ i -	1288 1427
 772	person, human	BanPaw	duɁɨj	duɁɨj	d u + ʔ ɨ j		2-49	1 7 9 1 7 6	AX_AXN	TY_HIJ	1	1.T.C 1.Y.V 1._._ 1.H.C 1.I.V 1.J.c	2.0 1.5 0.0 2.0 1.5 0.8	du+ʔɨj	0	1426 1427	d u + ʔ ɨ j	1288 1427
@@ -1151,7 +1309,11 @@ ID	CONCEPT	DOCULECT	VALUE	FORM	TOKENS	GLOTTOLOG	COG	SONARS	PROSTRINGS	CLASSES	LA
 1057	scratch	ChaYeQing	ɓok	ɓok	ɓ o k		2-67	1 7 1	AXN	PUK	2	2.P.C 2.U.V 2.K.c	2.0 1.5 0.8	ɓok	0	1612	ɓ o k	1612
 1058	scratch	GuangKa	pok	pok	p o k	ruma1248	2-67	1 7 1	AXN	PUK	4	4.P.C 4.U.V 4.K.c	2.0 1.5 0.8	pok	0	1612	p o k	1612
 1059	scratch	MangBang	pok	pok	p o k	ruma1248	2-67	1 7 1	AXN	PUK	7	7.P.C 7.U.V 7.K.c	2.0 1.5 0.8	pok	0	1612	p o k	1612
+<<<<<<< HEAD
 1060	scratch	NanSang	kabaːn	kabaːn	k a + b aː n	ruma1248	3-67	1 7 9 1 7 4	AX_AXN	KA_PAN	11	11.K.C 11.A.V 11._._ 11.P.C 11.A.V 11.N.c	2.0 1.5 0.0 2.0 1.5 0.8	ka+baːn	0	1614 1615	k a + b aː n	1614 1615
+=======
+1060	scratch	NanSang	kabaːn	kabaːn	k a + b aː n	ruma1248	3-67	1 7 9 1 7 4	AX_AXN	KA_PAN	11	11.K.C 11.A.V 11._._ 11.P.C 11.A.V 11.N.c	2.0 1.5 0.0 2.0 1.5 0.8	ka+baːn	0	1613 1614	k - a - - + b aː n	1613 1614
+>>>>>>> a82093682bb7541a6438b44db8db847b00f4858e
 902	see	NamHsan	ŋәːp	ŋәːp	ŋ əː p		1-58	4 7 1	AXN	NEP	10	10.N.C 10.E.V 10.P.c	2.0 1.5 0.8	ŋəːp	0	1632	ŋ əː p	1632
 903	see	KhunHawt	ʥәː	ʥәː	dʑ əː		2-58	2 7	AX	CE	6	6.C.C 6.E.V	2.0 1.5	dʑəː	0	1631	dʑ əː - -	1631
 904	see	HtanHsan	jəː	jəː	j əː		2-58	6 7	AX	JE	5	5.J.C 5.E.V	2.0 1.5	jəː	0	1630	j əː - -	1630
@@ -1337,8 +1499,13 @@ ID	CONCEPT	DOCULECT	VALUE	FORM	TOKENS	GLOTTOLOG	COG	SONARS	PROSTRINGS	CLASSES	LA
 167	stone	ChuDongGua	maːw	maːw	m aː w		2-11	4 7 6	AXN	MAW	3	3.M.C 3.A.V 3.W.c	2.0 1.5 0.8	maːw	0	1838	m aː w	1838
 168	stone	XiangZhaiTang	maːw	maːw	m aː w	ruma1248	2-11	4 7 6	AXN	MAW	16	16.M.C 16.A.V 16.W.c	2.0 1.5 0.8	maːw	0	1837	m aː w	1837
 169	stone	PongNuea	maːw	maːw	m aː w		2-11	4 7 6	AXN	MAW	15	15.M.C 15.A.V 15.W.c	2.0 1.5 0.8	maːw	0	1837	m aː w	1837
+<<<<<<< HEAD
 170	stone	NyaungGone	maw	maw	m a w		2-11	4 7 6	AXN	MAW	13	13.M.C 13.A.V 13.W.c	2.0 1.5 0.8	maw	0	1839	m a w	1839
 171	stone	NoeLae	maw	maw	m a w		2-11	4 7 6	AXN	MAW	12	12.M.C 12.A.V 12.W.c	2.0 1.5 0.8	maw	0	1837	m a w	1837
+=======
+170	stone	NyaungGone	maw	maw	m a w		2-11	4 7 6	AXN	MAW	13	13.M.C 13.A.V 13.W.c	2.0 1.5 0.8	maw	0	1840	m a w	1840
+171	stone	NoeLae	maw	maw	m a w		2-11	4 7 6	AXN	MAW	12	12.M.C 12.A.V 12.W.c	2.0 1.5 0.8	maw	0	1839	m a w	1839
+>>>>>>> a82093682bb7541a6438b44db8db847b00f4858e
 172	stone	BanPaw	maw	maw	m a w		2-11	4 7 6	AXN	MAW	1	1.M.C 1.A.V 1.W.c	2.0 1.5 0.8	maw	0	1836	m a w	1836
 173	stone	ChaYeQing	maːw	maːw	m aː w		2-11	4 7 6	AXN	MAW	2	2.M.C 2.A.V 2.W.c	2.0 1.5 0.8	maːw	0	1837	m aː w	1837
 174	stone	GuangKa	maːw	maːw	m aː w	ruma1248	2-11	4 7 6	AXN	MAW	4	4.M.C 4.A.V 4.W.c	2.0 1.5 0.8	maːw	0	1837	m aː w	1837
