@@ -1,80 +1,80 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Graphemes,Profile
-NamHsan-1_sun-1,,NamHsan,1_sun,saŋiː,saŋiː,s a ŋ iː,,Deepadung2015,,,^s a ŋ iː$,default
-KhunHawt-1_sun-1,,KhunHawt,1_sun,saŋiː,saŋiː,s a ŋ iː,,Deepadung2015,,,^s a ŋ iː$,default
-HtanHsan-1_sun-1,,HtanHsan,1_sun,saŋiː,saŋiː,s a ŋ iː,,Deepadung2015,,,^s a ŋ iː$,default
-PangKham-1_sun-1,,PangKham,1_sun,saŋaj,saŋaj,s a ŋ a j,,Deepadung2015,,,^s a ŋ a j$,default
-ManLoi-1_sun-1,,ManLoi,1_sun,saŋaj,saŋaj,s a ŋ a j,,Deepadung2015,,,^s a ŋ a j$,default
+NamHsan-1_sun-1,,NamHsan,1_sun,saŋiː,saŋiː,s a + ŋ iː,,Deepadung2015,,,^s aŋiː $,default
+KhunHawt-1_sun-1,,KhunHawt,1_sun,saŋiː,saŋiː,s a + ŋ iː,,Deepadung2015,,,^s aŋiː $,default
+HtanHsan-1_sun-1,,HtanHsan,1_sun,saŋiː,saŋiː,s a + ŋ iː,,Deepadung2015,,,^s aŋiː $,default
+PangKham-1_sun-1,,PangKham,1_sun,saŋaj,saŋaj,s a + ŋ a j,,Deepadung2015,,,^s aŋa j$,default
+ManLoi-1_sun-1,,ManLoi,1_sun,saŋaj,saŋaj,s a + ŋ a j,,Deepadung2015,,,^s aŋa j$,default
 MengDan-1_sun-1,,MengDan,1_sun,ŋəj,ŋəj,ŋ ə j,,Deepadung2015,,,^ŋ ə j$,default
-ChuDongGua-1_sun-1,,ChuDongGua,1_sun,səŋɔj,səŋɔj,s ə ŋ ɔ j,,Deepadung2015,,,^s ə ŋ ɔ j$,default
-XiangZhaiTang-1_sun-1,,XiangZhaiTang,1_sun,saŋɛː,saŋɛː,s a ŋ ɛː,,Deepadung2015,,,^s a ŋ ɛː$,default
-PongNuea-1_sun-1,,PongNuea,1_sun,saŋɛj,saŋɛj,s a ŋ ɛ j,,Deepadung2015,,,^s a ŋ ɛ j$,default
-NyaungGone-1_sun-1,,NyaungGone,1_sun,saŋɛ,saŋɛ,s a ŋ ɛ,,Deepadung2015,,,^s a ŋ ɛ$,default
-NoeLae-1_sun-1,,NoeLae,1_sun,saŋɛ,saŋɛ,s a ŋ ɛ,,Deepadung2015,,,^s a ŋ ɛ$,default
-BanPaw-1_sun-1,,BanPaw,1_sun,saŋɛ,saŋɛ,s a ŋ ɛ,,Deepadung2015,,,^s a ŋ ɛ$,default
-ChaYeQing-1_sun-1,,ChaYeQing,1_sun,khaŋaj,khaŋaj,kʰ a ŋ a j,,Deepadung2015,,,^kh a ŋ a j$,default
-GuangKa-1_sun-1,,GuangKa,1_sun,saŋaj,saŋaj,s a ŋ a j,,Deepadung2015,,,^s a ŋ a j$,default
-MangBang-1_sun-1,,MangBang,1_sun,saŋaj,saŋaj,s a ŋ a j,,Deepadung2015,,,^s a ŋ a j$,default
-NanSang-1_sun-1,,NanSang,1_sun,saŋaj,saŋaj,s a ŋ a j,,Deepadung2015,,,^s a ŋ a j$,default
-NamHsan-2_moon-1,,NamHsan,2_moon,blaŋkiәːr,blaŋkiәːr,b l a ŋ k i əː r,,Deepadung2015,,,^b l a ŋ k i әː r$,default
-KhunHawt-2_moon-1,,KhunHawt,2_moon,paŋkia,paŋkia,p a ŋ k i a,,Deepadung2015,,,^p a ŋ k i a$,default
-HtanHsan-2_moon-1,,HtanHsan,2_moon,baŋkia,baŋkia,b a ŋ k i a,,Deepadung2015,,,^b a ŋ k i a$,default
-PangKham-2_moon-1,,PangKham,2_moon,blaŋɡian,blaŋɡian,b l a ŋ g i a n,,Deepadung2015,,,^b l a ŋ ɡ i a n$,default
-ManLoi-2_moon-1,,ManLoi,2_moon,blaŋɡiaː,blaŋɡiaː,b l a ŋ g i aː,,Deepadung2015,,,^b l a ŋ ɡ i aː$,default
-MengDan-2_moon-1,,MengDan,2_moon,blaŋɡiar,blaŋɡiar,b l a ŋ g i a r,,Deepadung2015,,,^b l a ŋ ɡ i a r$,default
-ChuDongGua-2_moon-1,,ChuDongGua,2_moon,blaŋkiar,blaŋkiar,b l a ŋ k i a r,,Deepadung2015,,,^b l a ŋ k i a r$,default
-XiangZhaiTang-2_moon-1,,XiangZhaiTang,2_moon,məɡian,məɡian,m ə g i a n,,Deepadung2015,,,^m ə ɡ i a n$,default
-PongNuea-2_moon-1,,PongNuea,2_moon,maɡian,maɡian,m a g i a n,,Deepadung2015,,,^m a ɡ i a n$,default
-NyaungGone-2_moon-1,,NyaungGone,2_moon,maɡian,maɡian,m a g i a n,,Deepadung2015,,,^m a ɡ i a n$,default
-NoeLae-2_moon-1,,NoeLae,2_moon,maɡian,maɡian,m a g i a n,,Deepadung2015,,,^m a ɡ i a n$,default
-BanPaw-2_moon-1,,BanPaw,2_moon,maɡian,maɡian,m a g i a n,,Deepadung2015,,,^m a ɡ i a n$,default
-ChaYeQing-2_moon-1,,ChaYeQing,2_moon,lənlaːw,lənlaːw,l ə n l aː w,,Deepadung2015,,,^l ə n l aː w$,default
-GuangKa-2_moon-1,,GuangKa,2_moon,pakjəː,pakjəː,p a k j əː,,Deepadung2015,,,^p a k j əː$,default
-MangBang-2_moon-1,,MangBang,2_moon,pakjəː,pakjəː,p a k j əː,,Deepadung2015,,,^p a k j əː$,default
-NanSang-2_moon-1,,NanSang,2_moon,pakjəː,pakjəː,p a k j əː,,Deepadung2015,,,^p a k j əː$,default
-NamHsan-3_star-1,,NamHsan,3_star,samɛŋ,samɛŋ,s a m ɛ ŋ,,Deepadung2015,,,^s a m ɛ ŋ$,default
-KhunHawt-3_star-1,,KhunHawt,3_star,sәmeɲ,sәmeɲ,s ə m e ɲ,,Deepadung2015,,,^s ә m e ɲ$,default
-HtanHsan-3_star-1,,HtanHsan,3_star,sameɲ,sameɲ,s a m e ɲ,,Deepadung2015,,,^s a m e ɲ$,default
+ChuDongGua-1_sun-1,,ChuDongGua,1_sun,səŋɔj,səŋɔj,s ə + ŋ ɔ j,,Deepadung2015,,,^s əŋɔ j$,default
+XiangZhaiTang-1_sun-1,,XiangZhaiTang,1_sun,saŋɛː,saŋɛː,s a + ŋ ɛː,,Deepadung2015,,,^s aŋɛː $,default
+PongNuea-1_sun-1,,PongNuea,1_sun,saŋɛj,saŋɛj,s a + ŋ ɛ j,,Deepadung2015,,,^s aŋɛ j$,default
+NyaungGone-1_sun-1,,NyaungGone,1_sun,saŋɛ,saŋɛ,s a + ŋ ɛ,,Deepadung2015,,,^s aŋɛ $,default
+NoeLae-1_sun-1,,NoeLae,1_sun,saŋɛ,saŋɛ,s a + ŋ ɛ,,Deepadung2015,,,^s aŋɛ $,default
+BanPaw-1_sun-1,,BanPaw,1_sun,saŋɛ,saŋɛ,s a + ŋ ɛ,,Deepadung2015,,,^s aŋɛ $,default
+ChaYeQing-1_sun-1,,ChaYeQing,1_sun,khaŋaj,khaŋaj,kʰ a + ŋ a j,,Deepadung2015,,,^kh aŋa j$,default
+GuangKa-1_sun-1,,GuangKa,1_sun,saŋaj,saŋaj,s a + ŋ a j,,Deepadung2015,,,^s aŋa j$,default
+MangBang-1_sun-1,,MangBang,1_sun,saŋaj,saŋaj,s a + ŋ a j,,Deepadung2015,,,^s aŋa j$,default
+NanSang-1_sun-1,,NanSang,1_sun,saŋaj,saŋaj,s a + ŋ a j,,Deepadung2015,,,^s aŋa j$,default
+NamHsan-2_moon-1,,NamHsan,2_moon,blaŋkiәːr,blaŋkiәːr,b l a ŋ + k iəː r,,Deepadung2015,,,^b l a ŋk iәː r$,default
+KhunHawt-2_moon-1,,KhunHawt,2_moon,paŋkia,paŋkia,p a ŋ + k ia,,Deepadung2015,,,^p a ŋk ia $,default
+HtanHsan-2_moon-1,,HtanHsan,2_moon,baŋkia,baŋkia,b a ŋ + k ia,,Deepadung2015,,,^b a ŋk ia $,default
+PangKham-2_moon-1,,PangKham,2_moon,blaŋɡian,blaŋɡian,b l a ŋ + g ia n,,Deepadung2015,,,^b l a ŋɡ ia n$,default
+ManLoi-2_moon-1,,ManLoi,2_moon,blaŋɡiaː,blaŋɡiaː,b l a ŋ + g iaː,,Deepadung2015,,,^b l a ŋɡ iaː $,default
+MengDan-2_moon-1,,MengDan,2_moon,blaŋɡiar,blaŋɡiar,b l a ŋ + g ia r,,Deepadung2015,,,^b l a ŋɡ ia r$,default
+ChuDongGua-2_moon-1,,ChuDongGua,2_moon,blaŋkiar,blaŋkiar,b l a ŋ + k ia r,,Deepadung2015,,,^b l a ŋk ia r$,default
+XiangZhaiTang-2_moon-1,,XiangZhaiTang,2_moon,məɡian,məɡian,m ə + g ia n,,Deepadung2015,,,^m əɡ ia n$,default
+PongNuea-2_moon-1,,PongNuea,2_moon,maɡian,maɡian,m a + g ia n,,Deepadung2015,,,^m aɡ ia n$,default
+NyaungGone-2_moon-1,,NyaungGone,2_moon,maɡian,maɡian,m a + g ia n,,Deepadung2015,,,^m aɡ ia n$,default
+NoeLae-2_moon-1,,NoeLae,2_moon,maɡian,maɡian,m a + g ia n,,Deepadung2015,,,^m aɡ ia n$,default
+BanPaw-2_moon-1,,BanPaw,2_moon,maɡian,maɡian,m a + g ia n,,Deepadung2015,,,^m aɡ ia n$,default
+ChaYeQing-2_moon-1,,ChaYeQing,2_moon,lənlaːw,lənlaːw,l ə n + l aː w,,Deepadung2015,,,^l ə nl aː w$,default
+GuangKa-2_moon-1,,GuangKa,2_moon,pakjəː,pakjəː,p a + k j əː,,Deepadung2015,,,^p akj əː$,default
+MangBang-2_moon-1,,MangBang,2_moon,pakjəː,pakjəː,p a + k j əː,,Deepadung2015,,,^p akj əː$,default
+NanSang-2_moon-1,,NanSang,2_moon,pakjəː,pakjəː,p a + k j əː,,Deepadung2015,,,^p akj əː$,default
+NamHsan-3_star-1,,NamHsan,3_star,samɛŋ,samɛŋ,s a + m ɛ ŋ,,Deepadung2015,,,^s amɛ ŋ$,default
+KhunHawt-3_star-1,,KhunHawt,3_star,sәmeɲ,sәmeɲ,s ə + m e ɲ,,Deepadung2015,,,^s әme ɲ$,default
+HtanHsan-3_star-1,,HtanHsan,3_star,sameɲ,sameɲ,s a + m e ɲ,,Deepadung2015,,,^s ame ɲ$,default
 PangKham-3_star-1,,PangKham,3_star,plaːŋ,plaːŋ,p l aː ŋ,,Deepadung2015,,,^p l aː ŋ$,default
 ManLoi-3_star-1,,ManLoi,3_star,plaːŋ,plaːŋ,p l aː ŋ,,Deepadung2015,,,^p l aː ŋ$,default
-MengDan-3_star-1,,MengDan,3_star,kəman,kəman,k ə m a n,,Deepadung2015,,,^k ə m a n$,default
-ChuDongGua-3_star-1,,ChuDongGua,3_star,səmaɲ,səmaɲ,s ə m a ɲ,,Deepadung2015,,,^s ə m a ɲ$,default
-XiangZhaiTang-3_star-1,,XiangZhaiTang,3_star,samɛɲ,samɛɲ,s a m ɛ ɲ,,Deepadung2015,,,^s a m ɛ ɲ$,default
-PongNuea-3_star-1,,PongNuea,3_star,samaɲ,samaɲ,s a m a ɲ,,Deepadung2015,,,^s a m a ɲ$,default
-NyaungGone-3_star-1,,NyaungGone,3_star,samăn,samăn,s a m ă n,,Deepadung2015,,,^s a m ă n$,default
-NoeLae-3_star-1,,NoeLae,3_star,samăɲ,samăɲ,s a m ă ɲ,,Deepadung2015,,,^s a m ă ɲ$,default
-BanPaw-3_star-1,,BanPaw,3_star,samăn,samăn,s a m ă n,,Deepadung2015,,,^s a m ă n$,default
-ChaYeQing-3_star-1,,ChaYeQing,3_star,khaman,khaman,kʰ a m a n,,Deepadung2015,,,^kh a m a n$,default
+MengDan-3_star-1,,MengDan,3_star,kəman,kəman,k ə + m a n,,Deepadung2015,,,^k əma n$,default
+ChuDongGua-3_star-1,,ChuDongGua,3_star,səmaɲ,səmaɲ,s ə + m a ɲ,,Deepadung2015,,,^s əma ɲ$,default
+XiangZhaiTang-3_star-1,,XiangZhaiTang,3_star,samɛɲ,samɛɲ,s a + m ɛ ɲ,,Deepadung2015,,,^s amɛ ɲ$,default
+PongNuea-3_star-1,,PongNuea,3_star,samaɲ,samaɲ,s a + m a ɲ,,Deepadung2015,,,^s ama ɲ$,default
+NyaungGone-3_star-1,,NyaungGone,3_star,samăn,samăn,s a + m ă n,,Deepadung2015,,,^s amă n$,default
+NoeLae-3_star-1,,NoeLae,3_star,samăɲ,samăɲ,s a + m ă ɲ,,Deepadung2015,,,^s amă ɲ$,default
+BanPaw-3_star-1,,BanPaw,3_star,samăn,samăn,s a + m ă n,,Deepadung2015,,,^s amă n$,default
+ChaYeQing-3_star-1,,ChaYeQing,3_star,khaman,khaman,kʰ a + m a n,,Deepadung2015,,,^kh ama n$,default
 GuangKa-3_star-1,,GuangKa,3_star,laːw,laːw,l aː w,,Deepadung2015,,,^l aː w$,default
 MangBang-3_star-1,,MangBang,3_star,laːw,laːw,l aː w,,Deepadung2015,,,^l aː w$,default
 NanSang-3_star-1,,NanSang,3_star,laːw,laːw,l aː w,,Deepadung2015,,,^l aː w$,default
 NamHsan-4_cloud-1,,NamHsan,4_cloud,Ɂuːt,Ɂuːt,ʔ uː t,,Deepadung2015,,,^Ɂ uː t$,default
 KhunHawt-4_cloud-1,,KhunHawt,4_cloud,Ɂuːt,Ɂuːt,ʔ uː t,,Deepadung2015,,,^Ɂ uː t$,default
 HtanHsan-4_cloud-1,,HtanHsan,4_cloud,ɁuːɁ,ɁuːɁ,ʔ uː ʔ,,Deepadung2015,,,^Ɂ uː Ɂ$,default
-PangKham-4_cloud-1,,PangKham,4_cloud,ɁaɁuːt,ɁaɁuːt,ʔ a ʔ uː t,,Deepadung2015,,,^Ɂ a Ɂ uː t$,default
-ManLoi-4_cloud-1,,ManLoi,4_cloud,ɁaɁut,ɁaɁut,ʔ a ʔ u t,,Deepadung2015,,,^Ɂ a Ɂ u t$,default
+PangKham-4_cloud-1,,PangKham,4_cloud,ɁaɁuːt,ɁaɁuːt,ʔ a + ʔ uː t,,Deepadung2015,,,^Ɂ aɁuː t$,default
+ManLoi-4_cloud-1,,ManLoi,4_cloud,ɁaɁut,ɁaɁut,ʔ a + ʔ u t,,Deepadung2015,,,^Ɂ aɁu t$,default
 MengDan-4_cloud-1,,MengDan,4_cloud,ʔuːt,ʔuːt,ʔ uː t,,Deepadung2015,,,^ʔ uː t$,default
-ChuDongGua-4_cloud-1,,ChuDongGua,4_cloud,kɨʔuːt,kɨʔuːt,k ɨ ʔ uː t,,Deepadung2015,,,^k ɨ ʔ uː t$,default
-XiangZhaiTang-4_cloud-1,,XiangZhaiTang,4_cloud,ŋɁuɁ,ŋɁuɁ,ŋ ʔ u ʔ,,Deepadung2015,,,^ŋ Ɂ u Ɂ$,default
-PongNuea-4_cloud-1,,PongNuea,4_cloud,ŋɁuɁ,ŋɁuɁ,ŋ ʔ u ʔ,,Deepadung2015,,,^ŋ Ɂ u Ɂ$,default
+ChuDongGua-4_cloud-1,,ChuDongGua,4_cloud,kɨʔuːt,kɨʔuːt,k ɨ + ʔ uː t,,Deepadung2015,,,^k ɨʔuː t$,default
+XiangZhaiTang-4_cloud-1,,XiangZhaiTang,4_cloud,ŋɁuɁ,ŋɁuɁ,ŋ + ʔ u ʔ,,Deepadung2015,,,^ŋɁ u Ɂ$,default
+PongNuea-4_cloud-1,,PongNuea,4_cloud,ŋɁuɁ,ŋɁuɁ,ŋ + ʔ u ʔ,,Deepadung2015,,,^ŋɁ u Ɂ$,default
 NyaungGone-4_cloud-1,,NyaungGone,4_cloud,ŋ ʔuʔ,ŋ ʔuʔ,ŋ + ʔ u ʔ,,Deepadung2015,,,^ŋ + ʔ u ʔ$,default
 NoeLae-4_cloud-1,,NoeLae,4_cloud,ŋ Ɂu,ŋ Ɂu,ŋ + ʔ u,,Deepadung2015,,,^ŋ + Ɂ u$,default
 BanPaw-4_cloud-1,,BanPaw,4_cloud,ŋ ɁuɁ,ŋ ɁuɁ,ŋ + ʔ u ʔ,,Deepadung2015,,,^ŋ + Ɂ u Ɂ$,default
-ChaYeQing-4_cloud-1,,ChaYeQing,4_cloud,ŋɁuːɁ,ŋɁuːɁ,ŋ ʔ uː ʔ,,Deepadung2015,,,^ŋ Ɂ uː Ɂ$,default
-GuangKa-4_cloud-1,,GuangKa,4_cloud,ɁoŋɁuːɁ,ɁoŋɁuːɁ,ʔ o ŋ ʔ uː ʔ,,Deepadung2015,,,^Ɂ o ŋ Ɂ uː Ɂ$,default
-MangBang-4_cloud-1,,MangBang,4_cloud,ŋɁuɁ,ŋɁuɁ,ŋ ʔ u ʔ,,Deepadung2015,,,^ŋ Ɂ u Ɂ$,default
-NanSang-4_cloud-1,,NanSang,4_cloud,ŋɁuːɁ,ŋɁuːɁ,ŋ ʔ uː ʔ,,Deepadung2015,,,^ŋ Ɂ uː Ɂ$,default
+ChaYeQing-4_cloud-1,,ChaYeQing,4_cloud,ŋɁuːɁ,ŋɁuːɁ,ŋ + ʔ uː ʔ,,Deepadung2015,,,^ŋɁ uː Ɂ$,default
+GuangKa-4_cloud-1,,GuangKa,4_cloud,ɁoŋɁuːɁ,ɁoŋɁuːɁ,ʔ o ŋ + ʔ uː ʔ,,Deepadung2015,,,^Ɂ o ŋɁ uː Ɂ$,default
+MangBang-4_cloud-1,,MangBang,4_cloud,ŋɁuɁ,ŋɁuɁ,ŋ + ʔ u ʔ,,Deepadung2015,,,^ŋɁ u Ɂ$,default
+NanSang-4_cloud-1,,NanSang,4_cloud,ŋɁuːɁ,ŋɁuːɁ,ŋ + ʔ uː ʔ,,Deepadung2015,,,^ŋɁ uː Ɂ$,default
 NamHsan-5_rain-1,,NamHsan,5_rain,ʨuŋ,ʨuŋ,tɕ u ŋ,,Deepadung2015,,,^ʨ u ŋ$,default
 KhunHawt-5_rain-1,,KhunHawt,5_rain,ʥoŋ,ʥoŋ,dʑ o ŋ,,Deepadung2015,,,^ʥ o ŋ$,default
 HtanHsan-5_rain-1,,HtanHsan,5_rain,ʥuːŋ,ʥuːŋ,dʑ uː ŋ,,Deepadung2015,,,^ʥ uː ŋ$,default
 PangKham-5_rain-1,,PangKham,5_rain,ɡlaːj,ɡlaːj,g l aː j,,Deepadung2015,,,^ɡ l aː j$,default
 ManLoi-5_rain-1,,ManLoi,5_rain,ɡlaːj,ɡlaːj,g l aː j,,Deepadung2015,,,^ɡ l aː j$,default
 MengDan-5_rain-1,,MengDan,5_rain,ɡlaːj,ɡlaːj,g l aː j,,Deepadung2015,,,^ɡ l aː j$,default
-ChuDongGua-5_rain-1,,ChuDongGua,5_rain,klaj,klaj,k l a j,,Deepadung2015,,,^k l a j$,default
+ChuDongGua-5_rain-1,,ChuDongGua,5_rain,klaj,klaj,k l a j,,Deepadung2015,,,^k l aj$,default
 XiangZhaiTang-5_rain-1,,XiangZhaiTang,5_rain,ɡlaːj,ɡlaːj,g l aː j,,Deepadung2015,,,^ɡ l aː j$,default
 PongNuea-5_rain-1,,PongNuea,5_rain,ɡlaːj,ɡlaːj,g l aː j,,Deepadung2015,,,^ɡ l aː j$,default
-NyaungGone-5_rain-1,,NyaungGone,5_rain,ɡlaj,ɡlaj,g l a j,,Deepadung2015,,,^ɡ l a j$,default
-NoeLae-5_rain-1,,NoeLae,5_rain,ɡlaj,ɡlaj,g l a j,,Deepadung2015,,,^ɡ l a j$,default
-BanPaw-5_rain-1,,BanPaw,5_rain,ɡlaj,ɡlaj,g l a j,,Deepadung2015,,,^ɡ l a j$,default
+NyaungGone-5_rain-1,,NyaungGone,5_rain,ɡlaj,ɡlaj,g l a j,,Deepadung2015,,,^ɡ l aj$,default
+NoeLae-5_rain-1,,NoeLae,5_rain,ɡlaj,ɡlaj,g l a j,,Deepadung2015,,,^ɡ l aj$,default
+BanPaw-5_rain-1,,BanPaw,5_rain,ɡlaj,ɡlaj,g l a j,,Deepadung2015,,,^ɡ l aj$,default
 ChaYeQing-5_rain-1,,ChaYeQing,5_rain,ɡlaːj,ɡlaːj,g l aː j,,Deepadung2015,,,^ɡ l aː j$,default
 GuangKa-5_rain-1,,GuangKa,5_rain,klaːj,klaːj,k l aː j,,Deepadung2015,,,^k l aː j$,default
 MangBang-5_rain-1,,MangBang,5_rain,klaːj,klaːj,k l aː j,,Deepadung2015,,,^k l aː j$,default
@@ -95,38 +95,38 @@ ChaYeQing-6_wind-1,,ChaYeQing,6_wind,khuː,khuː,kʰ uː,,Deepadung2015,,,^kh u�
 GuangKa-6_wind-1,,GuangKa,6_wind,khuː,khuː,kʰ uː,,Deepadung2015,,,^kh uː$,default
 MangBang-6_wind-1,,MangBang,6_wind,khuː,khuː,kʰ uː,,Deepadung2015,,,^kh uː$,default
 NanSang-6_wind-1,,NanSang,6_wind,khuː,khuː,kʰ uː,,Deepadung2015,,,^kh uː$,default
-NamHsan-7_night-1,,NamHsan,7_night,ram̥әɯ,ram̥әɯ,r a m̥ ə ɯ,,Deepadung2015,,,^r a m̥ ә ɯ$,default
-KhunHawt-7_night-1,,KhunHawt,7_night,lapm̥әː,lapm̥әː,l a p m̥ əː,,Deepadung2015,,,^l a p m̥ әː$,default
-HtanHsan-7_night-1,,HtanHsan,7_night,rәnm̥әː,rәnm̥әː,r ə n m̥ əː,,Deepadung2015,,,^r ә n m̥ әː$,default
-PangKham-7_night-1,,PangKham,7_night,khimm̥әɯ,khimm̥әɯ,kʰ i m m̥ ə ɯ,,Deepadung2015,,,^kh i m m̥ ә ɯ$,default
-ManLoi-7_night-1,,ManLoi,7_night,khiːm̥әɯ,khiːm̥әɯ,kʰ iː m̥ ə ɯ,,Deepadung2015,,,^kh iː m̥ ә ɯ$,default
-MengDan-7_night-1,,MengDan,7_night,khiːw m̥əɯ,khiːw m̥əɯ,kʰ iː w + m̥ ə ɯ,,Deepadung2015,,,^kh iː w + m̥ ə ɯ$,default
-ChuDongGua-7_night-1,,ChuDongGua,7_night,kham̥ɯ,kham̥ɯ,kʰ a m̥ ɯ,,Deepadung2015,,,^kh a m̥ ɯ$,default
-XiangZhaiTang-7_night-1,,XiangZhaiTang,7_night,ʨuŋm̥əɯ,ʨuŋm̥əɯ,tɕ u ŋ m̥ ə ɯ,,Deepadung2015,,,^ʨ u ŋ m̥ ə ɯ$,default
-PongNuea-7_night-1,,PongNuea,7_night,khɛm̥әɯ,khɛm̥әɯ,kʰ ɛ m̥ ə ɯ,,Deepadung2015,,,^kh ɛ m̥ ә ɯ$,default
-NyaungGone-7_night-1,,NyaungGone,7_night,pam̥ə,pam̥ə,p a m̥ ə,,Deepadung2015,,,^p a m̥ ə$,default
-NoeLae-7_night-1,,NoeLae,7_night,khɛm̥ə,khɛm̥ə,kʰ ɛ m̥ ə,,Deepadung2015,,,^kh ɛ m̥ ə$,default
-BanPaw-7_night-1,,BanPaw,7_night,khɛm̥ə,khɛm̥ə,kʰ ɛ m̥ ə,,Deepadung2015,,,^kh ɛ m̥ ə$,default
-ChaYeQing-7_night-1,,ChaYeQing,7_night,kham̥eːw,kham̥eːw,kʰ a m̥ eː w,,Deepadung2015,,,^kh a m̥ eː w$,default
-GuangKa-7_night-1,,GuangKa,7_night,kasɛm,kasɛm,k a s ɛ m,,Deepadung2015,,,^k a s ɛ m$,default
-MangBang-7_night-1,,MangBang,7_night,kasəm,kasəm,k a s ə m,,Deepadung2015,,,^k a s ə m$,default
-NanSang-7_night-1,,NanSang,7_night,kasəm,kasəm,k a s ə m,,Deepadung2015,,,^k a s ə m$,default
-NamHsan-8_year-1,,NamHsan,8_year,sanәm,sanәm,s a n ə m,,Deepadung2015,,,^s a n ә m$,default
-KhunHawt-8_year-1,,KhunHawt,8_year,sanәm,sanәm,s a n ə m,,Deepadung2015,,,^s a n ә m$,default
-HtanHsan-8_year-1,,HtanHsan,8_year,sәnәm,sәnәm,s ə n ə m,,Deepadung2015,,,^s ә n ә m$,default
-PangKham-8_year-1,,PangKham,8_year,sanam,sanam,s a n a m,,Deepadung2015,,,^s a n a m$,default
-ManLoi-8_year-1,,ManLoi,8_year,sanam,sanam,s a n a m,,Deepadung2015,,,^s a n a m$,default
-MengDan-8_year-1,,MengDan,8_year,sənam,sənam,s ə n a m,,Deepadung2015,,,^s ə n a m$,default
-ChuDongGua-8_year-1,,ChuDongGua,8_year,sanɔm,sanɔm,s a n ɔ m,,Deepadung2015,,,^s a n ɔ m$,default
-XiangZhaiTang-8_year-1,,XiangZhaiTang,8_year,sanəm,sanəm,s a n ə m,,Deepadung2015,,,^s a n ə m$,default
-PongNuea-8_year-1,,PongNuea,8_year,sanəm,sanəm,s a n ə m,,Deepadung2015,,,^s a n ə m$,default
-NyaungGone-8_year-1,,NyaungGone,8_year,sanăm,sanăm,s a n ă m,,Deepadung2015,,,^s a n ă m$,default
-NoeLae-8_year-1,,NoeLae,8_year,sanə̆m,sanə̆m,s a n ə̆ m,,Deepadung2015,,,^s a n ə̆ m$,default
-BanPaw-8_year-1,,BanPaw,8_year,sanăm,sanăm,s a n ă m,,Deepadung2015,,,^s a n ă m$,default
-ChaYeQing-8_year-1,,ChaYeQing,8_year,khanam,khanam,kʰ a n a m,,Deepadung2015,,,^kh a n a m$,default
-GuangKa-8_year-1,,GuangKa,8_year,sanam,sanam,s a n a m,,Deepadung2015,,,^s a n a m$,default
-MangBang-8_year-1,,MangBang,8_year,sanam,sanam,s a n a m,,Deepadung2015,,,^s a n a m$,default
-NanSang-8_year-1,,NanSang,8_year,sanam,sanam,s a n a m,,Deepadung2015,,,^s a n a m$,default
+NamHsan-7_night-1,,NamHsan,7_night,ram̥әɯ,ram̥әɯ,r a + m̥ ə ɯ,,Deepadung2015,,,^r a m̥ ә ɯ$,default
+KhunHawt-7_night-1,,KhunHawt,7_night,lapm̥әː,lapm̥әː,l a p + m̥ əː,,Deepadung2015,,,^l a p m̥ әː$,default
+HtanHsan-7_night-1,,HtanHsan,7_night,rәnm̥әː,rәnm̥әː,r ə n + m̥ əː,,Deepadung2015,,,^r ә n m̥ әː$,default
+PangKham-7_night-1,,PangKham,7_night,khimm̥әɯ,khimm̥әɯ,kʰ i m + m̥ ə ɯ,,Deepadung2015,,,^kh i m m̥ ә ɯ$,default
+ManLoi-7_night-1,,ManLoi,7_night,khiːm̥әɯ,khiːm̥әɯ,kʰ iː + m̥ ə ɯ,,Deepadung2015,,,^kh iː m̥ ә ɯ$,default
+MengDan-7_night-1,,MengDan,7_night,khiːw m̥əɯ,khiːw m̥əɯ,kʰ iː w + + m̥ ə ɯ,,Deepadung2015,,,^kh iː w + m̥ ə ɯ$,default
+ChuDongGua-7_night-1,,ChuDongGua,7_night,kham̥ɯ,kham̥ɯ,kʰ a + m̥ ɯ,,Deepadung2015,,,^kh a m̥ ɯ$,default
+XiangZhaiTang-7_night-1,,XiangZhaiTang,7_night,ʨuŋm̥əɯ,ʨuŋm̥əɯ,tɕ u ŋ + m̥ ə ɯ,,Deepadung2015,,,^ʨ u ŋm̥ ə ɯ$,default
+PongNuea-7_night-1,,PongNuea,7_night,khɛm̥әɯ,khɛm̥әɯ,kʰ ɛ + m̥ ə ɯ,,Deepadung2015,,,^kh ɛ m̥ ә ɯ$,default
+NyaungGone-7_night-1,,NyaungGone,7_night,pam̥ə,pam̥ə,p a + m̥ ə,,Deepadung2015,,,^p a m̥ ə$,default
+NoeLae-7_night-1,,NoeLae,7_night,khɛm̥ə,khɛm̥ə,kʰ ɛ + m̥ ə,,Deepadung2015,,,^kh ɛ m̥ ə$,default
+BanPaw-7_night-1,,BanPaw,7_night,khɛm̥ə,khɛm̥ə,kʰ ɛ + m̥ ə,,Deepadung2015,,,^kh ɛ m̥ ə$,default
+ChaYeQing-7_night-1,,ChaYeQing,7_night,kham̥eːw,kham̥eːw,kʰ a + m̥ eː w,,Deepadung2015,,,^kh a m̥ eː w$,default
+GuangKa-7_night-1,,GuangKa,7_night,kasɛm,kasɛm,k a + s ɛ m,,Deepadung2015,,,^k as ɛ m$,default
+MangBang-7_night-1,,MangBang,7_night,kasəm,kasəm,k a + s ə m,,Deepadung2015,,,^k as ə m$,default
+NanSang-7_night-1,,NanSang,7_night,kasəm,kasəm,k a + s ə m,,Deepadung2015,,,^k as ə m$,default
+NamHsan-8_year-1,,NamHsan,8_year,sanәm,sanәm,s a + n ə m,,Deepadung2015,,,^s anә m$,default
+KhunHawt-8_year-1,,KhunHawt,8_year,sanәm,sanәm,s a + n ə m,,Deepadung2015,,,^s anә m$,default
+HtanHsan-8_year-1,,HtanHsan,8_year,sәnәm,sәnәm,s ə + n ə m,,Deepadung2015,,,^s әnә m$,default
+PangKham-8_year-1,,PangKham,8_year,sanam,sanam,s a + n a m,,Deepadung2015,,,^s ana m$,default
+ManLoi-8_year-1,,ManLoi,8_year,sanam,sanam,s a + n a m,,Deepadung2015,,,^s ana m$,default
+MengDan-8_year-1,,MengDan,8_year,sənam,sənam,s ə + n a m,,Deepadung2015,,,^s əna m$,default
+ChuDongGua-8_year-1,,ChuDongGua,8_year,sanɔm,sanɔm,s a + n ɔ m,,Deepadung2015,,,^s anɔ m$,default
+XiangZhaiTang-8_year-1,,XiangZhaiTang,8_year,sanəm,sanəm,s a + n ə m,,Deepadung2015,,,^s anə m$,default
+PongNuea-8_year-1,,PongNuea,8_year,sanəm,sanəm,s a + n ə m,,Deepadung2015,,,^s anə m$,default
+NyaungGone-8_year-1,,NyaungGone,8_year,sanăm,sanăm,s a + n ă m,,Deepadung2015,,,^s ană m$,default
+NoeLae-8_year-1,,NoeLae,8_year,sanə̆m,sanə̆m,s a + n ə̆ m,,Deepadung2015,,,^s anə̆ m$,default
+BanPaw-8_year-1,,BanPaw,8_year,sanăm,sanăm,s a + n ă m,,Deepadung2015,,,^s ană m$,default
+ChaYeQing-8_year-1,,ChaYeQing,8_year,khanam,khanam,kʰ a + n a m,,Deepadung2015,,,^kh ana m$,default
+GuangKa-8_year-1,,GuangKa,8_year,sanam,sanam,s a + n a m,,Deepadung2015,,,^s ana m$,default
+MangBang-8_year-1,,MangBang,8_year,sanam,sanam,s a + n a m,,Deepadung2015,,,^s ana m$,default
+NanSang-8_year-1,,NanSang,8_year,sanam,sanam,s a + n a m,,Deepadung2015,,,^s ana m$,default
 NamHsan-9_water-1,,NamHsan,9_water,ʔoːm,ʔoːm,ʔ oː m,,Deepadung2015,,,^ʔ oː m$,default
 KhunHawt-9_water-1,,KhunHawt,9_water,ʔoːm,ʔoːm,ʔ oː m,,Deepadung2015,,,^ʔ oː m$,default
 HtanHsan-9_water-1,,HtanHsan,9_water,ʔoːm,ʔoːm,ʔ oː m,,Deepadung2015,,,^ʔ oː m$,default
@@ -143,22 +143,22 @@ ChaYeQing-9_water-1,,ChaYeQing,9_water,ʔɛm,ʔɛm,ʔ ɛ m,,Deepadung2015,,,^ʔ 
 GuangKa-9_water-1,,GuangKa,9_water,ʔɛm,ʔɛm,ʔ ɛ m,,Deepadung2015,,,^ʔ ɛ m$,default
 MangBang-9_water-1,,MangBang,9_water,Ɂəm,Ɂəm,ʔ ə m,,Deepadung2015,,,^Ɂ ə m$,default
 NanSang-9_water-1,,NanSang,9_water,Ɂəm,Ɂəm,ʔ ə m,,Deepadung2015,,,^Ɂ ə m$,default
-NamHsan-10_earthsoil-1,,NamHsan,10_earthsoil,kәɗɛː,kәɗɛː,k ə ɗ ɛː,,Deepadung2015,,,^k ә ɗ ɛː$,default
-KhunHawt-10_earthsoil-1,,KhunHawt,10_earthsoil,kәndɛj,kәndɛj,k ə n d ɛ j,,Deepadung2015,,,^k ә n d ɛ j$,default
-HtanHsan-10_earthsoil-1,,HtanHsan,10_earthsoil,kaɗej,kaɗej,k a ɗ e j,,Deepadung2015,,,^k a ɗ ej$,default
-PangKham-10_earthsoil-1,,PangKham,10_earthsoil,kaɗaːj,kaɗaːj,k a ɗ aː j,,Deepadung2015,,,^k a ɗ aː j$,default
-ManLoi-10_earthsoil-1,,ManLoi,10_earthsoil,kaɗaːj,kaɗaːj,k a ɗ aː j,,Deepadung2015,,,^k a ɗ aː j$,default
-MengDan-10_earthsoil-1,,MengDan,10_earthsoil,kədaj,kədaj,k ə d a j,,Deepadung2015,,,^k ə d a j$,default
-ChuDongGua-10_earthsoil-1,,ChuDongGua,10_earthsoil,kaɗaːj,kaɗaːj,k a ɗ aː j,,Deepadung2015,,,^k a ɗ aː j$,default
-XiangZhaiTang-10_earthsoil-1,,XiangZhaiTang,10_earthsoil,kadɛːj,kadɛːj,k a d ɛː j,,Deepadung2015,,,^k a d ɛː j$,default
-PongNuea-10_earthsoil-1,,PongNuea,10_earthsoil,kadaːj,kadaːj,k a d aː j,,Deepadung2015,,,^k a d aː j$,default
-NyaungGone-10_earthsoil-1,,NyaungGone,10_earthsoil,kadaj,kadaj,k a d a j,,Deepadung2015,,,^k a d a j$,default
-NoeLae-10_earthsoil-1,,NoeLae,10_earthsoil,kadaj,kadaj,k a d a j,,Deepadung2015,,,^k a d a j$,default
-BanPaw-10_earthsoil-1,,BanPaw,10_earthsoil,kadaj,kadaj,k a d a j,,Deepadung2015,,,^k a d a j$,default
-ChaYeQing-10_earthsoil-1,,ChaYeQing,10_earthsoil,kadaːj,kadaːj,k a d aː j,,Deepadung2015,,,^k a d aː j$,default
-GuangKa-10_earthsoil-1,,GuangKa,10_earthsoil,kataːj,kataːj,k a t aː j,,Deepadung2015,,,^k a t aː j$,default
-MangBang-10_earthsoil-1,,MangBang,10_earthsoil,kataːj,kataːj,k a t aː j,,Deepadung2015,,,^k a t aː j$,default
-NanSang-10_earthsoil-1,,NanSang,10_earthsoil,kataːj,kataːj,k a t aː j,,Deepadung2015,,,^k a t aː j$,default
+NamHsan-10_earthsoil-1,,NamHsan,10_earthsoil,kәɗɛː,kәɗɛː,k ə + ɗ ɛː,,Deepadung2015,,,^k әɗ ɛː$,default
+KhunHawt-10_earthsoil-1,,KhunHawt,10_earthsoil,kәndɛj,kәndɛj,k ə n + d ɛ j,,Deepadung2015,,,^k ә nd ɛ j$,default
+HtanHsan-10_earthsoil-1,,HtanHsan,10_earthsoil,kaɗej,kaɗej,k a + ɗ e j,,Deepadung2015,,,^k aɗ ej$,default
+PangKham-10_earthsoil-1,,PangKham,10_earthsoil,kaɗaːj,kaɗaːj,k a + ɗ aː j,,Deepadung2015,,,^k aɗ aː j$,default
+ManLoi-10_earthsoil-1,,ManLoi,10_earthsoil,kaɗaːj,kaɗaːj,k a + ɗ aː j,,Deepadung2015,,,^k aɗ aː j$,default
+MengDan-10_earthsoil-1,,MengDan,10_earthsoil,kədaj,kədaj,k ə + d a j,,Deepadung2015,,,^k əd aj$,default
+ChuDongGua-10_earthsoil-1,,ChuDongGua,10_earthsoil,kaɗaːj,kaɗaːj,k a + ɗ aː j,,Deepadung2015,,,^k aɗ aː j$,default
+XiangZhaiTang-10_earthsoil-1,,XiangZhaiTang,10_earthsoil,kadɛːj,kadɛːj,k a + d ɛː j,,Deepadung2015,,,^k ad ɛː j$,default
+PongNuea-10_earthsoil-1,,PongNuea,10_earthsoil,kadaːj,kadaːj,k a + d aː j,,Deepadung2015,,,^k ad aː j$,default
+NyaungGone-10_earthsoil-1,,NyaungGone,10_earthsoil,kadaj,kadaj,k a + d a j,,Deepadung2015,,,^k ad aj$,default
+NoeLae-10_earthsoil-1,,NoeLae,10_earthsoil,kadaj,kadaj,k a + d a j,,Deepadung2015,,,^k ad aj$,default
+BanPaw-10_earthsoil-1,,BanPaw,10_earthsoil,kadaj,kadaj,k a + d a j,,Deepadung2015,,,^k ad aj$,default
+ChaYeQing-10_earthsoil-1,,ChaYeQing,10_earthsoil,kadaːj,kadaːj,k a + d aː j,,Deepadung2015,,,^k ad aː j$,default
+GuangKa-10_earthsoil-1,,GuangKa,10_earthsoil,kataːj,kataːj,k a + t aː j,,Deepadung2015,,,^k ataː j$,default
+MangBang-10_earthsoil-1,,MangBang,10_earthsoil,kataːj,kataːj,k a + t aː j,,Deepadung2015,,,^k ataː j$,default
+NanSang-10_earthsoil-1,,NanSang,10_earthsoil,kataːj,kataːj,k a + t aː j,,Deepadung2015,,,^k ataː j$,default
 NamHsan-11_stone-1,,NamHsan,11_stone,moː,moː,m oː,,Deepadung2015,,,^m oː$,default
 KhunHawt-11_stone-1,,KhunHawt,11_stone,moːw,moːw,m oː w,,Deepadung2015,,,^m oː w$,default
 HtanHsan-11_stone-1,,HtanHsan,11_stone,moːw,moːw,m oː w,,Deepadung2015,,,^m oː w$,default
@@ -181,7 +181,7 @@ HtanHsan-12_mountain-1,,HtanHsan,12_mountain,sur̥,sur̥,s u r̥,,Deepadung2015,
 PangKham-12_mountain-1,,PangKham,12_mountain,ŋɔːt,ŋɔːt,ŋ ɔː t,,Deepadung2015,,,^ŋ ɔː t$,default
 ManLoi-12_mountain-1,,ManLoi,12_mountain,ŋauɁ,ŋauɁ,ŋ au ʔ,,Deepadung2015,,,^ŋ au Ɂ$,default
 MengDan-12_mountain-1,,MengDan,12_mountain,sul,sul,s u l,,Deepadung2015,,,^s u l$,default
-ChuDongGua-12_mountain-1,,ChuDongGua,12_mountain,kədiaŋ,kədiaŋ,k ə d i a ŋ,,Deepadung2015,,,^k ə d i a ŋ$,default
+ChuDongGua-12_mountain-1,,ChuDongGua,12_mountain,kədiaŋ,kədiaŋ,k ə + d ia ŋ,,Deepadung2015,,,^k əd ia ŋ$,default
 XiangZhaiTang-12_mountain-1,,XiangZhaiTang,12_mountain,nɔn,nɔn,n ɔ n,,Deepadung2015,,,^n ɔ n$,default
 PongNuea-12_mountain-1,,PongNuea,12_mountain,nɔːn,nɔːn,n ɔː n,,Deepadung2015,,,^n ɔː n$,default
 NyaungGone-12_mountain-1,,NyaungGone,12_mountain,nɔn,nɔn,n ɔ n,,Deepadung2015,,,^n ɔ n$,default
@@ -198,31 +198,31 @@ PangKham-13_tree-1,,PangKham,13_tree,hej,hej,h e j,,Deepadung2015,,,^h ej$,defau
 ManLoi-13_tree-1,,ManLoi,13_tree,daŋ heː,daŋ heː,d a ŋ + h eː,,Deepadung2015,,,^d a ŋ + h eː$,default
 MengDan-13_tree-1,,MengDan,13_tree,hi,hi,h i,,Deepadung2015,,,^h i$,default
 ChuDongGua-13_tree-1,,ChuDongGua,13_tree,hi,hi,h i,,Deepadung2015,,,^h i$,default
-XiangZhaiTang-13_tree-1,,XiangZhaiTang,13_tree,daŋhej,daŋhej,d a ŋ h e j,,Deepadung2015,,,^d a ŋh ej$,default
+XiangZhaiTang-13_tree-1,,XiangZhaiTang,13_tree,daŋhej,daŋhej,d a ŋ + h e j,,Deepadung2015,,,^d a ŋh ej$,default
 PongNuea-13_tree-1,,PongNuea,13_tree,hej,hej,h e j,,Deepadung2015,,,^h ej$,default
 NyaungGone-13_tree-1,,NyaungGone,13_tree,he,he,h e,,Deepadung2015,,,^h e$,default
 NoeLae-13_tree-1,,NoeLae,13_tree,he,he,h e,,Deepadung2015,,,^h e$,default
 BanPaw-13_tree-1,,BanPaw,13_tree,he,he,h e,,Deepadung2015,,,^h e$,default
 ChaYeQing-13_tree-1,,ChaYeQing,13_tree,hɔːj,hɔːj,h ɔː j,,Deepadung2015,,,^h ɔː j$,default
-GuangKa-13_tree-1,,GuangKa,13_tree,taŋhɔːj,taŋhɔːj,t a ŋ h ɔː j,,Deepadung2015,,,^t a ŋh ɔː j$,default
-MangBang-13_tree-1,,MangBang,13_tree,taŋhɔːj,taŋhɔːj,t a ŋ h ɔː j,,Deepadung2015,,,^t a ŋh ɔː j$,default
-NanSang-13_tree-1,,NanSang,13_tree,taŋhɔj,taŋhɔj,t a ŋ h ɔ j,,Deepadung2015,,,^t a ŋh ɔ j$,default
-NamHsan-14_root-1,,NamHsan,14_root,riah,riah,r i a h,,Deepadung2015,,,^r i a h$,default
-KhunHawt-14_root-1,,KhunHawt,14_root,riah,riah,r i a h,,Deepadung2015,,,^r i a h$,default
-HtanHsan-14_root-1,,HtanHsan,14_root,riah hej,riah hej,r i a h + h e j,,Deepadung2015,,,^r i a h + h ej$,default
-PangKham-14_root-1,,PangKham,14_root,riah,riah,r i a h,,Deepadung2015,,,^r i a h$,default
-ManLoi-14_root-1,,ManLoi,14_root,riah hej,riah hej,r i a h + h e j,,Deepadung2015,,,^r i a h + h ej$,default
-MengDan-14_root-1,,MengDan,14_root,riah hiː,riah hiː,r i a h + h iː,,Deepadung2015,,,^r i a h + h iː$,default
-ChuDongGua-14_root-1,,ChuDongGua,14_root,riahhi,riahhi,r i a h h i,,Deepadung2015,,,^r i a hh i$,default
-XiangZhaiTang-14_root-1,,XiangZhaiTang,14_root,riahhej,riahhej,r i a h h e j,,Deepadung2015,,,^r i a hh ej$,default
-PongNuea-14_root-1,,PongNuea,14_root,riah,riah,r i a h,,Deepadung2015,,,^r i a h$,default
-NyaungGone-14_root-1,,NyaungGone,14_root,riah,riah,r i a h,,Deepadung2015,,,^r i a h$,default
-NoeLae-14_root-1,,NoeLae,14_root,riah,riah,r i a h,,Deepadung2015,,,^r i a h$,default
-BanPaw-14_root-1,,BanPaw,14_root,riah,riah,r i a h,,Deepadung2015,,,^r i a h$,default
-ChaYeQing-14_root-1,,ChaYeQing,14_root,ɣəhhɔj,ɣəhhɔj,ɣ ə h h ɔ j,,Deepadung2015,,,^ɣ ə hh ɔ j$,default
+GuangKa-13_tree-1,,GuangKa,13_tree,taŋhɔːj,taŋhɔːj,t a ŋ + h ɔː j,,Deepadung2015,,,^t a ŋh ɔː j$,default
+MangBang-13_tree-1,,MangBang,13_tree,taŋhɔːj,taŋhɔːj,t a ŋ + h ɔː j,,Deepadung2015,,,^t a ŋh ɔː j$,default
+NanSang-13_tree-1,,NanSang,13_tree,taŋhɔj,taŋhɔj,t a ŋ + h ɔ j,,Deepadung2015,,,^t a ŋh ɔj$,default
+NamHsan-14_root-1,,NamHsan,14_root,riah,riah,r ia h,,Deepadung2015,,,^r ia h$,default
+KhunHawt-14_root-1,,KhunHawt,14_root,riah,riah,r ia h,,Deepadung2015,,,^r ia h$,default
+HtanHsan-14_root-1,,HtanHsan,14_root,riah hej,riah hej,r ia h + h e j,,Deepadung2015,,,^r ia h + h ej$,default
+PangKham-14_root-1,,PangKham,14_root,riah,riah,r ia h,,Deepadung2015,,,^r ia h$,default
+ManLoi-14_root-1,,ManLoi,14_root,riah hej,riah hej,r ia h + h e j,,Deepadung2015,,,^r ia h + h ej$,default
+MengDan-14_root-1,,MengDan,14_root,riah hiː,riah hiː,r ia h + h iː,,Deepadung2015,,,^r ia h + h iː$,default
+ChuDongGua-14_root-1,,ChuDongGua,14_root,riahhi,riahhi,r ia h + h i,,Deepadung2015,,,^r ia hh i$,default
+XiangZhaiTang-14_root-1,,XiangZhaiTang,14_root,riahhej,riahhej,r ia h + h e j,,Deepadung2015,,,^r ia hh ej$,default
+PongNuea-14_root-1,,PongNuea,14_root,riah,riah,r ia h,,Deepadung2015,,,^r ia h$,default
+NyaungGone-14_root-1,,NyaungGone,14_root,riah,riah,r ia h,,Deepadung2015,,,^r ia h$,default
+NoeLae-14_root-1,,NoeLae,14_root,riah,riah,r ia h,,Deepadung2015,,,^r ia h$,default
+BanPaw-14_root-1,,BanPaw,14_root,riah,riah,r ia h,,Deepadung2015,,,^r ia h$,default
+ChaYeQing-14_root-1,,ChaYeQing,14_root,ɣəhhɔj,ɣəhhɔj,ɣ ə h + h ɔ j,,Deepadung2015,,,^ɣ ə hh ɔj$,default
 GuangKa-14_root-1,,GuangKa,14_root,ʐəh hɔːj,ʐəh hɔːj,ʐ ə h + h ɔː j,,Deepadung2015,,,^ʐ ə h + h ɔː j$,default
 MangBang-14_root-1,,MangBang,14_root,ɣəh,ɣəh,ɣ ə h,,Deepadung2015,,,^ɣ ə h$,default
-NanSang-14_root-1,,NanSang,14_root,rəhhɔj,rəhhɔj,r ə h h ɔ j,,Deepadung2015,,,^r ə hh ɔ j$,default
+NanSang-14_root-1,,NanSang,14_root,rəhhɔj,rəhhɔj,r ə h + h ɔ j,,Deepadung2015,,,^r ə hh ɔj$,default
 NamHsan-15_leaf-1,,NamHsan,15_leaf,l̥a:,l̥a:,l̥ aː,,Deepadung2015,,,^l̥ a:$,default
 KhunHawt-15_leaf-1,,KhunHawt,15_leaf,l̥aː heːj,l̥aː heːj,l̥ aː + h eː j,,Deepadung2015,,,^l̥ aː + h eː j$,default
 HtanHsan-15_leaf-1,,HtanHsan,15_leaf,l̥aː,l̥aː,l̥ aː,,Deepadung2015,,,^l̥ aː$,default
@@ -271,19 +271,19 @@ ChaYeQing-17_fruit-1,,ChaYeQing,17_fruit,ɓlɔːj,ɓlɔːj,ɓ l ɔː j,,Deepadun
 GuangKa-17_fruit-1,,GuangKa,17_fruit,plɔːj,plɔːj,p l ɔː j,,Deepadung2015,,,^p l ɔː j$,default
 MangBang-17_fruit-1,,MangBang,17_fruit,plɔːj,plɔːj,p l ɔː j,,Deepadung2015,,,^p l ɔː j$,default
 NanSang-17_fruit-1,,NanSang,17_fruit,plɔːj,plɔːj,p l ɔː j,,Deepadung2015,,,^p l ɔː j$,default
-NamHsan-18_grass-1,,NamHsan,18_grass,kәrbaːn,kәrbaːn,k ə r b aː n,,Deepadung2015,,,^k ә r b aː n$,default
-KhunHawt-18_grass-1,,KhunHawt,18_grass,kәrbaːn,kәrbaːn,k ə r b aː n,,Deepadung2015,,,^k ә r b aː n$,default
+NamHsan-18_grass-1,,NamHsan,18_grass,kәrbaːn,kәrbaːn,k ə r + b aː n,,Deepadung2015,,,^k ә rb aː n$,default
+KhunHawt-18_grass-1,,KhunHawt,18_grass,kәrbaːn,kәrbaːn,k ə r + b aː n,,Deepadung2015,,,^k ә rb aː n$,default
 HtanHsan-18_grass-1,,HtanHsan,18_grass,brej,brej,b r e j,,Deepadung2015,,,^b r ej$,default
-PangKham-18_grass-1,,PangKham,18_grass,praj,praj,p r a j,,Deepadung2015,,,^p r a j$,default
-ManLoi-18_grass-1,,ManLoi,18_grass,praj,praj,p r a j,,Deepadung2015,,,^p r a j$,default
-MengDan-18_grass-1,,MengDan,18_grass,praj,praj,p r a j,,Deepadung2015,,,^p r a j$,default
+PangKham-18_grass-1,,PangKham,18_grass,praj,praj,p r a j,,Deepadung2015,,,^p r aj$,default
+ManLoi-18_grass-1,,ManLoi,18_grass,praj,praj,p r a j,,Deepadung2015,,,^p r aj$,default
+MengDan-18_grass-1,,MengDan,18_grass,praj,praj,p r a j,,Deepadung2015,,,^p r aj$,default
 ChuDongGua-18_grass-1,,ChuDongGua,18_grass,ɓrai,ɓrai,ɓ r a j,,Deepadung2015,,,^ɓ r ai$,default
 XiangZhaiTang-18_grass-1,,XiangZhaiTang,18_grass,pət,pət,p ə t,,Deepadung2015,,,^p ə t$,default
 PongNuea-18_grass-1,,PongNuea,18_grass,pət,pət,p ə t,,Deepadung2015,,,^p ə t$,default
 NyaungGone-18_grass-1,,NyaungGone,18_grass,pə̆t,pə̆t,p ə̆ t,,Deepadung2015,,,^p ə̆ t$,default
 NoeLae-18_grass-1,,NoeLae,18_grass,pə̆t,pə̆t,p ə̆ t,,Deepadung2015,,,^p ə̆ t$,default
 BanPaw-18_grass-1,,BanPaw,18_grass,pə̆t,pə̆t,p ə̆ t,,Deepadung2015,,,^p ə̆ t$,default
-ChaYeQing-18_grass-1,,ChaYeQing,18_grass,bjai,bjai,b j a j,,Deepadung2015,,,^b j ai$,default
+ChaYeQing-18_grass-1,,ChaYeQing,18_grass,bjai,bjai,b ia i,,Deepadung2015,,,^b ja i$,default
 GuangKa-18_grass-1,,GuangKa,18_grass,bat,bat,b a t,,Deepadung2015,,,^b a t$,default
 MangBang-18_grass-1,,MangBang,18_grass,bət,bət,b ə t,,Deepadung2015,,,^b ə t$,default
 NanSang-18_grass-1,,NanSang,18_grass,bat,bat,b a t,,Deepadung2015,,,^b a t$,default
@@ -294,7 +294,7 @@ PangKham-19_salty-1,,PangKham,19_salty,jɛːm,jɛːm,j ɛː m,,Deepadung2015,,,^
 ManLoi-19_salty-1,,ManLoi,19_salty,sɛɁ saŋ,sɛɁ saŋ,s ɛ ʔ + s a ŋ,,Deepadung2015,,,^s ɛ Ɂ + s a ŋ$,default
 MengDan-19_salty-1,,MengDan,19_salty,saŋ,saŋ,s a ŋ,,Deepadung2015,,,^s a ŋ$,default
 ChuDongGua-19_salty-1,,ChuDongGua,19_salty,ʨeːm,ʨeːm,tɕ eː m,,Deepadung2015,,,^ʨ eː m$,default
-XiangZhaiTang-19_salty-1,,XiangZhaiTang,19_salty,sɛɁsɔŋ,sɛɁsɔŋ,s ɛ ʔs ɔ ŋ,,Deepadung2015,,,^s ɛ Ɂs ɔ ŋ$,default
+XiangZhaiTang-19_salty-1,,XiangZhaiTang,19_salty,sɛɁsɔŋ,sɛɁsɔŋ,s ɛ ʔ + s ɔ ŋ,,Deepadung2015,,,^s ɛ Ɂs ɔ ŋ$,default
 PongNuea-19_salty-1,,PongNuea,19_salty,sɔŋ,sɔŋ,s ɔ ŋ,,Deepadung2015,,,^s ɔ ŋ$,default
 NyaungGone-19_salty-1,,NyaungGone,19_salty,sɔk,sɔk,s ɔ k,,Deepadung2015,,,^s ɔ k$,default
 NoeLae-19_salty-1,,NoeLae,19_salty,sɔŋ,sɔŋ,s ɔ ŋ,,Deepadung2015,,,^s ɔ ŋ$,default
@@ -303,19 +303,19 @@ ChaYeQing-19_salty-1,,ChaYeQing,19_salty,ʨeːm,ʨeːm,tɕ eː m,,Deepadung2015,
 GuangKa-19_salty-1,,GuangKa,19_salty,ʨɛːm,ʨɛːm,tɕ ɛː m,,Deepadung2015,,,^ʨ ɛː m$,default
 MangBang-19_salty-1,,MangBang,19_salty,ʨeːm,ʨeːm,tɕ eː m,,Deepadung2015,,,^ʨ eː m$,default
 NanSang-19_salty-1,,NanSang,19_salty,sɔŋ,sɔŋ,s ɔ ŋ,,Deepadung2015,,,^s ɔ ŋ$,default
-NamHsan-20_dog-1,,NamHsan,20_dog,ɁaɁoɁ,ɁaɁoɁ,ʔ a ʔ o ʔ,,Deepadung2015,,,^Ɂ a Ɂ o Ɂ$,default
-KhunHawt-20_dog-1,,KhunHawt,20_dog,ɁaɁoɁ,ɁaɁoɁ,ʔ a ʔ o ʔ,,Deepadung2015,,,^Ɂ a Ɂ o Ɂ$,default
-HtanHsan-20_dog-1,,HtanHsan,20_dog,ɁaɁoɁ,ɁaɁoɁ,ʔ a ʔ o ʔ,,Deepadung2015,,,^Ɂ a Ɂ o Ɂ$,default
-PangKham-20_dog-1,,PangKham,20_dog,ɁaɁoɁ,ɁaɁoɁ,ʔ a ʔ o ʔ,,Deepadung2015,,,^Ɂ a Ɂ o Ɂ$,default
-ManLoi-20_dog-1,,ManLoi,20_dog,ɁaɁoɁ,ɁaɁoɁ,ʔ a ʔ o ʔ,,Deepadung2015,,,^Ɂ a Ɂ o Ɂ$,default
-MengDan-20_dog-1,,MengDan,20_dog,ʔaʔuʔ,ʔaʔuʔ,ʔ a ʔ u ʔ,,Deepadung2015,,,^ʔ a ʔ u ʔ$,default
-ChuDongGua-20_dog-1,,ChuDongGua,20_dog,ʔaʔoʔ,ʔaʔoʔ,ʔ a ʔ o ʔ,,Deepadung2015,,,^ʔ a ʔ o ʔ$,default
+NamHsan-20_dog-1,,NamHsan,20_dog,ɁaɁoɁ,ɁaɁoɁ,ʔ a + ʔ o ʔ,,Deepadung2015,,,^Ɂ aɁo Ɂ$,default
+KhunHawt-20_dog-1,,KhunHawt,20_dog,ɁaɁoɁ,ɁaɁoɁ,ʔ a + ʔ o ʔ,,Deepadung2015,,,^Ɂ aɁo Ɂ$,default
+HtanHsan-20_dog-1,,HtanHsan,20_dog,ɁaɁoɁ,ɁaɁoɁ,ʔ a + ʔ o ʔ,,Deepadung2015,,,^Ɂ aɁo Ɂ$,default
+PangKham-20_dog-1,,PangKham,20_dog,ɁaɁoɁ,ɁaɁoɁ,ʔ a + ʔ o ʔ,,Deepadung2015,,,^Ɂ aɁo Ɂ$,default
+ManLoi-20_dog-1,,ManLoi,20_dog,ɁaɁoɁ,ɁaɁoɁ,ʔ a + ʔ o ʔ,,Deepadung2015,,,^Ɂ aɁo Ɂ$,default
+MengDan-20_dog-1,,MengDan,20_dog,ʔaʔuʔ,ʔaʔuʔ,ʔ a + ʔ u ʔ,,Deepadung2015,,,^ʔ aʔu ʔ$,default
+ChuDongGua-20_dog-1,,ChuDongGua,20_dog,ʔaʔoʔ,ʔaʔoʔ,ʔ a + ʔ o ʔ,,Deepadung2015,,,^ʔ aʔo ʔ$,default
 XiangZhaiTang-20_dog-1,,XiangZhaiTang,20_dog,sow,sow,s o w,,Deepadung2015,,,^s o w$,default
-PongNuea-20_dog-1,,PongNuea,20_dog,masow,masow,m a s o w,,Deepadung2015,,,^m a s o w$,default
-NyaungGone-20_dog-1,,NyaungGone,20_dog,maso,maso,m a s o,,Deepadung2015,,,^m a s o$,default
-NoeLae-20_dog-1,,NoeLae,20_dog,maso,maso,m a s o,,Deepadung2015,,,^m a s o$,default
-BanPaw-20_dog-1,,BanPaw,20_dog,maso,maso,m a s o,,Deepadung2015,,,^m a s o$,default
-ChaYeQing-20_dog-1,,ChaYeQing,20_dog,maʔoʔ,maʔoʔ,m a ʔ o ʔ,,Deepadung2015,,,^m a ʔ o ʔ$,default
+PongNuea-20_dog-1,,PongNuea,20_dog,masow,masow,m a + s o w,,Deepadung2015,,,^m as o w$,default
+NyaungGone-20_dog-1,,NyaungGone,20_dog,maso,maso,m a + s o,,Deepadung2015,,,^m as o$,default
+NoeLae-20_dog-1,,NoeLae,20_dog,maso,maso,m a + s o,,Deepadung2015,,,^m as o$,default
+BanPaw-20_dog-1,,BanPaw,20_dog,maso,maso,m a + s o,,Deepadung2015,,,^m as o$,default
+ChaYeQing-20_dog-1,,ChaYeQing,20_dog,maʔoʔ,maʔoʔ,m a + ʔ o ʔ,,Deepadung2015,,,^m aʔo ʔ$,default
 GuangKa-20_dog-1,,GuangKa,20_dog,saw,saw,s a w,,Deepadung2015,,,^s a w$,default
 MangBang-20_dog-1,,MangBang,20_dog,saw,saw,s a w,,Deepadung2015,,,^s a w$,default
 NanSang-20_dog-1,,NanSang,20_dog,sow,sow,s o w,,Deepadung2015,,,^s o w$,default
@@ -324,7 +324,7 @@ KhunHawt-21_bite-1,,KhunHawt,21_bite,ɡaɁ,ɡaɁ,g a ʔ,,Deepadung2015,,,^ɡ a �
 HtanHsan-21_bite-1,,HtanHsan,21_bite,ɡaɁ,ɡaɁ,g a ʔ,,Deepadung2015,,,^ɡ a Ɂ$,default
 PangKham-21_bite-1,,PangKham,21_bite,ɡak,ɡak,g a k,,Deepadung2015,,,^ɡ a k$,default
 ManLoi-21_bite-1,,ManLoi,21_bite,kak,kak,k a k,,Deepadung2015,,,^k a k$,default
-MengDan-21_bite-1,,MengDan,21_bite,kiaʔ,kiaʔ,k i a ʔ,,Deepadung2015,,,^k i a ʔ$,default
+MengDan-21_bite-1,,MengDan,21_bite,kiaʔ,kiaʔ,k ia ʔ,,Deepadung2015,,,^k ia ʔ$,default
 ChuDongGua-21_bite-1,,ChuDongGua,21_bite,ɡa?,ɡa?,g a ʔ,,Deepadung2015,,,^ɡ a ?$,default
 XiangZhaiTang-21_bite-1,,XiangZhaiTang,21_bite,kɔɁ,kɔɁ,k ɔ ʔ,,Deepadung2015,,,^k ɔ Ɂ$,default
 PongNuea-21_bite-1,,PongNuea,21_bite,kauɁ,kauɁ,k au ʔ,,Deepadung2015,,,^k au Ɂ$,default
@@ -351,22 +351,22 @@ ChaYeQing-22_horn-1,,ChaYeQing,22_horn,nɨŋ,nɨŋ,n ɨ ŋ,,Deepadung2015,,,^n �
 GuangKa-22_horn-1,,GuangKa,22_horn,nɨŋ,nɨŋ,n ɨ ŋ,,Deepadung2015,,,^n ɨ ŋ$,default
 MangBang-22_horn-1,,MangBang,22_horn,nɨŋ,nɨŋ,n ɨ ŋ,,Deepadung2015,,,^n ɨ ŋ$,default
 NanSang-22_horn-1,,NanSang,22_horn,nɨŋ,nɨŋ,n ɨ ŋ,,Deepadung2015,,,^n ɨ ŋ$,default
-NamHsan-23_tail-1,,NamHsan,23_tail,saɗaː,saɗaː,s a ɗ aː,,Deepadung2015,,,^s a ɗ aː$,default
-KhunHawt-23_tail-1,,KhunHawt,23_tail,saɗaː,saɗaː,s a ɗ aː,,Deepadung2015,,,^s a ɗ aː$,default
-HtanHsan-23_tail-1,,HtanHsan,23_tail,saɗaː,saɗaː,s a ɗ aː,,Deepadung2015,,,^s a ɗ aː$,default
-PangKham-23_tail-1,,PangKham,23_tail,saɗaː,saɗaː,s a ɗ aː,,Deepadung2015,,,^s a ɗ aː$,default
-ManLoi-23_tail-1,,ManLoi,23_tail,saɗɛː,saɗɛː,s a ɗ ɛː,,Deepadung2015,,,^s a ɗ ɛː$,default
-MengDan-23_tail-1,,MengDan,23_tail,kəɗɛː,kəɗɛː,k ə ɗ ɛː,,Deepadung2015,,,^k ə ɗ ɛː$,default
-ChuDongGua-23_tail-1,,ChuDongGua,23_tail,sadaː,sadaː,s a d aː,,Deepadung2015,,,^s a d aː$,default
-XiangZhaiTang-23_tail-1,,XiangZhaiTang,23_tail,sədaː,sədaː,s ə d aː,,Deepadung2015,,,^s ə d aː$,default
-PongNuea-23_tail-1,,PongNuea,23_tail,sadɛa,sadɛa,s a d ɛa,,Deepadung2015,,,^s a d ɛa $,default
-NyaungGone-23_tail-1,,NyaungGone,23_tail,sada,sada,s a d a,,Deepadung2015,,,^s a d a$,default
-NoeLae-23_tail-1,,NoeLae,23_tail,sada,sada,s a d a,,Deepadung2015,,,^s a d a$,default
-BanPaw-23_tail-1,,BanPaw,23_tail,sada,sada,s a d a,,Deepadung2015,,,^s a d a$,default
-ChaYeQing-23_tail-1,,ChaYeQing,23_tail,khaɗaː,khaɗaː,kʰ a ɗ aː,,Deepadung2015,,,^kh a ɗ aː$,default
-GuangKa-23_tail-1,,GuangKa,23_tail,sataː,sataː,s a t aː,,Deepadung2015,,,^s a t aː$,default
-MangBang-23_tail-1,,MangBang,23_tail,sataː,sataː,s a t aː,,Deepadung2015,,,^s a t aː$,default
-NanSang-23_tail-1,,NanSang,23_tail,sataː,sataː,s a t aː,,Deepadung2015,,,^s a t aː$,default
+NamHsan-23_tail-1,,NamHsan,23_tail,saɗaː,saɗaː,s a + ɗ aː,,Deepadung2015,,,^s aɗ aː$,default
+KhunHawt-23_tail-1,,KhunHawt,23_tail,saɗaː,saɗaː,s a + ɗ aː,,Deepadung2015,,,^s aɗ aː$,default
+HtanHsan-23_tail-1,,HtanHsan,23_tail,saɗaː,saɗaː,s a + ɗ aː,,Deepadung2015,,,^s aɗ aː$,default
+PangKham-23_tail-1,,PangKham,23_tail,saɗaː,saɗaː,s a + ɗ aː,,Deepadung2015,,,^s aɗ aː$,default
+ManLoi-23_tail-1,,ManLoi,23_tail,saɗɛː,saɗɛː,s a + ɗ ɛː,,Deepadung2015,,,^s aɗ ɛː$,default
+MengDan-23_tail-1,,MengDan,23_tail,kəɗɛː,kəɗɛː,k ə + ɗ ɛː,,Deepadung2015,,,^k əɗ ɛː$,default
+ChuDongGua-23_tail-1,,ChuDongGua,23_tail,sadaː,sadaː,s a + d aː,,Deepadung2015,,,^s ad aː$,default
+XiangZhaiTang-23_tail-1,,XiangZhaiTang,23_tail,sədaː,sədaː,s ə + d aː,,Deepadung2015,,,^s əd aː$,default
+PongNuea-23_tail-1,,PongNuea,23_tail,sadɛa,sadɛa,s a + d ɛa,,Deepadung2015,,,^s ad ɛa $,default
+NyaungGone-23_tail-1,,NyaungGone,23_tail,sada,sada,s a + d a,,Deepadung2015,,,^s ad a$,default
+NoeLae-23_tail-1,,NoeLae,23_tail,sada,sada,s a + d a,,Deepadung2015,,,^s ad a$,default
+BanPaw-23_tail-1,,BanPaw,23_tail,sada,sada,s a + d a,,Deepadung2015,,,^s ad a$,default
+ChaYeQing-23_tail-1,,ChaYeQing,23_tail,khaɗaː,khaɗaː,kʰ a + ɗ aː,,Deepadung2015,,,^kh aɗ aː$,default
+GuangKa-23_tail-1,,GuangKa,23_tail,sataː,sataː,s a + t aː,,Deepadung2015,,,^s ataː $,default
+MangBang-23_tail-1,,MangBang,23_tail,sataː,sataː,s a + t aː,,Deepadung2015,,,^s ataː $,default
+NanSang-23_tail-1,,NanSang,23_tail,sataː,sataː,s a + t aː,,Deepadung2015,,,^s ataː $,default
 NamHsan-24_bird-1,,NamHsan,24_bird,sim,sim,s i m,,Deepadung2015,,,^s i m$,default
 KhunHawt-24_bird-1,,KhunHawt,24_bird,sim,sim,s i m,,Deepadung2015,,,^s i m$,default
 HtanHsan-24_bird-1,,HtanHsan,24_bird,sim,sim,s i m,,Deepadung2015,,,^s i m$,default
@@ -375,10 +375,10 @@ ManLoi-24_bird-1,,ManLoi,24_bird,sim,sim,s i m,,Deepadung2015,,,^s i m$,default
 MengDan-24_bird-1,,MengDan,24_bird,sim,sim,s i m,,Deepadung2015,,,^s i m$,default
 ChuDongGua-24_bird-1,,ChuDongGua,24_bird,sim,sim,s i m,,Deepadung2015,,,^s i m$,default
 XiangZhaiTang-24_bird-1,,XiangZhaiTang,24_bird,siːm,siːm,s iː m,,Deepadung2015,,,^s iː m$,default
-PongNuea-24_bird-1,,PongNuea,24_bird,masiːm,masiːm,m a s iː m,,Deepadung2015,,,^m a s iː m$,default
-NyaungGone-24_bird-1,,NyaungGone,24_bird,masim,masim,m a s i m,,Deepadung2015,,,^m a s i m$,default
-NoeLae-24_bird-1,,NoeLae,24_bird,masim,masim,m a s i m,,Deepadung2015,,,^m a s i m$,default
-BanPaw-24_bird-1,,BanPaw,24_bird,masim,masim,m a s i m,,Deepadung2015,,,^m a s i m$,default
+PongNuea-24_bird-1,,PongNuea,24_bird,masiːm,masiːm,m a + s iː m,,Deepadung2015,,,^m as iː m$,default
+NyaungGone-24_bird-1,,NyaungGone,24_bird,masim,masim,m a + s i m,,Deepadung2015,,,^m as i m$,default
+NoeLae-24_bird-1,,NoeLae,24_bird,masim,masim,m a + s i m,,Deepadung2015,,,^m as i m$,default
+BanPaw-24_bird-1,,BanPaw,24_bird,masim,masim,m a + s i m,,Deepadung2015,,,^m as i m$,default
 ChaYeQing-24_bird-1,,ChaYeQing,24_bird,siːm,siːm,s iː m,,Deepadung2015,,,^s iː m$,default
 GuangKa-24_bird-1,,GuangKa,24_bird,siːm,siːm,s iː m,,Deepadung2015,,,^s iː m$,default
 MangBang-24_bird-1,,MangBang,24_bird,siːm,siːm,s iː m,,Deepadung2015,,,^s iː m$,default
@@ -395,22 +395,22 @@ PongNuea-25_fly-1,,PongNuea,25_fly,bən,bən,b ə n,,Deepadung2015,,,^b ə n$,de
 NyaungGone-25_fly-1,,NyaungGone,25_fly,bə̆n,bə̆n,b ə̆ n,,Deepadung2015,,,^b ə̆ n$,default
 NoeLae-25_fly-1,,NoeLae,25_fly,bə̆n,bə̆n,b ə̆ n,,Deepadung2015,,,^b ə̆ n$,default
 BanPaw-25_fly-1,,BanPaw,25_fly,bə̆n,bə̆n,b ə̆ n,,Deepadung2015,,,^b ə̆ n$,default
-ChaYeQing-25_fly-1,,ChaYeQing,25_fly,ɓaj,ɓaj,ɓ a j,,Deepadung2015,,,^ɓ a j$,default
+ChaYeQing-25_fly-1,,ChaYeQing,25_fly,ɓaj,ɓaj,ɓ a j,,Deepadung2015,,,^ɓ aj$,default
 GuangKa-25_fly-1,,GuangKa,25_fly,pɨːh,pɨːh,p ɨː h,,Deepadung2015,,,^p ɨː h$,default
 MangBang-25_fly-1,,MangBang,25_fly,pɨː,pɨː,p ɨː,,Deepadung2015,,,^p ɨː$,default
 NanSang-25_fly-1,,NanSang,25_fly,pɨː,pɨː,p ɨː,,Deepadung2015,,,^p ɨː$,default
-NamHsan-26_egg-1,,NamHsan,26_egg,kadam ɓeɁ,kadam ɓeɁ,k a d a m + ɓ e ʔ,,Deepadung2015,,,^k a d a m + ɓ e Ɂ$,default
-KhunHawt-26_egg-1,,KhunHawt,26_egg,kaɗam,kaɗam,k a ɗ a m,,Deepadung2015,,,^k a ɗ a m$,default
-HtanHsan-26_egg-1,,HtanHsan,26_egg,kaɗam,kaɗam,k a ɗ a m,,Deepadung2015,,,^k a ɗ a m$,default
+NamHsan-26_egg-1,,NamHsan,26_egg,kadam ɓeɁ,kadam ɓeɁ,k a + d a m + ɓ e ʔ,,Deepadung2015,,,^k ad a m + ɓ e Ɂ$,default
+KhunHawt-26_egg-1,,KhunHawt,26_egg,kaɗam,kaɗam,k a + ɗ a m,,Deepadung2015,,,^k aɗ a m$,default
+HtanHsan-26_egg-1,,HtanHsan,26_egg,kaɗam,kaɗam,k a + ɗ a m,,Deepadung2015,,,^k aɗ a m$,default
 PangKham-26_egg-1,,PangKham,26_egg,ɡlaw,ɡlaw,g l a w,,Deepadung2015,,,^ɡ l a w$,default
-ManLoi-26_egg-1,,ManLoi,26_egg,klaw khaj,klaw khaj,k l a w + kʰ a j,,Deepadung2015,,,^k l a w + kh a j$,default
+ManLoi-26_egg-1,,ManLoi,26_egg,klaw khaj,klaw khaj,k l a w + kʰ a j,,Deepadung2015,,,^k l a w + kh aj$,default
 MengDan-26_egg-1,,MengDan,26_egg,ɡlɛːw,ɡlɛːw,g l ɛː w,,Deepadung2015,,,^ɡ l ɛː w$,default
-ChuDongGua-26_egg-1,,ChuDongGua,26_egg,ɡraːw ʔiar,ɡraːw ʔiar,g r aː w + ʔ i a r,,Deepadung2015,,,^ɡ r aː w + ʔ i a r$,default
+ChuDongGua-26_egg-1,,ChuDongGua,26_egg,ɡraːw ʔiar,ɡraːw ʔiar,g r aː w + ʔ ia r,,Deepadung2015,,,^ɡ r aː w + ʔ ia r$,default
 XiangZhaiTang-26_egg-1,,XiangZhaiTang,26_egg,pəːn,pəːn,p əː n,,Deepadung2015,,,^p əː n$,default
 PongNuea-26_egg-1,,PongNuea,26_egg,pəan,pəan,p əa n,,Deepadung2015,,,^p əa n$,default
-NyaungGone-26_egg-1,,NyaungGone,26_egg,pən ʔian,pən ʔian,p ə n + ʔ i a n,,Deepadung2015,,,^p ə n + ʔ i a n$,default
-NoeLae-26_egg-1,,NoeLae,26_egg,pən Ɂian,pən Ɂian,p ə n + ʔ i a n,,Deepadung2015,,,^p ə n + Ɂ i a n$,default
-BanPaw-26_egg-1,,BanPaw,26_egg,pən Ɂian,pən Ɂian,p ə n + ʔ i a n,,Deepadung2015,,,^p ə n + Ɂ i a n$,default
+NyaungGone-26_egg-1,,NyaungGone,26_egg,pən ʔian,pən ʔian,p ə n + ʔ ia n,,Deepadung2015,,,^p ə n + ʔ ia n$,default
+NoeLae-26_egg-1,,NoeLae,26_egg,pən Ɂian,pən Ɂian,p ə n + ʔ ia n,,Deepadung2015,,,^p ə n + Ɂ ia n$,default
+BanPaw-26_egg-1,,BanPaw,26_egg,pən Ɂian,pən Ɂian,p ə n + ʔ ia n,,Deepadung2015,,,^p ə n + Ɂ ia n$,default
 ChaYeQing-26_egg-1,,ChaYeQing,26_egg,bəːn,bəːn,b əː n,,Deepadung2015,,,^b əː n$,default
 GuangKa-26_egg-1,,GuangKa,26_egg,bəːn,bəːn,b əː n,,Deepadung2015,,,^b əː n$,default
 MangBang-26_egg-1,,MangBang,26_egg,bəːn,bəːn,b əː n,,Deepadung2015,,,^b əː n$,default
@@ -423,10 +423,10 @@ ManLoi-27_fish-1,,ManLoi,27_fish,ɡɛː,ɡɛː,g ɛː,,Deepadung2015,,,^ɡ ɛː$
 MengDan-27_fish-1,,MengDan,27_fish,kɛː,kɛː,k ɛː,,Deepadung2015,,,^k ɛː$,default
 ChuDongGua-27_fish-1,,ChuDongGua,27_fish,kaː,kaː,k aː,,Deepadung2015,,,^k aː$,default
 XiangZhaiTang-27_fish-1,,XiangZhaiTang,27_fish,ɡaː,ɡaː,g aː,,Deepadung2015,,,^ɡ aː$,default
-PongNuea-27_fish-1,,PongNuea,27_fish,maɡɛa,maɡɛa,m a g ɛa,,Deepadung2015,,,^m a ɡ ɛa $,default
-NyaungGone-27_fish-1,,NyaungGone,27_fish,maɡa,maɡa,m a g a,,Deepadung2015,,,^m a ɡ a$,default
-NoeLae-27_fish-1,,NoeLae,27_fish,maɡa,maɡa,m a g a,,Deepadung2015,,,^m a ɡ a$,default
-BanPaw-27_fish-1,,BanPaw,27_fish,maɡa,maɡa,m a g a,,Deepadung2015,,,^m a ɡ a$,default
+PongNuea-27_fish-1,,PongNuea,27_fish,maɡɛa,maɡɛa,m a + g ɛa,,Deepadung2015,,,^m aɡ ɛa $,default
+NyaungGone-27_fish-1,,NyaungGone,27_fish,maɡa,maɡa,m a + g a,,Deepadung2015,,,^m aɡ a$,default
+NoeLae-27_fish-1,,NoeLae,27_fish,maɡa,maɡa,m a + g a,,Deepadung2015,,,^m aɡ a$,default
+BanPaw-27_fish-1,,BanPaw,27_fish,maɡa,maɡa,m a + g a,,Deepadung2015,,,^m aɡ a$,default
 ChaYeQing-27_fish-1,,ChaYeQing,27_fish,kaː,kaː,k aː,,Deepadung2015,,,^k aː$,default
 GuangKa-27_fish-1,,GuangKa,27_fish,kaː,kaː,k aː,,Deepadung2015,,,^k aː$,default
 MangBang-27_fish-1,,MangBang,27_fish,kaː,kaː,k aː,,Deepadung2015,,,^k aː$,default
@@ -439,10 +439,10 @@ ManLoi-28_snake-1,,ManLoi,28_snake,han,han,h a n,,Deepadung2015,,,^h a n$,defaul
 MengDan-28_snake-1,,MengDan,28_snake,hɔn,hɔn,h ɔ n,,Deepadung2015,,,^h ɔ n$,default
 ChuDongGua-28_snake-1,,ChuDongGua,28_snake,hɔɲ,hɔɲ,h ɔ ɲ,,Deepadung2015,,,^h ɔ ɲ$,default
 XiangZhaiTang-28_snake-1,,XiangZhaiTang,28_snake,haɲ,haɲ,h a ɲ,,Deepadung2015,,,^h a ɲ$,default
-PongNuea-28_snake-1,,PongNuea,28_snake,mahaɲ,mahaɲ,m a h a ɲ,,Deepadung2015,,,^m a h a ɲ$,default
+PongNuea-28_snake-1,,PongNuea,28_snake,mahaɲ,mahaɲ,m a + h a ɲ,,Deepadung2015,,,^m aha ɲ$,default
 NyaungGone-28_snake-1,,NyaungGone,28_snake,han,han,h a n,,Deepadung2015,,,^h a n$,default
-NoeLae-28_snake-1,,NoeLae,28_snake,mahaɲ,mahaɲ,m a h a ɲ,,Deepadung2015,,,^m a h a ɲ$,default
-BanPaw-28_snake-1,,BanPaw,28_snake,mahăɲ,mahăɲ,m a h ă ɲ,,Deepadung2015,,,^m a h ă ɲ$,default
+NoeLae-28_snake-1,,NoeLae,28_snake,mahaɲ,mahaɲ,m a + h a ɲ,,Deepadung2015,,,^m aha ɲ$,default
+BanPaw-28_snake-1,,BanPaw,28_snake,mahăɲ,mahăɲ,m a + h ă ɲ,,Deepadung2015,,,^m ahă ɲ$,default
 ChaYeQing-28_snake-1,,ChaYeQing,28_snake,han,han,h a n,,Deepadung2015,,,^h a n$,default
 GuangKa-28_snake-1,,GuangKa,28_snake,han,han,h a n,,Deepadung2015,,,^h a n$,default
 MangBang-28_snake-1,,MangBang,28_snake,han,han,h a n,,Deepadung2015,,,^h a n$,default
@@ -450,18 +450,18 @@ NanSang-28_snake-1,,NanSang,28_snake,han,han,h a n,,Deepadung2015,,,^h a n$,defa
 NamHsan-29_louse-1,,NamHsan,29_louse,siː,siː,s iː,,Deepadung2015,,,^s iː$,default
 KhunHawt-29_louse-1,,KhunHawt,29_louse,siː,siː,s iː,,Deepadung2015,,,^s iː$,default
 HtanHsan-29_louse-1,,HtanHsan,29_louse,sej,sej,s e j,,Deepadung2015,,,^s ej$,default
-PangKham-29_louse-1,,PangKham,29_louse,saj,saj,s a j,,Deepadung2015,,,^s a j$,default
-ManLoi-29_louse-1,,ManLoi,29_louse,saj,saj,s a j,,Deepadung2015,,,^s a j$,default
-MengDan-29_louse-1,,MengDan,29_louse,kəbran,kəbran,k ə b r a n,,Deepadung2015,,,^k ə b r a n$,default
+PangKham-29_louse-1,,PangKham,29_louse,saj,saj,s a j,,Deepadung2015,,,^s aj$,default
+ManLoi-29_louse-1,,ManLoi,29_louse,saj,saj,s a j,,Deepadung2015,,,^s aj$,default
+MengDan-29_louse-1,,MengDan,29_louse,kəbran,kəbran,k ə + b r a n,,Deepadung2015,,,^k əb r a n$,default
 ChuDongGua-29_louse-1,,ChuDongGua,29_louse,saːj,saːj,s aː j,,Deepadung2015,,,^s aː j$,default
-XiangZhaiTang-29_louse-1,,XiangZhaiTang,29_louse,masɛː,masɛː,m a s ɛː,,Deepadung2015,,,^m a s ɛː$,default
-PongNuea-29_louse-1,,PongNuea,29_louse,masɛː,masɛː,m a s ɛː,,Deepadung2015,,,^m a s ɛː$,default
-NyaungGone-29_louse-1,,NyaungGone,29_louse,masɛ,masɛ,m a s ɛ,,Deepadung2015,,,^m a s ɛ$,default
-NoeLae-29_louse-1,,NoeLae,29_louse,masɛ,masɛ,m a s ɛ,,Deepadung2015,,,^m a s ɛ$,default
-BanPaw-29_louse-1,,BanPaw,29_louse,masɛ,masɛ,m a s ɛ,,Deepadung2015,,,^m a s ɛ$,default
-ChaYeQing-29_louse-1,,ChaYeQing,29_louse,masaj,masaj,m a s a j,,Deepadung2015,,,^m a s a j$,default
-GuangKa-29_louse-1,,GuangKa,29_louse,saj,saj,s a j,,Deepadung2015,,,^s a j$,default
-MangBang-29_louse-1,,MangBang,29_louse,saj,saj,s a j,,Deepadung2015,,,^s a j$,default
+XiangZhaiTang-29_louse-1,,XiangZhaiTang,29_louse,masɛː,masɛː,m a + s ɛː,,Deepadung2015,,,^m as ɛː$,default
+PongNuea-29_louse-1,,PongNuea,29_louse,masɛː,masɛː,m a + s ɛː,,Deepadung2015,,,^m as ɛː$,default
+NyaungGone-29_louse-1,,NyaungGone,29_louse,masɛ,masɛ,m a + s ɛ,,Deepadung2015,,,^m as ɛ$,default
+NoeLae-29_louse-1,,NoeLae,29_louse,masɛ,masɛ,m a + s ɛ,,Deepadung2015,,,^m as ɛ$,default
+BanPaw-29_louse-1,,BanPaw,29_louse,masɛ,masɛ,m a + s ɛ,,Deepadung2015,,,^m as ɛ$,default
+ChaYeQing-29_louse-1,,ChaYeQing,29_louse,masaj,masaj,m a + s a j,,Deepadung2015,,,^m as aj$,default
+GuangKa-29_louse-1,,GuangKa,29_louse,saj,saj,s a j,,Deepadung2015,,,^s aj$,default
+MangBang-29_louse-1,,MangBang,29_louse,saj,saj,s a j,,Deepadung2015,,,^s aj$,default
 NanSang-29_louse-1,,NanSang,29_louse,saiɁ,saiɁ,s ai ʔ,,Deepadung2015,,,^s ai Ɂ$,default
 NamHsan-30_head-1,,NamHsan,30_head,kiŋ,kiŋ,k i ŋ,,Deepadung2015,,,^k i ŋ$,default
 KhunHawt-30_head-1,,KhunHawt,30_head,keɲ,keɲ,k e ɲ,,Deepadung2015,,,^k e ɲ$,default
@@ -479,7 +479,7 @@ ChaYeQing-30_head-1,,ChaYeQing,30_head,ken,ken,k e n,,Deepadung2015,,,^k e n$,de
 GuangKa-30_head-1,,GuangKa,30_head,ken,ken,k e n,,Deepadung2015,,,^k e n$,default
 MangBang-30_head-1,,MangBang,30_head,kən,kən,k ə n,,Deepadung2015,,,^k ə n$,default
 NanSang-30_head-1,,NanSang,30_head,kən,kən,k ə n,,Deepadung2015,,,^k ə n$,default
-NamHsan-31_hair-1,,NamHsan,31_hair,huɁkiŋ,huɁkiŋ,h u ʔ k i ŋ,,Deepadung2015,,,^h u Ɂ k i ŋ$,default
+NamHsan-31_hair-1,,NamHsan,31_hair,huɁkiŋ,huɁkiŋ,h u ʔ + k i ŋ,,Deepadung2015,,,^h u Ɂk i ŋ$,default
 KhunHawt-31_hair-1,,KhunHawt,31_hair,houɁ keɲ,houɁ keɲ,h ou ʔ + k e ɲ,,Deepadung2015,,,^h ou Ɂ + k e ɲ$,default
 HtanHsan-31_hair-1,,HtanHsan,31_hair,houɁ kiɲ,houɁ kiɲ,h ou ʔ + k i ɲ,,Deepadung2015,,,^h ou Ɂ + k i ɲ$,default
 PangKham-31_hair-1,,PangKham,31_hair,hɨk ɡiɲ,hɨk ɡiɲ,h ɨ k + g i ɲ,,Deepadung2015,,,^h ɨ k + ɡ i ɲ$,default
@@ -493,8 +493,8 @@ NoeLae-31_hair-1,,NoeLae,31_hair,hɨk ɡiɲ,hɨk ɡiɲ,h ɨ k + g i ɲ,,Deepadun
 BanPaw-31_hair-1,,BanPaw,31_hair,hɨk ɡɨɲ,hɨk ɡɨɲ,h ɨ k + g ɨ ɲ,,Deepadung2015,,,^h ɨ k + ɡ ɨ ɲ$,default
 ChaYeQing-31_hair-1,,ChaYeQing,31_hair,hɨk ken,hɨk ken,h ɨ k + k e n,,Deepadung2015,,,^h ɨ k + k e n$,default
 GuangKa-31_hair-1,,GuangKa,31_hair,hɨk ken,hɨk ken,h ɨ k + k e n,,Deepadung2015,,,^h ɨ k + k e n$,default
-MangBang-31_hair-1,,MangBang,31_hair,hɨkkən,hɨkkən,h ɨ kk ə n,,Deepadung2015,,,^h ɨ kk ə n$,default
-NanSang-31_hair-1,,NanSang,31_hair,hɨkkən,hɨkkən,h ɨ kk ə n,,Deepadung2015,,,^h ɨ kk ə n$,default
+MangBang-31_hair-1,,MangBang,31_hair,hɨkkən,hɨkkən,h ɨ k + k ə n,,Deepadung2015,,,^h ɨ kk ə n$,default
+NanSang-31_hair-1,,NanSang,31_hair,hɨkkən,hɨkkən,h ɨ k + k ə n,,Deepadung2015,,,^h ɨ kk ə n$,default
 NamHsan-32_eye-1,,NamHsan,32_eye,ŋaːj,ŋaːj,ŋ aː j,,Deepadung2015,,,^ŋ aː j$,default
 KhunHawt-32_eye-1,,KhunHawt,32_eye,ŋaːj,ŋaːj,ŋ aː j,,Deepadung2015,,,^ŋ aː j$,default
 HtanHsan-32_eye-1,,HtanHsan,32_eye,ŋaːj,ŋaːj,ŋ aː j,,Deepadung2015,,,^ŋ aː j$,default
@@ -504,50 +504,50 @@ MengDan-32_eye-1,,MengDan,32_eye,ŋaːj,ŋaːj,ŋ aː j,,Deepadung2015,,,^ŋ aː
 ChuDongGua-32_eye-1,,ChuDongGua,32_eye,ŋaːj,ŋaːj,ŋ aː j,,Deepadung2015,,,^ŋ aː j$,default
 XiangZhaiTang-32_eye-1,,XiangZhaiTang,32_eye,ŋaːj,ŋaːj,ŋ aː j,,Deepadung2015,,,^ŋ aː j$,default
 PongNuea-32_eye-1,,PongNuea,32_eye,ŋaːj,ŋaːj,ŋ aː j,,Deepadung2015,,,^ŋ aː j$,default
-NyaungGone-32_eye-1,,NyaungGone,32_eye,ŋaj,ŋaj,ŋ a j,,Deepadung2015,,,^ŋ a j$,default
-NoeLae-32_eye-1,,NoeLae,32_eye,ŋaj,ŋaj,ŋ a j,,Deepadung2015,,,^ŋ a j$,default
-BanPaw-32_eye-1,,BanPaw,32_eye,ŋaj,ŋaj,ŋ a j,,Deepadung2015,,,^ŋ a j$,default
+NyaungGone-32_eye-1,,NyaungGone,32_eye,ŋaj,ŋaj,ŋ a j,,Deepadung2015,,,^ŋ aj$,default
+NoeLae-32_eye-1,,NoeLae,32_eye,ŋaj,ŋaj,ŋ a j,,Deepadung2015,,,^ŋ aj$,default
+BanPaw-32_eye-1,,BanPaw,32_eye,ŋaj,ŋaj,ŋ a j,,Deepadung2015,,,^ŋ aj$,default
 ChaYeQing-32_eye-1,,ChaYeQing,32_eye,ŋaːj,ŋaːj,ŋ aː j,,Deepadung2015,,,^ŋ aː j$,default
 GuangKa-32_eye-1,,GuangKa,32_eye,ŋaːj,ŋaːj,ŋ aː j,,Deepadung2015,,,^ŋ aː j$,default
 MangBang-32_eye-1,,MangBang,32_eye,ŋaːj,ŋaːj,ŋ aː j,,Deepadung2015,,,^ŋ aː j$,default
 NanSang-32_eye-1,,NanSang,32_eye,ŋaːj,ŋaːj,ŋ aː j,,Deepadung2015,,,^ŋ aː j$,default
-NamHsan-33_nose-1,,NamHsan,33_nose,kɔŋmuh,kɔŋmuh,k ɔ ŋ m u h,,Deepadung2015,,,^k ɔ ŋ m u h$,default
-KhunHawt-33_nose-1,,KhunHawt,33_nose,kɔŋmur̥,kɔŋmur̥,k ɔ ŋ m u r̥,,Deepadung2015,,,^k ɔ ŋ m u r̥$,default
-HtanHsan-33_nose-1,,HtanHsan,33_nose,kɔŋmuh,kɔŋmuh,k ɔ ŋ m u h,,Deepadung2015,,,^k ɔ ŋ m u h$,default
-PangKham-33_nose-1,,PangKham,33_nose,ɡɔŋmuh,ɡɔŋmuh,g ɔ ŋ m u h,,Deepadung2015,,,^ɡ ɔ ŋ m u h$,default
-ManLoi-33_nose-1,,ManLoi,33_nose,ɡɔŋmuh,ɡɔŋmuh,g ɔ ŋ m u h,,Deepadung2015,,,^ɡ ɔ ŋ m u h$,default
-MengDan-33_nose-1,,MengDan,33_nose,ʔamujh,ʔamujh,ʔ a m u j h,,Deepadung2015,,,^ʔ a m u j h$,default
+NamHsan-33_nose-1,,NamHsan,33_nose,kɔŋmuh,kɔŋmuh,k ɔ ŋ + m u h,,Deepadung2015,,,^k ɔ ŋm u h$,default
+KhunHawt-33_nose-1,,KhunHawt,33_nose,kɔŋmur̥,kɔŋmur̥,k ɔ ŋ + m u r̥,,Deepadung2015,,,^k ɔ ŋm u r̥$,default
+HtanHsan-33_nose-1,,HtanHsan,33_nose,kɔŋmuh,kɔŋmuh,k ɔ ŋ + m u h,,Deepadung2015,,,^k ɔ ŋm u h$,default
+PangKham-33_nose-1,,PangKham,33_nose,ɡɔŋmuh,ɡɔŋmuh,g ɔ ŋ + m u h,,Deepadung2015,,,^ɡ ɔ ŋm u h$,default
+ManLoi-33_nose-1,,ManLoi,33_nose,ɡɔŋmuh,ɡɔŋmuh,g ɔ ŋ + m u h,,Deepadung2015,,,^ɡ ɔ ŋm u h$,default
+MengDan-33_nose-1,,MengDan,33_nose,ʔamujh,ʔamujh,ʔ a + m u j h,,Deepadung2015,,,^ʔ amu j h$,default
 ChuDongGua-33_nose-1,,ChuDongGua,33_nose,mujh,mujh,m u j h,,Deepadung2015,,,^m u j h$,default
-XiangZhaiTang-33_nose-1,,XiangZhaiTang,33_nose,ɡuŋmuh,ɡuŋmuh,g u ŋ m u h,,Deepadung2015,,,^ɡ u ŋ m u h$,default
-PongNuea-33_nose-1,,PongNuea,33_nose,ɡuŋmuh,ɡuŋmuh,g u ŋ m u h,,Deepadung2015,,,^ɡ u ŋ m u h$,default
-NyaungGone-33_nose-1,,NyaungGone,33_nose,ɡumuh,ɡumuh,g u m u h,,Deepadung2015,,,^ɡ u m u h$,default
-NoeLae-33_nose-1,,NoeLae,33_nose,ɡoŋmuh,ɡoŋmuh,g o ŋ m u h,,Deepadung2015,,,^ɡ o ŋ m u h$,default
-BanPaw-33_nose-1,,BanPaw,33_nose,ɡuŋmuh,ɡuŋmuh,g u ŋ m u h,,Deepadung2015,,,^ɡ u ŋ m u h$,default
-ChaYeQing-33_nose-1,,ChaYeQing,33_nose,kadoŋmuh,kadoŋmuh,k a d o ŋ m u h,,Deepadung2015,,,^k a d o ŋ m u h$,default
-GuangKa-33_nose-1,,GuangKa,33_nose,kaduŋ muh,kaduŋ muh,k a d u ŋ + m u h,,Deepadung2015,,,^k a d u ŋ + m u h$,default
-MangBang-33_nose-1,,MangBang,33_nose,kadɔŋ muh,kadɔŋ muh,k a d ɔ ŋ + m u h,,Deepadung2015,,,^k a d ɔ ŋ + m u h$,default
-NanSang-33_nose-1,,NanSang,33_nose,kaduŋmuh,kaduŋmuh,k a d u ŋ m u h,,Deepadung2015,,,^k a d u ŋ m u h$,default
-NamHsan-34_ear-1,,NamHsan,34_ear,lajʨhɔːɁ,lajʨhɔːɁ,l a j ʨʰ ɔː ʔ,,Deepadung2015,,,^l a j ʨh ɔː Ɂ$,default
-KhunHawt-34_ear-1,,KhunHawt,34_ear,ralaŋ,ralaŋ,r a l a ŋ,,Deepadung2015,,,^r a l a ŋ$,default
-HtanHsan-34_ear-1,,HtanHsan,34_ear,lalaŋ,lalaŋ,l a l a ŋ,,Deepadung2015,,,^l a l a ŋ$,default
+XiangZhaiTang-33_nose-1,,XiangZhaiTang,33_nose,ɡuŋmuh,ɡuŋmuh,g u ŋ + m u h,,Deepadung2015,,,^ɡ u ŋm u h$,default
+PongNuea-33_nose-1,,PongNuea,33_nose,ɡuŋmuh,ɡuŋmuh,g u ŋ + m u h,,Deepadung2015,,,^ɡ u ŋm u h$,default
+NyaungGone-33_nose-1,,NyaungGone,33_nose,ɡumuh,ɡumuh,g u + m u h,,Deepadung2015,,,^ɡ umu h$,default
+NoeLae-33_nose-1,,NoeLae,33_nose,ɡoŋmuh,ɡoŋmuh,g o ŋ + m u h,,Deepadung2015,,,^ɡ o ŋm u h$,default
+BanPaw-33_nose-1,,BanPaw,33_nose,ɡuŋmuh,ɡuŋmuh,g u ŋ + m u h,,Deepadung2015,,,^ɡ u ŋm u h$,default
+ChaYeQing-33_nose-1,,ChaYeQing,33_nose,kadoŋmuh,kadoŋmuh,k a + d o ŋ + m u h,,Deepadung2015,,,^k ad o ŋm u h$,default
+GuangKa-33_nose-1,,GuangKa,33_nose,kaduŋ muh,kaduŋ muh,k a + d u ŋ + m u h,,Deepadung2015,,,^k ad u ŋ + m u h$,default
+MangBang-33_nose-1,,MangBang,33_nose,kadɔŋ muh,kadɔŋ muh,k a + d ɔ ŋ + m u h,,Deepadung2015,,,^k ad ɔ ŋ + m u h$,default
+NanSang-33_nose-1,,NanSang,33_nose,kaduŋmuh,kaduŋmuh,k a + d u ŋ + m u h,,Deepadung2015,,,^k ad u ŋm u h$,default
+NamHsan-34_ear-1,,NamHsan,34_ear,lajʨhɔːɁ,lajʨhɔːɁ,l a j + ʨʰ ɔː ʔ,,Deepadung2015,,,^l ajʨh ɔː Ɂ$,default
+KhunHawt-34_ear-1,,KhunHawt,34_ear,ralaŋ,ralaŋ,r a + l a ŋ,,Deepadung2015,,,^r ala ŋ$,default
+HtanHsan-34_ear-1,,HtanHsan,34_ear,lalaŋ,lalaŋ,l a + l a ŋ,,Deepadung2015,,,^l ala ŋ$,default
 PangKham-34_ear-1,,PangKham,34_ear,j̊ok,j̊ok,j̊ o k,,Deepadung2015,,,^j̊ o k$,default
-ManLoi-34_ear-1,,ManLoi,34_ear,lɛːj̊ok,lɛːj̊ok,l ɛː j̊ o k,,Deepadung2015,,,^l ɛː j̊ o k$,default
+ManLoi-34_ear-1,,ManLoi,34_ear,lɛːj̊ok,lɛːj̊ok,l ɛː + j̊ o k,,Deepadung2015,,,^l ɛːj̊ o k$,default
 MengDan-34_ear-1,,MengDan,34_ear,j̊ok,j̊ok,j̊ o k,,Deepadung2015,,,^j̊ o k$,default
 ChuDongGua-34_ear-1,,ChuDongGua,34_ear,j̊o?,j̊o?,j̊ o ʔ,,Deepadung2015,,,^j̊ o ?$,default
 XiangZhaiTang-34_ear-1,,XiangZhaiTang,34_ear,j̊auɁ,j̊auɁ,j̊ au ʔ,,Deepadung2015,,,^j̊ au Ɂ$,default
-PongNuea-34_ear-1,,PongNuea,34_ear,jaj̊auɁ,jaj̊auɁ,j a j̊ au ʔ,,Deepadung2015,,,^j a j̊ au Ɂ$,default
+PongNuea-34_ear-1,,PongNuea,34_ear,jaj̊auɁ,jaj̊auɁ,j a j̊ au ʔ,,Deepadung2015,,,^ja j̊ au Ɂ$,default
 NyaungGone-34_ear-1,,NyaungGone,34_ear,j̊ouʔ,j̊ouʔ,j̊ ou ʔ,,Deepadung2015,,,^j̊ ou ʔ$,default
-NoeLae-34_ear-1,,NoeLae,34_ear,Ɂaj̊ouʔ,Ɂaj̊ouʔ,ʔ a j̊ ou ʔ,,Deepadung2015,,,^Ɂ a j̊ ou ʔ$,default
-BanPaw-34_ear-1,,BanPaw,34_ear,Ɂaj̊ouɁ,Ɂaj̊ouɁ,ʔ a j̊ ou ʔ,,Deepadung2015,,,^Ɂ a j̊ ou Ɂ$,default
+NoeLae-34_ear-1,,NoeLae,34_ear,Ɂaj̊ouʔ,Ɂaj̊ouʔ,ʔ a + j̊ ou ʔ,,Deepadung2015,,,^Ɂ aj̊ ou ʔ$,default
+BanPaw-34_ear-1,,BanPaw,34_ear,Ɂaj̊ouɁ,Ɂaj̊ouɁ,ʔ a + j̊ ou ʔ,,Deepadung2015,,,^Ɂ aj̊ ou Ɂ$,default
 ChaYeQing-34_ear-1,,ChaYeQing,34_ear,ʨhok,ʨhok,ʨʰ o k,,Deepadung2015,,,^ʨh o k$,default
 GuangKa-34_ear-1,,GuangKa,34_ear,ʨhok,ʨhok,ʨʰ o k,,Deepadung2015,,,^ʨh o k$,default
-MangBang-34_ear-1,,MangBang,34_ear,laʨhok,laʨhok,l a ʨʰ o k,,Deepadung2015,,,^l a ʨh o k$,default
+MangBang-34_ear-1,,MangBang,34_ear,laʨhok,laʨhok,l a + ʨʰ o k,,Deepadung2015,,,^l aʨh o k$,default
 NanSang-34_ear-1,,NanSang,34_ear,ʨhok,ʨhok,ʨʰ o k,,Deepadung2015,,,^ʨh o k$,default
 NamHsan-35_mouth-1,,NamHsan,35_mouth,moːɁ,moːɁ,m oː ʔ,,Deepadung2015,,,^m oː Ɂ$,default
 KhunHawt-35_mouth-1,,KhunHawt,35_mouth,mur̥,mur̥,m u r̥,,Deepadung2015,,,^m u r̥$,default
 HtanHsan-35_mouth-1,,HtanHsan,35_mouth,mur̥,mur̥,m u r̥,,Deepadung2015,,,^m u r̥$,default
-PangKham-35_mouth-1,,PangKham,35_mouth,muaɁ,muaɁ,m u a ʔ,,Deepadung2015,,,^m u a Ɂ$,default
-ManLoi-35_mouth-1,,ManLoi,35_mouth,muaɁ,muaɁ,m u a ʔ,,Deepadung2015,,,^m u a Ɂ$,default
+PangKham-35_mouth-1,,PangKham,35_mouth,muaɁ,muaɁ,m ua ʔ,,Deepadung2015,,,^m ua Ɂ$,default
+ManLoi-35_mouth-1,,ManLoi,35_mouth,muaɁ,muaɁ,m ua ʔ,,Deepadung2015,,,^m ua Ɂ$,default
 MengDan-35_mouth-1,,MengDan,35_mouth,mojɁ,mojɁ,m oi ʔ,,Deepadung2015,,,^m oj Ɂ$,default
 ChuDongGua-35_mouth-1,,ChuDongGua,35_mouth,mojɁ,mojɁ,m oi ʔ,,Deepadung2015,,,^m oj Ɂ$,default
 XiangZhaiTang-35_mouth-1,,XiangZhaiTang,35_mouth,mojɁ,mojɁ,m oi ʔ,,Deepadung2015,,,^m oj Ɂ$,default
@@ -559,22 +559,22 @@ ChaYeQing-35_mouth-1,,ChaYeQing,35_mouth,mojʔ,mojʔ,m oi ʔ,,Deepadung2015,,,^m
 GuangKa-35_mouth-1,,GuangKa,35_mouth,mojʔ,mojʔ,m oi ʔ,,Deepadung2015,,,^m oj ʔ$,default
 MangBang-35_mouth-1,,MangBang,35_mouth,mojʔ,mojʔ,m oi ʔ,,Deepadung2015,,,^m oj ʔ$,default
 NanSang-35_mouth-1,,NanSang,35_mouth,mojɁ,mojɁ,m oi ʔ,,Deepadung2015,,,^m oj Ɂ$,default
-NamHsan-36_tongue-1,,NamHsan,36_tongue,kәrɗaɁ,kәrɗaɁ,k ə r ɗ a ʔ,,Deepadung2015,,,^k ә r ɗ a Ɂ$,default
-KhunHawt-36_tongue-1,,KhunHawt,36_tongue,kәrɗaɁ,kәrɗaɁ,k ə r ɗ a ʔ,,Deepadung2015,,,^k ә r ɗ a Ɂ$,default
-HtanHsan-36_tongue-1,,HtanHsan,36_tongue,kәrɗaɁ,kәrɗaɁ,k ə r ɗ a ʔ,,Deepadung2015,,,^k ә r ɗ a Ɂ$,default
-PangKham-36_tongue-1,,PangKham,36_tongue,kaɗaɁ,kaɗaɁ,k a ɗ a ʔ,,Deepadung2015,,,^k a ɗ a Ɂ$,default
-ManLoi-36_tongue-1,,ManLoi,36_tongue,kaɗaɁ,kaɗaɁ,k a ɗ a ʔ,,Deepadung2015,,,^k a ɗ a Ɂ$,default
-MengDan-36_tongue-1,,MengDan,36_tongue,kədɛʔ,kədɛʔ,k ə d ɛ ʔ,,Deepadung2015,,,^k ə d ɛ ʔ$,default
-ChuDongGua-36_tongue-1,,ChuDongGua,36_tongue,kaɗaʔ,kaɗaʔ,k a ɗ a ʔ,,Deepadung2015,,,^k a ɗ a ʔ$,default
-XiangZhaiTang-36_tongue-1,,XiangZhaiTang,36_tongue,sɨdaʔ,sɨdaʔ,s ɨ d a ʔ,,Deepadung2015,,,^s ɨ d a ʔ$,default
-PongNuea-36_tongue-1,,PongNuea,36_tongue,sadaɁ,sadaɁ,s a d a ʔ,,Deepadung2015,,,^s a d a Ɂ$,default
-NyaungGone-36_tongue-1,,NyaungGone,36_tongue,sadăʔ,sadăʔ,s a d ă ʔ,,Deepadung2015,,,^s a d ă ʔ$,default
-NoeLae-36_tongue-1,,NoeLae,36_tongue,sadăɁ,sadăɁ,s a d ă ʔ,,Deepadung2015,,,^s a d ă Ɂ$,default
-BanPaw-36_tongue-1,,BanPaw,36_tongue,sɨdăʔ,sɨdăʔ,s ɨ d ă ʔ,,Deepadung2015,,,^s ɨ d ă ʔ$,default
-ChaYeQing-36_tongue-1,,ChaYeQing,36_tongue,khadaʔ,khadaʔ,kʰ a d a ʔ,,Deepadung2015,,,^kh a d a ʔ$,default
-GuangKa-36_tongue-1,,GuangKa,36_tongue,sataɁ,sataɁ,s a t a ʔ,,Deepadung2015,,,^s a t a Ɂ$,default
-MangBang-36_tongue-1,,MangBang,36_tongue,sətaːɁ,sətaːɁ,s ə t aː ʔ,,Deepadung2015,,,^s ə t aː Ɂ$,default
-NanSang-36_tongue-1,,NanSang,36_tongue,sataɁ,sataɁ,s a t a ʔ,,Deepadung2015,,,^s a t a Ɂ$,default
+NamHsan-36_tongue-1,,NamHsan,36_tongue,kәrɗaɁ,kәrɗaɁ,k ə r + ɗ a ʔ,,Deepadung2015,,,^k ә rɗ a Ɂ$,default
+KhunHawt-36_tongue-1,,KhunHawt,36_tongue,kәrɗaɁ,kәrɗaɁ,k ə r + ɗ a ʔ,,Deepadung2015,,,^k ә rɗ a Ɂ$,default
+HtanHsan-36_tongue-1,,HtanHsan,36_tongue,kәrɗaɁ,kәrɗaɁ,k ə r + ɗ a ʔ,,Deepadung2015,,,^k ә rɗ a Ɂ$,default
+PangKham-36_tongue-1,,PangKham,36_tongue,kaɗaɁ,kaɗaɁ,k a + ɗ a ʔ,,Deepadung2015,,,^k aɗ a Ɂ$,default
+ManLoi-36_tongue-1,,ManLoi,36_tongue,kaɗaɁ,kaɗaɁ,k a + ɗ a ʔ,,Deepadung2015,,,^k aɗ a Ɂ$,default
+MengDan-36_tongue-1,,MengDan,36_tongue,kədɛʔ,kədɛʔ,k ə + d ɛ ʔ,,Deepadung2015,,,^k əd ɛ ʔ$,default
+ChuDongGua-36_tongue-1,,ChuDongGua,36_tongue,kaɗaʔ,kaɗaʔ,k a + ɗ a ʔ,,Deepadung2015,,,^k aɗ a ʔ$,default
+XiangZhaiTang-36_tongue-1,,XiangZhaiTang,36_tongue,sɨdaʔ,sɨdaʔ,s ɨ + d a ʔ,,Deepadung2015,,,^s ɨd a ʔ$,default
+PongNuea-36_tongue-1,,PongNuea,36_tongue,sadaɁ,sadaɁ,s a + d a ʔ,,Deepadung2015,,,^s ad a Ɂ$,default
+NyaungGone-36_tongue-1,,NyaungGone,36_tongue,sadăʔ,sadăʔ,s a + d ă ʔ,,Deepadung2015,,,^s ad ă ʔ$,default
+NoeLae-36_tongue-1,,NoeLae,36_tongue,sadăɁ,sadăɁ,s a + d ă ʔ,,Deepadung2015,,,^s ad ă Ɂ$,default
+BanPaw-36_tongue-1,,BanPaw,36_tongue,sɨdăʔ,sɨdăʔ,s ɨ + d ă ʔ,,Deepadung2015,,,^s ɨd ă ʔ$,default
+ChaYeQing-36_tongue-1,,ChaYeQing,36_tongue,khadaʔ,khadaʔ,kʰ a + d a ʔ,,Deepadung2015,,,^kh ad a ʔ$,default
+GuangKa-36_tongue-1,,GuangKa,36_tongue,sataɁ,sataɁ,s a + t a ʔ,,Deepadung2015,,,^s ata Ɂ$,default
+MangBang-36_tongue-1,,MangBang,36_tongue,sətaːɁ,sətaːɁ,s ə + t aː ʔ,,Deepadung2015,,,^s ətaː Ɂ$,default
+NanSang-36_tongue-1,,NanSang,36_tongue,sataɁ,sataɁ,s a + t a ʔ,,Deepadung2015,,,^s ata Ɂ$,default
 NamHsan-37_tooth-1,,NamHsan,37_tooth,r̥aːŋ,r̥aːŋ,r̥ aː ŋ,,Deepadung2015,,,^r̥ aː ŋ$,default
 KhunHawt-37_tooth-1,,KhunHawt,37_tooth,r̥aːŋ,r̥aːŋ,r̥ aː ŋ,,Deepadung2015,,,^r̥ aː ŋ$,default
 HtanHsan-37_tooth-1,,HtanHsan,37_tooth,r̥aːŋ,r̥aːŋ,r̥ aː ŋ,,Deepadung2015,,,^r̥ aː ŋ$,default
@@ -612,66 +612,66 @@ KhunHawt-39_heart-1,,KhunHawt,39_heart,blej phә:m,blej phә:m,b l ei + pʰ əː
 HtanHsan-39_heart-1,,HtanHsan,39_heart,blej phәːm,blej phәːm,b l ei + pʰ əː m,,Deepadung2015,,,^b l ej + ph әː m$,default
 PangKham-39_heart-1,,PangKham,39_heart,bleː phәːm,bleː phәːm,b l eː + pʰ əː m,,Deepadung2015,,,^b l eː + ph әː m$,default
 ManLoi-39_heart-1,,ManLoi,39_heart,bleː phәːm,bleː phәːm,b l eː + pʰ əː m,,Deepadung2015,,,^b l eː + ph әː m$,default
-MengDan-39_heart-1,,MengDan,39_heart,bli nɔjh,bli nɔjh,b l i + n ɔ j h,,Deepadung2015,,,^b l i + n ɔ j h$,default
+MengDan-39_heart-1,,MengDan,39_heart,bli nɔjh,bli nɔjh,b l i + n ɔi h,,Deepadung2015,,,^b l i + n ɔj h$,default
 ChuDongGua-39_heart-1,,ChuDongGua,39_heart,nɔːj,nɔːj,n ɔː j,,Deepadung2015,,,^n ɔː j$,default
-XiangZhaiTang-39_heart-1,,XiangZhaiTang,39_heart,blejnɔx,blejnɔx,b l ei n ɔ x,,Deepadung2015,,,^b l ej n ɔ x$,default
-PongNuea-39_heart-1,,PongNuea,39_heart,berɔː,berɔː,b e r ɔː,,Deepadung2015,,,^b e r ɔː$,default
-NoeLae-39_heart-1,,NoeLae,39_heart,baraw,baraw,b a r a w,,Deepadung2015,,,^b a r a w$,default
-BanPaw-39_heart-1,,BanPaw,39_heart,mahujə,mahujə,m a h u j ə,,Deepadung2015,,,^m a h u j ə$,default
-ChaYeQing-39_heart-1,,ChaYeQing,39_heart,blɔːjnɔh,blɔːjnɔh,b l ɔː j n ɔ h,,Deepadung2015,,,^b l ɔː j n ɔ h$,default
-GuangKa-39_heart-1,,GuangKa,39_heart,poŋ kənɔh,poŋ kənɔh,p o ŋ + k ə n ɔ h,,Deepadung2015,,,^p o ŋ + k ə n ɔ h$,default
-MangBang-39_heart-1,,MangBang,39_heart,kənɔh,kənɔh,k ə n ɔ h,,Deepadung2015,,,^k ə n ɔ h$,default
-NanSang-39_heart-1,,NanSang,39_heart,poŋkanɔh,poŋkanɔh,p o ŋ k a n ɔ h,,Deepadung2015,,,^p o ŋ k a n ɔ h$,default
-NamHsan-40_liver-1,,NamHsan,40_liver,kәrɗɔːm,kәrɗɔːm,k ə r ɗ ɔː m,,Deepadung2015,,,^k ә r ɗ ɔː m$,default
-KhunHawt-40_liver-1,,KhunHawt,40_liver,kaɗoːm,kaɗoːm,k a ɗ oː m,,Deepadung2015,,,^k a ɗ oː m$,default
-HtanHsan-40_liver-1,,HtanHsan,40_liver,"kaɗoːm, ɗap",kaɗoːm,k a ɗ oː m,,Deepadung2015,,,^k a ɗ oː m$,default
-PangKham-40_liver-1,,PangKham,40_liver,kaɗɔːm,kaɗɔːm,k a ɗ ɔː m,,Deepadung2015,,,^k a ɗ ɔː m$,default
-ManLoi-40_liver-1,,ManLoi,40_liver,khaɗɔːm,khaɗɔːm,kʰ a ɗ ɔː m,,Deepadung2015,,,^kh a ɗ ɔː m$,default
-MengDan-40_liver-1,,MengDan,40_liver,kəɗɔːm,kəɗɔːm,k ə ɗ ɔː m,,Deepadung2015,,,^k ə ɗ ɔː m$,default
-ChuDongGua-40_liver-1,,ChuDongGua,40_liver,kaɗɔːm,kaɗɔːm,k a ɗ ɔː m,,Deepadung2015,,,^k a ɗ ɔː m$,default
-XiangZhaiTang-40_liver-1,,XiangZhaiTang,40_liver,kadoːm,kadoːm,k a d oː m,,Deepadung2015,,,^k a d oː m$,default
-PongNuea-40_liver-1,,PongNuea,40_liver,kadoːm,kadoːm,k a d oː m,,Deepadung2015,,,^k a d oː m$,default
-NyaungGone-40_liver-1,,NyaungGone,40_liver,kadom,kadom,k a d o m,,Deepadung2015,,,^k a d o m$,default
-NoeLae-40_liver-1,,NoeLae,40_liver,kadom,kadom,k a d o m,,Deepadung2015,,,^k a d o m$,default
-BanPaw-40_liver-1,,BanPaw,40_liver,kadom,kadom,k a d o m,,Deepadung2015,,,^k a d o m$,default
-ChaYeQing-40_liver-1,,ChaYeQing,40_liver,kadoːm,kadoːm,k a d oː m,,Deepadung2015,,,^k a d oː m$,default
-GuangKa-40_liver-1,,GuangKa,40_liver,katɔːm,katɔːm,k a t ɔː m,,Deepadung2015,,,^k a t ɔː m$,default
-MangBang-40_liver-1,,MangBang,40_liver,katɔːm,katɔːm,k a t ɔː m,,Deepadung2015,,,^k a t ɔː m$,default
-MengDan-41_intestines-1,,MengDan,41_intestines,rɔːn ʔiar,rɔːn ʔiar,r ɔː n + ʔ i a r,,Deepadung2015,,,^r ɔː n + ʔ i a r$,default
+XiangZhaiTang-39_heart-1,,XiangZhaiTang,39_heart,blejnɔx,blejnɔx,b l ei + n ɔ x,,Deepadung2015,,,^b l ejnɔ x$,default
+PongNuea-39_heart-1,,PongNuea,39_heart,berɔː,berɔː,b e + r ɔː,,Deepadung2015,,,^b erɔː $,default
+NoeLae-39_heart-1,,NoeLae,39_heart,baraw,baraw,b a + r a w,,Deepadung2015,,,^b ara w$,default
+BanPaw-39_heart-1,,BanPaw,39_heart,mahujə,mahujə,m a + h u + j ə,,Deepadung2015,,,^m ahujə $,default
+ChaYeQing-39_heart-1,,ChaYeQing,39_heart,blɔːjnɔh,blɔːjnɔh,b l ɔː j + n ɔ h,,Deepadung2015,,,^b l ɔːjnɔ h$,default
+GuangKa-39_heart-1,,GuangKa,39_heart,poŋ kənɔh,poŋ kənɔh,p o ŋ + k ə + n ɔ h,,Deepadung2015,,,^p o ŋ + k ənɔ h$,default
+MangBang-39_heart-1,,MangBang,39_heart,kənɔh,kənɔh,k ə + n ɔ h,,Deepadung2015,,,^k ənɔ h$,default
+NanSang-39_heart-1,,NanSang,39_heart,poŋkanɔh,poŋkanɔh,p o ŋ + k a + n ɔ h,,Deepadung2015,,,^p o ŋk anɔ h$,default
+NamHsan-40_liver-1,,NamHsan,40_liver,kәrɗɔːm,kәrɗɔːm,k ə r + ɗ ɔː m,,Deepadung2015,,,^k ә rɗ ɔː m$,default
+KhunHawt-40_liver-1,,KhunHawt,40_liver,kaɗoːm,kaɗoːm,k a + ɗ oː m,,Deepadung2015,,,^k aɗ oː m$,default
+HtanHsan-40_liver-1,,HtanHsan,40_liver,"kaɗoːm, ɗap",kaɗoːm,k a + ɗ oː m,,Deepadung2015,,,^k aɗ oː m$,default
+PangKham-40_liver-1,,PangKham,40_liver,kaɗɔːm,kaɗɔːm,k a + ɗ ɔː m,,Deepadung2015,,,^k aɗ ɔː m$,default
+ManLoi-40_liver-1,,ManLoi,40_liver,khaɗɔːm,khaɗɔːm,kʰ a + ɗ ɔː m,,Deepadung2015,,,^kh aɗ ɔː m$,default
+MengDan-40_liver-1,,MengDan,40_liver,kəɗɔːm,kəɗɔːm,k ə + ɗ ɔː m,,Deepadung2015,,,^k əɗ ɔː m$,default
+ChuDongGua-40_liver-1,,ChuDongGua,40_liver,kaɗɔːm,kaɗɔːm,k a + ɗ ɔː m,,Deepadung2015,,,^k aɗ ɔː m$,default
+XiangZhaiTang-40_liver-1,,XiangZhaiTang,40_liver,kadoːm,kadoːm,k a + d oː m,,Deepadung2015,,,^k ad oː m$,default
+PongNuea-40_liver-1,,PongNuea,40_liver,kadoːm,kadoːm,k a + d oː m,,Deepadung2015,,,^k ad oː m$,default
+NyaungGone-40_liver-1,,NyaungGone,40_liver,kadom,kadom,k a + d o m,,Deepadung2015,,,^k ad o m$,default
+NoeLae-40_liver-1,,NoeLae,40_liver,kadom,kadom,k a + d o m,,Deepadung2015,,,^k ad o m$,default
+BanPaw-40_liver-1,,BanPaw,40_liver,kadom,kadom,k a + d o m,,Deepadung2015,,,^k ad o m$,default
+ChaYeQing-40_liver-1,,ChaYeQing,40_liver,kadoːm,kadoːm,k a + d oː m,,Deepadung2015,,,^k ad oː m$,default
+GuangKa-40_liver-1,,GuangKa,40_liver,katɔːm,katɔːm,k a + t ɔː m,,Deepadung2015,,,^k atɔː m$,default
+MangBang-40_liver-1,,MangBang,40_liver,katɔːm,katɔːm,k a + t ɔː m,,Deepadung2015,,,^k atɔː m$,default
+MengDan-41_intestines-1,,MengDan,41_intestines,rɔːn ʔiar,rɔːn ʔiar,r ɔː n + ʔ ia r,,Deepadung2015,,,^r ɔː n + ʔ ia r$,default
 ChuDongGua-41_intestines-1,,ChuDongGua,41_intestines,rɔːn,rɔːn,r ɔː n,,Deepadung2015,,,^r ɔː n$,default
 XiangZhaiTang-41_intestines-1,,XiangZhaiTang,41_intestines,vac,vac,v a c,,Deepadung2015,,,^v a c$,default
 PongNuea-41_intestines-1,,PongNuea,41_intestines,ɲɔŋ vaic,ɲɔŋ vaic,ɲ ɔ ŋ + v ai c,,Deepadung2015,,,^ɲ ɔ ŋ + v ai c$,default
 NyaungGone-41_intestines-1,,NyaungGone,41_intestines,ɲɔŋ vat,ɲɔŋ vat,ɲ ɔ ŋ + v a t,,Deepadung2015,,,^ɲ ɔ ŋ + v a t$,default
 NoeLae-41_intestines-1,,NoeLae,41_intestines,ɲɔŋ vac,ɲɔŋ vac,ɲ ɔ ŋ + v a c,,Deepadung2015,,,^ɲ ɔ ŋ + v a c$,default
 BanPaw-41_intestines-1,,BanPaw,41_intestines,ɲɔŋ văt,ɲɔŋ văt,ɲ ɔ ŋ + v ă t,,Deepadung2015,,,^ɲ ɔ ŋ + v ă t$,default
-ChaYeQing-41_intestines-1,,ChaYeQing,41_intestines,khəɣan,khəɣan,kʰ ə ɣ a n,,Deepadung2015,,,^kh ə ɣ a n$,default
-MangBang-41_intestines-1,,MangBang,41_intestines,sɔnvat,sɔnvat,s ɔ n v a t,,Deepadung2015,,,^s ɔ n v a t$,default
-NanSang-41_intestines-1,,NanSang,41_intestines,sɔnvat,sɔnvat,s ɔ n v a t,,Deepadung2015,,,^s ɔ n v a t$,default
+ChaYeQing-41_intestines-1,,ChaYeQing,41_intestines,khəɣan,khəɣan,kʰ ə + ɣ a n,,Deepadung2015,,,^kh əɣa n$,default
+MangBang-41_intestines-1,,MangBang,41_intestines,sɔnvat,sɔnvat,s ɔ + n v a t,,Deepadung2015,,,^s ɔnv a t$,default
+NanSang-41_intestines-1,,NanSang,41_intestines,sɔnvat,sɔnvat,s ɔ + n v a t,,Deepadung2015,,,^s ɔnv a t$,default
 NamHsan-42_hand-1,,NamHsan,42_hand,ɗiː,ɗiː,ɗ iː,,Deepadung2015,,,^ɗ iː$,default
 KhunHawt-42_hand-1,,KhunHawt,42_hand,ɗi:,ɗi:,ɗ iː,,Deepadung2015,,,^ɗ i:$,default
 HtanHsan-42_hand-1,,HtanHsan,42_hand,ɗiː,ɗiː,ɗ iː,,Deepadung2015,,,^ɗ iː$,default
-PangKham-42_hand-1,,PangKham,42_hand,ɗaj,ɗaj,ɗ a j,,Deepadung2015,,,^ɗ a j$,default
-ManLoi-42_hand-1,,ManLoi,42_hand,ɗaj,ɗaj,ɗ a j,,Deepadung2015,,,^ɗ a j$,default
-MengDan-42_hand-1,,MengDan,42_hand,ɗaj,ɗaj,ɗ a j,,Deepadung2015,,,^ɗ a j$,default
-ChuDongGua-42_hand-1,,ChuDongGua,42_hand,ɗaj,ɗaj,ɗ a j,,Deepadung2015,,,^ɗ a j$,default
+PangKham-42_hand-1,,PangKham,42_hand,ɗaj,ɗaj,ɗ a j,,Deepadung2015,,,^ɗ aj$,default
+ManLoi-42_hand-1,,ManLoi,42_hand,ɗaj,ɗaj,ɗ a j,,Deepadung2015,,,^ɗ aj$,default
+MengDan-42_hand-1,,MengDan,42_hand,ɗaj,ɗaj,ɗ a j,,Deepadung2015,,,^ɗ aj$,default
+ChuDongGua-42_hand-1,,ChuDongGua,42_hand,ɗaj,ɗaj,ɗ a j,,Deepadung2015,,,^ɗ aj$,default
 XiangZhaiTang-42_hand-1,,XiangZhaiTang,42_hand,dɛː,dɛː,d ɛː,,Deepadung2015,,,^d ɛː$,default
 PongNuea-42_hand-1,,PongNuea,42_hand,dɛː,dɛː,d ɛː,,Deepadung2015,,,^d ɛː$,default
 NyaungGone-42_hand-1,,NyaungGone,42_hand,dɛ,dɛ,d ɛ,,Deepadung2015,,,^d ɛ$,default
 NoeLae-42_hand-1,,NoeLae,42_hand,dɛ,dɛ,d ɛ,,Deepadung2015,,,^d ɛ$,default
 BanPaw-42_hand-1,,BanPaw,42_hand,dɛ,dɛ,d ɛ,,Deepadung2015,,,^d ɛ$,default
-ChaYeQing-42_hand-1,,ChaYeQing,42_hand,ɗaj,ɗaj,ɗ a j,,Deepadung2015,,,^ɗ a j$,default
-GuangKa-42_hand-1,,GuangKa,42_hand,taj,taj,t a j,,Deepadung2015,,,^t a j$,default
-MangBang-42_hand-1,,MangBang,42_hand,taj,taj,t a j,,Deepadung2015,,,^t a j$,default
+ChaYeQing-42_hand-1,,ChaYeQing,42_hand,ɗaj,ɗaj,ɗ a j,,Deepadung2015,,,^ɗ aj$,default
+GuangKa-42_hand-1,,GuangKa,42_hand,taj,taj,t a j,,Deepadung2015,,,^t aj$,default
+MangBang-42_hand-1,,MangBang,42_hand,taj,taj,t a j,,Deepadung2015,,,^t aj$,default
 NanSang-42_hand-1,,NanSang,42_hand,taiɁ,taiɁ,t ai ʔ,,Deepadung2015,,,^t ai Ɂ$,default
-NamHsan-43_nail-1,,NamHsan,43_nail,rәnim,rәnim,r ə n i m,,Deepadung2015,,,^r ә n i m$,default
-KhunHawt-43_nail-1,,KhunHawt,43_nail,rәnimɗiː,rәnimɗiː,r ə n i m ɗ iː,,Deepadung2015,,,^r ә n i m ɗ iː$,default
-HtanHsan-43_nail-1,,HtanHsan,43_nail,rәnhim,rәnhim,r ə n h i m,,Deepadung2015,,,^r ә nh i m$,default
-PangKham-43_nail-1,,PangKham,43_nail,ʔahim,ʔahim,ʔ a h i m,,Deepadung2015,,,^ʔ a h i m$,default
-ManLoi-43_nail-1,,ManLoi,43_nail,ʔahim,ʔahim,ʔ a h i m,,Deepadung2015,,,^ʔ a h i m$,default
-MengDan-43_nail-1,,MengDan,43_nail,ʔahim,ʔahim,ʔ a h i m,,Deepadung2015,,,^ʔ a h i m$,default
-ChuDongGua-43_nail-1,,ChuDongGua,43_nail,ʔahim,ʔahim,ʔ a h i m,,Deepadung2015,,,^ʔ a h i m$,default
-XiangZhaiTang-43_nail-1,,XiangZhaiTang,43_nail,ŋhiːm,ŋhiːm,ŋ h iː m,,Deepadung2015,,,^ŋh iː m$,default
-PongNuea-43_nail-1,,PongNuea,43_nail,ŋhiːm,ŋhiːm,ŋ h iː m,,Deepadung2015,,,^ŋh iː m$,default
+NamHsan-43_nail-1,,NamHsan,43_nail,rәnim,rәnim,r ə + n i m,,Deepadung2015,,,^r әni m$,default
+KhunHawt-43_nail-1,,KhunHawt,43_nail,rәnimɗiː,rәnimɗiː,r ə + n i m + ɗ iː,,Deepadung2015,,,^r әni mɗ iː$,default
+HtanHsan-43_nail-1,,HtanHsan,43_nail,rәnhim,rәnhim,r ə n + h i m,,Deepadung2015,,,^r әnh i m$,default
+PangKham-43_nail-1,,PangKham,43_nail,ʔahim,ʔahim,ʔ a + h i m,,Deepadung2015,,,^ʔ ahi m$,default
+ManLoi-43_nail-1,,ManLoi,43_nail,ʔahim,ʔahim,ʔ a + h i m,,Deepadung2015,,,^ʔ ahi m$,default
+MengDan-43_nail-1,,MengDan,43_nail,ʔahim,ʔahim,ʔ a + h i m,,Deepadung2015,,,^ʔ ahi m$,default
+ChuDongGua-43_nail-1,,ChuDongGua,43_nail,ʔahim,ʔahim,ʔ a + h i m,,Deepadung2015,,,^ʔ ahi m$,default
+XiangZhaiTang-43_nail-1,,XiangZhaiTang,43_nail,ŋhiːm,ŋhiːm,ŋ + h iː m,,Deepadung2015,,,^ŋh iː m$,default
+PongNuea-43_nail-1,,PongNuea,43_nail,ŋhiːm,ŋhiːm,ŋ + h iː m,,Deepadung2015,,,^ŋh iː m$,default
 NyaungGone-43_nail-1,,NyaungGone,43_nail,ŋ him,ŋ him,ŋ + h i m,,Deepadung2015,,,^ŋ + h i m$,default
 NoeLae-43_nail-1,,NoeLae,43_nail,ŋ him,ŋ him,ŋ + h i m,,Deepadung2015,,,^ŋ + h i m$,default
 BanPaw-43_nail-1,,BanPaw,43_nail,ŋ him,ŋ him,ŋ + h i m,,Deepadung2015,,,^ŋ + h i m$,default
@@ -695,38 +695,38 @@ ChaYeQing-44_foot-1,,ChaYeQing,44_foot,ʥɔːn,ʥɔːn,dʑ ɔː n,,Deepadung2015
 GuangKa-44_foot-1,,GuangKa,44_foot,ʥɔːn,ʥɔːn,dʑ ɔː n,,Deepadung2015,,,^ʥ ɔː n$,default
 MangBang-44_foot-1,,MangBang,44_foot,ʥɔːn,ʥɔːn,dʑ ɔː n,,Deepadung2015,,,^ʥ ɔː n$,default
 NanSang-44_foot-1,,NanSang,44_foot,ʥɔːn,ʥɔːn,dʑ ɔː n,,Deepadung2015,,,^ʥ ɔː n$,default
-NamHsan-45_bone-1,,NamHsan,45_bone,kaɁaːŋ,kaɁaːŋ,k a ʔ aː ŋ,,Deepadung2015,,,^k a Ɂ aː ŋ$,default
-KhunHawt-45_bone-1,,KhunHawt,45_bone,kanɁaːŋ,kanɁaːŋ,k a n ʔ aː ŋ,,Deepadung2015,,,^k a n Ɂ aː ŋ$,default
-HtanHsan-45_bone-1,,HtanHsan,45_bone,kәnɁaːŋ,kәnɁaːŋ,k ə n ʔ aː ŋ,,Deepadung2015,,,^k ә n Ɂ aː ŋ$,default
-PangKham-45_bone-1,,PangKham,45_bone,kaɁaːŋ,kaɁaːŋ,k a ʔ aː ŋ,,Deepadung2015,,,^k a Ɂ aː ŋ$,default
-ManLoi-45_bone-1,,ManLoi,45_bone,kaɁaːŋ,kaɁaːŋ,k a ʔ aː ŋ,,Deepadung2015,,,^k a Ɂ aː ŋ$,default
-MengDan-45_bone-1,,MengDan,45_bone,kaʔɛːŋ,kaʔɛːŋ,k a ʔ ɛː ŋ,,Deepadung2015,,,^k a ʔ ɛː ŋ$,default
-ChuDongGua-45_bone-1,,ChuDongGua,45_bone,kaɁaːŋ,kaɁaːŋ,k a ʔ aː ŋ,,Deepadung2015,,,^k a Ɂ aː ŋ$,default
-XiangZhaiTang-45_bone-1,,XiangZhaiTang,45_bone,kaɁaːŋ,kaɁaːŋ,k a ʔ aː ŋ,,Deepadung2015,,,^k a Ɂ aː ŋ$,default
-PongNuea-45_bone-1,,PongNuea,45_bone,kaɁaːŋ,kaɁaːŋ,k a ʔ aː ŋ,,Deepadung2015,,,^k a Ɂ aː ŋ$,default
-NyaungGone-45_bone-1,,NyaungGone,45_bone,kaʔak,kaʔak,k a ʔ a k,,Deepadung2015,,,^k a ʔ a k$,default
-NoeLae-45_bone-1,,NoeLae,45_bone,kaɁaŋ,kaɁaŋ,k a ʔ a ŋ,,Deepadung2015,,,^k a Ɂ a ŋ$,default
-BanPaw-45_bone-1,,BanPaw,45_bone,kaɁaŋ,kaɁaŋ,k a ʔ a ŋ,,Deepadung2015,,,^k a Ɂ a ŋ$,default
-ChaYeQing-45_bone-1,,ChaYeQing,45_bone,kaʔaːŋ,kaʔaːŋ,k a ʔ aː ŋ,,Deepadung2015,,,^k a ʔ aː ŋ$,default
-GuangKa-45_bone-1,,GuangKa,45_bone,kaɁaːŋ,kaɁaːŋ,k a ʔ aː ŋ,,Deepadung2015,,,^k a Ɂ aː ŋ$,default
-MangBang-45_bone-1,,MangBang,45_bone,kaɁaːŋ,kaɁaːŋ,k a ʔ aː ŋ,,Deepadung2015,,,^k a Ɂ aː ŋ$,default
-NanSang-45_bone-1,,NanSang,45_bone,kaɁaːŋ,kaɁaːŋ,k a ʔ aː ŋ,,Deepadung2015,,,^k a Ɂ aː ŋ$,default
-NamHsan-46_fat-1,,NamHsan,46_fat,priaŋ,priaŋ,p r i a ŋ,,Deepadung2015,,,^p r i a ŋ$,default
-KhunHawt-46_fat-1,,KhunHawt,46_fat,priaŋ,priaŋ,p r i a ŋ,,Deepadung2015,,,^p r i a ŋ$,default
-HtanHsan-46_fat-1,,HtanHsan,46_fat,priaŋ,priaŋ,p r i a ŋ,,Deepadung2015,,,^p r i a ŋ$,default
-PangKham-46_fat-1,,PangKham,46_fat,briaŋ,briaŋ,b r i a ŋ,,Deepadung2015,,,^b r i a ŋ$,default
-ManLoi-46_fat-1,,ManLoi,46_fat,briaŋ,briaŋ,b r i a ŋ,,Deepadung2015,,,^b r i a ŋ$,default
-MengDan-46_fat-1,,MengDan,46_fat,priaŋ,priaŋ,p r i a ŋ,,Deepadung2015,,,^p r i a ŋ$,default
-ChuDongGua-46_fat-1,,ChuDongGua,46_fat,priaŋ,priaŋ,p r i a ŋ,,Deepadung2015,,,^p r i a ŋ$,default
-XiangZhaiTang-46_fat-1,,XiangZhaiTang,46_fat,briaŋ,briaŋ,b r i a ŋ,,Deepadung2015,,,^b r i a ŋ$,default
-PongNuea-46_fat-1,,PongNuea,46_fat,briaŋ,briaŋ,b r i a ŋ,,Deepadung2015,,,^b r i a ŋ$,default
-NyaungGone-46_fat-1,,NyaungGone,46_fat,briak,briak,b r i a k,,Deepadung2015,,,^b r i a k$,default
-NoeLae-46_fat-1,,NoeLae,46_fat,briaŋ,briaŋ,b r i a ŋ,,Deepadung2015,,,^b r i a ŋ$,default
-BanPaw-46_fat-1,,BanPaw,46_fat,briaŋ,briaŋ,b r i a ŋ,,Deepadung2015,,,^b r i a ŋ$,default
-ChaYeQing-46_fat-1,,ChaYeQing,46_fat,bjoŋ,bjoŋ,b j o ŋ,,Deepadung2015,,,^b j o ŋ$,default
-GuangKa-46_fat-1,,GuangKa,46_fat,pjoŋ,pjoŋ,p j o ŋ,,Deepadung2015,,,^p j o ŋ$,default
-MangBang-46_fat-1,,MangBang,46_fat,pjoŋ,pjoŋ,p j o ŋ,,Deepadung2015,,,^p j o ŋ$,default
-NanSang-46_fat-1,,NanSang,46_fat,pjoŋ,pjoŋ,p j o ŋ,,Deepadung2015,,,^p j o ŋ$,default
+NamHsan-45_bone-1,,NamHsan,45_bone,kaɁaːŋ,kaɁaːŋ,k a + ʔ aː ŋ,,Deepadung2015,,,^k aɁaː ŋ$,default
+KhunHawt-45_bone-1,,KhunHawt,45_bone,kanɁaːŋ,kanɁaːŋ,k a n + ʔ aː ŋ,,Deepadung2015,,,^k a nɁ aː ŋ$,default
+HtanHsan-45_bone-1,,HtanHsan,45_bone,kәnɁaːŋ,kәnɁaːŋ,k ə n + ʔ aː ŋ,,Deepadung2015,,,^k ә nɁ aː ŋ$,default
+PangKham-45_bone-1,,PangKham,45_bone,kaɁaːŋ,kaɁaːŋ,k a + ʔ aː ŋ,,Deepadung2015,,,^k aɁaː ŋ$,default
+ManLoi-45_bone-1,,ManLoi,45_bone,kaɁaːŋ,kaɁaːŋ,k a + ʔ aː ŋ,,Deepadung2015,,,^k aɁaː ŋ$,default
+MengDan-45_bone-1,,MengDan,45_bone,kaʔɛːŋ,kaʔɛːŋ,k a + ʔ ɛː ŋ,,Deepadung2015,,,^k aʔɛː ŋ$,default
+ChuDongGua-45_bone-1,,ChuDongGua,45_bone,kaɁaːŋ,kaɁaːŋ,k a + ʔ aː ŋ,,Deepadung2015,,,^k aɁaː ŋ$,default
+XiangZhaiTang-45_bone-1,,XiangZhaiTang,45_bone,kaɁaːŋ,kaɁaːŋ,k a + ʔ aː ŋ,,Deepadung2015,,,^k aɁaː ŋ$,default
+PongNuea-45_bone-1,,PongNuea,45_bone,kaɁaːŋ,kaɁaːŋ,k a + ʔ aː ŋ,,Deepadung2015,,,^k aɁaː ŋ$,default
+NyaungGone-45_bone-1,,NyaungGone,45_bone,kaʔak,kaʔak,k a + ʔ a k,,Deepadung2015,,,^k aʔa k$,default
+NoeLae-45_bone-1,,NoeLae,45_bone,kaɁaŋ,kaɁaŋ,k a + ʔ a ŋ,,Deepadung2015,,,^k aɁa ŋ$,default
+BanPaw-45_bone-1,,BanPaw,45_bone,kaɁaŋ,kaɁaŋ,k a + ʔ a ŋ,,Deepadung2015,,,^k aɁa ŋ$,default
+ChaYeQing-45_bone-1,,ChaYeQing,45_bone,kaʔaːŋ,kaʔaːŋ,k a + ʔ aː ŋ,,Deepadung2015,,,^k aʔaː ŋ$,default
+GuangKa-45_bone-1,,GuangKa,45_bone,kaɁaːŋ,kaɁaːŋ,k a + ʔ aː ŋ,,Deepadung2015,,,^k aɁaː ŋ$,default
+MangBang-45_bone-1,,MangBang,45_bone,kaɁaːŋ,kaɁaːŋ,k a + ʔ aː ŋ,,Deepadung2015,,,^k aɁaː ŋ$,default
+NanSang-45_bone-1,,NanSang,45_bone,kaɁaːŋ,kaɁaːŋ,k a + ʔ aː ŋ,,Deepadung2015,,,^k aɁaː ŋ$,default
+NamHsan-46_fat-1,,NamHsan,46_fat,priaŋ,priaŋ,p r ia ŋ,,Deepadung2015,,,^p r ia ŋ$,default
+KhunHawt-46_fat-1,,KhunHawt,46_fat,priaŋ,priaŋ,p r ia ŋ,,Deepadung2015,,,^p r ia ŋ$,default
+HtanHsan-46_fat-1,,HtanHsan,46_fat,priaŋ,priaŋ,p r ia ŋ,,Deepadung2015,,,^p r ia ŋ$,default
+PangKham-46_fat-1,,PangKham,46_fat,briaŋ,briaŋ,b r ia ŋ,,Deepadung2015,,,^b r ia ŋ$,default
+ManLoi-46_fat-1,,ManLoi,46_fat,briaŋ,briaŋ,b r ia ŋ,,Deepadung2015,,,^b r ia ŋ$,default
+MengDan-46_fat-1,,MengDan,46_fat,priaŋ,priaŋ,p r ia ŋ,,Deepadung2015,,,^p r ia ŋ$,default
+ChuDongGua-46_fat-1,,ChuDongGua,46_fat,priaŋ,priaŋ,p r ia ŋ,,Deepadung2015,,,^p r ia ŋ$,default
+XiangZhaiTang-46_fat-1,,XiangZhaiTang,46_fat,briaŋ,briaŋ,b r ia ŋ,,Deepadung2015,,,^b r ia ŋ$,default
+PongNuea-46_fat-1,,PongNuea,46_fat,briaŋ,briaŋ,b r ia ŋ,,Deepadung2015,,,^b r ia ŋ$,default
+NyaungGone-46_fat-1,,NyaungGone,46_fat,briak,briak,b r ia k,,Deepadung2015,,,^b r ia k$,default
+NoeLae-46_fat-1,,NoeLae,46_fat,briaŋ,briaŋ,b r ia ŋ,,Deepadung2015,,,^b r ia ŋ$,default
+BanPaw-46_fat-1,,BanPaw,46_fat,briaŋ,briaŋ,b r ia ŋ,,Deepadung2015,,,^b r ia ŋ$,default
+ChaYeQing-46_fat-1,,ChaYeQing,46_fat,bjoŋ,bjoŋ,b io ŋ,,Deepadung2015,,,^b jo ŋ$,default
+GuangKa-46_fat-1,,GuangKa,46_fat,pjoŋ,pjoŋ,p io ŋ,,Deepadung2015,,,^p jo ŋ$,default
+MangBang-46_fat-1,,MangBang,46_fat,pjoŋ,pjoŋ,p io ŋ,,Deepadung2015,,,^p jo ŋ$,default
+NanSang-46_fat-1,,NanSang,46_fat,pjoŋ,pjoŋ,p io ŋ,,Deepadung2015,,,^p jo ŋ$,default
 NamHsan-47_skin-1,,NamHsan,47_skin,hur,hur,h u r,,Deepadung2015,,,^h u r$,default
 KhunHawt-47_skin-1,,KhunHawt,47_skin,hur,hur,h u r,,Deepadung2015,,,^h u r$,default
 HtanHsan-47_skin-1,,HtanHsan,47_skin,huːr,huːr,h uː r,,Deepadung2015,,,^h uː r$,default
@@ -762,24 +762,24 @@ NanSang-48_blood-1,,NanSang,48_blood,n̥aːm,n̥aːm,n̥ aː m,,Deepadung2015,,,
 NamHsan-49_personhuman-1,,NamHsan,49_personhuman,biː,biː,b iː,,Deepadung2015,,,^b iː$,default
 KhunHawt-49_personhuman-1,,KhunHawt,49_personhuman,ɓi:,ɓi:,ɓ iː,,Deepadung2015,,,^ɓ i:$,default
 HtanHsan-49_personhuman-1,,HtanHsan,49_personhuman,ɓi,ɓi,ɓ i,,Deepadung2015,,,^ɓ i$,default
-PangKham-49_personhuman-1,,PangKham,49_personhuman,duʔiː,duʔiː,d u ʔ iː,,Deepadung2015,,,^d u ʔ iː$,default
-ManLoi-49_personhuman-1,,ManLoi,49_personhuman,ɗuʔiː,ɗuʔiː,ɗ u ʔ iː,,Deepadung2015,,,^ɗ u ʔ iː$,default
-MengDan-49_personhuman-1,,MengDan,49_personhuman,duʔiː,duʔiː,d u ʔ iː,,Deepadung2015,,,^d u ʔ iː$,default
-ChuDongGua-49_personhuman-1,,ChuDongGua,49_personhuman,duʔiː,duʔiː,d u ʔ iː,,Deepadung2015,,,^d u ʔ iː$,default
-XiangZhaiTang-49_personhuman-1,,XiangZhaiTang,49_personhuman,naɁuj,naɁuj,n a ʔ u j,,Deepadung2015,,,^n a Ɂ u j$,default
-PongNuea-49_personhuman-1,,PongNuea,49_personhuman,duvɨj,duvɨj,d u v ɨ j,,Deepadung2015,,,^d u v ɨ j$,default
+PangKham-49_personhuman-1,,PangKham,49_personhuman,duʔiː,duʔiː,d u + ʔ iː,,Deepadung2015,,,^d uʔiː $,default
+ManLoi-49_personhuman-1,,ManLoi,49_personhuman,ɗuʔiː,ɗuʔiː,ɗ u + ʔ iː,,Deepadung2015,,,^ɗ uʔiː $,default
+MengDan-49_personhuman-1,,MengDan,49_personhuman,duʔiː,duʔiː,d u + ʔ iː,,Deepadung2015,,,^d uʔiː $,default
+ChuDongGua-49_personhuman-1,,ChuDongGua,49_personhuman,duʔiː,duʔiː,d u + ʔ iː,,Deepadung2015,,,^d uʔiː $,default
+XiangZhaiTang-49_personhuman-1,,XiangZhaiTang,49_personhuman,naɁuj,naɁuj,n a + ʔ u j,,Deepadung2015,,,^n aɁu j$,default
+PongNuea-49_personhuman-1,,PongNuea,49_personhuman,duvɨj,duvɨj,d u + v ɨ j,,Deepadung2015,,,^d uvɨ j$,default
 NyaungGone-49_personhuman-1,,NyaungGone,49_personhuman,"ʔi, duʔi",ʔi,ʔ i,,Deepadung2015,,,^ʔ i$,default
-NoeLae-49_personhuman-1,,NoeLae,49_personhuman,duɁi,duɁi,d u ʔ i,,Deepadung2015,,,^d u Ɂ i$,default
-BanPaw-49_personhuman-1,,BanPaw,49_personhuman,duɁɨj,duɁɨj,d u ʔ ɨ j,,Deepadung2015,,,^d u Ɂ ɨ j$,default
-ChaYeQing-49_personhuman-1,,ChaYeQing,49_personhuman,duʔuj,duʔuj,d u ʔ u j,,Deepadung2015,,,^d u ʔ u j$,default
-GuangKa-49_personhuman-1,,GuangKa,49_personhuman,taɁiː,taɁiː,t a ʔ iː,,Deepadung2015,,,^t a Ɂ iː$,default
-MangBang-49_personhuman-1,,MangBang,49_personhuman,taɁiː,taɁiː,t a ʔ iː,,Deepadung2015,,,^t a Ɂ iː$,default
-NanSang-49_personhuman-1,,NanSang,49_personhuman,taɁiː,taɁiː,t a ʔ iː,,Deepadung2015,,,^t a Ɂ iː$,default
-NamHsan-50_child-1,,NamHsan,50_child,kuan,kuan,k u a n,,Deepadung2015,,,^k u a n$,default
-HtanHsan-50_child-1,,HtanHsan,50_child,kuan,kuan,k u a n,,Deepadung2015,,,^k u a n$,default
+NoeLae-49_personhuman-1,,NoeLae,49_personhuman,duɁi,duɁi,d u + ʔ i,,Deepadung2015,,,^d uɁi $,default
+BanPaw-49_personhuman-1,,BanPaw,49_personhuman,duɁɨj,duɁɨj,d u + ʔ ɨ j,,Deepadung2015,,,^d uɁɨ j$,default
+ChaYeQing-49_personhuman-1,,ChaYeQing,49_personhuman,duʔuj,duʔuj,d u + ʔ u j,,Deepadung2015,,,^d uʔu j$,default
+GuangKa-49_personhuman-1,,GuangKa,49_personhuman,taɁiː,taɁiː,t a + ʔ iː,,Deepadung2015,,,^t aɁiː $,default
+MangBang-49_personhuman-1,,MangBang,49_personhuman,taɁiː,taɁiː,t a + ʔ iː,,Deepadung2015,,,^t aɁiː $,default
+NanSang-49_personhuman-1,,NanSang,49_personhuman,taɁiː,taɁiː,t a + ʔ iː,,Deepadung2015,,,^t aɁiː $,default
+NamHsan-50_child-1,,NamHsan,50_child,kuan,kuan,k ua n,,Deepadung2015,,,^k ua n$,default
+HtanHsan-50_child-1,,HtanHsan,50_child,kuan,kuan,k ua n,,Deepadung2015,,,^k ua n$,default
 PangKham-50_child-1,,PangKham,50_child,ɡɔːn,ɡɔːn,g ɔː n,,Deepadung2015,,,^ɡ ɔː n$,default
 ManLoi-50_child-1,,ManLoi,50_child,ɡɔːn,ɡɔːn,g ɔː n,,Deepadung2015,,,^ɡ ɔː n$,default
-MengDan-50_child-1,,MengDan,50_child,kɔnɲɔm,kɔnɲɔm,k ɔ n ɲ ɔ m,,Deepadung2015,,,^k ɔ n ɲ ɔ m$,default
+MengDan-50_child-1,,MengDan,50_child,kɔnɲɔm,kɔnɲɔm,k ɔ n + ɲ ɔ m,,Deepadung2015,,,^k ɔnɲɔ m$,default
 ChuDongGua-50_child-1,,ChuDongGua,50_child,kɔːn,kɔːn,k ɔː n,,Deepadung2015,,,^k ɔː n$,default
 XiangZhaiTang-50_child-1,,XiangZhaiTang,50_child,ɡɔːn,ɡɔːn,g ɔː n,,Deepadung2015,,,^ɡ ɔː n$,default
 PongNuea-50_child-1,,PongNuea,50_child,ɡɔːn,ɡɔːn,g ɔː n,,Deepadung2015,,,^ɡ ɔː n$,default
@@ -805,20 +805,20 @@ BanPaw-51_name-1,,BanPaw,51_name,cɨ,cɨ,c ɨ,,Deepadung2015,,,^c ɨ$,default
 ChaYeQing-51_name-1,,ChaYeQing,51_name,ʥɨː,ʥɨː,dʑ ɨː,,Deepadung2015,,,^ʥ ɨː$,default
 MangBang-51_name-1,,MangBang,51_name,ʥɨː,ʥɨː,dʑ ɨː,,Deepadung2015,,,^ʥ ɨː$,default
 NanSang-51_name-1,,NanSang,51_name,ʨɨː,ʨɨː,tɕ ɨː,,Deepadung2015,,,^ʨ ɨː$,default
-NamHsan-52_roadpath-1,,NamHsan,52_roadpath,radeːŋ,radeːŋ,r a d eː ŋ,,Deepadung2015,,,^r a d eː ŋ$,default
-KhunHawt-52_roadpath-1,,KhunHawt,52_roadpath,rade:ŋ,rade:ŋ,r a d eː ŋ,,Deepadung2015,,,^r a d e: ŋ$,default
+NamHsan-52_roadpath-1,,NamHsan,52_roadpath,radeːŋ,radeːŋ,r a + d eː ŋ,,Deepadung2015,,,^r ad eː ŋ$,default
+KhunHawt-52_roadpath-1,,KhunHawt,52_roadpath,rade:ŋ,rade:ŋ,r a + d eː ŋ,,Deepadung2015,,,^r ad e: ŋ$,default
 HtanHsan-52_roadpath-1,,HtanHsan,52_roadpath,d̤eːŋ,d̤eːŋ,dʱ eː ŋ,,Deepadung2015,,,^d̤ eː ŋ$,default
-PangKham-52_roadpath-1,,PangKham,52_roadpath,nteːŋ,nteːŋ,n t eː ŋ,,Deepadung2015,,,^n t eː ŋ$,default
-ManLoi-52_roadpath-1,,ManLoi,52_roadpath,nteːŋ,nteːŋ,n t eː ŋ,,Deepadung2015,,,^n t eː ŋ$,default
+PangKham-52_roadpath-1,,PangKham,52_roadpath,nteːŋ,nteːŋ,n + t eː ŋ,,Deepadung2015,,,^nt eː ŋ$,default
+ManLoi-52_roadpath-1,,ManLoi,52_roadpath,nteːŋ,nteːŋ,n + t eː ŋ,,Deepadung2015,,,^nt eː ŋ$,default
 ChuDongGua-52_roadpath-1,,ChuDongGua,52_roadpath,deŋ daːŋ,deŋ daːŋ,d e ŋ + d aː ŋ,,Deepadung2015,,,^d e ŋ + d aː ŋ$,default
-XiangZhaiTang-52_roadpath-1,,XiangZhaiTang,52_roadpath,nteːn,nteːn,n t eː n,,Deepadung2015,,,^n t eː n$,default
-PongNuea-52_roadpath-1,,PongNuea,52_roadpath,nteːɲ,nteːɲ,n t eː ɲ,,Deepadung2015,,,^n t eː ɲ$,default
+XiangZhaiTang-52_roadpath-1,,XiangZhaiTang,52_roadpath,nteːn,nteːn,n + t eː n,,Deepadung2015,,,^nt eː n$,default
+PongNuea-52_roadpath-1,,PongNuea,52_roadpath,nteːɲ,nteːɲ,n + t eː ɲ,,Deepadung2015,,,^nt eː ɲ$,default
 NyaungGone-52_roadpath-1,,NyaungGone,52_roadpath,n ten,n ten,n + t e n,,Deepadung2015,,,^n + t e n$,default
 NoeLae-52_roadpath-1,,NoeLae,52_roadpath,n teɲ,n teɲ,n + t e ɲ,,Deepadung2015,,,^n + t e ɲ$,default
 BanPaw-52_roadpath-1,,BanPaw,52_roadpath,n teɲ,n teɲ,n + t e ɲ,,Deepadung2015,,,^n + t e ɲ$,default
-ChaYeQing-52_roadpath-1,,ChaYeQing,52_roadpath,ndɔːn,ndɔːn,n d ɔː n,,Deepadung2015,,,^n d ɔː n$,default
-GuangKa-52_roadpath-1,,GuangKa,52_roadpath,ndɔːn,ndɔːn,n d ɔː n,,Deepadung2015,,,^n d ɔː n$,default
-MangBang-52_roadpath-1,,MangBang,52_roadpath,ndɔːn,ndɔːn,n d ɔː n,,Deepadung2015,,,^n d ɔː n$,default
+ChaYeQing-52_roadpath-1,,ChaYeQing,52_roadpath,ndɔːn,ndɔːn,n + d ɔː n,,Deepadung2015,,,^nd ɔː n$,default
+GuangKa-52_roadpath-1,,GuangKa,52_roadpath,ndɔːn,ndɔːn,n + d ɔː n,,Deepadung2015,,,^nd ɔː n$,default
+MangBang-52_roadpath-1,,MangBang,52_roadpath,ndɔːn,ndɔːn,n + d ɔː n,,Deepadung2015,,,^nd ɔː n$,default
 NanSang-52_roadpath-1,,NanSang,52_roadpath,n dɔn,n dɔn,n + d ɔ n,,Deepadung2015,,,^n + d ɔ n$,default
 NamHsan-53_sew-1,,NamHsan,53_sew,ʥɨŋ,ʥɨŋ,dʑ ɨ ŋ,,Deepadung2015,,,^ʥ ɨ ŋ$,default
 KhunHawt-53_sew-1,,KhunHawt,53_sew,ʥeɲ,ʥeɲ,dʑ e ɲ,,Deepadung2015,,,^ʥ e ɲ$,default
@@ -833,7 +833,7 @@ NyaungGone-53_sew-1,,NyaungGone,53_sew,cin,cin,c i n,,Deepadung2015,,,^c i n$,de
 NoeLae-53_sew-1,,NoeLae,53_sew,ciɲ,ciɲ,c i ɲ,,Deepadung2015,,,^c i ɲ$,default
 BanPaw-53_sew-1,,BanPaw,53_sew,cin,cin,c i n,,Deepadung2015,,,^c i n$,default
 ChaYeQing-53_sew-1,,ChaYeQing,53_sew,ʥen,ʥen,dʑ e n,,Deepadung2015,,,^ʥ e n$,default
-GuangKa-53_sew-1,,GuangKa,53_sew,kaʥən,kaʥən,k a dʑ ə n,,Deepadung2015,,,^k a ʥ ə n$,default
+GuangKa-53_sew-1,,GuangKa,53_sew,kaʥən,kaʥən,k a + dʑ ə n,,Deepadung2015,,,^k aʥ ə n$,default
 MangBang-53_sew-1,,MangBang,53_sew,ʥən,ʥən,dʑ ə n,,Deepadung2015,,,^ʥ ə n$,default
 NanSang-53_sew-1,,NanSang,53_sew,ʥən,ʥən,dʑ ə n,,Deepadung2015,,,^ʥ ə n$,default
 NamHsan-54_fire-1,,NamHsan,54_fire,ŋar,ŋar,ŋ a r,,Deepadung2015,,,^ŋ a r$,default
@@ -848,29 +848,29 @@ PongNuea-54_fire-1,,PongNuea,54_fire,ŋɔː,ŋɔː,ŋ ɔː,,Deepadung2015,,,^ŋ 
 NyaungGone-54_fire-1,,NyaungGone,54_fire,ŋɔ,ŋɔ,ŋ ɔ,,Deepadung2015,,,^ŋ ɔ$,default
 NoeLae-54_fire-1,,NoeLae,54_fire,ŋɔ,ŋɔ,ŋ ɔ,,Deepadung2015,,,^ŋ ɔ$,default
 BanPaw-54_fire-1,,BanPaw,54_fire,ŋɔ,ŋɔ,ŋ ɔ,,Deepadung2015,,,^ŋ ɔ$,default
-ChaYeQing-54_fire-1,,ChaYeQing,54_fire,ŋaj,ŋaj,ŋ a j,,Deepadung2015,,,^ŋ a j$,default
-GuangKa-54_fire-1,,GuangKa,54_fire,ŋaj,ŋaj,ŋ a j,,Deepadung2015,,,^ŋ a j$,default
-MangBang-54_fire-1,,MangBang,54_fire,ŋaj,ŋaj,ŋ a j,,Deepadung2015,,,^ŋ a j$,default
+ChaYeQing-54_fire-1,,ChaYeQing,54_fire,ŋaj,ŋaj,ŋ a j,,Deepadung2015,,,^ŋ aj$,default
+GuangKa-54_fire-1,,GuangKa,54_fire,ŋaj,ŋaj,ŋ a j,,Deepadung2015,,,^ŋ aj$,default
+MangBang-54_fire-1,,MangBang,54_fire,ŋaj,ŋaj,ŋ a j,,Deepadung2015,,,^ŋ aj$,default
 NanSang-54_fire-1,,NanSang,54_fire,ŋaiɁ,ŋaiɁ,ŋ ai ʔ,,Deepadung2015,,,^ŋ ai Ɂ$,default
-NamHsan-55_ashes-1,,NamHsan,55_ashes,kafaːŋ,kafaːŋ,k a f aː ŋ,,Deepadung2015,,,^k a f aː ŋ$,default
-KhunHawt-55_ashes-1,,KhunHawt,55_ashes,kafaːŋ,kafaːŋ,k a f aː ŋ,,Deepadung2015,,,^k a f aː ŋ$,default
-HtanHsan-55_ashes-1,,HtanHsan,55_ashes,kafaːŋ,kafaːŋ,k a f aː ŋ,,Deepadung2015,,,^k a f aː ŋ$,default
-PangKham-55_ashes-1,,PangKham,55_ashes,kafaːŋ,kafaːŋ,k a f aː ŋ,,Deepadung2015,,,^k a f aː ŋ$,default
-ManLoi-55_ashes-1,,ManLoi,55_ashes,kafaːŋ,kafaːŋ,k a f aː ŋ,,Deepadung2015,,,^k a f aː ŋ$,default
-MengDan-55_ashes-1,,MengDan,55_ashes,kəfɛːŋ,kəfɛːŋ,k ə f ɛː ŋ,,Deepadung2015,,,^k ə f ɛː ŋ$,default
-ChuDongGua-55_ashes-1,,ChuDongGua,55_ashes,kafaːŋ,kafaːŋ,k a f aː ŋ,,Deepadung2015,,,^k a f aː ŋ$,default
-XiangZhaiTang-55_ashes-1,,XiangZhaiTang,55_ashes,kafaːŋ,kafaːŋ,k a f aː ŋ,,Deepadung2015,,,^k a f aː ŋ$,default
-PongNuea-55_ashes-1,,PongNuea,55_ashes,brɔŋɔː,brɔŋɔː,b r ɔ ŋ ɔː,,Deepadung2015,,,^b r ɔ ŋ ɔː$,default
+NamHsan-55_ashes-1,,NamHsan,55_ashes,kafaːŋ,kafaːŋ,k a + f aː ŋ,,Deepadung2015,,,^k afaː ŋ$,default
+KhunHawt-55_ashes-1,,KhunHawt,55_ashes,kafaːŋ,kafaːŋ,k a + f aː ŋ,,Deepadung2015,,,^k afaː ŋ$,default
+HtanHsan-55_ashes-1,,HtanHsan,55_ashes,kafaːŋ,kafaːŋ,k a + f aː ŋ,,Deepadung2015,,,^k afaː ŋ$,default
+PangKham-55_ashes-1,,PangKham,55_ashes,kafaːŋ,kafaːŋ,k a + f aː ŋ,,Deepadung2015,,,^k afaː ŋ$,default
+ManLoi-55_ashes-1,,ManLoi,55_ashes,kafaːŋ,kafaːŋ,k a + f aː ŋ,,Deepadung2015,,,^k afaː ŋ$,default
+MengDan-55_ashes-1,,MengDan,55_ashes,kəfɛːŋ,kəfɛːŋ,k ə + f ɛː ŋ,,Deepadung2015,,,^k əfɛː ŋ$,default
+ChuDongGua-55_ashes-1,,ChuDongGua,55_ashes,kafaːŋ,kafaːŋ,k a + f aː ŋ,,Deepadung2015,,,^k afaː ŋ$,default
+XiangZhaiTang-55_ashes-1,,XiangZhaiTang,55_ashes,kafaːŋ,kafaːŋ,k a + f aː ŋ,,Deepadung2015,,,^k afaː ŋ$,default
+PongNuea-55_ashes-1,,PongNuea,55_ashes,brɔŋɔː,brɔŋɔː,b r ɔ + ŋ ɔː,,Deepadung2015,,,^b r ɔŋɔː $,default
 NyaungGone-55_ashes-1,,NyaungGone,55_ashes,brɔ ŋɔ,brɔ ŋɔ,b r ɔ + ŋ ɔ,,Deepadung2015,,,^b r ɔ + ŋ ɔ$,default
 NoeLae-55_ashes-1,,NoeLae,55_ashes,brɔ ŋɔ,brɔ ŋɔ,b r ɔ + ŋ ɔ,,Deepadung2015,,,^b r ɔ + ŋ ɔ$,default
 BanPaw-55_ashes-1,,BanPaw,55_ashes,brɔ ŋɔ,brɔ ŋɔ,b r ɔ + ŋ ɔ,,Deepadung2015,,,^b r ɔ + ŋ ɔ$,default
-ChaYeQing-55_ashes-1,,ChaYeQing,55_ashes,kafaːŋ,kafaːŋ,k a f aː ŋ,,Deepadung2015,,,^k a f aː ŋ$,default
-GuangKa-55_ashes-1,,GuangKa,55_ashes,kafaːŋ,kafaːŋ,k a f aː ŋ,,Deepadung2015,,,^k a f aː ŋ$,default
-MangBang-55_ashes-1,,MangBang,55_ashes,kafaːŋ,kafaːŋ,k a f aː ŋ,,Deepadung2015,,,^k a f aː ŋ$,default
-NanSang-55_ashes-1,,NanSang,55_ashes,kafaːŋ,kafaːŋ,k a f aː ŋ,,Deepadung2015,,,^k a f aː ŋ$,default
-NamHsan-56_smoke-1,,NamHsan,56_smoke,ɗɨʔŋar,ɗɨʔŋar,ɗ ɨ ʔ ŋ a r,,Deepadung2015,,,^ɗ ɨ ʔ ŋ a r$,default
+ChaYeQing-55_ashes-1,,ChaYeQing,55_ashes,kafaːŋ,kafaːŋ,k a + f aː ŋ,,Deepadung2015,,,^k afaː ŋ$,default
+GuangKa-55_ashes-1,,GuangKa,55_ashes,kafaːŋ,kafaːŋ,k a + f aː ŋ,,Deepadung2015,,,^k afaː ŋ$,default
+MangBang-55_ashes-1,,MangBang,55_ashes,kafaːŋ,kafaːŋ,k a + f aː ŋ,,Deepadung2015,,,^k afaː ŋ$,default
+NanSang-55_ashes-1,,NanSang,55_ashes,kafaːŋ,kafaːŋ,k a + f aː ŋ,,Deepadung2015,,,^k afaː ŋ$,default
+NamHsan-56_smoke-1,,NamHsan,56_smoke,ɗɨʔŋar,ɗɨʔŋar,ɗ ɨ ʔ + ŋ a r,,Deepadung2015,,,^ɗ ɨ ʔŋ a r$,default
 KhunHawt-56_smoke-1,,KhunHawt,56_smoke,ɗәk,ɗәk,ɗ ə k,,Deepadung2015,,,^ɗ ә k$,default
-HtanHsan-56_smoke-1,,HtanHsan,56_smoke,ɗәkŋal,ɗәkŋal,ɗ ə k ŋ a l,,Deepadung2015,,,^ɗ ә k ŋ a l$,default
+HtanHsan-56_smoke-1,,HtanHsan,56_smoke,ɗәkŋal,ɗәkŋal,ɗ ə k + ŋ a l,,Deepadung2015,,,^ɗ ә kŋ a l$,default
 PangKham-56_smoke-1,,PangKham,56_smoke,ɗɔk ŋɔː,ɗɔk ŋɔː,ɗ ɔ k + ŋ ɔː,,Deepadung2015,,,^ɗ ɔ k + ŋ ɔː$,default
 ManLoi-56_smoke-1,,ManLoi,56_smoke,ɗak,ɗak,ɗ a k,,Deepadung2015,,,^ɗ a k$,default
 MengDan-56_smoke-1,,MengDan,56_smoke,ɗɔʔ,ɗɔʔ,ɗ ɔ ʔ,,Deepadung2015,,,^ɗ ɔ ʔ$,default
@@ -885,7 +885,7 @@ GuangKa-56_smoke-1,,GuangKa,56_smoke,tak,tak,t a k,,Deepadung2015,,,^t a k$,defa
 MangBang-56_smoke-1,,MangBang,56_smoke,tak,tak,t a k,,Deepadung2015,,,^t a k$,default
 NanSang-56_smoke-1,,NanSang,56_smoke,tak,tak,t a k,,Deepadung2015,,,^t a k$,default
 NamHsan-57_smell-1,,NamHsan,57_smell,khriɁ,khriɁ,kʰ r i ʔ,,Deepadung2015,,,^kh r i Ɂ$,default
-KhunHawt-57_smell-1,,KhunHawt,57_smell,kruət,kruət,k r u ə t,,Deepadung2015,,,^k r u ə t$,default
+KhunHawt-57_smell-1,,KhunHawt,57_smell,kruət,kruət,k r uə t,,Deepadung2015,,,^k r uə t$,default
 HtanHsan-57_smell-1,,HtanHsan,57_smell,khrɨʔ,khrɨʔ,kʰ r ɨ ʔ,,Deepadung2015,,,^kh r ɨ ʔ$,default
 PangKham-57_smell-1,,PangKham,57_smell,khrɔːt,khrɔːt,kʰ r ɔː t,,Deepadung2015,,,^kh r ɔː t$,default
 ManLoi-57_smell-1,,ManLoi,57_smell,khrit,khrit,kʰ r i t,,Deepadung2015,,,^kh r i t$,default
@@ -897,9 +897,9 @@ NyaungGone-57_smell-1,,NyaungGone,57_smell,ɲ̥ɔʔ,ɲ̥ɔʔ,ɲ̊ ɔ ʔ,,Deepadu
 NoeLae-57_smell-1,,NoeLae,57_smell,ɲ̥ɔɁ,ɲ̥ɔɁ,ɲ̊ ɔ ʔ,,Deepadung2015,,,^ɲ̥ ɔ Ɂ$,default
 BanPaw-57_smell-1,,BanPaw,57_smell,ɲ̥ɔɁ,ɲ̥ɔɁ,ɲ̊ ɔ ʔ,,Deepadung2015,,,^ɲ̥ ɔ Ɂ$,default
 ChaYeQing-57_smell-1,,ChaYeQing,57_smell,ʔuh,ʔuh,ʔ u h,,Deepadung2015,,,^ʔ u h$,default
-GuangKa-57_smell-1,,GuangKa,57_smell,ɲɔjɁ,ɲɔjɁ,ɲ ɔ j ʔ,,Deepadung2015,,,^ɲ ɔ j Ɂ$,default
+GuangKa-57_smell-1,,GuangKa,57_smell,ɲɔjɁ,ɲɔjɁ,ɲ ɔi ʔ,,Deepadung2015,,,^ɲ ɔj Ɂ$,default
 MangBang-57_smell-1,,MangBang,57_smell,ɲɔːj?,ɲɔːj?,ɲ ɔː j ʔ,,Deepadung2015,,,^ɲ ɔː j ?$,default
-NanSang-57_smell-1,,NanSang,57_smell,ɲɔjɁ,ɲɔjɁ,ɲ ɔ j ʔ,,Deepadung2015,,,^ɲ ɔ j Ɂ$,default
+NanSang-57_smell-1,,NanSang,57_smell,ɲɔjɁ,ɲɔjɁ,ɲ ɔi ʔ,,Deepadung2015,,,^ɲ ɔj Ɂ$,default
 NamHsan-58_see-1,,NamHsan,58_see,ŋәːp,ŋәːp,ŋ əː p,,Deepadung2015,,,^ŋ әː p$,default
 KhunHawt-58_see-1,,KhunHawt,58_see,ʥәː,ʥәː,dʑ əː,,Deepadung2015,,,^ʥ әː$,default
 HtanHsan-58_see-1,,HtanHsan,58_see,jəː,jəː,j əː,,Deepadung2015,,,^j əː$,default
@@ -932,18 +932,18 @@ ChaYeQing-59_eat-1,,ChaYeQing,59_eat,hoːm,hoːm,h oː m,,Deepadung2015,,,^h oː
 GuangKa-59_eat-1,,GuangKa,59_eat,hoːm,hoːm,h oː m,,Deepadung2015,,,^h oː m$,default
 MangBang-59_eat-1,,MangBang,59_eat,hom,hom,h o m,,Deepadung2015,,,^h o m$,default
 NanSang-59_eat-1,,NanSang,59_eat,hoːm,hoːm,h oː m,,Deepadung2015,,,^h oː m$,default
-NamHsan-60_drink-1,,NamHsan,60_drink,ɗiaŋ,ɗiaŋ,ɗ i a ŋ,,Deepadung2015,,,^ɗ i a ŋ$,default
-KhunHawt-60_drink-1,,KhunHawt,60_drink,tiaŋ,tiaŋ,t i a ŋ,,Deepadung2015,,,^t i a ŋ$,default
-HtanHsan-60_drink-1,,HtanHsan,60_drink,ɗiaŋ,ɗiaŋ,ɗ i a ŋ,,Deepadung2015,,,^ɗ i a ŋ$,default
-PangKham-60_drink-1,,PangKham,60_drink,ɗiaŋ,ɗiaŋ,ɗ i a ŋ,,Deepadung2015,,,^ɗ i a ŋ$,default
-ManLoi-60_drink-1,,ManLoi,60_drink,ɗiaŋ,ɗiaŋ,ɗ i a ŋ,,Deepadung2015,,,^ɗ i a ŋ$,default
-MengDan-60_drink-1,,MengDan,60_drink,diaŋ,diaŋ,d i a ŋ,,Deepadung2015,,,^d i a ŋ$,default
-ChuDongGua-60_drink-1,,ChuDongGua,60_drink,diaŋ,diaŋ,d i a ŋ,,Deepadung2015,,,^d i a ŋ$,default
-XiangZhaiTang-60_drink-1,,XiangZhaiTang,60_drink,diaŋ,diaŋ,d i a ŋ,,Deepadung2015,,,^d i a ŋ$,default
-PongNuea-60_drink-1,,PongNuea,60_drink,diaŋ,diaŋ,d i a ŋ,,Deepadung2015,,,^d i a ŋ$,default
-NyaungGone-60_drink-1,,NyaungGone,60_drink,diak,diak,d i a k,,Deepadung2015,,,^d i a k$,default
-NoeLae-60_drink-1,,NoeLae,60_drink,diaŋ,diaŋ,d i a ŋ,,Deepadung2015,,,^d i a ŋ$,default
-BanPaw-60_drink-1,,BanPaw,60_drink,diaŋ,diaŋ,d i a ŋ,,Deepadung2015,,,^d i a ŋ$,default
+NamHsan-60_drink-1,,NamHsan,60_drink,ɗiaŋ,ɗiaŋ,ɗ ia ŋ,,Deepadung2015,,,^ɗ ia ŋ$,default
+KhunHawt-60_drink-1,,KhunHawt,60_drink,tiaŋ,tiaŋ,t ia ŋ,,Deepadung2015,,,^t ia ŋ$,default
+HtanHsan-60_drink-1,,HtanHsan,60_drink,ɗiaŋ,ɗiaŋ,ɗ ia ŋ,,Deepadung2015,,,^ɗ ia ŋ$,default
+PangKham-60_drink-1,,PangKham,60_drink,ɗiaŋ,ɗiaŋ,ɗ ia ŋ,,Deepadung2015,,,^ɗ ia ŋ$,default
+ManLoi-60_drink-1,,ManLoi,60_drink,ɗiaŋ,ɗiaŋ,ɗ ia ŋ,,Deepadung2015,,,^ɗ ia ŋ$,default
+MengDan-60_drink-1,,MengDan,60_drink,diaŋ,diaŋ,d ia ŋ,,Deepadung2015,,,^d ia ŋ$,default
+ChuDongGua-60_drink-1,,ChuDongGua,60_drink,diaŋ,diaŋ,d ia ŋ,,Deepadung2015,,,^d ia ŋ$,default
+XiangZhaiTang-60_drink-1,,XiangZhaiTang,60_drink,diaŋ,diaŋ,d ia ŋ,,Deepadung2015,,,^d ia ŋ$,default
+PongNuea-60_drink-1,,PongNuea,60_drink,diaŋ,diaŋ,d ia ŋ,,Deepadung2015,,,^d ia ŋ$,default
+NyaungGone-60_drink-1,,NyaungGone,60_drink,diak,diak,d ia k,,Deepadung2015,,,^d ia k$,default
+NoeLae-60_drink-1,,NoeLae,60_drink,diaŋ,diaŋ,d ia ŋ,,Deepadung2015,,,^d ia ŋ$,default
+BanPaw-60_drink-1,,BanPaw,60_drink,diaŋ,diaŋ,d ia ŋ,,Deepadung2015,,,^d ia ŋ$,default
 ChaYeQing-60_drink-1,,ChaYeQing,60_drink,ʨoŋ,ʨoŋ,tɕ o ŋ,,Deepadung2015,,,^ʨ o ŋ$,default
 GuangKa-60_drink-1,,GuangKa,60_drink,ʨoŋ,ʨoŋ,tɕ o ŋ,,Deepadung2015,,,^ʨ o ŋ$,default
 MangBang-60_drink-1,,MangBang,60_drink,ʨoŋ,ʨoŋ,tɕ o ŋ,,Deepadung2015,,,^ʨ o ŋ$,default
@@ -965,8 +965,8 @@ GuangKa-61_spit-1,,GuangKa,61_spit,bat,bat,b a t,,Deepadung2015,,,^b a t$,defaul
 MangBang-61_spit-1,,MangBang,61_spit,bat,bat,b a t,,Deepadung2015,,,^b a t$,default
 NanSang-61_spit-1,,NanSang,61_spit,bat,bat,b a t,,Deepadung2015,,,^b a t$,default
 NamHsan-62_breathe-1,,NamHsan,62_breathe,khriɁ phә:m,khriɁ phә:m,kʰ r i ʔ + pʰ əː m,,Deepadung2015,,,^kh r i Ɂ + ph ә: m$,default
-KhunHawt-62_breathe-1,,KhunHawt,62_breathe,kanhɔh phә:m,kanhɔh phә:m,k a n h ɔ h + pʰ əː m,,Deepadung2015,,,^k a nh ɔ h + ph ә: m$,default
-HtanHsan-62_breathe-1,,HtanHsan,62_breathe,kәnɁɔh phәːm,kәnɁɔh phәːm,k ə n ʔ ɔ h + pʰ əː m,,Deepadung2015,,,^k ә n Ɂ ɔ h + ph әː m$,default
+KhunHawt-62_breathe-1,,KhunHawt,62_breathe,kanhɔh phә:m,kanhɔh phә:m,k a n + h ɔ h + pʰ əː m,,Deepadung2015,,,^k a nhɔ h + ph ә: m$,default
+HtanHsan-62_breathe-1,,HtanHsan,62_breathe,kәnɁɔh phәːm,kәnɁɔh phәːm,k ə n + ʔ ɔ h + pʰ əː m,,Deepadung2015,,,^k ә nɁɔ h + ph әː m$,default
 PangKham-62_breathe-1,,PangKham,62_breathe,thuj phәːm,thuj phәːm,tʰ u j + pʰ əː m,,Deepadung2015,,,^th u j + ph әː m$,default
 ManLoi-62_breathe-1,,ManLoi,62_breathe,phәːm leh,phәːm leh,pʰ əː m + l e h,,Deepadung2015,,,^ph әː m + l e h$,default
 MengDan-62_breathe-1,,MengDan,62_breathe,phəːm,phəːm,pʰ əː m,,Deepadung2015,,,^ph əː m$,default
@@ -979,23 +979,23 @@ BanPaw-62_breathe-1,,BanPaw,62_breathe,hə̆k phəm,hə̆k phəm,h ə̆ k + pʰ 
 ChaYeQing-62_breathe-1,,ChaYeQing,62_breathe,doh pheːm,doh pheːm,d o h + pʰ eː m,,Deepadung2015,,,^d o h + ph eː m$,default
 GuangKa-62_breathe-1,,GuangKa,62_breathe,toh phɛːm,toh phɛːm,t o h + pʰ ɛː m,,Deepadung2015,,,^t o h + ph ɛː m$,default
 MangBang-62_breathe-1,,MangBang,62_breathe,toh phəːm,toh phəːm,t o h + pʰ əː m,,Deepadung2015,,,^t o h + ph əː m$,default
-NanSang-62_breathe-1,,NanSang,62_breathe,tohphəːm,tohphəːm,t o h pʰ əː m,,Deepadung2015,,,^t o h ph əː m$,default
+NanSang-62_breathe-1,,NanSang,62_breathe,tohphəːm,tohphəːm,t o h + pʰ əː m,,Deepadung2015,,,^t o hph əː m$,default
 NamHsan-63_laugh-1,,NamHsan,63_laugh,jum,jum,j u m,,Deepadung2015,,,^j u m$,default
 KhunHawt-63_laugh-1,,KhunHawt,63_laugh,ʥum,ʥum,dʑ u m,,Deepadung2015,,,^ʥ u m$,default
 HtanHsan-63_laugh-1,,HtanHsan,63_laugh,ʥum,ʥum,dʑ u m,,Deepadung2015,,,^ʥ u m$,default
-PangKham-63_laugh-1,,PangKham,63_laugh,kanɲah,kanɲah,k a n ɲ a h,,Deepadung2015,,,^k a n ɲ a h$,default
-ManLoi-63_laugh-1,,ManLoi,63_laugh,kaɲah,kaɲah,k a ɲ a h,,Deepadung2015,,,^k a ɲ a h$,default
-MengDan-63_laugh-1,,MengDan,63_laugh,kaŋiah,kaŋiah,k a ŋ i a h,,Deepadung2015,,,^k a ŋ i a h$,default
-ChuDongGua-63_laugh-1,,ChuDongGua,63_laugh,kəɲajh,kəɲajh,k ə ɲ a j h,,Deepadung2015,,,^k ə ɲ a j h$,default
-XiangZhaiTang-63_laugh-1,,XiangZhaiTang,63_laugh,kaɲah,kaɲah,k a ɲ a h,,Deepadung2015,,,^k a ɲ a h$,default
-PongNuea-63_laugh-1,,PongNuea,63_laugh,kaɲah,kaɲah,k a ɲ a h,,Deepadung2015,,,^k a ɲ a h$,default
-NyaungGone-63_laugh-1,,NyaungGone,63_laugh,kaɲăh,kaɲăh,k a ɲ a h,,Deepadung2015,,,^k a ɲ ăh$,default
-NoeLae-63_laugh-1,,NoeLae,63_laugh,kaɲăh,kaɲăh,k a ɲ a h,,Deepadung2015,,,^k a ɲ ăh$,default
-BanPaw-63_laugh-1,,BanPaw,63_laugh,kaɲăh,kaɲăh,k a ɲ a h,,Deepadung2015,,,^k a ɲ ăh$,default
-ChaYeQing-63_laugh-1,,ChaYeQing,63_laugh,kəɲah,kəɲah,k ə ɲ a h,,Deepadung2015,,,^k ə ɲ a h$,default
-GuangKa-63_laugh-1,,GuangKa,63_laugh,kəɲah,kəɲah,k ə ɲ a h,,Deepadung2015,,,^k ə ɲ a h$,default
-MangBang-63_laugh-1,,MangBang,63_laugh,kəɲah,kəɲah,k ə ɲ a h,,Deepadung2015,,,^k ə ɲ a h$,default
-NanSang-63_laugh-1,,NanSang,63_laugh,kaɲah,kaɲah,k a ɲ a h,,Deepadung2015,,,^k a ɲ a h$,default
+PangKham-63_laugh-1,,PangKham,63_laugh,kanɲah,kanɲah,k a n + ɲ a h,,Deepadung2015,,,^k a nɲ a h$,default
+ManLoi-63_laugh-1,,ManLoi,63_laugh,kaɲah,kaɲah,k a + ɲ a h,,Deepadung2015,,,^k aɲa h$,default
+MengDan-63_laugh-1,,MengDan,63_laugh,kaŋiah,kaŋiah,k a + ŋ i a h,,Deepadung2015,,,^kaŋi a h$,default
+ChuDongGua-63_laugh-1,,ChuDongGua,63_laugh,kəɲajh,kəɲajh,k ə + ɲ a j h,,Deepadung2015,,,^k əɲa j h$,default
+XiangZhaiTang-63_laugh-1,,XiangZhaiTang,63_laugh,kaɲah,kaɲah,k a + ɲ a h,,Deepadung2015,,,^k aɲa h$,default
+PongNuea-63_laugh-1,,PongNuea,63_laugh,kaɲah,kaɲah,k a + ɲ a h,,Deepadung2015,,,^k aɲa h$,default
+NyaungGone-63_laugh-1,,NyaungGone,63_laugh,kaɲăh,kaɲăh,k a + ɲ a h,,Deepadung2015,,,^k aɲă h$,default
+NoeLae-63_laugh-1,,NoeLae,63_laugh,kaɲăh,kaɲăh,k a + ɲ a h,,Deepadung2015,,,^k aɲă h$,default
+BanPaw-63_laugh-1,,BanPaw,63_laugh,kaɲăh,kaɲăh,k a + ɲ a h,,Deepadung2015,,,^k aɲă h$,default
+ChaYeQing-63_laugh-1,,ChaYeQing,63_laugh,kəɲah,kəɲah,k ə + ɲ a h,,Deepadung2015,,,^k əɲa h$,default
+GuangKa-63_laugh-1,,GuangKa,63_laugh,kəɲah,kəɲah,k ə + ɲ a h,,Deepadung2015,,,^k əɲa h$,default
+MangBang-63_laugh-1,,MangBang,63_laugh,kəɲah,kəɲah,k ə + ɲ a h,,Deepadung2015,,,^k əɲa h$,default
+NanSang-63_laugh-1,,NanSang,63_laugh,kaɲah,kaɲah,k a + ɲ a h,,Deepadung2015,,,^k aɲa h$,default
 NamHsan-64_know-1,,NamHsan,64_know,nap,nap,n a p,,Deepadung2015,,,^n a p$,default
 KhunHawt-64_know-1,,KhunHawt,64_know,nap,nap,n a p,,Deepadung2015,,,^n a p$,default
 HtanHsan-64_know-1,,HtanHsan,64_know,nap,nap,n a p,,Deepadung2015,,,^n a p$,default
@@ -1013,20 +1013,20 @@ GuangKa-64_know-1,,GuangKa,64_know,nɔːʔ,nɔːʔ,n ɔː ʔ,,Deepadung2015,,,^n
 MangBang-64_know-1,,MangBang,64_know,nɔːʔ,nɔːʔ,n ɔː ʔ,,Deepadung2015,,,^n ɔː ʔ$,default
 NanSang-64_know-1,,NanSang,64_know,naː,naː,n aː,,Deepadung2015,,,^n aː$,default
 NamHsan-65_fear-1,,NamHsan,65_fear,ʥɔː,ʥɔː,dʑ ɔː,,Deepadung2015,,,^ʥ ɔː$,default
-KhunHawt-65_fear-1,,KhunHawt,65_fear,jow,jow,j o w,,Deepadung2015,,,^j o w$,default
+KhunHawt-65_fear-1,,KhunHawt,65_fear,jow,jow,j o w,,Deepadung2015,,,^jo w$,default
 HtanHsan-65_fear-1,,HtanHsan,65_fear,ʥoː,ʥoː,dʑ oː,,Deepadung2015,,,^ʥ oː$,default
 PangKham-65_fear-1,,PangKham,65_fear,ʥoː,ʥoː,dʑ oː,,Deepadung2015,,,^ʥ oː$,default
 ManLoi-65_fear-1,,ManLoi,65_fear,ʥɔː,ʥɔː,dʑ ɔː,,Deepadung2015,,,^ʥ ɔː$,default
 MengDan-65_fear-1,,MengDan,65_fear,ʥoː,ʥoː,dʑ oː,,Deepadung2015,,,^ʥ oː$,default
-ChuDongGua-65_fear-1,,ChuDongGua,65_fear,joː,joː,j oː,,Deepadung2015,,,^j oː$,default
-PongNuea-65_fear-1,,PongNuea,65_fear,jow,jow,j o w,,Deepadung2015,,,^j o w$,default
-NyaungGone-65_fear-1,,NyaungGone,65_fear,kacua,kacua,k a c u a,,Deepadung2015,,,^k a c u a$,default
-NoeLae-65_fear-1,,NoeLae,65_fear,kacua,kacua,k a c u a,,Deepadung2015,,,^k a c u a$,default
-BanPaw-65_fear-1,,BanPaw,65_fear,jo,jo,j o,,Deepadung2015,,,^j o$,default
+ChuDongGua-65_fear-1,,ChuDongGua,65_fear,joː,joː,j oː,,Deepadung2015,,,^joː $,default
+PongNuea-65_fear-1,,PongNuea,65_fear,jow,jow,j o w,,Deepadung2015,,,^jo w$,default
+NyaungGone-65_fear-1,,NyaungGone,65_fear,kacua,kacua,k a + c u a,,Deepadung2015,,,^k acu a$,default
+NoeLae-65_fear-1,,NoeLae,65_fear,kacua,kacua,k a + c u a,,Deepadung2015,,,^k acu a$,default
+BanPaw-65_fear-1,,BanPaw,65_fear,jo,jo,j o,,Deepadung2015,,,^jo $,default
 ChaYeQing-65_fear-1,,ChaYeQing,65_fear,ʥaw,ʥaw,dʑ a w,,Deepadung2015,,,^ʥ a w$,default
-GuangKa-65_fear-1,,GuangKa,65_fear,jaw,jaw,j a w,,Deepadung2015,,,^j a w$,default
-MangBang-65_fear-1,,MangBang,65_fear,jaw,jaw,j a w,,Deepadung2015,,,^j a w$,default
-NanSang-65_fear-1,,NanSang,65_fear,jaw,jaw,j a w,,Deepadung2015,,,^j a w$,default
+GuangKa-65_fear-1,,GuangKa,65_fear,jaw,jaw,j a w,,Deepadung2015,,,^ja w$,default
+MangBang-65_fear-1,,MangBang,65_fear,jaw,jaw,j a w,,Deepadung2015,,,^ja w$,default
+NanSang-65_fear-1,,NanSang,65_fear,jaw,jaw,j a w,,Deepadung2015,,,^ja w$,default
 NamHsan-66_sleep-1,,NamHsan,66_sleep,ɁiɁ,ɁiɁ,ʔ i ʔ,,Deepadung2015,,,^Ɂ i Ɂ$,default
 KhunHawt-66_sleep-1,,KhunHawt,66_sleep,Ɂiːt,Ɂiːt,ʔ iː t,,Deepadung2015,,,^Ɂ iː t$,default
 HtanHsan-66_sleep-1,,HtanHsan,66_sleep,ɁiɁ,ɁiɁ,ʔ i ʔ,,Deepadung2015,,,^Ɂ i Ɂ$,default
@@ -1046,8 +1046,8 @@ NanSang-66_sleep-1,,NanSang,66_sleep,ɁiɁ,ɁiɁ,ʔ i ʔ,,Deepadung2015,,,^Ɂ i 
 NamHsan-67_scratch-1,,NamHsan,67_scratch,graːɁ,graːɁ,g r aː ʔ,,Deepadung2015,,,^g r aː Ɂ$,default
 KhunHawt-67_scratch-1,,KhunHawt,67_scratch,kraːjɁ,kraːjɁ,k r aː j ʔ,,Deepadung2015,,,^k r aː j Ɂ$,default
 HtanHsan-67_scratch-1,,HtanHsan,67_scratch,kraːjɁ,kraːjɁ,k r aː j ʔ,,Deepadung2015,,,^k r aː j Ɂ$,default
-PangKham-67_scratch-1,,PangKham,67_scratch,kriah,kriah,k r i a h,,Deepadung2015,,,^k r i a h$,default
-ManLoi-67_scratch-1,,ManLoi,67_scratch,kriaɁ,kriaɁ,k r i a ʔ,,Deepadung2015,,,^k r i a Ɂ$,default
+PangKham-67_scratch-1,,PangKham,67_scratch,kriah,kriah,k r ia h,,Deepadung2015,,,^k r ia h$,default
+ManLoi-67_scratch-1,,ManLoi,67_scratch,kriaɁ,kriaɁ,k r ia ʔ,,Deepadung2015,,,^k r ia Ɂ$,default
 MengDan-67_scratch-1,,MengDan,67_scratch,boʔ,boʔ,b o ʔ,,Deepadung2015,,,^b o ʔ$,default
 ChuDongGua-67_scratch-1,,ChuDongGua,67_scratch,boʔ,boʔ,b o ʔ,,Deepadung2015,,,^b o ʔ$,default
 XiangZhaiTang-67_scratch-1,,XiangZhaiTang,67_scratch,bouɁ,bouɁ,b ou ʔ,,Deepadung2015,,,^b ou Ɂ$,default
@@ -1058,16 +1058,16 @@ BanPaw-67_scratch-1,,BanPaw,67_scratch,bouɁ,bouɁ,b ou ʔ,,Deepadung2015,,,^b o
 ChaYeQing-67_scratch-1,,ChaYeQing,67_scratch,ɓok,ɓok,ɓ o k,,Deepadung2015,,,^ɓ o k$,default
 GuangKa-67_scratch-1,,GuangKa,67_scratch,pok,pok,p o k,,Deepadung2015,,,^p o k$,default
 MangBang-67_scratch-1,,MangBang,67_scratch,pok,pok,p o k,,Deepadung2015,,,^p o k$,default
-NanSang-67_scratch-1,,NanSang,67_scratch,kabaːn,kabaːn,k a b aː n,,Deepadung2015,,,^k a b aː n$,default
-NamHsan-68_die-1,,NamHsan,68_die,jam,jam,j a m,,Deepadung2015,,,^j a m$,default
-KhunHawt-68_die-1,,KhunHawt,68_die,jam,jam,j a m,,Deepadung2015,,,^j a m$,default
-HtanHsan-68_die-1,,HtanHsan,68_die,jam,jam,j a m,,Deepadung2015,,,^j a m$,default
-PangKham-68_die-1,,PangKham,68_die,jam,jam,j a m,,Deepadung2015,,,^j a m$,default
-ManLoi-68_die-1,,ManLoi,68_die,jaːm,jaːm,j aː m,,Deepadung2015,,,^j aː m$,default
+NanSang-67_scratch-1,,NanSang,67_scratch,kabaːn,kabaːn,k a + b aː n,,Deepadung2015,,,^k abaː n$,default
+NamHsan-68_die-1,,NamHsan,68_die,jam,jam,j a m,,Deepadung2015,,,^ja m$,default
+KhunHawt-68_die-1,,KhunHawt,68_die,jam,jam,j a m,,Deepadung2015,,,^ja m$,default
+HtanHsan-68_die-1,,HtanHsan,68_die,jam,jam,j a m,,Deepadung2015,,,^ja m$,default
+PangKham-68_die-1,,PangKham,68_die,jam,jam,j a m,,Deepadung2015,,,^ja m$,default
+ManLoi-68_die-1,,ManLoi,68_die,jaːm,jaːm,j aː m,,Deepadung2015,,,^jaː m$,default
 MengDan-68_die-1,,MengDan,68_die,ʥam,ʥam,dʑ a m,,Deepadung2015,,,^ʥ a m$,default
-ChuDongGua-68_die-1,,ChuDongGua,68_die,jam,jam,j a m,,Deepadung2015,,,^j a m$,default
-XiangZhaiTang-68_die-1,,XiangZhaiTang,68_die,jam,jam,j a m,,Deepadung2015,,,^j a m$,default
-PongNuea-68_die-1,,PongNuea,68_die,jam,jam,j a m,,Deepadung2015,,,^j a m$,default
+ChuDongGua-68_die-1,,ChuDongGua,68_die,jam,jam,j a m,,Deepadung2015,,,^ja m$,default
+XiangZhaiTang-68_die-1,,XiangZhaiTang,68_die,jam,jam,j a m,,Deepadung2015,,,^ja m$,default
+PongNuea-68_die-1,,PongNuea,68_die,jam,jam,j a m,,Deepadung2015,,,^ja m$,default
 NyaungGone-68_die-1,,NyaungGone,68_die,jăm,jăm,j ă m,,Deepadung2015,,,^j ă m$,default
 NoeLae-68_die-1,,NoeLae,68_die,jăm,jăm,j ă m,,Deepadung2015,,,^j ă m$,default
 BanPaw-68_die-1,,BanPaw,68_die,jăm,jăm,j ă m,,Deepadung2015,,,^j ă m$,default
@@ -1082,8 +1082,8 @@ PangKham-69_sit-1,,PangKham,69_sit,mɔŋ,mɔŋ,m ɔ ŋ,,Deepadung2015,,,^m ɔ ŋ
 ManLoi-69_sit-1,,ManLoi,69_sit,mɔŋ,mɔŋ,m ɔ ŋ,,Deepadung2015,,,^m ɔ ŋ$,default
 MengDan-69_sit-1,,MengDan,69_sit,ŋoːj,ŋoːj,ŋ oː j,,Deepadung2015,,,^ŋ oː j$,default
 ChuDongGua-69_sit-1,,ChuDongGua,69_sit,ŋoːj,ŋoːj,ŋ oː j,,Deepadung2015,,,^ŋ oː j$,default
-XiangZhaiTang-69_sit-1,,XiangZhaiTang,69_sit,kɔj,kɔj,k ɔ j,,Deepadung2015,,,^k ɔ j$,default
-PongNuea-69_sit-1,,PongNuea,69_sit,tuic,tuic,t u i c,,Deepadung2015,,,^t u i c$,default
+XiangZhaiTang-69_sit-1,,XiangZhaiTang,69_sit,kɔj,kɔj,k ɔ j,,Deepadung2015,,,^k ɔj$,default
+PongNuea-69_sit-1,,PongNuea,69_sit,tuic,tuic,t ui c,,Deepadung2015,,,^t ui c$,default
 NyaungGone-69_sit-1,,NyaungGone,69_sit,tuc,tuc,t u c,,Deepadung2015,,,^t u c$,default
 NoeLae-69_sit-1,,NoeLae,69_sit,tuc,tuc,t u c,,Deepadung2015,,,^t u c$,default
 BanPaw-69_sit-1,,BanPaw,69_sit,tut,tut,t u t,,Deepadung2015,,,^t u t$,default
@@ -1129,7 +1129,7 @@ PangKham-72_give-1,,PangKham,72_give,deh,deh,d e h,,Deepadung2015,,,^d e h$,defa
 ManLoi-72_give-1,,ManLoi,72_give,tɛh,tɛh,t ɛ h,,Deepadung2015,,,^t ɛ h$,default
 MengDan-72_give-1,,MengDan,72_give,deh,deh,d e h,,Deepadung2015,,,^d e h$,default
 ChuDongGua-72_give-1,,ChuDongGua,72_give,dɛh,dɛh,d ɛ h,,Deepadung2015,,,^d ɛ h$,default
-XiangZhaiTang-72_give-1,,XiangZhaiTang,72_give,tajh,tajh,t a j h,,Deepadung2015,,,^t a j h$,default
+XiangZhaiTang-72_give-1,,XiangZhaiTang,72_give,tajh,tajh,t ai h,,Deepadung2015,,,^t aj h$,default
 PongNuea-72_give-1,,PongNuea,72_give,taih,taih,t ai h,,Deepadung2015,,,^t ai h$,default
 NyaungGone-72_give-1,,NyaungGone,72_give,taih,taih,t ai h,,Deepadung2015,,,^t ai h$,default
 NoeLae-72_give-1,,NoeLae,72_give,taih,taih,t ai h,,Deepadung2015,,,^t ai h$,default
@@ -1138,39 +1138,39 @@ ChaYeQing-72_give-1,,ChaYeQing,72_give,dɛh,dɛh,d ɛ h,,Deepadung2015,,,^d ɛ h
 GuangKa-72_give-1,,GuangKa,72_give,dɛh,dɛh,d ɛ h,,Deepadung2015,,,^d ɛ h$,default
 MangBang-72_give-1,,MangBang,72_give,dɛh,dɛh,d ɛ h,,Deepadung2015,,,^d ɛ h$,default
 NanSang-72_give-1,,NanSang,72_give,dɛh,dɛh,d ɛ h,,Deepadung2015,,,^d ɛ h$,default
-NamHsan-73_rubhardwithbothhands-1,,NamHsan,73_rubhardwithbothhands,sakuaɁ,sakuaɁ,s a k u a ʔ,,Deepadung2015,,,^s a k u a Ɂ$,default
-KhunHawt-73_rubhardwithbothhands-1,,KhunHawt,73_rubhardwithbothhands,dudit,dudit,d u d i t,,Deepadung2015,,,^d u d i t$,default
-HtanHsan-73_rubhardwithbothhands-1,,HtanHsan,73_rubhardwithbothhands,thutheiɁ,thutheiɁ,tʰ u tʰ ei ʔ,,Deepadung2015,,,^th u th ei Ɂ$,default
-PangKham-73_rubhardwithbothhands-1,,PangKham,73_rubhardwithbothhands,sabɔt,sabɔt,s a b ɔ t,,Deepadung2015,,,^s a b ɔ t$,default
-ManLoi-73_rubhardwithbothhands-1,,ManLoi,73_rubhardwithbothhands,saɓɔɁ,saɓɔɁ,s a ɓ ɔ ʔ,,Deepadung2015,,,^s a ɓ ɔ Ɂ$,default
-MengDan-73_rubhardwithbothhands-1,,MengDan,73_rubhardwithbothhands,thuʔɗaj,thuʔɗaj,tʰ u ʔ ɗ a j,,Deepadung2015,,,^th u ʔ ɗ a j$,default
-ChuDongGua-73_rubhardwithbothhands-1,,ChuDongGua,73_rubhardwithbothhands,səɓɔːt ɗaj,səɓɔːt ɗaj,s ə ɓ ɔː t + ɗ a j,,Deepadung2015,,,^s ə ɓ ɔː t + ɗ a j$,default
-XiangZhaiTang-73_rubhardwithbothhands-1,,XiangZhaiTang,73_rubhardwithbothhands,saboɁ,saboɁ,s a b o ʔ,,Deepadung2015,,,^s a b o Ɂ$,default
-PongNuea-73_rubhardwithbothhands-1,,PongNuea,73_rubhardwithbothhands,sabɔːɁ,sabɔːɁ,s a b ɔː ʔ,,Deepadung2015,,,^s a b ɔː Ɂ$,default
-NyaungGone-73_rubhardwithbothhands-1,,NyaungGone,73_rubhardwithbothhands,sabɔʔ,sabɔʔ,s a b ɔ ʔ,,Deepadung2015,,,^s a b ɔ ʔ$,default
-NoeLae-73_rubhardwithbothhands-1,,NoeLae,73_rubhardwithbothhands,sabɔ,sabɔ,s a b ɔ,,Deepadung2015,,,^s a b ɔ$,default
-BanPaw-73_rubhardwithbothhands-1,,BanPaw,73_rubhardwithbothhands,sabɔɁ,sabɔɁ,s a b ɔ ʔ,,Deepadung2015,,,^s a b ɔ Ɂ$,default
-ChaYeQing-73_rubhardwithbothhands-1,,ChaYeQing,73_rubhardwithbothhands,səboɁ,səboɁ,s ə b o ʔ,,Deepadung2015,,,^s ə b o Ɂ$,default
-GuangKa-73_rubhardwithbothhands-1,,GuangKa,73_rubhardwithbothhands,thuthik,thuthik,tʰ u tʰ i k,,Deepadung2015,,,^th u th i k$,default
-MangBang-73_rubhardwithbothhands-1,,MangBang,73_rubhardwithbothhands,thuthiː,thuthiː,tʰ u tʰ iː,,Deepadung2015,,,^th u th iː$,default
-NanSang-73_rubhardwithbothhands-1,,NanSang,73_rubhardwithbothhands,thuthiː,thuthiː,tʰ u tʰ iː,,Deepadung2015,,,^th u th iː$,default
+NamHsan-73_rubhardwithbothhands-1,,NamHsan,73_rubhardwithbothhands,sakuaɁ,sakuaɁ,s a + k u a ʔ,,Deepadung2015,,,^s aku a Ɂ$,default
+KhunHawt-73_rubhardwithbothhands-1,,KhunHawt,73_rubhardwithbothhands,dudit,dudit,d u + d i t,,Deepadung2015,,,^d udi t$,default
+HtanHsan-73_rubhardwithbothhands-1,,HtanHsan,73_rubhardwithbothhands,thutheiɁ,thutheiɁ,tʰ u + tʰ ei ʔ,,Deepadung2015,,,^thuth ei Ɂ$,default
+PangKham-73_rubhardwithbothhands-1,,PangKham,73_rubhardwithbothhands,sabɔt,sabɔt,s a + b ɔ t,,Deepadung2015,,,^s abɔ t$,default
+ManLoi-73_rubhardwithbothhands-1,,ManLoi,73_rubhardwithbothhands,saɓɔɁ,saɓɔɁ,s a + ɓ ɔ ʔ,,Deepadung2015,,,^s aɓɔ Ɂ$,default
+MengDan-73_rubhardwithbothhands-1,,MengDan,73_rubhardwithbothhands,thuʔɗaj,thuʔɗaj,tʰ u ʔ + ɗ a j,,Deepadung2015,,,^th u ʔɗa j$,default
+ChuDongGua-73_rubhardwithbothhands-1,,ChuDongGua,73_rubhardwithbothhands,səɓɔːt ɗaj,səɓɔːt ɗaj,s ə + ɓ ɔː t + ɗ a j,,Deepadung2015,,,^s əɓɔː t + ɗ aj$,default
+XiangZhaiTang-73_rubhardwithbothhands-1,,XiangZhaiTang,73_rubhardwithbothhands,saboɁ,saboɁ,s a + b o ʔ,,Deepadung2015,,,^s ab o Ɂ$,default
+PongNuea-73_rubhardwithbothhands-1,,PongNuea,73_rubhardwithbothhands,sabɔːɁ,sabɔːɁ,s a + b ɔː ʔ,,Deepadung2015,,,^s abɔː Ɂ$,default
+NyaungGone-73_rubhardwithbothhands-1,,NyaungGone,73_rubhardwithbothhands,sabɔʔ,sabɔʔ,s a + b ɔ ʔ,,Deepadung2015,,,^s abɔ ʔ$,default
+NoeLae-73_rubhardwithbothhands-1,,NoeLae,73_rubhardwithbothhands,sabɔ,sabɔ,s a + b ɔ,,Deepadung2015,,,^s abɔ $,default
+BanPaw-73_rubhardwithbothhands-1,,BanPaw,73_rubhardwithbothhands,sabɔɁ,sabɔɁ,s a + b ɔ ʔ,,Deepadung2015,,,^s abɔ Ɂ$,default
+ChaYeQing-73_rubhardwithbothhands-1,,ChaYeQing,73_rubhardwithbothhands,səboɁ,səboɁ,s ə + b o ʔ,,Deepadung2015,,,^s əb o Ɂ$,default
+GuangKa-73_rubhardwithbothhands-1,,GuangKa,73_rubhardwithbothhands,thuthik,thuthik,tʰ u + tʰ i k,,Deepadung2015,,,^thuth i k$,default
+MangBang-73_rubhardwithbothhands-1,,MangBang,73_rubhardwithbothhands,thuthiː,thuthiː,tʰ u + tʰ iː,,Deepadung2015,,,^thuth iː$,default
+NanSang-73_rubhardwithbothhands-1,,NanSang,73_rubhardwithbothhands,thuthiː,thuthiː,tʰ u + tʰ iː,,Deepadung2015,,,^thuth iː$,default
 NamHsan-74_cut-1,,NamHsan,74_cut,ɡәp,ɡәp,g ə p,,Deepadung2015,,,^ɡ ә p$,default
 KhunHawt-74_cut-1,,KhunHawt,74_cut,ɡәp,ɡәp,g ə p,,Deepadung2015,,,^ɡ ә p$,default
 HtanHsan-74_cut-1,,HtanHsan,74_cut,ɡәp,ɡәp,g ə p,,Deepadung2015,,,^ɡ ә p$,default
 PangKham-74_cut-1,,PangKham,74_cut,kap,kap,k a p,,Deepadung2015,,,^k a p$,default
 ManLoi-74_cut-1,,ManLoi,74_cut,kap,kap,k a p,,Deepadung2015,,,^k a p$,default
-MengDan-74_cut-1,,MengDan,74_cut,kiap,kiap,k i a p,,Deepadung2015,,,^k i a p$,default
+MengDan-74_cut-1,,MengDan,74_cut,kiap,kiap,k ia p,,Deepadung2015,,,^k ia p$,default
 ChuDongGua-74_cut-1,,ChuDongGua,74_cut,kap,kap,k a p,,Deepadung2015,,,^k a p$,default
 XiangZhaiTang-74_cut-1,,XiangZhaiTang,74_cut,kəp,kəp,k ə p,,Deepadung2015,,,^k ə p$,default
 PongNuea-74_cut-1,,PongNuea,74_cut,kəp,kəp,k ə p,,Deepadung2015,,,^k ə p$,default
 NyaungGone-74_cut-1,,NyaungGone,74_cut,kăp,kăp,k ă p,,Deepadung2015,,,^k ă p$,default
 NoeLae-74_cut-1,,NoeLae,74_cut,kə̆p,kə̆p,k ə̆ p,,Deepadung2015,,,^k ə̆ p$,default
-BanPaw-74_cut-1,,BanPaw,74_cut,kakə̆p,kakə̆p,k a k ə̆ p,,Deepadung2015,,,^k a k ə̆ p$,default
+BanPaw-74_cut-1,,BanPaw,74_cut,kakə̆p,kakə̆p,k a + k ə̆ p,,Deepadung2015,,,^k akə̆ p$,default
 ChaYeQing-74_cut-1,,ChaYeQing,74_cut,kep,kep,k e p,,Deepadung2015,,,^k e p$,default
-GuangKa-74_cut-1,,GuangKa,74_cut,kjap,kjap,k j a p,,Deepadung2015,,,^k j a p$,default
-MangBang-74_cut-1,,MangBang,74_cut,kiap,kiap,k i a p,,Deepadung2015,,,^k i a p$,default
-NanSang-74_cut-1,,NanSang,74_cut,kiap,kiap,k i a p,,Deepadung2015,,,^k i a p$,default
-NamHsan-75_dig-1,,NamHsan,75_dig,kәhɓɨŋ,kәhɓɨŋ,k ə h ɓ ɨ ŋ,,Deepadung2015,,,^k әh ɓ ɨ ŋ$,default
+GuangKa-74_cut-1,,GuangKa,74_cut,kjap,kjap,k ia p,,Deepadung2015,,,^k ja p$,default
+MangBang-74_cut-1,,MangBang,74_cut,kiap,kiap,k ia p,,Deepadung2015,,,^k ia p$,default
+NanSang-74_cut-1,,NanSang,74_cut,kiap,kiap,k ia p,,Deepadung2015,,,^k ia p$,default
+NamHsan-75_dig-1,,NamHsan,75_dig,kәhɓɨŋ,kәhɓɨŋ,k ə h + ɓ ɨ ŋ,,Deepadung2015,,,^k әhɓɨ ŋ$,default
 KhunHawt-75_dig-1,,KhunHawt,75_dig,kәːŋ,kәːŋ,k əː ŋ,,Deepadung2015,,,^k әː ŋ$,default
 HtanHsan-75_dig-1,,HtanHsan,75_dig,kәːŋ,kәːŋ,k əː ŋ,,Deepadung2015,,,^k әː ŋ$,default
 PangKham-75_dig-1,,PangKham,75_dig,ɡəh,ɡəh,g ə h,,Deepadung2015,,,^ɡ ə h$,default
@@ -1202,25 +1202,25 @@ ChaYeQing-76_burn-1,,ChaYeQing,76_burn,ɗok,ɗok,ɗ o k,,Deepadung2015,,,^ɗ o k
 GuangKa-76_burn-1,,GuangKa,76_burn,tok,tok,t o k,,Deepadung2015,,,^t o k$,default
 MangBang-76_burn-1,,MangBang,76_burn,tok,tok,t o k,,Deepadung2015,,,^t o k$,default
 NanSang-76_burn-1,,NanSang,76_burn,tok,tok,t o k,,Deepadung2015,,,^t o k$,default
-NamHsan-77_hunt-1,,NamHsan,77_hunt,biam,biam,b i a m,,Deepadung2015,,,^b i a m$,default
+NamHsan-77_hunt-1,,NamHsan,77_hunt,biam,biam,b ia m,,Deepadung2015,,,^b ia m$,default
 KhunHawt-77_hunt-1,,KhunHawt,77_hunt,koh priː,koh priː,k o h + p r iː,,Deepadung2015,,,^k o h + p r iː$,default
-HtanHsan-77_hunt-1,,HtanHsan,77_hunt,luaŋbrej,luaŋbrej,l u a ŋ b r e j,,Deepadung2015,,,^l u a ŋ b r ej$,default
-PangKham-77_hunt-1,,PangKham,77_hunt,kuh praj,kuh praj,k u h + p r a j,,Deepadung2015,,,^k u h + p r a j$,default
-ManLoi-77_hunt-1,,ManLoi,77_hunt,khrɔh praj,khrɔh praj,kʰ r ɔ h + p r a j,,Deepadung2015,,,^kh r ɔ h + p r a j$,default
+HtanHsan-77_hunt-1,,HtanHsan,77_hunt,luaŋbrej,luaŋbrej,l ua ŋ + b r e j,,Deepadung2015,,,^l ua ŋb r ej$,default
+PangKham-77_hunt-1,,PangKham,77_hunt,kuh praj,kuh praj,k u h + p r a j,,Deepadung2015,,,^k u h + p r aj$,default
+ManLoi-77_hunt-1,,ManLoi,77_hunt,khrɔh praj,khrɔh praj,kʰ r ɔ h + p r a j,,Deepadung2015,,,^kh r ɔ h + p r aj$,default
 MengDan-77_hunt-1,,MengDan,77_hunt,lip riŋ,lip riŋ,l i p + r i ŋ,,Deepadung2015,,,^l i p + r i ŋ$,default
 ChuDongGua-77_hunt-1,,ChuDongGua,77_hunt,klɔː brai,klɔː brai,k l ɔː + b r a j,,Deepadung2015,,,^k l ɔː + b r ai$,default
-XiangZhaiTang-77_hunt-1,,XiangZhaiTang,77_hunt,lɨpprɛː,lɨpprɛː,l ɨ p p r ɛː,,Deepadung2015,,,^l ɨ pp r ɛː$,default
+XiangZhaiTang-77_hunt-1,,XiangZhaiTang,77_hunt,lɨpprɛː,lɨpprɛː,l ɨ p + p r ɛː,,Deepadung2015,,,^l ɨ pp r ɛː$,default
 PongNuea-77_hunt-1,,PongNuea,77_hunt,ŋauh,ŋauh,ŋ au h,,Deepadung2015,,,^ŋ au h$,default
 NyaungGone-77_hunt-1,,NyaungGone,77_hunt,lɛ khɛ prɛ,lɛ khɛ prɛ,l ɛ + kʰ ɛ + p r ɛ,,Deepadung2015,,,^l ɛ + kh ɛ + p r ɛ$,default
 NoeLae-77_hunt-1,,NoeLae,77_hunt,lɛ prɛ,lɛ prɛ,l ɛ + p r ɛ,,Deepadung2015,,,^l ɛ + p r ɛ$,default
 BanPaw-77_hunt-1,,BanPaw,77_hunt,ba prɛ,ba prɛ,b a + p r ɛ,,Deepadung2015,,,^b a + p r ɛ$,default
-ChaYeQing-77_hunt-1,,ChaYeQing,77_hunt,ləp bjaj,ləp bjaj,l ə p + b j a j,,Deepadung2015,,,^l ə p + b j a j$,default
+ChaYeQing-77_hunt-1,,ChaYeQing,77_hunt,ləp bjaj,ləp bjaj,l ə p + b ia j,,Deepadung2015,,,^l ə p + b ja j$,default
 GuangKa-77_hunt-1,,GuangKa,77_hunt,pai toː,pai toː,p ai + t oː,,Deepadung2015,,,^p ai + t oː$,default
 MangBang-77_hunt-1,,MangBang,77_hunt,lɛː,lɛː,l ɛː,,Deepadung2015,,,^l ɛː$,default
-NanSang-77_hunt-1,,NanSang,77_hunt,jɨtoː,jɨtoː,j ɨ t oː,,Deepadung2015,,,^j ɨ t oː$,default
-NamHsan-78_kill-1,,NamHsan,78_kill,biam,biam,b i a m,,Deepadung2015,,,^b i a m$,default
-KhunHawt-78_kill-1,,KhunHawt,78_kill,piam,piam,p i a m,,Deepadung2015,,,^p i a m$,default
-HtanHsan-78_kill-1,,HtanHsan,78_kill,ɓiam,ɓiam,ɓ i a m,,Deepadung2015,,,^ɓ i a m$,default
+NanSang-77_hunt-1,,NanSang,77_hunt,jɨtoː,jɨtoː,j ɨ + t oː,,Deepadung2015,,,^j ɨtoː $,default
+NamHsan-78_kill-1,,NamHsan,78_kill,biam,biam,b ia m,,Deepadung2015,,,^b ia m$,default
+KhunHawt-78_kill-1,,KhunHawt,78_kill,piam,piam,p ia m,,Deepadung2015,,,^p ia m$,default
+HtanHsan-78_kill-1,,HtanHsan,78_kill,ɓiam,ɓiam,ɓ ia m,,Deepadung2015,,,^ɓ ia m$,default
 PangKham-78_kill-1,,PangKham,78_kill,ŋɔh,ŋɔh,ŋ ɔ h,,Deepadung2015,,,^ŋ ɔ h$,default
 ManLoi-78_kill-1,,ManLoi,78_kill,ŋah,ŋah,ŋ a h,,Deepadung2015,,,^ŋ a h$,default
 MengDan-78_kill-1,,MengDan,78_kill,ŋah,ŋah,ŋ a h,,Deepadung2015,,,^ŋ a h$,default
@@ -1232,7 +1232,7 @@ NoeLae-78_kill-1,,NoeLae,78_kill,ŋauh,ŋauh,ŋ au h,,Deepadung2015,,,^ŋ au h$,
 BanPaw-78_kill-1,,BanPaw,78_kill,ŋauh,ŋauh,ŋ au h,,Deepadung2015,,,^ŋ au h$,default
 ChaYeQing-78_kill-1,,ChaYeQing,78_kill,ŋɔh,ŋɔh,ŋ ɔ h,,Deepadung2015,,,^ŋ ɔ h$,default
 GuangKa-78_kill-1,,GuangKa,78_kill,ŋai?,ŋai?,ŋ ai ʔ,,Deepadung2015,,,^ŋ ai ?$,default
-MangBang-78_kill-1,,MangBang,78_kill,ŋaj,ŋaj,ŋ a j,,Deepadung2015,,,^ŋ a j$,default
+MangBang-78_kill-1,,MangBang,78_kill,ŋaj,ŋaj,ŋ a j,,Deepadung2015,,,^ŋ aj$,default
 NanSang-78_kill-1,,NanSang,78_kill,ŋai,ŋai,ŋ a j,,Deepadung2015,,,^ŋ ai$,default
 NamHsan-79_one-1,,NamHsan,79_one,Ɂur,Ɂur,ʔ u r,,Deepadung2015,,,^Ɂ u r$,default
 KhunHawt-79_one-1,,KhunHawt,79_one,Ɂuː,Ɂuː,ʔ uː,,Deepadung2015,,,^Ɂ uː$,default
@@ -1261,18 +1261,18 @@ MengDan-80_two-1,,MengDan,80_two,ʔɛː,ʔɛː,ʔ ɛː,,Deepadung2015,,,^ʔ ɛː
 ChuDongGua-80_two-1,,ChuDongGua,80_two,Ɂaː,Ɂaː,ʔ aː,,Deepadung2015,,,^Ɂ aː$,default
 XiangZhaiTang-80_two-1,,XiangZhaiTang,80_two,Ɂaː,Ɂaː,ʔ aː,,Deepadung2015,,,^Ɂ aː$,default
 PongNuea-80_two-1,,PongNuea,80_two,Ɂaː,Ɂaː,ʔ aː,,Deepadung2015,,,^Ɂ aː$,default
-NyaungGone-80_two-1,,NyaungGone,80_two,haʔa,haʔa,h a ʔ a,,Deepadung2015,,,^h a ʔ a$,default
+NyaungGone-80_two-1,,NyaungGone,80_two,haʔa,haʔa,h a + ʔ a,,Deepadung2015,,,^h aʔa $,default
 NoeLae-80_two-1,,NoeLae,80_two,Ɂa,Ɂa,ʔ a,,Deepadung2015,,,^Ɂ a$,default
 BanPaw-80_two-1,,BanPaw,80_two,Ɂa,Ɂa,ʔ a,,Deepadung2015,,,^Ɂ a$,default
 ChaYeQing-80_two-1,,ChaYeQing,80_two,ʔeː,ʔeː,ʔ eː,,Deepadung2015,,,^ʔ eː$,default
 GuangKa-80_two-1,,GuangKa,80_two,ʔɛː,ʔɛː,ʔ ɛː,,Deepadung2015,,,^ʔ ɛː$,default
 MangBang-80_two-1,,MangBang,80_two,ʔɛː,ʔɛː,ʔ ɛː,,Deepadung2015,,,^ʔ ɛː$,default
 NanSang-80_two-1,,NanSang,80_two,Ɂaː,Ɂaː,ʔ aː,,Deepadung2015,,,^Ɂ aː$,default
-NamHsan-81_three-1,,NamHsan,81_three,Ɂuaj,Ɂuaj,ʔ u a j,,Deepadung2015,,,^Ɂ u a j$,default
-KhunHawt-81_three-1,,KhunHawt,81_three,Ɂuaj,Ɂuaj,ʔ u a j,,Deepadung2015,,,^Ɂ u a j$,default
-HtanHsan-81_three-1,,HtanHsan,81_three,Ɂuaj,Ɂuaj,ʔ u a j,,Deepadung2015,,,^Ɂ u a j$,default
-PangKham-81_three-1,,PangKham,81_three,Ɂuaj,Ɂuaj,ʔ u a j,,Deepadung2015,,,^Ɂ u a j$,default
-ManLoi-81_three-1,,ManLoi,81_three,Ɂuaj,Ɂuaj,ʔ u a j,,Deepadung2015,,,^Ɂ u a j$,default
+NamHsan-81_three-1,,NamHsan,81_three,Ɂuaj,Ɂuaj,ʔ ua j,,Deepadung2015,,,^Ɂ ua j$,default
+KhunHawt-81_three-1,,KhunHawt,81_three,Ɂuaj,Ɂuaj,ʔ ua j,,Deepadung2015,,,^Ɂ ua j$,default
+HtanHsan-81_three-1,,HtanHsan,81_three,Ɂuaj,Ɂuaj,ʔ ua j,,Deepadung2015,,,^Ɂ ua j$,default
+PangKham-81_three-1,,PangKham,81_three,Ɂuaj,Ɂuaj,ʔ ua j,,Deepadung2015,,,^Ɂ ua j$,default
+ManLoi-81_three-1,,ManLoi,81_three,Ɂuaj,Ɂuaj,ʔ ua j,,Deepadung2015,,,^Ɂ ua j$,default
 MengDan-81_three-1,,MengDan,81_three,ʔoj,ʔoj,ʔ o j,,Deepadung2015,,,^ʔ oj$,default
 ChuDongGua-81_three-1,,ChuDongGua,81_three,Ɂoj,Ɂoj,ʔ o j,,Deepadung2015,,,^Ɂ oj$,default
 XiangZhaiTang-81_three-1,,XiangZhaiTang,81_three,Ɂoːj,Ɂoːj,ʔ oː j,,Deepadung2015,,,^Ɂ oː j$,default
@@ -1287,24 +1287,24 @@ NanSang-81_three-1,,NanSang,81_three,Ɂoj,Ɂoj,ʔ o j,,Deepadung2015,,,^Ɂ oj$,d
 NamHsan-82_four-1,,NamHsan,82_four,phon,phon,pʰ o n,,Deepadung2015,,,^ph o n$,default
 KhunHawt-82_four-1,,KhunHawt,82_four,phon,phon,pʰ o n,,Deepadung2015,,,^ph o n$,default
 HtanHsan-82_four-1,,HtanHsan,82_four,phoːn,phoːn,pʰ oː n,,Deepadung2015,,,^ph oː n$,default
-PangKham-82_four-1,,PangKham,82_four,phuan,phuan,pʰ u a n,,Deepadung2015,,,^ph u a n$,default
+PangKham-82_four-1,,PangKham,82_four,phuan,phuan,pʰ ua n,,Deepadung2015,,,^ph ua n$,default
 ManLoi-82_four-1,,ManLoi,82_four,phɔːn,phɔːn,pʰ ɔː n,,Deepadung2015,,,^ph ɔː n$,default
 MengDan-82_four-1,,MengDan,82_four,phon,phon,pʰ o n,,Deepadung2015,,,^ph o n$,default
 ChuDongGua-82_four-1,,ChuDongGua,82_four,phɔn,phɔn,pʰ ɔ n,,Deepadung2015,,,^ph ɔ n$,default
-XiangZhaiTang-82_four-1,,XiangZhaiTang,82_four,mphuan,mphuan,m pʰ u a n,,Deepadung2015,,,^m ph u a n$,default
-PongNuea-82_four-1,,PongNuea,82_four,mphaun,mphaun,m pʰ au n,,Deepadung2015,,,^m ph au n$,default
-NyaungGone-82_four-1,,NyaungGone,82_four,m phuan,m phuan,m + pʰ u a n,,Deepadung2015,,,^m + ph u a n$,default
-NoeLae-82_four-1,,NoeLae,82_four,m phuan,m phuan,m + pʰ u a n,,Deepadung2015,,,^m + ph u a n$,default
-BanPaw-82_four-1,,BanPaw,82_four,phuan,phuan,pʰ u a n,,Deepadung2015,,,^ph u a n$,default
+XiangZhaiTang-82_four-1,,XiangZhaiTang,82_four,mphuan,mphuan,m + pʰ ua n,,Deepadung2015,,,^mph ua n$,default
+PongNuea-82_four-1,,PongNuea,82_four,mphaun,mphaun,m + pʰ au n,,Deepadung2015,,,^mph au n$,default
+NyaungGone-82_four-1,,NyaungGone,82_four,m phuan,m phuan,m + pʰ ua n,,Deepadung2015,,,^m + ph ua n$,default
+NoeLae-82_four-1,,NoeLae,82_four,m phuan,m phuan,m + pʰ ua n,,Deepadung2015,,,^m + ph ua n$,default
+BanPaw-82_four-1,,BanPaw,82_four,phuan,phuan,pʰ ua n,,Deepadung2015,,,^ph ua n$,default
 ChaYeQing-82_four-1,,ChaYeQing,82_four,phoːm,phoːm,pʰ oː m,,Deepadung2015,,,^ph oː m$,default
 GuangKa-82_four-1,,GuangKa,82_four,phoːn,phoːn,pʰ oː n,,Deepadung2015,,,^ph oː n$,default
 MangBang-82_four-1,,MangBang,82_four,phoːm,phoːm,pʰ oː m,,Deepadung2015,,,^ph oː m$,default
 NanSang-82_four-1,,NanSang,82_four,phon,phon,pʰ o n,,Deepadung2015,,,^ph o n$,default
 NamHsan-83_many-1,,NamHsan,83_many,bram,bram,b r a m,,Deepadung2015,,,^b r a m$,default
 KhunHawt-83_many-1,,KhunHawt,83_many,"sәp,",sәp,s ə p,,Deepadung2015,,,^s ә p$,default
-HtanHsan-83_many-1,,HtanHsan,83_many,pәrʨәɯ,pәrʨәɯ,p ə r tɕ ə ɯ,,Deepadung2015,,,^p ә r ʨ ә ɯ$,default
-PangKham-83_many-1,,PangKham,83_many,rian,rian,r i a n,,Deepadung2015,,,^r i a n$,default
-ManLoi-83_many-1,,ManLoi,83_many,rian,rian,r i a n,,Deepadung2015,,,^r i a n$,default
+HtanHsan-83_many-1,,HtanHsan,83_many,pәrʨәɯ,pәrʨәɯ,p ə r + tɕ ə ɯ,,Deepadung2015,,,^p ә rʨә ɯ$,default
+PangKham-83_many-1,,PangKham,83_many,rian,rian,r ia n,,Deepadung2015,,,^r ia n$,default
+ManLoi-83_many-1,,ManLoi,83_many,rian,rian,r ia n,,Deepadung2015,,,^r ia n$,default
 MengDan-83_many-1,,MengDan,83_many,bram,bram,b r a m,,Deepadung2015,,,^b r a m$,default
 ChuDongGua-83_many-1,,ChuDongGua,83_many,bram,bram,b r a m,,Deepadung2015,,,^b r a m$,default
 NyaungGone-83_many-1,,NyaungGone,83_many,kɨn,kɨn,k ɨ n,,Deepadung2015,,,^k ɨ n$,default
@@ -1314,7 +1314,7 @@ ChaYeQing-83_many-1,,ChaYeQing,83_many,ɡɨn,ɡɨn,g ɨ n,,Deepadung2015,,,^ɡ �
 GuangKa-83_many-1,,GuangKa,83_many,ɡɨn,ɡɨn,g ɨ n,,Deepadung2015,,,^ɡ ɨ n$,default
 MangBang-83_many-1,,MangBang,83_many,ɡɨn,ɡɨn,g ɨ n,,Deepadung2015,,,^ɡ ɨ n$,default
 NanSang-83_many-1,,NanSang,83_many,kɨn,kɨn,k ɨ n,,Deepadung2015,,,^k ɨ n$,default
-NamHsan-84_long-1,,NamHsan,84_long,r̥әŋr̥әŋ,r̥әŋr̥әŋ,r̥ ə ŋ r̥ ə ŋ,,Deepadung2015,,,^r̥ ә ŋ r̥ ә ŋ$,default
+NamHsan-84_long-1,,NamHsan,84_long,r̥әŋr̥әŋ,r̥әŋr̥әŋ,r̥ ə ŋ + r̥ ə ŋ,,Deepadung2015,,,^r̥ ә ŋr̥ ә ŋ$,default
 KhunHawt-84_long-1,,KhunHawt,84_long,l̥әːŋ,l̥әːŋ,l̥ əː ŋ,,Deepadung2015,,,^l̥ әː ŋ$,default
 HtanHsan-84_long-1,,HtanHsan,84_long,l̥әːŋ,l̥әːŋ,l̥ əː ŋ,,Deepadung2015,,,^l̥ әː ŋ$,default
 PangKham-84_long-1,,PangKham,84_long,d̤oŋ,d̤oŋ,dʱ o ŋ,,Deepadung2015,,,^d̤ o ŋ$,default
@@ -1345,41 +1345,41 @@ ChaYeQing-85_full-1,,ChaYeQing,85_full,nok,nok,n o k,,Deepadung2015,,,^n o k$,de
 GuangKa-85_full-1,,GuangKa,85_full,nok,nok,n o k,,Deepadung2015,,,^n o k$,default
 MangBang-85_full-1,,MangBang,85_full,nok,nok,n o k,,Deepadung2015,,,^n o k$,default
 NanSang-85_full-1,,NanSang,85_full,nok,nok,n o k,,Deepadung2015,,,^n o k$,default
-NamHsan-86_rightside-1,,NamHsan,86_rightside,khɔn Ɂidam,khɔn Ɂidam,kʰ ɔ n + ʔ i d a m,,Deepadung2015,,,^kh ɔ n + Ɂ i d a m$,default
-KhunHawt-86_rightside-1,,KhunHawt,86_rightside,khɔnnap,khɔnnap,kʰ ɔ n n a p,,Deepadung2015,,,^kh ɔ nn a p$,default
-HtanHsan-86_rightside-1,,HtanHsan,86_rightside,khɔnnap,khɔnnap,kʰ ɔ n n a p,,Deepadung2015,,,^kh ɔ nn a p$,default
-PangKham-86_rightside-1,,PangKham,86_rightside,ʔaʔɔh,ʔaʔɔh,ʔ a ʔ ɔ h,,Deepadung2015,,,^ʔ a ʔ ɔ h$,default
-ManLoi-86_rightside-1,,ManLoi,86_rightside,ʔaʔɔh,ʔaʔɔh,ʔ a ʔ ɔ h,,Deepadung2015,,,^ʔ a ʔ ɔ h$,default
-MengDan-86_rightside-1,,MengDan,86_rightside,diŋʔaʔɔjh,diŋʔaʔɔjh,d i ŋ ʔ a ʔ ɔ j h,,Deepadung2015,,,^d i ŋ ʔ a ʔ ɔ j h$,default
-ChuDongGua-86_rightside-1,,ChuDongGua,86_rightside,dua?ɔjh,dua?ɔjh,d u a ʔ ɔ j h,,Deepadung2015,,,^d u a ? ɔ j h$,default
-XiangZhaiTang-86_rightside-1,,XiangZhaiTang,86_rightside,naɁah,naɁah,n a ʔ a h,,Deepadung2015,,,^n a Ɂ a h$,default
-PongNuea-86_rightside-1,,PongNuea,86_rightside,ʔaʔah,ʔaʔah,ʔ a ʔ a h,,Deepadung2015,,,^ʔ a ʔ a h$,default
-NyaungGone-86_rightside-1,,NyaungGone,86_rightside,ʔaʔăh,ʔaʔăh,ʔ a ʔ a h,,Deepadung2015,,,^ʔ a ʔ ăh$,default
+NamHsan-86_rightside-1,,NamHsan,86_rightside,khɔn Ɂidam,khɔn Ɂidam,kʰ ɔ n + ʔ i + d a m,,Deepadung2015,,,^kh ɔ n + Ɂ ida m$,default
+KhunHawt-86_rightside-1,,KhunHawt,86_rightside,khɔnnap,khɔnnap,kʰ ɔ n + n a p,,Deepadung2015,,,^kh ɔ nn a p$,default
+HtanHsan-86_rightside-1,,HtanHsan,86_rightside,khɔnnap,khɔnnap,kʰ ɔ n + n a p,,Deepadung2015,,,^kh ɔ nn a p$,default
+PangKham-86_rightside-1,,PangKham,86_rightside,ʔaʔɔh,ʔaʔɔh,ʔ a + ʔ ɔ h,,Deepadung2015,,,^ʔ aʔɔ h$,default
+ManLoi-86_rightside-1,,ManLoi,86_rightside,ʔaʔɔh,ʔaʔɔh,ʔ a + ʔ ɔ h,,Deepadung2015,,,^ʔ aʔɔ h$,default
+MengDan-86_rightside-1,,MengDan,86_rightside,diŋʔaʔɔjh,diŋʔaʔɔjh,d i ŋ + ʔ a ʔ ɔi h,,Deepadung2015,,,^d i ŋʔa ʔ ɔj h$,default
+ChuDongGua-86_rightside-1,,ChuDongGua,86_rightside,dua?ɔjh,dua?ɔjh,d ua ʔ ɔi h,,Deepadung2015,,,^d ua ? ɔj h$,default
+XiangZhaiTang-86_rightside-1,,XiangZhaiTang,86_rightside,naɁah,naɁah,n a + ʔ a h,,Deepadung2015,,,^n aɁa h$,default
+PongNuea-86_rightside-1,,PongNuea,86_rightside,ʔaʔah,ʔaʔah,ʔ a + ʔ a h,,Deepadung2015,,,^ʔ aʔa h$,default
+NyaungGone-86_rightside-1,,NyaungGone,86_rightside,ʔaʔăh,ʔaʔăh,ʔ a + ʔ a h,,Deepadung2015,,,^ʔ aʔă h$,default
 NoeLae-86_rightside-1,,NoeLae,86_rightside,ɁaɁăh,ɁaɁăh,ʔ a ʔ a h,,Deepadung2015,,,^Ɂ a Ɂ ăh$,default
 BanPaw-86_rightside-1,,BanPaw,86_rightside,naɁăh,naɁăh,n a ʔ a h,,Deepadung2015,,,^n a Ɂ ăh$,default
-ChaYeQing-86_rightside-1,,ChaYeQing,86_rightside,naʔeh,naʔeh,n a ʔ e h,,Deepadung2015,,,^n a ʔ e h$,default
-GuangKa-86_rightside-1,,GuangKa,86_rightside,ɁaɁɛh,ɁaɁɛh,ʔ a ʔ ɛ h,,Deepadung2015,,,^Ɂ a Ɂ ɛ h$,default
-MangBang-86_rightside-1,,MangBang,86_rightside,ɁaɁəh,ɁaɁəh,ʔ a ʔ ə h,,Deepadung2015,,,^Ɂ a Ɂ ə h$,default
-NanSang-86_rightside-1,,NanSang,86_rightside,ɁaɁəh,ɁaɁəh,ʔ a ʔ ə h,,Deepadung2015,,,^Ɂ a Ɂ ə h$,default
-NamHsan-87_leftside-1,,NamHsan,87_leftside,khɔn Ɂiveː,khɔn Ɂiveː,kʰ ɔ n + ʔ i v eː,,Deepadung2015,,,^kh ɔ n + Ɂ i v eː$,default
-KhunHawt-87_leftside-1,,KhunHawt,87_leftside,khɔnkanap,khɔnkanap,kʰ ɔ n k a n a p,,Deepadung2015,,,^kh ɔ n k a n a p$,default
-HtanHsan-87_leftside-1,,HtanHsan,87_leftside,khɔnkanap,khɔnkanap,kʰ ɔ n k a n a p,,Deepadung2015,,,^kh ɔ n k a n a p$,default
-PangKham-87_leftside-1,,PangKham,87_leftside,ʔakaʔ,ʔakaʔ,ʔ a k a ʔ,,Deepadung2015,,,^ʔ a k a ʔ$,default
-ManLoi-87_leftside-1,,ManLoi,87_leftside,ʔaɡaʔ,ʔaɡaʔ,ʔ a g a ʔ,,Deepadung2015,,,^ʔ a ɡ a ʔ$,default
-MengDan-87_leftside-1,,MengDan,87_leftside,ʔakɛʔ,ʔakɛʔ,ʔ a k ɛ ʔ,,Deepadung2015,,,^ʔ a k ɛ ʔ$,default
-ChuDongGua-87_leftside-1,,ChuDongGua,87_leftside,?aka?,?aka?,ʔ a k a ʔ,,Deepadung2015,,,^? a k a ?$,default
-XiangZhaiTang-87_leftside-1,,XiangZhaiTang,87_leftside,naɡaɁ,naɡaɁ,n a g a ʔ,,Deepadung2015,,,^n a ɡ a Ɂ$,default
-PongNuea-87_leftside-1,,PongNuea,87_leftside,ʔaɡaɁ,ʔaɡaɁ,ʔ a g a ʔ,,Deepadung2015,,,^ʔ a ɡ a Ɂ$,default
-NyaungGone-87_leftside-1,,NyaungGone,87_leftside,ʔaɡăʔ,ʔaɡăʔ,ʔ a g ă ʔ,,Deepadung2015,,,^ʔ a ɡ ă ʔ$,default
-NoeLae-87_leftside-1,,NoeLae,87_leftside,ɁaɡăɁ,ɁaɡăɁ,ʔ a g ă ʔ,,Deepadung2015,,,^Ɂ a ɡ ă Ɂ$,default
-BanPaw-87_leftside-1,,BanPaw,87_leftside,naɡăɁ,naɡăɁ,n a g ă ʔ,,Deepadung2015,,,^n a ɡ ă Ɂ$,default
-ChaYeQing-87_leftside-1,,ChaYeQing,87_leftside,nakaʔ,nakaʔ,n a k a ʔ,,Deepadung2015,,,^n a k a ʔ$,default
-GuangKa-87_leftside-1,,GuangKa,87_leftside,ɁakaɁ,ɁakaɁ,ʔ a k a ʔ,,Deepadung2015,,,^Ɂ a k a Ɂ$,default
-MangBang-87_leftside-1,,MangBang,87_leftside,ɁakaɁ,ɁakaɁ,ʔ a k a ʔ,,Deepadung2015,,,^Ɂ a k a Ɂ$,default
-NanSang-87_leftside-1,,NanSang,87_leftside,ɁakaɁ,ɁakaɁ,ʔ a k a ʔ,,Deepadung2015,,,^Ɂ a k a Ɂ$,default
-NamHsan-88_far-1,,NamHsan,88_far,saŋaːj,saŋaːj,s a ŋ aː j,,Deepadung2015,,,^s a ŋ aː j$,default
-KhunHawt-88_far-1,,KhunHawt,88_far,saŋaːj,saŋaːj,s a ŋ aː j,,Deepadung2015,,,^s a ŋ aː j$,default
-HtanHsan-88_far-1,,HtanHsan,88_far,saŋaːj,saŋaːj,s a ŋ aː j,,Deepadung2015,,,^s a ŋ aː j$,default
+ChaYeQing-86_rightside-1,,ChaYeQing,86_rightside,naʔeh,naʔeh,n a + ʔ e h,,Deepadung2015,,,^n aʔe h$,default
+GuangKa-86_rightside-1,,GuangKa,86_rightside,ɁaɁɛh,ɁaɁɛh,ʔ a + ʔ ɛ h,,Deepadung2015,,,^Ɂ aɁɛ h$,default
+MangBang-86_rightside-1,,MangBang,86_rightside,ɁaɁəh,ɁaɁəh,ʔ a + ʔ ə h,,Deepadung2015,,,^Ɂ aɁə h$,default
+NanSang-86_rightside-1,,NanSang,86_rightside,ɁaɁəh,ɁaɁəh,ʔ a + ʔ ə h,,Deepadung2015,,,^Ɂ aɁə h$,default
+NamHsan-87_leftside-1,,NamHsan,87_leftside,khɔn Ɂiveː,khɔn Ɂiveː,kʰ ɔ n + ʔ i + v eː,,Deepadung2015,,,^kh ɔ n + Ɂ iveː $,default
+KhunHawt-87_leftside-1,,KhunHawt,87_leftside,khɔnkanap,khɔnkanap,kʰ ɔ n + k a + n a p,,Deepadung2015,,,^khɔnkanap$,default
+HtanHsan-87_leftside-1,,HtanHsan,87_leftside,khɔnkanap,khɔnkanap,kʰ ɔ n + k a + n a p,,Deepadung2015,,,^khɔnkanap$,default
+PangKham-87_leftside-1,,PangKham,87_leftside,ʔakaʔ,ʔakaʔ,ʔ a + k a ʔ,,Deepadung2015,,,^ʔ aka ʔ$,default
+ManLoi-87_leftside-1,,ManLoi,87_leftside,ʔaɡaʔ,ʔaɡaʔ,ʔ a + g a ʔ,,Deepadung2015,,,^ʔ aɡ a ʔ$,default
+MengDan-87_leftside-1,,MengDan,87_leftside,ʔakɛʔ,ʔakɛʔ,ʔ a + k ɛ ʔ,,Deepadung2015,,,^ʔ akɛ ʔ$,default
+ChuDongGua-87_leftside-1,,ChuDongGua,87_leftside,?aka?,?aka?,ʔ a + k a ʔ,,Deepadung2015,,,^? aka ?$,default
+XiangZhaiTang-87_leftside-1,,XiangZhaiTang,87_leftside,naɡaɁ,naɡaɁ,n a + g a ʔ,,Deepadung2015,,,^n aɡ a Ɂ$,default
+PongNuea-87_leftside-1,,PongNuea,87_leftside,ʔaɡaɁ,ʔaɡaɁ,ʔ a + g a ʔ,,Deepadung2015,,,^ʔ aɡ a Ɂ$,default
+NyaungGone-87_leftside-1,,NyaungGone,87_leftside,ʔaɡăʔ,ʔaɡăʔ,ʔ a + g ă ʔ,,Deepadung2015,,,^ʔ aɡ ă ʔ$,default
+NoeLae-87_leftside-1,,NoeLae,87_leftside,ɁaɡăɁ,ɁaɡăɁ,ʔ a + g ă ʔ,,Deepadung2015,,,^Ɂ aɡ ă Ɂ$,default
+BanPaw-87_leftside-1,,BanPaw,87_leftside,naɡăɁ,naɡăɁ,n a + g ă ʔ,,Deepadung2015,,,^n aɡ ă Ɂ$,default
+ChaYeQing-87_leftside-1,,ChaYeQing,87_leftside,nakaʔ,nakaʔ,n a + k a ʔ,,Deepadung2015,,,^n aka ʔ$,default
+GuangKa-87_leftside-1,,GuangKa,87_leftside,ɁakaɁ,ɁakaɁ,ʔ a + k a ʔ,,Deepadung2015,,,^Ɂ aka Ɂ$,default
+MangBang-87_leftside-1,,MangBang,87_leftside,ɁakaɁ,ɁakaɁ,ʔ a + k a ʔ,,Deepadung2015,,,^Ɂ aka Ɂ$,default
+NanSang-87_leftside-1,,NanSang,87_leftside,ɁakaɁ,ɁakaɁ,ʔ a + k a ʔ,,Deepadung2015,,,^Ɂ aka Ɂ$,default
+NamHsan-88_far-1,,NamHsan,88_far,saŋaːj,saŋaːj,s a + ŋ aː j,,Deepadung2015,,,^s aŋaː j$,default
+KhunHawt-88_far-1,,KhunHawt,88_far,saŋaːj,saŋaːj,s a + ŋ aː j,,Deepadung2015,,,^s aŋaː j$,default
+HtanHsan-88_far-1,,HtanHsan,88_far,saŋaːj,saŋaːj,s a + ŋ aː j,,Deepadung2015,,,^s aŋaː j$,default
 PangKham-88_far-1,,PangKham,88_far,doŋ,doŋ,d o ŋ,,Deepadung2015,,,^d o ŋ$,default
 ManLoi-88_far-1,,ManLoi,88_far,toŋ,toŋ,t o ŋ,,Deepadung2015,,,^t o ŋ$,default
 MengDan-88_far-1,,MengDan,88_far,doŋ,doŋ,d o ŋ,,Deepadung2015,,,^d o ŋ$,default
@@ -1393,38 +1393,38 @@ ChaYeQing-88_far-1,,ChaYeQing,88_far,doŋ,doŋ,d o ŋ,,Deepadung2015,,,^d o ŋ$,
 GuangKa-88_far-1,,GuangKa,88_far,doŋ,doŋ,d o ŋ,,Deepadung2015,,,^d o ŋ$,default
 MangBang-88_far-1,,MangBang,88_far,doŋ,doŋ,d o ŋ,,Deepadung2015,,,^d o ŋ$,default
 NanSang-88_far-1,,NanSang,88_far,doŋ,doŋ,d o ŋ,,Deepadung2015,,,^d o ŋ$,default
-NamHsan-89_near-1,,NamHsan,89_near,tadaɁ,tadaɁ,t a d a ʔ,,Deepadung2015,,,^t a d a Ɂ$,default
+NamHsan-89_near-1,,NamHsan,89_near,tadaɁ,tadaɁ,t a + d a ʔ,,Deepadung2015,,,^t ad a Ɂ$,default
 KhunHawt-89_near-1,,KhunHawt,89_near,dat,dat,d a t,,Deepadung2015,,,^d a t$,default
 HtanHsan-89_near-1,,HtanHsan,89_near,dat,dat,d a t,,Deepadung2015,,,^d a t$,default
-PangKham-89_near-1,,PangKham,89_near,Ɂad̤at,Ɂad̤at,ʔ a dʱ a t,,Deepadung2015,,,^Ɂ a d̤ a t$,default
+PangKham-89_near-1,,PangKham,89_near,Ɂad̤at,Ɂad̤at,ʔ a + d̤ a t,,Deepadung2015,,,^Ɂ ad̤ a t$,default
 ManLoi-89_near-1,,ManLoi,89_near,taɁ,taɁ,t a ʔ,,Deepadung2015,,,^t a Ɂ$,default
-MengDan-89_near-1,,MengDan,89_near,ndat,ndat,n d a t,,Deepadung2015,,,^n d a t$,default
+MengDan-89_near-1,,MengDan,89_near,ndat,ndat,n + d a t,,Deepadung2015,,,^nd a t$,default
 ChuDongGua-89_near-1,,ChuDongGua,89_near,dat,dat,d a t,,Deepadung2015,,,^d a t$,default
-XiangZhaiTang-89_near-1,,XiangZhaiTang,89_near,mtat,mtat,m t a t,,Deepadung2015,,,^m t a t$,default
-PongNuea-89_near-1,,PongNuea,89_near,khriaɁ,khriaɁ,kʰ r i a ʔ,,Deepadung2015,,,^kh r i a Ɂ$,default
-NyaungGone-89_near-1,,NyaungGone,89_near,khriaʔ,khriaʔ,kʰ r i a ʔ,,Deepadung2015,,,^kh r i a ʔ$,default
-NoeLae-89_near-1,,NoeLae,89_near,khriaɁ,khriaɁ,kʰ r i a ʔ,,Deepadung2015,,,^kh r i a Ɂ$,default
-BanPaw-89_near-1,,BanPaw,89_near,khriaɁ,khriaɁ,kʰ r i a ʔ,,Deepadung2015,,,^kh r i a Ɂ$,default
-ChaYeQing-89_near-1,,ChaYeQing,89_near,ndɔʔ,ndɔʔ,n d ɔ ʔ,,Deepadung2015,,,^n d ɔ ʔ$,default
-GuangKa-89_near-1,,GuangKa,89_near,təʨɔm,təʨɔm,t ə tɕ ɔ m,,Deepadung2015,,,^t ə ʨ ɔ m$,default
-MangBang-89_near-1,,MangBang,89_near,kaʨam,kaʨam,k a tɕ a m,,Deepadung2015,,,^k a ʨ a m$,default
-NanSang-89_near-1,,NanSang,89_near,kaʨam,kaʨam,k a tɕ a m,,Deepadung2015,,,^k a ʨ a m$,default
-NamHsan-90_this-1,,NamHsan,90_this,haɁɨː,haɁɨː,h a ʔ ɨː,,Deepadung2015,,,^h a Ɂ ɨː$,default
-KhunHawt-90_this-1,,KhunHawt,90_this,Ɂanin,Ɂanin,ʔ a n i n,,Deepadung2015,,,^Ɂ a n i n$,default
-HtanHsan-90_this-1,,HtanHsan,90_this,Ɂanin,Ɂanin,ʔ a n i n,,Deepadung2015,,,^Ɂ a n i n$,default
+XiangZhaiTang-89_near-1,,XiangZhaiTang,89_near,mtat,mtat,m + t a t,,Deepadung2015,,,^mt a t$,default
+PongNuea-89_near-1,,PongNuea,89_near,khriaɁ,khriaɁ,kʰ r ia ʔ,,Deepadung2015,,,^kh r ia Ɂ$,default
+NyaungGone-89_near-1,,NyaungGone,89_near,khriaʔ,khriaʔ,kʰ r ia ʔ,,Deepadung2015,,,^kh r ia ʔ$,default
+NoeLae-89_near-1,,NoeLae,89_near,khriaɁ,khriaɁ,kʰ r ia ʔ,,Deepadung2015,,,^kh r ia Ɂ$,default
+BanPaw-89_near-1,,BanPaw,89_near,khriaɁ,khriaɁ,kʰ r ia ʔ,,Deepadung2015,,,^kh r ia Ɂ$,default
+ChaYeQing-89_near-1,,ChaYeQing,89_near,ndɔʔ,ndɔʔ,n + d ɔ ʔ,,Deepadung2015,,,^nd ɔ ʔ$,default
+GuangKa-89_near-1,,GuangKa,89_near,təʨɔm,təʨɔm,t ə + tɕ ɔ m,,Deepadung2015,,,^t əʨɔ m$,default
+MangBang-89_near-1,,MangBang,89_near,kaʨam,kaʨam,k a + tɕ a m,,Deepadung2015,,,^k aʨa m$,default
+NanSang-89_near-1,,NanSang,89_near,kaʨam,kaʨam,k a + tɕ a m,,Deepadung2015,,,^k aʨa m$,default
+NamHsan-90_this-1,,NamHsan,90_this,haɁɨː,haɁɨː,h a + ʔ ɨː,,Deepadung2015,,,^h aɁɨː $,default
+KhunHawt-90_this-1,,KhunHawt,90_this,Ɂanin,Ɂanin,ʔ a + n i n,,Deepadung2015,,,^Ɂ ani n$,default
+HtanHsan-90_this-1,,HtanHsan,90_this,Ɂanin,Ɂanin,ʔ a + n i n,,Deepadung2015,,,^Ɂ ani n$,default
 PangKham-90_this-1,,PangKham,90_this,niː,niː,n iː,,Deepadung2015,,,^n iː$,default
-ManLoi-90_this-1,,ManLoi,90_this,naŋɁɨː,naŋɁɨː,n a ŋ ʔ ɨː,,Deepadung2015,,,^n a ŋ Ɂ ɨː$,default
-MengDan-90_this-1,,MengDan,90_this,ɗuʔɯː,ɗuʔɯː,ɗ u ʔ ɯː,,Deepadung2015,,,^ɗ u ʔ ɯː$,default
+ManLoi-90_this-1,,ManLoi,90_this,naŋɁɨː,naŋɁɨː,n a ŋ + ʔ ɨː,,Deepadung2015,,,^n a ŋɁ ɨː$,default
+MengDan-90_this-1,,MengDan,90_this,ɗuʔɯː,ɗuʔɯː,ɗ u + ʔ ɯː,,Deepadung2015,,,^ɗ uʔɯː $,default
 ChuDongGua-90_this-1,,ChuDongGua,90_this,ha?ɨ,ha?ɨ,h a ʔ ɨ,,Deepadung2015,,,^h a ? ɨ$,default
-XiangZhaiTang-90_this-1,,XiangZhaiTang,90_this,Ɂaniː,Ɂaniː,ʔ a n iː,,Deepadung2015,,,^Ɂ a n iː$,default
+XiangZhaiTang-90_this-1,,XiangZhaiTang,90_this,Ɂaniː,Ɂaniː,ʔ a + n iː,,Deepadung2015,,,^Ɂ aniː $,default
 PongNuea-90_this-1,,PongNuea,90_this,nɨj,nɨj,n ɨ j,,Deepadung2015,,,^n ɨ j$,default
 NyaungGone-90_this-1,,NyaungGone,90_this,ni,ni,n i,,Deepadung2015,,,^n i$,default
 NoeLae-90_this-1,,NoeLae,90_this,ni,ni,n i,,Deepadung2015,,,^n i$,default
 BanPaw-90_this-1,,BanPaw,90_this,nɨj,nɨj,n ɨ j,,Deepadung2015,,,^n ɨ j$,default
-ChaYeQing-90_this-1,,ChaYeQing,90_this,ʔanin,ʔanin,ʔ a n i n,,Deepadung2015,,,^ʔ a n i n$,default
+ChaYeQing-90_this-1,,ChaYeQing,90_this,ʔanin,ʔanin,ʔ a + n i n,,Deepadung2015,,,^ʔ ani n$,default
 GuangKa-90_this-1,,GuangKa,90_this,niː,niː,n iː,,Deepadung2015,,,^n iː$,default
-MangBang-90_this-1,,MangBang,90_this,Ɂaniː,Ɂaniː,ʔ a n iː,,Deepadung2015,,,^Ɂ a n iː$,default
-NanSang-90_this-1,,NanSang,90_this,Ɂani,Ɂani,ʔ a n i,,Deepadung2015,,,^Ɂ a n i$,default
+MangBang-90_this-1,,MangBang,90_this,Ɂaniː,Ɂaniː,ʔ a + n iː,,Deepadung2015,,,^Ɂ aniː $,default
+NanSang-90_this-1,,NanSang,90_this,Ɂani,Ɂani,ʔ a + n i,,Deepadung2015,,,^Ɂ ani $,default
 NamHsan-91_black-1,,NamHsan,91_black,ʥәm,ʥәm,dʑ ə m,,Deepadung2015,,,^ʥ ә m$,default
 KhunHawt-91_black-1,,KhunHawt,91_black,ʥәm,ʥәm,dʑ ə m,,Deepadung2015,,,^ʥ ә m$,default
 HtanHsan-91_black-1,,HtanHsan,91_black,ʥәm,ʥәm,dʑ ə m,,Deepadung2015,,,^ʥ ә m$,default
@@ -1440,7 +1440,7 @@ BanPaw-91_black-1,,BanPaw,91_black,vɔŋ,vɔŋ,v ɔ ŋ,,Deepadung2015,,,^v ɔ ŋ
 ChaYeQing-91_black-1,,ChaYeQing,91_black,vaŋ,vaŋ,v a ŋ,,Deepadung2015,,,^v a ŋ$,default
 GuangKa-91_black-1,,GuangKa,91_black,vɔŋ,vɔŋ,v ɔ ŋ,,Deepadung2015,,,^v ɔ ŋ$,default
 MangBang-91_black-1,,MangBang,91_black,vɔŋ,vɔŋ,v ɔ ŋ,,Deepadung2015,,,^v ɔ ŋ$,default
-NanSang-91_black-1,,NanSang,91_black,Ɂivɔŋ,Ɂivɔŋ,ʔ i v ɔ ŋ,,Deepadung2015,,,^Ɂ i v ɔ ŋ$,default
+NanSang-91_black-1,,NanSang,91_black,Ɂivɔŋ,Ɂivɔŋ,ʔ i + v ɔ ŋ,,Deepadung2015,,,^Ɂ ivɔ ŋ$,default
 NamHsan-92_white-1,,NamHsan,92_white,blɔɁ,blɔɁ,b l ɔ ʔ,,Deepadung2015,,,^b l ɔ Ɂ$,default
 KhunHawt-92_white-1,,KhunHawt,92_white,blɔːɁ,blɔːɁ,b l ɔː ʔ,,Deepadung2015,,,^b l ɔː Ɂ$,default
 HtanHsan-92_white-1,,HtanHsan,92_white,plɔʔ,plɔʔ,p l ɔ ʔ,,Deepadung2015,,,^p l ɔ ʔ$,default
@@ -1456,26 +1456,26 @@ BanPaw-92_white-1,,BanPaw,92_white,luj,luj,l u j,,Deepadung2015,,,^l u j$,defaul
 ChaYeQing-92_white-1,,ChaYeQing,92_white,lɨjh,lɨjh,l ɨ j h,,Deepadung2015,,,^l ɨ j h$,default
 GuangKa-92_white-1,,GuangKa,92_white,luj,luj,l u j,,Deepadung2015,,,^l u j$,default
 MangBang-92_white-1,,MangBang,92_white,luːj,luːj,l uː j,,Deepadung2015,,,^l uː j$,default
-NanSang-92_white-1,,NanSang,92_white,"Ɂiluj, luj",Ɂiluj,ʔ i l u j,,Deepadung2015,,,^Ɂ i l u j$,default
-NamHsan-93_new-1,,NamHsan,93_new,kәnmɛː,kәnmɛː,k ə n m ɛː,,Deepadung2015,,,^k ә n m ɛː$,default
-KhunHawt-93_new-1,,KhunHawt,93_new,karmej,karmej,k a r m e j,,Deepadung2015,,,^k a r m ej$,default
-HtanHsan-93_new-1,,HtanHsan,93_new,kәnmej,kәnmej,k ə n m e j,,Deepadung2015,,,^k ә n m ej$,default
-PangKham-93_new-1,,PangKham,93_new,kamaːj,kamaːj,k a m aː j,,Deepadung2015,,,^k a m aː j$,default
-ManLoi-93_new-1,,ManLoi,93_new,kamaːj,kamaːj,k a m aː j,,Deepadung2015,,,^k a m aː j$,default
-MengDan-93_new-1,,MengDan,93_new,kamaj,kamaj,k a m a j,,Deepadung2015,,,^k a m a j$,default
-ChuDongGua-93_new-1,,ChuDongGua,93_new,kamaj,kamaj,k a m a j,,Deepadung2015,,,^k a m a j$,default
-XiangZhaiTang-93_new-1,,XiangZhaiTang,93_new,kamaːj,kamaːj,k a m aː j,,Deepadung2015,,,^k a m aː j$,default
-PongNuea-93_new-1,,PongNuea,93_new,kamaːj,kamaːj,k a m aː j,,Deepadung2015,,,^k a m aː j$,default
-NyaungGone-93_new-1,,NyaungGone,93_new,kamaj,kamaj,k a m a j,,Deepadung2015,,,^k a m a j$,default
-NoeLae-93_new-1,,NoeLae,93_new,kamaj,kamaj,k a m a j,,Deepadung2015,,,^k a m a j$,default
-BanPaw-93_new-1,,BanPaw,93_new,kamaj,kamaj,k a m a j,,Deepadung2015,,,^k a m a j$,default
-ChaYeQing-93_new-1,,ChaYeQing,93_new,ləmaj,ləmaj,l ə m a j,,Deepadung2015,,,^l ə m a j$,default
-GuangKa-93_new-1,,GuangKa,93_new,tamaːj,tamaːj,t a m aː j,,Deepadung2015,,,^t a m aː j$,default
-MangBang-93_new-1,,MangBang,93_new,tamaːj,tamaːj,t a m aː j,,Deepadung2015,,,^t a m aː j$,default
-NanSang-93_new-1,,NanSang,93_new,tamaːj,tamaːj,t a m aː j,,Deepadung2015,,,^t a m aː j$,default
-NamHsan-94_oldaged-1,,NamHsan,94_oldaged,konʨhaː,konʨhaː,k o n ʨʰ aː,,Deepadung2015,,,^k o n ʨh aː$,default
-KhunHawt-94_oldaged-1,,KhunHawt,94_oldaged,paɁaːn,paɁaːn,p a ʔ aː n,,Deepadung2015,,,^p a Ɂ aː n$,default
-HtanHsan-94_oldaged-1,,HtanHsan,94_oldaged,pәɁaːn,pәɁaːn,p ə ʔ aː n,,Deepadung2015,,,^p ә Ɂ aː n$,default
+NanSang-92_white-1,,NanSang,92_white,"Ɂiluj, luj",Ɂiluj,ʔ i + l u j,,Deepadung2015,,,^Ɂ ilu j$,default
+NamHsan-93_new-1,,NamHsan,93_new,kәnmɛː,kәnmɛː,k ə n + m ɛː,,Deepadung2015,,,^k ә nmɛː $,default
+KhunHawt-93_new-1,,KhunHawt,93_new,karmej,karmej,k a r + m e j,,Deepadung2015,,,^k a rme j$,default
+HtanHsan-93_new-1,,HtanHsan,93_new,kәnmej,kәnmej,k ə n + m e j,,Deepadung2015,,,^k ә nme j$,default
+PangKham-93_new-1,,PangKham,93_new,kamaːj,kamaːj,k a + m aː j,,Deepadung2015,,,^k amaː j$,default
+ManLoi-93_new-1,,ManLoi,93_new,kamaːj,kamaːj,k a + m aː j,,Deepadung2015,,,^k amaː j$,default
+MengDan-93_new-1,,MengDan,93_new,kamaj,kamaj,k a + m a j,,Deepadung2015,,,^k ama j$,default
+ChuDongGua-93_new-1,,ChuDongGua,93_new,kamaj,kamaj,k a + m a j,,Deepadung2015,,,^k ama j$,default
+XiangZhaiTang-93_new-1,,XiangZhaiTang,93_new,kamaːj,kamaːj,k a + m aː j,,Deepadung2015,,,^k amaː j$,default
+PongNuea-93_new-1,,PongNuea,93_new,kamaːj,kamaːj,k a + m aː j,,Deepadung2015,,,^k amaː j$,default
+NyaungGone-93_new-1,,NyaungGone,93_new,kamaj,kamaj,k a + m a j,,Deepadung2015,,,^k ama j$,default
+NoeLae-93_new-1,,NoeLae,93_new,kamaj,kamaj,k a + m a j,,Deepadung2015,,,^k ama j$,default
+BanPaw-93_new-1,,BanPaw,93_new,kamaj,kamaj,k a + m a j,,Deepadung2015,,,^k ama j$,default
+ChaYeQing-93_new-1,,ChaYeQing,93_new,ləmaj,ləmaj,l ə + m a j,,Deepadung2015,,,^l əma j$,default
+GuangKa-93_new-1,,GuangKa,93_new,tamaːj,tamaːj,t a + m aː j,,Deepadung2015,,,^t amaː j$,default
+MangBang-93_new-1,,MangBang,93_new,tamaːj,tamaːj,t a + m aː j,,Deepadung2015,,,^t amaː j$,default
+NanSang-93_new-1,,NanSang,93_new,tamaːj,tamaːj,t a + m aː j,,Deepadung2015,,,^t amaː j$,default
+NamHsan-94_oldaged-1,,NamHsan,94_oldaged,konʨhaː,konʨhaː,k o n + ʨʰ aː,,Deepadung2015,,,^k o nʨh aː$,default
+KhunHawt-94_oldaged-1,,KhunHawt,94_oldaged,paɁaːn,paɁaːn,p a + ʔ aː n,,Deepadung2015,,,^p aɁaː n$,default
+HtanHsan-94_oldaged-1,,HtanHsan,94_oldaged,pәɁaːn,pәɁaːn,p ə + ʔ aː n,,Deepadung2015,,,^p әɁaː n$,default
 PangKham-94_oldaged-1,,PangKham,94_oldaged,kat,kat,k a t,,Deepadung2015,,,^k a t$,default
 ManLoi-94_oldaged-1,,ManLoi,94_oldaged,kaɁ,kaɁ,k a ʔ,,Deepadung2015,,,^k a Ɂ$,default
 MengDan-94_oldaged-1,,MengDan,94_oldaged,kɛt,kɛt,k ɛ t,,Deepadung2015,,,^k ɛ t$,default
@@ -1492,7 +1492,7 @@ NanSang-94_oldaged-1,,NanSang,94_oldaged,ɡɔɁ,ɡɔɁ,g ɔ ʔ,,Deepadung2015,,,
 NamHsan-95_cold-1,,NamHsan,95_cold,kat,kat,k a t,,Deepadung2015,,,^k a t$,default
 KhunHawt-95_cold-1,,KhunHawt,95_cold,kat,kat,k a t,,Deepadung2015,,,^k a t$,default
 HtanHsan-95_cold-1,,HtanHsan,95_cold,kat,kat,k a t,,Deepadung2015,,,^k a t$,default
-PangKham-95_cold-1,,PangKham,95_cold,ɡiaɁ,ɡiaɁ,g i a ʔ,,Deepadung2015,,,^ɡ i a Ɂ$,default
+PangKham-95_cold-1,,PangKham,95_cold,ɡiaɁ,ɡiaɁ,g ia ʔ,,Deepadung2015,,,^ɡ ia Ɂ$,default
 ManLoi-95_cold-1,,ManLoi,95_cold,ɡaɁ,ɡaɁ,g a ʔ,,Deepadung2015,,,^ɡ a Ɂ$,default
 MengDan-95_cold-1,,MengDan,95_cold,ɡat,ɡat,g a t,,Deepadung2015,,,^ɡ a t$,default
 ChuDongGua-95_cold-1,,ChuDongGua,95_cold,kat,kat,k a t,,Deepadung2015,,,^k a t$,default
@@ -1521,38 +1521,38 @@ ChaYeQing-96_heavy-1,,ChaYeQing,96_heavy,ʥɔːn,ʥɔːn,dʑ ɔː n,,Deepadung20
 GuangKa-96_heavy-1,,GuangKa,96_heavy,ʥɔn,ʥɔn,dʑ ɔ n,,Deepadung2015,,,^ʥ ɔ n$,default
 MangBang-96_heavy-1,,MangBang,96_heavy,ʥɔːn,ʥɔːn,dʑ ɔː n,,Deepadung2015,,,^ʥ ɔː n$,default
 NanSang-96_heavy-1,,NanSang,96_heavy,ʥan,ʥan,dʑ a n,,Deepadung2015,,,^ʥ a n$,default
-NamHsan-97_who-1,,NamHsan,97_who,ʔase mimәh,ʔase mimәh,ʔ a s e + m i m ə h,,Deepadung2015,,,^ʔ a s e + m i m әh$,default
-KhunHawt-97_who-1,,KhunHawt,97_who,siɁan mɔh,siɁan mɔh,s i ʔ a n + m ɔ h,,Deepadung2015,,,^s i Ɂ a n + m ɔ h$,default
-HtanHsan-97_who-1,,HtanHsan,97_who,simimɔh,simimɔh,s i m i m ɔ h,,Deepadung2015,,,^s i m i m ɔ h$,default
-PangKham-97_who-1,,PangKham,97_who,Ɂaseː,Ɂaseː,ʔ a s eː,,Deepadung2015,,,^Ɂ a s eː$,default
-ManLoi-97_who-1,,ManLoi,97_who,Ɂasej,Ɂasej,ʔ a s e j,,Deepadung2015,,,^Ɂ a s ej$,default
+NamHsan-97_who-1,,NamHsan,97_who,ʔase mimәh,ʔase mimәh,ʔ a + s e + m i m ə h,,Deepadung2015,,,^ʔ as e + m i m әh$,default
+KhunHawt-97_who-1,,KhunHawt,97_who,siɁan mɔh,siɁan mɔh,s i + ʔ a n + m ɔ h,,Deepadung2015,,,^s iɁa n + m ɔ h$,default
+HtanHsan-97_who-1,,HtanHsan,97_who,simimɔh,simimɔh,s i + m i m ɔ h,,Deepadung2015,,,^s imi m ɔ h$,default
+PangKham-97_who-1,,PangKham,97_who,Ɂaseː,Ɂaseː,ʔ a + s eː,,Deepadung2015,,,^Ɂ as eː$,default
+ManLoi-97_who-1,,ManLoi,97_who,Ɂasej,Ɂasej,ʔ a + s e j,,Deepadung2015,,,^Ɂ as ej$,default
 MengDan-97_who-1,,MengDan,97_who,ʔi siː,ʔi siː,ʔ i + s iː,,Deepadung2015,,,^ʔ i + s iː$,default
 ChuDongGua-97_who-1,,ChuDongGua,97_who,siːn muh,siːn muh,s iː n + m u h,,Deepadung2015,,,^s iː n + m u h$,default
-XiangZhaiTang-97_who-1,,XiangZhaiTang,97_who,Ɂasej,Ɂasej,ʔ a s e j,,Deepadung2015,,,^Ɂ a s ej$,default
-PongNuea-97_who-1,,PongNuea,97_who,ʔasej,ʔasej,ʔ a s e j,,Deepadung2015,,,^ʔ a s ej$,default
-NyaungGone-97_who-1,,NyaungGone,97_who,ʔase,ʔase,ʔ a s e,,Deepadung2015,,,^ʔ a s e$,default
-NoeLae-97_who-1,,NoeLae,97_who,Ɂase,Ɂase,ʔ a s e,,Deepadung2015,,,^Ɂ a s e$,default
-BanPaw-97_who-1,,BanPaw,97_who,Ɂase,Ɂase,ʔ a s e,,Deepadung2015,,,^Ɂ a s e$,default
-ChaYeQing-97_who-1,,ChaYeQing,97_who,ʔasi,ʔasi,ʔ a s i,,Deepadung2015,,,^ʔ a s i$,default
+XiangZhaiTang-97_who-1,,XiangZhaiTang,97_who,Ɂasej,Ɂasej,ʔ a + s e j,,Deepadung2015,,,^Ɂ as ej$,default
+PongNuea-97_who-1,,PongNuea,97_who,ʔasej,ʔasej,ʔ a + s e j,,Deepadung2015,,,^ʔ as ej$,default
+NyaungGone-97_who-1,,NyaungGone,97_who,ʔase,ʔase,ʔ a + s e,,Deepadung2015,,,^ʔ as e$,default
+NoeLae-97_who-1,,NoeLae,97_who,Ɂase,Ɂase,ʔ a + s e,,Deepadung2015,,,^Ɂ as e$,default
+BanPaw-97_who-1,,BanPaw,97_who,Ɂase,Ɂase,ʔ a + s e,,Deepadung2015,,,^Ɂ as e$,default
+ChaYeQing-97_who-1,,ChaYeQing,97_who,ʔasi,ʔasi,ʔ a + s i,,Deepadung2015,,,^ʔ as i$,default
 GuangKa-97_who-1,,GuangKa,97_who,siː,siː,s iː,,Deepadung2015,,,^s iː$,default
 MangBang-97_who-1,,MangBang,97_who,si dəh,si dəh,s i + d ə h,,Deepadung2015,,,^s i + d ə h$,default
-NanSang-97_who-1,,NanSang,97_who,ʨhim̥əː,ʨhim̥əː,ʨʰ i m̥ əː,,Deepadung2015,,,^ʨh i m̥ əː$,default
-NamHsan-98_what-1,,NamHsan,98_what,sinmә haɁɨː,sinmә haɁɨː,s i n m ə + h a ʔ ɨː,,Deepadung2015,,,^s i n m ә + h a Ɂ ɨː$,default
-KhunHawt-98_what-1,,KhunHawt,98_what,simɔh,simɔh,s i m ɔ h,,Deepadung2015,,,^s i m ɔ h$,default
-HtanHsan-98_what-1,,HtanHsan,98_what,sәnmәh,sәnmәh,s ə n m ə h,,Deepadung2015,,,^s ә n m әh$,default
-PangKham-98_what-1,,PangKham,98_what,simuh,simuh,s i m u h,,Deepadung2015,,,^s i m u h$,default
-ManLoi-98_what-1,,ManLoi,98_what,simuh,simuh,s i m u h,,Deepadung2015,,,^s i m u h$,default
-MengDan-98_what-1,,MengDan,98_what,sinəmuh,sinəmuh,s i n ə m u h,,Deepadung2015,,,^s i n ə m u h$,default
-ChuDongGua-98_what-1,,ChuDongGua,98_what,siːnmuh,siːnmuh,s iː n m u h,,Deepadung2015,,,^s iː n m u h$,default
-XiangZhaiTang-98_what-1,,XiangZhaiTang,98_what,masej,masej,m a s e j,,Deepadung2015,,,^m a s ej$,default
-PongNuea-98_what-1,,PongNuea,98_what,masej,masej,m a s e j,,Deepadung2015,,,^m a s ej$,default
-NyaungGone-98_what-1,,NyaungGone,98_what,mase,mase,m a s e,,Deepadung2015,,,^m a s e$,default
-NoeLae-98_what-1,,NoeLae,98_what,mase,mase,m a s e,,Deepadung2015,,,^m a s e$,default
-BanPaw-98_what-1,,BanPaw,98_what,mase,mase,m a s e,,Deepadung2015,,,^m a s e$,default
-ChaYeQing-98_what-1,,ChaYeQing,98_what,səmuh,səmuh,s ə m u h,,Deepadung2015,,,^s ə m u h$,default
-GuangKa-98_what-1,,GuangKa,98_what,səmoh,səmoh,s ə m o h,,Deepadung2015,,,^s ə m o h$,default
+NanSang-97_who-1,,NanSang,97_who,ʨhim̥əː,ʨhim̥əː,ʨʰ i + m̥ əː,,Deepadung2015,,,^ʨh i m̥ əː$,default
+NamHsan-98_what-1,,NamHsan,98_what,sinmә haɁɨː,sinmә haɁɨː,s i n + m ə + h a + ʔ ɨː,,Deepadung2015,,,^s i nmә + h aɁɨː $,default
+KhunHawt-98_what-1,,KhunHawt,98_what,simɔh,simɔh,s i + m ɔ h,,Deepadung2015,,,^s imɔ h$,default
+HtanHsan-98_what-1,,HtanHsan,98_what,sәnmәh,sәnmәh,s ə n + m ə h,,Deepadung2015,,,^s ә nmә h$,default
+PangKham-98_what-1,,PangKham,98_what,simuh,simuh,s i + m u h,,Deepadung2015,,,^s imu h$,default
+ManLoi-98_what-1,,ManLoi,98_what,simuh,simuh,s i + m u h,,Deepadung2015,,,^s imu h$,default
+MengDan-98_what-1,,MengDan,98_what,sinəmuh,sinəmuh,s i + n ə m u h,,Deepadung2015,,,^s inə m u h$,default
+ChuDongGua-98_what-1,,ChuDongGua,98_what,siːnmuh,siːnmuh,s iː n + m u h,,Deepadung2015,,,^s iː nmu h$,default
+XiangZhaiTang-98_what-1,,XiangZhaiTang,98_what,masej,masej,m a + s e j,,Deepadung2015,,,^m as ej$,default
+PongNuea-98_what-1,,PongNuea,98_what,masej,masej,m a + s e j,,Deepadung2015,,,^m as ej$,default
+NyaungGone-98_what-1,,NyaungGone,98_what,mase,mase,m a + s e,,Deepadung2015,,,^m as e$,default
+NoeLae-98_what-1,,NoeLae,98_what,mase,mase,m a + s e,,Deepadung2015,,,^m as e$,default
+BanPaw-98_what-1,,BanPaw,98_what,mase,mase,m a + s e,,Deepadung2015,,,^m as e$,default
+ChaYeQing-98_what-1,,ChaYeQing,98_what,səmuh,səmuh,s ə + m u h,,Deepadung2015,,,^s əmu h$,default
+GuangKa-98_what-1,,GuangKa,98_what,səmoh,səmoh,s ə + m o h,,Deepadung2015,,,^s əmo h$,default
 MangBang-98_what-1,,MangBang,98_what,si,si,s i,,Deepadung2015,,,^s i$,default
-NanSang-98_what-1,,NanSang,98_what,ʨhənm̥əː,ʨhənm̥əː,ʨʰ ə n m̥ əː,,Deepadung2015,,,^ʨh ə n m̥ əː$,default
+NanSang-98_what-1,,NanSang,98_what,ʨhənm̥əː,ʨhənm̥əː,ʨʰ ə n + m̥ əː,,Deepadung2015,,,^ʨh ə n m̥ əː$,default
 NamHsan-99_i-1,,NamHsan,99_i,Ɂɔː,Ɂɔː,ʔ ɔː,,Deepadung2015,,,^Ɂ ɔː$,default
 KhunHawt-99_i-1,,KhunHawt,99_i,Ɂoː,Ɂoː,ʔ oː,,Deepadung2015,,,^Ɂ oː$,default
 HtanHsan-99_i-1,,HtanHsan,99_i,Ɂɔː,Ɂɔː,ʔ ɔː,,Deepadung2015,,,^Ɂ ɔː$,default
@@ -1571,8 +1571,8 @@ NanSang-99_i-1,,NanSang,99_i,Ɂaw,Ɂaw,ʔ a w,,Deepadung2015,,,^Ɂ a w$,default
 NamHsan-100_yousg-1,,NamHsan,100_yousg,miː,miː,m iː,,Deepadung2015,,,^m iː$,default
 KhunHawt-100_yousg-1,,KhunHawt,100_yousg,miː,miː,m iː,,Deepadung2015,,,^m iː$,default
 HtanHsan-100_yousg-1,,HtanHsan,100_yousg,miː,miː,m iː,,Deepadung2015,,,^m iː$,default
-PangKham-100_yousg-1,,PangKham,100_yousg,maj,maj,m a j,,Deepadung2015,,,^m a j$,default
-ManLoi-100_yousg-1,,ManLoi,100_yousg,maj,maj,m a j,,Deepadung2015,,,^m a j$,default
+PangKham-100_yousg-1,,PangKham,100_yousg,maj,maj,m a j,,Deepadung2015,,,^m aj$,default
+ManLoi-100_yousg-1,,ManLoi,100_yousg,maj,maj,m a j,,Deepadung2015,,,^m aj$,default
 MengDan-100_yousg-1,,MengDan,100_yousg,məj,məj,m ə j,,Deepadung2015,,,^m ə j$,default
 ChuDongGua-100_yousg-1,,ChuDongGua,100_yousg,mɔːj,mɔːj,m ɔː j,,Deepadung2015,,,^m ɔː j$,default
 XiangZhaiTang-100_yousg-1,,XiangZhaiTang,100_yousg,mɛː,mɛː,m ɛː,,Deepadung2015,,,^m ɛː$,default
@@ -1580,7 +1580,7 @@ PongNuea-100_yousg-1,,PongNuea,100_yousg,mɛː,mɛː,m ɛː,,Deepadung2015,,,^m 
 NyaungGone-100_yousg-1,,NyaungGone,100_yousg,mɛ,mɛ,m ɛ,,Deepadung2015,,,^m ɛ$,default
 NoeLae-100_yousg-1,,NoeLae,100_yousg,mɛ,mɛ,m ɛ,,Deepadung2015,,,^m ɛ$,default
 BanPaw-100_yousg-1,,BanPaw,100_yousg,mɛ,mɛ,m ɛ,,Deepadung2015,,,^m ɛ$,default
-ChaYeQing-100_yousg-1,,ChaYeQing,100_yousg,maj,maj,m a j,,Deepadung2015,,,^m a j$,default
-GuangKa-100_yousg-1,,GuangKa,100_yousg,maj,maj,m a j,,Deepadung2015,,,^m a j$,default
-MangBang-100_yousg-1,,MangBang,100_yousg,maj,maj,m a j,,Deepadung2015,,,^m a j$,default
-NanSang-100_yousg-1,,NanSang,100_yousg,maj,maj,m a j,,Deepadung2015,,,^m a j$,default
+ChaYeQing-100_yousg-1,,ChaYeQing,100_yousg,maj,maj,m a j,,Deepadung2015,,,^m aj$,default
+GuangKa-100_yousg-1,,GuangKa,100_yousg,maj,maj,m a j,,Deepadung2015,,,^m aj$,default
+MangBang-100_yousg-1,,MangBang,100_yousg,maj,maj,m a j,,Deepadung2015,,,^m aj$,default
+NanSang-100_yousg-1,,NanSang,100_yousg,maj,maj,m a j,,Deepadung2015,,,^m aj$,default
