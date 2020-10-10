@@ -1,16 +1,7 @@
 from lexibank_deepadungpalaung import Dataset
 from lingpy import *
 from lingpy.compare.partial import Partial
-
-wl = Wordlist.from_cldf(Dataset().cldf_dir.joinpath('cldf-metadata.json'))
-i = 0
-for idx, tokens in wl.iter_rows('tokens'):
-    #print(idx, tokens)
-    for segment in tokens.n:
-        if not segment:
-            print(idx, tokens)
-
-input('all fine')
+from lingpy.evaluate.acd import bcubes
 
 columns=('concept_name', 'language_id',
                 'value', 'form', 'segments', 'language_glottocode', 'cogid_cognateset_id'
@@ -25,11 +16,43 @@ namespace=(('concept_name', 'concept'), ('language_id',
 part = Partial.from_cldf(Dataset().cldf_dir.joinpath('cldf-metadata.json'),
         columns=columns, namespace=namespace)
 
-input('loaded data')
-part.get_partial_scorer(runs=100) # make tests with 100 and 1000, when debugging)
-part.partial_cluster(method='lexstat', threshold=0.5, ref='cogids', cluster_method='infomap')
-alms = Alignments(part, ref='cogids')
-alms.align()
-alms.output('tsv', filename='../output/deepadung-wordlist', ignore='all', prettify=False)
+part.renumber('cog')
 
-#new comment 10/9/20
+
+method = input('method: ')
+
+# type 'cogid' or 'cog' for method to see a tree based on Deepadung et al.'s
+# cognate judgements
+
+if method == 'lexstatcogids':
+    part.get_partial_scorer(runs=10000)
+    part.partial_cluster(method='lexstat', ref="lexstatcogids", threshold=0.55)
+elif method == 'lexstatcogid':
+    part.get_scorer(runs=10000)
+    part.cluster(method='lexstat', ref="lexstatcogid", threshold=0.55)
+    bcubes(part, 'cogid', 'lexstatcogid')
+elif method == 'scacogids':
+    part.partial_cluster(method='sca', threshold=0.45, ref='scacogids')
+elif method == 'scacogid':
+    part.cluster(method='sca', ref="scacogid", threshold=0.45)
+    bcubes(part, 'cogid', 'scacogid')
+
+part.calculate('tree', ref= method)
+print(method)
+print(part.tree.asciiArt())
+
+import csv
+
+x = part.distances
+taxa = part.taxa
+filename = '../output/distmat_'+ method+'.csv'
+with open(filename, 'w',encoding = 'utf-8') as f:
+    writer = csv.writer(f)
+    header_row = ['Language']
+    header_row.extend(taxa)
+    writer.writerow(header_row)
+    for i in range(len(taxa)):
+        li = [taxa[i]]
+        li.extend(x[i])
+        writer.writerow(li)
+    
