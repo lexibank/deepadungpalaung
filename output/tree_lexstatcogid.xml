@@ -1,0 +1,31 @@
+<root>0.4093
+<left>0.2132
+	<left>NamHsan</left>
+	<right>0.1327
+		<left>HtanHsan</left>
+		<right>KhunHawt</right></right></left>
+<right>0.3004
+	<left>0.2425
+		<left>ChaYeQing</left>
+		<right>0.1226
+			<left>NanSang</left>
+			<right>0.102
+				<left>GuangKa</left>
+				<right>MangBang</right></right></right></left>
+	<right>0.2812
+		<left>0.1697
+			<left>XiangZhaiTang</left>
+			<right>0.0676
+				<left>NyaungGone</left>
+				<right>0.0505
+					<left>PongNuea</left>
+					<right>0.03
+						<left>BanPaw</left>
+						<right>NoeLae</right></right></right></right></left>
+		<right>0.2551
+			<left>0.0918
+				<left>ManLoi</left>
+				<right>PangKham</right></left>
+			<right>0.1717
+				<left>ChuDongGua</left>
+				<right>MengDan</right></right></right></right></right></root>
