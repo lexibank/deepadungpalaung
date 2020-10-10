@@ -31,3 +31,5 @@ part.partial_cluster(method='lexstat', threshold=0.5, ref='cogids', cluster_meth
 alms = Alignments(part, ref='cogids')
 alms.align()
 alms.output('tsv', filename='../output/deepadung-wordlist', ignore='all', prettify=False)
+
+#new comment 10/9/20
