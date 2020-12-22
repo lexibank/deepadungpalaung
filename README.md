@@ -17,6 +17,7 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
+[![CLDF validation](https://github.com/lexibank/deepadungpalaung/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/deepadungpalaung/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 31%](https://img.shields.io/badge/Glottolog-31%25-red.svg "Glottolog: 31%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
