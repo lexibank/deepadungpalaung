@@ -4,7 +4,7 @@ Cite the source dataset as
 
 > Deepadung, Sujaritlak; Buakaw, Supakit; and Rattanapitak, Ampica (2015): A lexical comparison of the Palaung dialects spoken in China, Myanmar, and Thailand. Mon-Khmer Studies 44. 19-38.
 
-This dataset is licensed under a CCBY-NC license
+This dataset is licensed under a CC-BY-4.0 license
 
 
 Conceptlists in Concepticon:
@@ -31,18 +31,18 @@ Conceptlists in Concepticon:
 - **Cognacy:** 1,585 cognates in 219 cognate sets (36 singletons)
 - **Cognate Diversity:** 0.08
 - **Invalid lexemes:** 0
-- **Tokens:** 6,090
-- **Segments:** 70 (0 BIPA errors, 0 CTLS sound class errors, 70 CLTS modified)
-- **Inventory size (avg):** 47.62
+- **Tokens:** 6,378
+- **Segments:** 79 (0 BIPA errors, 0 CTLS sound class errors, 79 CLTS modified)
+- **Inventory size (avg):** 51.31
 
 # Contributors
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Johann-Mattis List | @LinguList | maintainer | Author
-Deepadung, Sujaritlak | | data collector | DataCollector
-Buakaw, Supakit | | data collector | DataCollector
-Rattanapitak, Ampika | | data collector | DataCollector
+Johann-Mattis List | @LinguList | maintainer | Other
+Deepadung, Sujaritlak | | data collector | Author, DataCollector
+Buakaw, Supakit | | data collector | Author, DataCollector
+Rattanapitak, Ampika | | data collector | Author, DataCollector
 
 
 
