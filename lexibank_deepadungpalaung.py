@@ -5,7 +5,6 @@ from pylexibank import Concept, Language, FormSpec
 from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank.util import progressbar
 
-import lingpy
 from clldutils.misc import slug
 
 

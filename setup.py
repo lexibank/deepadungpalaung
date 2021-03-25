@@ -2,7 +2,7 @@ from setuptools import setup
 import json
 
 
-with open("metadata.json") as fp:
+with open("metadata.json", encoding="utf-8") as fp:
     metadata = json.load(fp)
 
 
@@ -16,6 +16,6 @@ setup(
     include_package_data=True,
     zip_safe=False,
     entry_points={"lexibank.dataset": ["deepadungpalaung=lexibank_deepadungpalaung:Dataset"]},
-    install_requires=["pylexibank>=2.1"],
+    install_requires=["pylexibank>=3"],
     extras_require={"test": ["pytest-cldf"]},
 )

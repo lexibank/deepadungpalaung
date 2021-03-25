@@ -3,7 +3,7 @@
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
 Johann-Mattis List | @LinguList | maintainer | Other
-Deepadung, Sujaritlak | | data collector | DataCollector, Author
-Buakaw, Supakit | | data collector | DataCollector, Author
-Rattanapitak, Ampika | | data collector | DataCollector, Author
+Deepadung, Sujaritlak | | data collector | Author, DataCollector
+Buakaw, Supakit | | data collector | Author, DataCollector
+Rattanapitak, Ampika | | data collector | Author, DataCollector
 
