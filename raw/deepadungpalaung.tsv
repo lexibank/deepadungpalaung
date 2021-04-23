@@ -1,0 +1,1587 @@
+ID	ALIGNMENT	COGIDS	COGNACY	CONCEPT	CONCEPTICON	DOCULECT	FORM	GLOTTOLOG	LANGUAGE_NAME	LATITUDE	LONGITUDE	PARAMETER_ID	TOKENS	VALUE	NOTE	COGID	MORPHEMES
+1	s a + ŋ iː -	1858 1859	None	sun	1343	NamHsan	saŋiː	None	Namhsan	22.965064	97.163239	1_sun	s a + ŋ iː	saŋiː			
+2	s a + ŋ iː -	1858 1859	None	sun	1343	KhunHawt	saŋiː	None	Khun Hawt	22.965064	97.163239	1_sun	s a + ŋ iː	saŋiː			_-:suffix/sa ?
+3	s a + ŋ iː -	1858 1859	None	sun	1343	HtanHsan	saŋiː	None	Htan Hsan	22.675133	97.289942	1_sun	s a + ŋ iː	saŋiː			_-:suffix/sa ?
+4	s a + ŋ a j	1858 1859	None	sun	1343	PangKham	saŋaj	None	Pangkham	22.672097	97.161167	1_sun	s a + ŋ a j	saŋaj			
+5	s a + ŋ a j	1858 1859	None	sun	1343	ManLoi	saŋaj	None	Man Loi	22.636019	97.139264	1_sun	s a + ŋ a j	saŋaj			
+6	ŋ ə j	1859	None	sun	1343	MengDan	ŋəj	khan1274	Meng Dan	24.296522	98.379886	1_sun	ŋ ə j	ŋəj			
+7	s ə + ŋ ɔ j	1813 1859	None	sun	1343	ChuDongGua	səŋɔj	None	Chu Dong Gua	24.330889	98.393125	1_sun	s ə + ŋ ɔ j	səŋɔj			star ?
+8	s a + ŋ ɛː -	1858 1859	None	sun	1343	XiangZhaiTang	saŋɛː	ruma1248	Xiang Zhai Tang	24.323819	98.556639	1_sun	s a + ŋ ɛː	saŋɛː			
+9	s a + ŋ ɛ j	1858 1859	None	sun	1343	PongNuea	saŋɛj	None	Pong Nuea	20.321525	99.866817	1_sun	s a + ŋ ɛ j	saŋɛj			
+10	s a + ŋ ɛ -	1858 1859	None	sun	1343	NyaungGone	saŋɛ	None	Nyaung Gone	20.635025	96.545772	1_sun	s a + ŋ ɛ	saŋɛ			
+11	s a + ŋ ɛ -	1858 1859	None	sun	1343	NoeLae	saŋɛ	None	Noe Lae	19.941803	99.044742	1_sun	s a + ŋ ɛ	saŋɛ			
+12	s a + ŋ ɛ -	1563 1859	None	sun	1343	BanPaw	saŋɛ	None	Ban Paw	21.311225	99.557550	1_sun	s a + ŋ ɛ	saŋɛ			_-:prefix/sa ?
+13	kʰ a + ŋ a j	1322 1859	None	sun	1343	ChaYeQing	khaŋaj	None	Cha Ye Qing	24.305717	98.463661	1_sun	kʰ a + ŋ a j	khaŋaj			_-:prefix/kha ?
+14	s a + ŋ a j	1858 1859	None	sun	1343	GuangKa	saŋaj	ruma1248	Guang Ka	24.065714	97.796281	1_sun	s a + ŋ a j	saŋaj			_-:suffix/sa ?
+15	s a + ŋ a j	1858 1859	None	sun	1343	MangBang	saŋaj	ruma1248	Mang Bang	24.416392	98.399078	1_sun	s a + ŋ a j	saŋaj			
+16	s a + ŋ a j	1858 1859	None	sun	1343	NanSang	saŋaj	ruma1248	Nan Sang	24.019728	97.819736	1_sun	s a + ŋ a j	saŋaj			
+17	b l a n + k i/j əː r	1152 1151	None	moon	1313	NamHsan	blaŋkiәːr	None	Namhsan	22.965064	97.163239	2_moon	b l a n + k i/j əː r	blaŋkiәːr			
+18	p - a n + k i/j a -	1152 1151	None	moon	1313	KhunHawt	paŋkia	None	Khun Hawt	22.965064	97.163239	2_moon	p a n + k i/j a	paŋkia			
+19	b - a n + k i/j a -	1152 1151	None	moon	1313	HtanHsan	baŋkia	None	Htan Hsan	22.675133	97.289942	2_moon	b a n + k i/j a	baŋkia			
+20	b l a n + g i/j a n	1152 1151	None	moon	1313	PangKham	blaŋɡian	None	Pangkham	22.672097	97.161167	2_moon	b l a n + g i/j a n	blaŋɡian			
+21	b l a n + g i/j aː -	1152 1151	None	moon	1313	ManLoi	blaŋɡiaː	None	Man Loi	22.636019	97.139264	2_moon	b l a n + g i/j aː	blaŋɡiaː			
+22	b l a n + g i/j a r	1152 1151	None	moon	1313	MengDan	blaŋɡiar	khan1274	Meng Dan	24.296522	98.379886	2_moon	b l a n + g i/j a r	blaŋɡiar			
+23	b l a n + k i/j a r	1152 1151	None	moon	1313	ChuDongGua	blaŋkiar	None	Chu Dong Gua	24.330889	98.393125	2_moon	b l a n + k i/j a r	blaŋkiar			
+24	m ə + g i/j a n	1150 1151	None	moon	1313	XiangZhaiTang	məɡian	ruma1248	Xiang Zhai Tang	24.323819	98.556639	2_moon	m ə + g i/j a n	məɡian			
+25	m a + g i/j a n	1150 1151	None	moon	1313	PongNuea	maɡian	None	Pong Nuea	20.321525	99.866817	2_moon	m a + g i/j a n	maɡian			
+26	m a + g i/j a n	1150 1151	None	moon	1313	NyaungGone	maɡian	None	Nyaung Gone	20.635025	96.545772	2_moon	m a + g i/j a n	maɡian			
+27	m a + g i/j a n	1150 1151	None	moon	1313	NoeLae	maɡian	None	Noe Lae	19.941803	99.044742	2_moon	m a + g i/j a n	maɡian			
+28	m a + g i/j a n	1110 1151	None	moon	1313	BanPaw	maɡian	None	Ban Paw	21.311225	99.557550	2_moon	m a + g i/j a n	maɡian			_-prefix/ma ?
+29	- l ə n + l aː w	1152 1153	None	moon	1313	ChaYeQing	lənlaːw	None	Cha Ye Qing	24.305717	98.463661	2_moon	l ə n + l aː w	lənlaːw			
+30	p - a - + k j əː -	1152 1151	None	moon	1313	GuangKa	pakjəː	ruma1248	Guang Ka	24.065714	97.796281	2_moon	p a + k j əː	pakjəː			
+31	p - a - + k j əː -	1152 1151	None	moon	1313	MangBang	pakjəː	ruma1248	Mang Bang	24.416392	98.399078	2_moon	p a + k j əː	pakjəː			
+32	p - a - + k j əː -	1152 1151	None	moon	1313	NanSang	pakjəː	ruma1248	Nan Sang	24.019728	97.819736	2_moon	p a + k j əː	pakjəː			
+33	s a + m ɛ ŋ	1813 1814	None	star	1430	NamHsan	samɛŋ	None	Namhsan	22.965064	97.163239	3_star	s a + m ɛ ŋ	samɛŋ			
+34	s ə + m e ɲ	1813 1814	None	star	1430	KhunHawt	sәmeɲ	None	Khun Hawt	22.965064	97.163239	3_star	s ə + m e ɲ	sәmeɲ			
+35	s a + m e ɲ	1813 1814	None	star	1430	HtanHsan	sameɲ	None	Htan Hsan	22.675133	97.289942	3_star	s a + m e ɲ	sameɲ			_-:suffix/sa ?
+36	p l aː ŋ	1817	None	star	1430	PangKham	plaːŋ	None	Pangkham	22.672097	97.161167	3_star	p l aː ŋ	plaːŋ			
+37	p l aː ŋ	1817	None	star	1430	ManLoi	plaːŋ	None	Man Loi	22.636019	97.139264	3_star	p l aː ŋ	plaːŋ			
+38	k ə + m a n	1815 1814	None	star	1430	MengDan	kəman	khan1274	Meng Dan	24.296522	98.379886	3_star	k ə + m a n	kəman			
+39	s ə + m a ɲ	1813 1814	None	star	1430	ChuDongGua	səmaɲ	None	Chu Dong Gua	24.330889	98.393125	3_star	s ə + m a ɲ	səmaɲ			star ?
+40	s a + m ɛ ɲ	1813 1814	None	star	1430	XiangZhaiTang	samɛɲ	ruma1248	Xiang Zhai Tang	24.323819	98.556639	3_star	s a + m ɛ ɲ	samɛɲ			
+41	s a + m a ɲ	1813 1814	None	star	1430	PongNuea	samaɲ	None	Pong Nuea	20.321525	99.866817	3_star	s a + m a ɲ	samaɲ			
+42	s a + m ă n	1813 1814	None	star	1430	NyaungGone	samăn	None	Nyaung Gone	20.635025	96.545772	3_star	s a + m ă n	samăn			
+43	s a + m ă ɲ	1813 1814	None	star	1430	NoeLae	samăɲ	None	Noe Lae	19.941803	99.044742	3_star	s a + m ă ɲ	samăɲ			
+44	s a + m ă n	1563 1814	None	star	1430	BanPaw	samăn	None	Ban Paw	21.311225	99.557550	3_star	s a + m ă n	samăn			_-:prefix/sa ?
+45	kʰ a + m a n	1322 1814	None	star	1430	ChaYeQing	khaman	None	Cha Ye Qing	24.305717	98.463661	3_star	kʰ a + m a n	khaman			_-:prefix/kha ?
+46	l aː w	1816	None	star	1430	GuangKa	laːw	ruma1248	Guang Ka	24.065714	97.796281	3_star	l aː w	laːw			
+47	l aː w	1816	None	star	1430	MangBang	laːw	ruma1248	Mang Bang	24.416392	98.399078	3_star	l aː w	laːw			
+48	l aː w	1816	None	star	1430	NanSang	laːw	ruma1248	Nan Sang	24.019728	97.819736	3_star	l aː w	laːw			
+49	ʔ uː t	241	None	cloud	1489	NamHsan	Ɂuːt	None	Namhsan	22.965064	97.163239	4_cloud	ʔ uː t	Ɂuːt			
+50	ʔ uː t	241	None	cloud	1489	KhunHawt	Ɂuːt	None	Khun Hawt	22.965064	97.163239	4_cloud	ʔ uː t	Ɂuːt			
+51	ʔ uː ʔ	241	None	cloud	1489	HtanHsan	ɁuːɁ	None	Htan Hsan	22.675133	97.289942	4_cloud	ʔ uː ʔ	ɁuːɁ			
+52	ʔ a - + ʔ uː t	245 241	None	cloud	1489	PangKham	ɁaɁuːt	None	Pangkham	22.672097	97.161167	4_cloud	ʔ a + ʔ uː t	ɁaɁuːt			
+53	ʔ a - + ʔ u t	244 241	None	cloud	1489	ManLoi	ɁaɁut	None	Man Loi	22.636019	97.139264	4_cloud	ʔ a + ʔ u t	ɁaɁut			
+54	ʔ uː t	241	None	cloud	1489	MengDan	ʔuːt	khan1274	Meng Dan	24.296522	98.379886	4_cloud	ʔ uː t	ʔuːt			
+55	k ɨ + ʔ uː t	242 241	None	cloud	1489	ChuDongGua	kɨʔuːt	None	Chu Dong Gua	24.330889	98.393125	4_cloud	k ɨ + ʔ uː t	kɨʔuːt			
+56	Ø/ə ŋ + ʔ u ʔ	240 241	None	cloud	1489	XiangZhaiTang	ŋɁuɁ	ruma1248	Xiang Zhai Tang	24.323819	98.556639	4_cloud	Ø/ə ŋ + ʔ u ʔ	ŋɁuɁ			
+57	Ø/ə ŋ + ʔ u ʔ	240 241	None	cloud	1489	PongNuea	ŋɁuɁ	None	Pong Nuea	20.321525	99.866817	4_cloud	Ø/ə ŋ + ʔ u ʔ	ŋɁuɁ			
+58	Ø/ə ŋ + ʔ u ʔ	240 241	None	cloud	1489	NyaungGone	ŋ ʔuʔ	None	Nyaung Gone	20.635025	96.545772	4_cloud	Ø/ə ŋ + ʔ u ʔ	ŋ ʔuʔ			
+59	Ø/ə ŋ + ʔ u	240 241	None	cloud	1489	NoeLae	ŋ Ɂu	None	Noe Lae	19.941803	99.044742	4_cloud	Ø/ə ŋ + ʔ u	ŋ Ɂu			
+60	Ø/ə ŋ + ʔ u ʔ	1218 241	None	cloud	1489	BanPaw	ŋ ɁuɁ	None	Ban Paw	21.311225	99.557550	4_cloud	Ø/ə ŋ + ʔ u ʔ	ŋ ɁuɁ			_-prefix/ŋ ?
+61	Ø/ə ŋ + ʔ uː ʔ	240 241	None	cloud	1489	ChaYeQing	ŋɁuːɁ	None	Cha Ye Qing	24.305717	98.463661	4_cloud	Ø/ə ŋ + ʔ uː ʔ	ŋɁuːɁ			
+62	ʔ o ŋ + ʔ uː ʔ	243 241	None	cloud	1489	GuangKa	ɁoŋɁuːɁ	ruma1248	Guang Ka	24.065714	97.796281	4_cloud	ʔ o ŋ + ʔ uː ʔ	ɁoŋɁuːɁ			
+63	Ø/ə ŋ + ʔ u ʔ	240 241	None	cloud	1489	MangBang	ŋɁuɁ	ruma1248	Mang Bang	24.416392	98.399078	4_cloud	Ø/ə ŋ + ʔ u ʔ	ŋɁuɁ			
+64	Ø/ə ŋ + ʔ uː ʔ	240 241	None	cloud	1489	NanSang	ŋɁuːɁ	ruma1248	Nan Sang	24.019728	97.819736	4_cloud	Ø/ə ŋ + ʔ uː ʔ	ŋɁuːɁ			
+65	tɕ u ŋ	1460	None	rain	2108	NamHsan	ʨuŋ	None	Namhsan	22.965064	97.163239	5_rain	tɕ u ŋ	ʨuŋ			
+66	dʑ o ŋ	1460	None	rain	2108	KhunHawt	ʥoŋ	None	Khun Hawt	22.965064	97.163239	5_rain	dʑ o ŋ	ʥoŋ			
+67	dʑ uː ŋ	1460	None	rain	2108	HtanHsan	ʥuːŋ	None	Htan Hsan	22.675133	97.289942	5_rain	dʑ uː ŋ	ʥuːŋ			
+68	g l aːi̯	1459	None	rain	2108	PangKham	ɡlaːj	None	Pangkham	22.672097	97.161167	5_rain	g l aːi̯	ɡlaːj			
+69	g l aːi̯	1459	None	rain	2108	ManLoi	ɡlaːj	None	Man Loi	22.636019	97.139264	5_rain	g l aːi̯	ɡlaːj			
+70	g l aːi̯	1459	None	rain	2108	MengDan	ɡlaːj	khan1274	Meng Dan	24.296522	98.379886	5_rain	g l aːi̯	ɡlaːj			
+71	k l ai̯ -	1459	None	rain	2108	ChuDongGua	klaj	None	Chu Dong Gua	24.330889	98.393125	5_rain	k l ai̯	klaj			
+72	g l aːi̯	1459	None	rain	2108	XiangZhaiTang	ɡlaːj	ruma1248	Xiang Zhai Tang	24.323819	98.556639	5_rain	g l aːi̯	ɡlaːj			
+73	g l aːi̯	1459	None	rain	2108	PongNuea	ɡlaːj	None	Pong Nuea	20.321525	99.866817	5_rain	g l aːi̯	ɡlaːj			
+74	g l ai̯ -	1459	None	rain	2108	NyaungGone	ɡlaj	None	Nyaung Gone	20.635025	96.545772	5_rain	g l ai̯	ɡlaj			
+75	g l ai̯ -	1459	None	rain	2108	NoeLae	ɡlaj	None	Noe Lae	19.941803	99.044742	5_rain	g l ai̯	ɡlaj			
+76	g l ai̯ -	1459	None	rain	2108	BanPaw	ɡlaj	None	Ban Paw	21.311225	99.557550	5_rain	g l ai̯	ɡlaj			
+77	g l aːi̯	1459	None	rain	2108	ChaYeQing	ɡlaːj	None	Cha Ye Qing	24.305717	98.463661	5_rain	g l aːi̯	ɡlaːj			
+78	k l aːi̯	1459	None	rain	2108	GuangKa	klaːj	ruma1248	Guang Ka	24.065714	97.796281	5_rain	k l aːi̯	klaːj			
+79	k l aːi̯	1459	None	rain	2108	MangBang	klaːj	ruma1248	Mang Bang	24.416392	98.399078	5_rain	k l aːi̯	klaːj			
+80	k l aːi̯	1459	None	rain	2108	NanSang	klaːj	ruma1248	Nan Sang	24.019728	97.819736	5_rain	k l aːi̯	klaːj			
+81	kʰ uː r	2163	None	wind	960	NamHsan	khuːr	None	Namhsan	22.965064	97.163239	6_wind	kʰ uː r	khuːr			
+82	kʰ uː r	2163	None	wind	960	KhunHawt	khuːr	None	Khun Hawt	22.965064	97.163239	6_wind	kʰ uː r	khuːr			
+83	kʰ uː r	2163	None	wind	960	HtanHsan	khuːr	None	Htan Hsan	22.675133	97.289942	6_wind	kʰ uː r	khuːr			
+84	kʰ uː n	2163	None	wind	960	PangKham	khuːn	None	Pangkham	22.672097	97.161167	6_wind	kʰ uː n	khuːn			
+85	kʰ uː -	2163	None	wind	960	ManLoi	khuː	None	Man Loi	22.636019	97.139264	6_wind	kʰ uː	khuː			
+86	kʰ uː r	2163	None	wind	960	MengDan	khuːr	khan1274	Meng Dan	24.296522	98.379886	6_wind	kʰ uː r	khuːr			
+87	kʰ uː r	2163	None	wind	960	ChuDongGua	khuːr	None	Chu Dong Gua	24.330889	98.393125	6_wind	kʰ uː r	khuːr			
+88	kʰ uː n	2163	None	wind	960	XiangZhaiTang	khuːn	ruma1248	Xiang Zhai Tang	24.323819	98.556639	6_wind	kʰ uː n	khuːn			
+89	kʰ uː n	2163	None	wind	960	PongNuea	khuːn	None	Pong Nuea	20.321525	99.866817	6_wind	kʰ uː n	khuːn			
+90	kʰ u n	2163	None	wind	960	NyaungGone	khun	None	Nyaung Gone	20.635025	96.545772	6_wind	kʰ u n	khun			
+91	kʰ u n	2163	None	wind	960	NoeLae	khun	None	Noe Lae	19.941803	99.044742	6_wind	kʰ u n	khun			
+92	kʰ u n	2163	None	wind	960	BanPaw	khun	None	Ban Paw	21.311225	99.557550	6_wind	kʰ u n	khun			
+93	kʰ uː -	2163	None	wind	960	ChaYeQing	khuː	None	Cha Ye Qing	24.305717	98.463661	6_wind	kʰ uː	khuː			
+94	kʰ uː -	2163	None	wind	960	GuangKa	khuː	ruma1248	Guang Ka	24.065714	97.796281	6_wind	kʰ uː	khuː			
+95	kʰ uː -	2163	None	wind	960	MangBang	khuː	ruma1248	Mang Bang	24.416392	98.399078	6_wind	kʰ uː	khuː			
+96	kʰ uː -	2163	None	wind	960	NanSang	khuː	ruma1248	Nan Sang	24.019728	97.819736	6_wind	kʰ uː	khuː			
+97	r a + m̥ əɯ	1325 1323	None	night	1233	NamHsan	ram̥әɯ	None	Namhsan	22.965064	97.163239	7_night	r a + m̥ əɯ	ram̥әɯ			
+98	l a p + m̥ əː - -	1326 1323	None	night	1233	KhunHawt	lapm̥әː	None	Khun Hawt	22.965064	97.163239	7_night	l a p + m̥ əː	lapm̥әː			
+99	r ə n + m̥ əː - -	1325 1323	None	night	1233	HtanHsan	rәnm̥әː	None	Htan Hsan	22.675133	97.289942	7_night	r ə n + m̥ əː	rәnm̥әː			
+100	kʰ i m + m̥ əɯ	1322 1323	None	night	1233	PangKham	khimm̥әɯ	None	Pangkham	22.672097	97.161167	7_night	kʰ i m + m̥ əɯ	khimm̥әɯ			
+101	kʰ iː + m̥ əɯ	1322 1323	None	night	1233	ManLoi	khiːm̥әɯ	None	Man Loi	22.636019	97.139264	7_night	kʰ iː + m̥ əɯ	khiːm̥әɯ			
+102	kʰ iːu̯ - + m̥ əɯ - -	1322 1323	None	night	1233	MengDan	khiːw m̥əɯ	khan1274	Meng Dan	24.296522	98.379886	7_night	kʰ iːu̯ + m̥ əɯ	khiːw m̥əɯ			
+103	kʰ a - + m̥ ɯ - -	1322 1323	None	night	1233	ChuDongGua	kham̥ɯ	None	Chu Dong Gua	24.330889	98.393125	7_night	kʰ a + m̥ ɯ	kham̥ɯ			
+104	tɕ u ŋ + m̥ əɯ	1325 1323	None	night	1233	XiangZhaiTang	ʨuŋm̥əɯ	ruma1248	Xiang Zhai Tang	24.323819	98.556639	7_night	tɕ u ŋ + m̥ əɯ	ʨuŋm̥əɯ			
+105	kʰ ɛ + m̥ əɯ	1322 1323	None	night	1233	PongNuea	khɛm̥әɯ	None	Pong Nuea	20.321525	99.866817	7_night	kʰ ɛ + m̥ əɯ	khɛm̥әɯ			
+106	p a + m̥ ə - -	1327 1323	None	night	1233	NyaungGone	pam̥ə	None	Nyaung Gone	20.635025	96.545772	7_night	p a + m̥ ə	pam̥ə			
+107	kʰ ɛ - + m̥ ə - -	1322 1323	None	night	1233	NoeLae	khɛm̥ə	None	Noe Lae	19.941803	99.044742	7_night	kʰ ɛ + m̥ ə	khɛm̥ə			
+108	kʰ ɛ - + m̥ ə - -	1322 1323	None	night	1233	BanPaw	khɛm̥ə	None	Ban Paw	21.311225	99.557550	7_night	kʰ ɛ + m̥ ə	khɛm̥ə			
+109	kʰ a + m̥ eːu̯	1322 1323	None	night	1233	ChaYeQing	kham̥eːw	None	Cha Ye Qing	24.305717	98.463661	7_night	kʰ a + m̥ eːu̯	kham̥eːw			_-:prefix/kha ?
+110	k a - + s ɛ m	1062 1324	None	night	1233	GuangKa	kasɛm	ruma1248	Guang Ka	24.065714	97.796281	7_night	k a + s ɛ m	kasɛm			_-:suffix/ka ?
+111	k a - + s ə m	1322 1324	None	night	1233	MangBang	kasəm	ruma1248	Mang Bang	24.416392	98.399078	7_night	k a + s ə m	kasəm			
+112	k a - + s ə m	1322 1324	None	night	1233	NanSang	kasəm	ruma1248	Nan Sang	24.019728	97.819736	7_night	k a + s ə m	kasəm			
+113	s a + n ə m	2180 2181	None	year	1226	NamHsan	sanәm	None	Namhsan	22.965064	97.163239	8_year	s a + n ə m	sanәm			
+114	s a + n ə m	1858 2181	None	year	1226	KhunHawt	sanәm	None	Khun Hawt	22.965064	97.163239	8_year	s a + n ə m	sanәm			_-:suffix/sa ?
+115	s ə + n ə m	2180 2181	None	year	1226	HtanHsan	sәnәm	None	Htan Hsan	22.675133	97.289942	8_year	s ə + n ə m	sәnәm			
+116	s a + n a m	2180 2181	None	year	1226	PangKham	sanam	None	Pangkham	22.672097	97.161167	8_year	s a + n a m	sanam			
+117	s a + n a m	2180 2181	None	year	1226	ManLoi	sanam	None	Man Loi	22.636019	97.139264	8_year	s a + n a m	sanam			
+118	s ə + n a m	2180 2181	None	year	1226	MengDan	sənam	khan1274	Meng Dan	24.296522	98.379886	8_year	s ə + n a m	sənam			
+119	s a + n ɔ m	2180 2181	None	year	1226	ChuDongGua	sanɔm	None	Chu Dong Gua	24.330889	98.393125	8_year	s a + n ɔ m	sanɔm			
+120	s a + n ə m	2180 2181	None	year	1226	XiangZhaiTang	sanəm	ruma1248	Xiang Zhai Tang	24.323819	98.556639	8_year	s a + n ə m	sanəm			
+121	s a + n ə m	2180 2181	None	year	1226	PongNuea	sanəm	None	Pong Nuea	20.321525	99.866817	8_year	s a + n ə m	sanəm			
+122	s a + n ă m	2180 2181	None	year	1226	NyaungGone	sanăm	None	Nyaung Gone	20.635025	96.545772	8_year	s a + n ă m	sanăm			
+123	s a + n ə̆ m	2180 2181	None	year	1226	NoeLae	sanə̆m	None	Noe Lae	19.941803	99.044742	8_year	s a + n ə̆ m	sanə̆m			
+124	s a + n ă m	1563 2181	None	year	1226	BanPaw	sanăm	None	Ban Paw	21.311225	99.557550	8_year	s a + n ă m	sanăm			_-:prefix/sa ?
+125	kʰ a + n a m	1322 2181	None	year	1226	ChaYeQing	khanam	None	Cha Ye Qing	24.305717	98.463661	8_year	kʰ a + n a m	khanam			_-:prefix/kha ?
+126	s a + n a m	1858 2181	None	year	1226	GuangKa	sanam	ruma1248	Guang Ka	24.065714	97.796281	8_year	s a + n a m	sanam			_-:suffix/sa ?
+127	s a + n a m	2180 2181	None	year	1226	MangBang	sanam	ruma1248	Mang Bang	24.416392	98.399078	8_year	s a + n a m	sanam			
+128	s a + n a m	2180 2181	None	year	1226	NanSang	sanam	ruma1248	Nan Sang	24.019728	97.819736	8_year	s a + n a m	sanam			
+129	ʔ oː m	2060	None	water	948	NamHsan	ʔoːm	None	Namhsan	22.965064	97.163239	9_water	ʔ oː m	ʔoːm			
+130	ʔ oː m	2060	None	water	948	KhunHawt	ʔoːm	None	Khun Hawt	22.965064	97.163239	9_water	ʔ oː m	ʔoːm			
+131	ʔ oː m	2060	None	water	948	HtanHsan	ʔoːm	None	Htan Hsan	22.675133	97.289942	9_water	ʔ oː m	ʔoːm			
+132	ʔ oː m	2060	None	water	948	PangKham	ʔoːm	None	Pangkham	22.672097	97.161167	9_water	ʔ oː m	ʔoːm			
+133	ʔ oː m	2060	None	water	948	ManLoi	ʔoːm	None	Man Loi	22.636019	97.139264	9_water	ʔ oː m	ʔoːm			
+134	ʔ uː m	2060	None	water	948	MengDan	ʔuːm	khan1274	Meng Dan	24.296522	98.379886	9_water	ʔ uː m	ʔuːm			
+135	ʔ uː m	2060	None	water	948	ChuDongGua	ʔuːm	None	Chu Dong Gua	24.330889	98.393125	9_water	ʔ uː m	ʔuːm			
+136	ʔ ɨ m	2060	None	water	948	XiangZhaiTang	Ɂɨm	ruma1248	Xiang Zhai Tang	24.323819	98.556639	9_water	ʔ ɨ m	Ɂɨm			
+137	ʔ ɨ m	2060	None	water	948	PongNuea	ʔɨm	None	Pong Nuea	20.321525	99.866817	9_water	ʔ ɨ m	ʔɨm			
+138	ʔ ɨ m	2060	None	water	948	NyaungGone	ʔɨm	None	Nyaung Gone	20.635025	96.545772	9_water	ʔ ɨ m	ʔɨm			
+139	ʔ ɨ m	2060	None	water	948	NoeLae	ʔɨm	None	Noe Lae	19.941803	99.044742	9_water	ʔ ɨ m	ʔɨm			
+140	ʔ ɨ m	2060	None	water	948	BanPaw	Ɂɨm	None	Ban Paw	21.311225	99.557550	9_water	ʔ ɨ m	Ɂɨm			
+141	ʔ ɛ m	2060	None	water	948	ChaYeQing	ʔɛm	None	Cha Ye Qing	24.305717	98.463661	9_water	ʔ ɛ m	ʔɛm			
+142	ʔ ɛ m	2060	None	water	948	GuangKa	ʔɛm	ruma1248	Guang Ka	24.065714	97.796281	9_water	ʔ ɛ m	ʔɛm			
+143	ʔ ə m	2060	None	water	948	MangBang	Ɂəm	ruma1248	Mang Bang	24.416392	98.399078	9_water	ʔ ə m	Ɂəm			
+144	ʔ ə m	2060	None	water	948	NanSang	Ɂəm	ruma1248	Nan Sang	24.019728	97.819736	9_water	ʔ ə m	Ɂəm			
+145	k ə - + ɗ ɛː -	409 410	None	earth, soil	1228	NamHsan	kәɗɛː	None	Namhsan	22.965064	97.163239	10_earthsoil	k ə + ɗ ɛː	kәɗɛː			
+146	k ə n + d ɛi̯	409 410	None	earth, soil	1228	KhunHawt	kәndɛj	None	Khun Hawt	22.965064	97.163239	10_earthsoil	k ə n + d ɛi̯	kәndɛj			
+147	k a - + ɗ ei̯ -	1027 410	None	earth, soil	1228	HtanHsan	kaɗej	None	Htan Hsan	22.675133	97.289942	10_earthsoil	k a + ɗ ei̯	kaɗej			_-:suffix/ka ?
+148	k a + ɗ aːi̯	409 410	None	earth, soil	1228	PangKham	kaɗaːj	None	Pangkham	22.672097	97.161167	10_earthsoil	k a + ɗ aːi̯	kaɗaːj			
+149	k a + ɗ aːi̯	409 410	None	earth, soil	1228	ManLoi	kaɗaːj	None	Man Loi	22.636019	97.139264	10_earthsoil	k a + ɗ aːi̯	kaɗaːj			
+150	k ə - + d ai̯ -	409 410	None	earth, soil	1228	MengDan	kədaj	khan1274	Meng Dan	24.296522	98.379886	10_earthsoil	k ə + d ai̯	kədaj			
+151	k a + ɗ aːi̯	1062 410	None	earth, soil	1228	ChuDongGua	kaɗaːj	None	Chu Dong Gua	24.330889	98.393125	10_earthsoil	k a + ɗ aːi̯	kaɗaːj			_-:suffix/ka ?
+152	k a + d ɛːi̯	409 410	None	earth, soil	1228	XiangZhaiTang	kadɛːj	ruma1248	Xiang Zhai Tang	24.323819	98.556639	10_earthsoil	k a + d ɛːi̯	kadɛːj			
+153	k a + d aːi̯	409 410	None	earth, soil	1228	PongNuea	kadaːj	None	Pong Nuea	20.321525	99.866817	10_earthsoil	k a + d aːi̯	kadaːj			
+154	k a - + d ai̯ -	409 410	None	earth, soil	1228	NyaungGone	kadaj	None	Nyaung Gone	20.635025	96.545772	10_earthsoil	k a + d ai̯	kadaj			
+155	k a - + d ai̯ -	409 410	None	earth, soil	1228	NoeLae	kadaj	None	Noe Lae	19.941803	99.044742	10_earthsoil	k a + d ai̯	kadaj			
+156	k a - + d ai̯ -	1062 410	None	earth, soil	1228	BanPaw	kadaj	None	Ban Paw	21.311225	99.557550	10_earthsoil	k a + d ai̯	kadaj			_-prefix/ka ?
+157	k a + d aːi̯	1062 410	None	earth, soil	1228	ChaYeQing	kadaːj	None	Cha Ye Qing	24.305717	98.463661	10_earthsoil	k a + d aːi̯	kadaːj			_-:prefix/ka ?
+158	k a + t aːi̯	1062 410	None	earth, soil	1228	GuangKa	kataːj	ruma1248	Guang Ka	24.065714	97.796281	10_earthsoil	k a + t aːi̯	kataːj			_-:suffix/ka ?
+159	k a + t aːi̯	409 410	None	earth, soil	1228	MangBang	kataːj	ruma1248	Mang Bang	24.416392	98.399078	10_earthsoil	k a + t aːi̯	kataːj			
+160	k a + t aːi̯	409 410	None	earth, soil	1228	NanSang	kataːj	ruma1248	Nan Sang	24.019728	97.819736	10_earthsoil	k a + t aːi̯	kataːj			
+161	m oː -	1841	None	stone	1762	NamHsan	moː	None	Namhsan	22.965064	97.163239	11_stone	m oː	moː			
+162	m oːu̯	1841	None	stone	1762	KhunHawt	moːw	None	Khun Hawt	22.965064	97.163239	11_stone	m oːu̯	moːw			
+163	m oːu̯	1841	None	stone	1762	HtanHsan	moːw	None	Htan Hsan	22.675133	97.289942	11_stone	m oːu̯	moːw			
+164	m aːu̯	1841	None	stone	1762	PangKham	maːw	None	Pangkham	22.672097	97.161167	11_stone	m aːu̯	maːw			
+165	m aːu̯	1841	None	stone	1762	ManLoi	maːw	None	Man Loi	22.636019	97.139264	11_stone	m aːu̯	maːw			
+166	m ɛːu̯	1841	None	stone	1762	MengDan	mɛːw	khan1274	Meng Dan	24.296522	98.379886	11_stone	m ɛːu̯	mɛːw			
+167	m aːu̯	1841	None	stone	1762	ChuDongGua	maːw	None	Chu Dong Gua	24.330889	98.393125	11_stone	m aːu̯	maːw			
+168	m aːu̯	1841	None	stone	1762	XiangZhaiTang	maːw	ruma1248	Xiang Zhai Tang	24.323819	98.556639	11_stone	m aːu̯	maːw			
+169	m aːu̯	1841	None	stone	1762	PongNuea	maːw	None	Pong Nuea	20.321525	99.866817	11_stone	m aːu̯	maːw			
+170	m au̯	1841	None	stone	1762	NyaungGone	maw	None	Nyaung Gone	20.635025	96.545772	11_stone	m au̯	maw			
+171	m au̯	1841	None	stone	1762	NoeLae	maw	None	Noe Lae	19.941803	99.044742	11_stone	m au̯	maw			
+172	m au̯	1841	None	stone	1762	BanPaw	maw	None	Ban Paw	21.311225	99.557550	11_stone	m au̯	maw			
+173	m aːu̯	1841	None	stone	1762	ChaYeQing	maːw	None	Cha Ye Qing	24.305717	98.463661	11_stone	m aːu̯	maːw			
+174	m aːu̯	1841	None	stone	1762	GuangKa	maːw	ruma1248	Guang Ka	24.065714	97.796281	11_stone	m aːu̯	maːw			
+175	m aːu̯	1841	None	stone	1762	MangBang	maːw	ruma1248	Mang Bang	24.416392	98.399078	11_stone	m aːu̯	maːw			
+176	m aːu̯	1841	None	stone	1762	NanSang	maːw	ruma1248	Nan Sang	24.019728	97.819736	11_stone	m aːu̯	maːw			
+177	s u r	1185	None	mountain	639	NamHsan	sur	None	Namhsan	22.965064	97.163239	12_mountain	s u r	sur			
+178	s o r	1185	None	mountain	639	KhunHawt	sor	None	Khun Hawt	22.965064	97.163239	12_mountain	s o r	sor			
+179	s u r̥	1185	None	mountain	639	HtanHsan	sur̥	None	Htan Hsan	22.675133	97.289942	12_mountain	s u r̥	sur̥			
+180	ŋ ɔː t	1183	None	mountain	639	PangKham	ŋɔːt	None	Pangkham	22.672097	97.161167	12_mountain	ŋ ɔː t	ŋɔːt			
+181	ŋ au̯ ʔ	1183	None	mountain	639	ManLoi	ŋauɁ	None	Man Loi	22.636019	97.139264	12_mountain	ŋ au̯ ʔ	ŋauɁ			
+182	s u l	1185	None	mountain	639	MengDan	sul	khan1274	Meng Dan	24.296522	98.379886	12_mountain	s u l	sul			
+183	k ə - + d i/j a ŋ	1183 1184	None	mountain	639	ChuDongGua	kədiaŋ	None	Chu Dong Gua	24.330889	98.393125	12_mountain	k ə + d i/j a ŋ	kədiaŋ			
+184	n ɔ n	1183	None	mountain	639	XiangZhaiTang	nɔn	ruma1248	Xiang Zhai Tang	24.323819	98.556639	12_mountain	n ɔ n	nɔn			
+185	n ɔː n	1183	None	mountain	639	PongNuea	nɔːn	None	Pong Nuea	20.321525	99.866817	12_mountain	n ɔː n	nɔːn			
+186	n ɔ n	1183	None	mountain	639	NyaungGone	nɔn	None	Nyaung Gone	20.635025	96.545772	12_mountain	n ɔ n	nɔn			
+187	n ɔ n	1183	None	mountain	639	NoeLae	nɔn	None	Noe Lae	19.941803	99.044742	12_mountain	n ɔ n	nɔn			
+188	n ɔ n	1183	None	mountain	639	BanPaw	nɔn	None	Ban Paw	21.311225	99.557550	12_mountain	n ɔ n	nɔn			
+189	n oː -	1183	None	mountain	639	ChaYeQing	noː	None	Cha Ye Qing	24.305717	98.463661	12_mountain	n oː	noː			
+190	k o ŋ	1183	None	mountain	639	GuangKa	koŋ	ruma1248	Guang Ka	24.065714	97.796281	12_mountain	k o ŋ	koŋ			
+191	n ɔː -	1183	None	mountain	639	MangBang	nɔː	ruma1248	Mang Bang	24.416392	98.399078	12_mountain	n ɔː	nɔː			
+192	k ɔ ŋ	1183	None	mountain	639	NanSang	kɔŋ	ruma1248	Nan Sang	24.019728	97.819736	12_mountain	k ɔ ŋ	kɔŋ			
+193	ɗ ɨ ŋ + h eː -	2018 2017	None	tree	906	NamHsan	ɗɨŋ heː	None	Namhsan	22.965064	97.163239	13_tree	ɗ ɨ ŋ + h eː	ɗɨŋ heː			
+194	ɗ ə ŋ + h ei̯ -	2018 2017	None	tree	906	KhunHawt	ɗәŋ hej	None	Khun Hawt	22.965064	97.163239	13_tree	ɗ ə ŋ + h ei̯	ɗәŋ hej			
+195	ɗ ɨ ŋ + h ei̯ -	2018 2017	None	tree	906	HtanHsan	ɗɨŋ hej	None	Htan Hsan	22.675133	97.289942	13_tree	ɗ ɨ ŋ + h ei̯	ɗɨŋ hej			
+196	h ei̯ -	2017	None	tree	906	PangKham	hej	None	Pangkham	22.672097	97.161167	13_tree	h ei̯	hej			
+197	d a ŋ + h eː -	2018 2017	None	tree	906	ManLoi	daŋ heː	None	Man Loi	22.636019	97.139264	13_tree	d a ŋ + h eː	daŋ heː			
+198	h i -	2017	None	tree	906	MengDan	hi	khan1274	Meng Dan	24.296522	98.379886	13_tree	h i	hi			
+199	h i -	2017	None	tree	906	ChuDongGua	hi	None	Chu Dong Gua	24.330889	98.393125	13_tree	h i	hi			
+200	d a ŋ + h ei̯ -	2018 2017	None	tree	906	XiangZhaiTang	daŋhej	ruma1248	Xiang Zhai Tang	24.323819	98.556639	13_tree	d a ŋ + h ei̯	daŋhej			
+201	h ei̯ -	2017	None	tree	906	PongNuea	hej	None	Pong Nuea	20.321525	99.866817	13_tree	h ei̯	hej			
+202	h e -	2017	None	tree	906	NyaungGone	he	None	Nyaung Gone	20.635025	96.545772	13_tree	h e	he			
+203	h e -	2017	None	tree	906	NoeLae	he	None	Noe Lae	19.941803	99.044742	13_tree	h e	he			
+204	h e -	2017	None	tree	906	BanPaw	he	None	Ban Paw	21.311225	99.557550	13_tree	h e	he			
+205	h ɔːi̯	2017	None	tree	906	ChaYeQing	hɔːj	None	Cha Ye Qing	24.305717	98.463661	13_tree	h ɔːi̯	hɔːj			
+206	t a ŋ + h ɔːi̯	2018 2017	None	tree	906	GuangKa	taŋhɔːj	ruma1248	Guang Ka	24.065714	97.796281	13_tree	t a ŋ + h ɔːi̯	taŋhɔːj			 tree
+207	t a ŋ + h ɔːi̯	2018 2017	None	tree	906	MangBang	taŋhɔːj	ruma1248	Mang Bang	24.416392	98.399078	13_tree	t a ŋ + h ɔːi̯	taŋhɔːj			
+208	t a ŋ + h ɔi̯ -	2018 2017	None	tree	906	NanSang	taŋhɔj	ruma1248	Nan Sang	24.019728	97.819736	13_tree	t a ŋ + h ɔi̯	taŋhɔj			
+209	r i/j a h	1538	None	root	670	NamHsan	riah	None	Namhsan	22.965064	97.163239	14_root	r i/j a h	riah			
+210	r i/j a h	1538	None	root	670	KhunHawt	riah	None	Khun Hawt	22.965064	97.163239	14_root	r i/j a h	riah			
+211	r i/j a h + h ei̯ -	1538 1540	None	root	670	HtanHsan	riah hej	None	Htan Hsan	22.675133	97.289942	14_root	r i/j a h + h ei̯	riah hej			
+212	r i/j a h	1538	None	root	670	PangKham	riah	None	Pangkham	22.672097	97.161167	14_root	r i/j a h	riah			
+213	r i/j a h + h ei̯ -	1538 1540	None	root	670	ManLoi	riah hej	None	Man Loi	22.636019	97.139264	14_root	r i/j a h + h ei̯	riah hej			
+214	r i/j a h + h iː -	1538 1540	None	root	670	MengDan	riah hiː	khan1274	Meng Dan	24.296522	98.379886	14_root	r i/j a h + h iː	riah hiː			
+215	r i/j a h + h i -	1538 1540	None	root	670	ChuDongGua	riahhi	None	Chu Dong Gua	24.330889	98.393125	14_root	r i/j a h + h i	riahhi			
+216	r i/j a h + h ei̯ -	1538 1540	None	root	670	XiangZhaiTang	riahhej	ruma1248	Xiang Zhai Tang	24.323819	98.556639	14_root	r i/j a h + h ei̯	riahhej			
+217	r i/j a h	1538	None	root	670	PongNuea	riah	None	Pong Nuea	20.321525	99.866817	14_root	r i/j a h	riah			
+218	r i/j a h	1538	None	root	670	NyaungGone	riah	None	Nyaung Gone	20.635025	96.545772	14_root	r i/j a h	riah			
+219	r i/j a h	1538	None	root	670	NoeLae	riah	None	Noe Lae	19.941803	99.044742	14_root	r i/j a h	riah			
+220	r i/j a h	1538	None	root	670	BanPaw	riah	None	Ban Paw	21.311225	99.557550	14_root	r i/j a h	riah			
+221	ɣ ə h + h ɔi̯ -	1539 1540	None	root	670	ChaYeQing	ɣəhhɔj	None	Cha Ye Qing	24.305717	98.463661	14_root	ɣ ə h + h ɔi̯	ɣəhhɔj			
+222	ʐ ə h + h ɔːi̯	1539 2017	None	root	670	GuangKa	ʐəh hɔːj	ruma1248	Guang Ka	24.065714	97.796281	14_root	ʐ ə h + h ɔːi̯	ʐəh hɔːj			 tree
+223	ɣ ə h	1539	None	root	670	MangBang	ɣəh	ruma1248	Mang Bang	24.416392	98.399078	14_root	ɣ ə h	ɣəh			
+224	r - ə h + h ɔi̯ -	1538 1540	None	root	670	NanSang	rəhhɔj	ruma1248	Nan Sang	24.019728	97.819736	14_root	r ə h + h ɔi̯	rəhhɔj			
+225	l̥ aː	1004	None	leaf	628	NamHsan	l̥a:	None	Namhsan	22.965064	97.163239	15_leaf	l̥ aː	l̥a:			
+226	l̥ aː + h eːi̯	1004 1005	None	leaf	628	KhunHawt	l̥aː heːj	None	Khun Hawt	22.965064	97.163239	15_leaf	l̥ aː + h eːi̯	l̥aː heːj			
+227	l̥ aː	1004	None	leaf	628	HtanHsan	l̥aː	None	Htan Hsan	22.675133	97.289942	15_leaf	l̥ aː	l̥aː			
+228	l̥ aː	1004	None	leaf	628	PangKham	l̥aː	None	Pangkham	22.672097	97.161167	15_leaf	l̥ aː	l̥aː			
+229	l̥ ɛː	1004	None	leaf	628	ManLoi	l̥ɛː	None	Man Loi	22.636019	97.139264	15_leaf	l̥ ɛː	l̥ɛː			
+230	l̥ ɛː + h i -	1004 1005	None	leaf	628	MengDan	l̥ɛː hi	khan1274	Meng Dan	24.296522	98.379886	15_leaf	l̥ ɛː + h i	l̥ɛː hi			
+231	l̥ aː + h iː -	1004 1005	None	leaf	628	ChuDongGua	l̥aː hiː	None	Chu Dong Gua	24.330889	98.393125	15_leaf	l̥ aː + h iː	l̥aː hiː			
+232	l̥ aː	1004	None	leaf	628	XiangZhaiTang	l̥aː	ruma1248	Xiang Zhai Tang	24.323819	98.556639	15_leaf	l̥ aː	l̥aː			
+233	l̥ ɛa	1004	None	leaf	628	PongNuea	l̥ɛa	None	Pong Nuea	20.321525	99.866817	15_leaf	l̥ ɛa	l̥ɛa			
+234	l̥ a	1004	None	leaf	628	NyaungGone	l̥a	None	Nyaung Gone	20.635025	96.545772	15_leaf	l̥ a	l̥a			
+235	l̥ a	1004	None	leaf	628	NoeLae	l̥a	None	Noe Lae	19.941803	99.044742	15_leaf	l̥ a	l̥a			
+236	l̥ a	1004	None	leaf	628	BanPaw	l̥a	None	Ban Paw	21.311225	99.557550	15_leaf	l̥ a	l̥a			
+237	l̥ aː	1004	None	leaf	628	ChaYeQing	l̥aː	None	Cha Ye Qing	24.305717	98.463661	15_leaf	l̥ aː	l̥aː			
+238	l̥ aː + h ɔːi̯	1004 2017	None	leaf	628	GuangKa	l̥aː hɔːj	ruma1248	Guang Ka	24.065714	97.796281	15_leaf	l̥ aː + h ɔːi̯	l̥aː hɔːj			 tree
+239	l̥ aː + h ɔːi̯	1004 1005	None	leaf	628	MangBang	l̥aː hɔːj	ruma1248	Mang Bang	24.416392	98.399078	15_leaf	l̥ aː + h ɔːi̯	l̥aː hɔːj			
+240	l̥ aː	1004	None	leaf	628	NanSang	l̥aː	ruma1248	Nan Sang	24.019728	97.819736	15_leaf	l̥ aː	l̥aː			
+241	ɓ o h	614	None	flower	239	NamHsan	ɓoh	None	Namhsan	22.965064	97.163239	16_flower	ɓ o h	ɓoh			
+242	ɓ o h	614	None	flower	239	KhunHawt	ɓoh	None	Khun Hawt	22.965064	97.163239	16_flower	ɓ o h	ɓoh			
+243	ɓ o h	614	None	flower	239	HtanHsan	ɓoh	None	Htan Hsan	22.675133	97.289942	16_flower	ɓ o h	ɓoh			
+244	b o h	614	None	flower	239	PangKham	boh	None	Pangkham	22.672097	97.161167	16_flower	b o h	boh			
+245	ɓ o h	614	None	flower	239	ManLoi	ɓoh	None	Man Loi	22.636019	97.139264	16_flower	ɓ o h	ɓoh			
+246	ɓ o h	614	None	flower	239	MengDan	ɓoh	khan1274	Meng Dan	24.296522	98.379886	16_flower	ɓ o h	ɓoh			
+247	ɓ o h	614	None	flower	239	ChuDongGua	ɓoh	None	Chu Dong Gua	24.330889	98.393125	16_flower	ɓ o h	ɓoh			
+248	b o h	614	None	flower	239	XiangZhaiTang	boh	ruma1248	Xiang Zhai Tang	24.323819	98.556639	16_flower	b o h	boh			
+249	b ou̯ h	614	None	flower	239	PongNuea	bouh	None	Pong Nuea	20.321525	99.866817	16_flower	b ou̯ h	bouh			
+250	b ou̯ h	614	None	flower	239	NyaungGone	bouh	None	Nyaung Gone	20.635025	96.545772	16_flower	b ou̯ h	bouh			
+251	b ou̯ h	614	None	flower	239	NoeLae	bouh	None	Noe Lae	19.941803	99.044742	16_flower	b ou̯ h	bouh			
+252	b ou̯ h	614	None	flower	239	BanPaw	bouh	None	Ban Paw	21.311225	99.557550	16_flower	b ou̯ h	bouh			
+253	b o x	614	None	flower	239	ChaYeQing	box	None	Cha Ye Qing	24.305717	98.463661	16_flower	b o x	box			
+254	p o h	614	None	flower	239	GuangKa	poh	ruma1248	Guang Ka	24.065714	97.796281	16_flower	p o h	poh			
+255	p o h	614	None	flower	239	MangBang	poh	ruma1248	Mang Bang	24.416392	98.399078	16_flower	p o h	poh			
+256	p o h	614	None	flower	239	NanSang	poh	ruma1248	Nan Sang	24.019728	97.819736	16_flower	p o h	poh			
+257	ɓ l eː -	686	None	fruit	1507	NamHsan	ɓleː	None	Namhsan	22.965064	97.163239	17_fruit	ɓ l eː	ɓleː			
+258	p l ei̯ -	686	None	fruit	1507	KhunHawt	plej	None	Khun Hawt	22.965064	97.163239	17_fruit	p l ei̯	plej			
+259	ɓ l ei̯ -	686	None	fruit	1507	HtanHsan	ɓlej	None	Htan Hsan	22.675133	97.289942	17_fruit	ɓ l ei̯	ɓlej			
+260	b l eː -	686	None	fruit	1507	PangKham	bleː	None	Pangkham	22.672097	97.161167	17_fruit	b l eː	bleː			
+261	b l ei̯ -	686	None	fruit	1507	ManLoi	blej	None	Man Loi	22.636019	97.139264	17_fruit	b l ei̯	blej			
+262	b l iː -	686	None	fruit	1507	MengDan	bliː	khan1274	Meng Dan	24.296522	98.379886	17_fruit	b l iː	bliː			
+263	ɓ l iː -	686	None	fruit	1507	ChuDongGua	ɓliː	None	Chu Dong Gua	24.330889	98.393125	17_fruit	ɓ l iː	ɓliː			
+264	b l ei̯ -	686	None	fruit	1507	XiangZhaiTang	blej	ruma1248	Xiang Zhai Tang	24.323819	98.556639	17_fruit	b l ei̯	blej			
+265	b l ei̯ -	686	None	fruit	1507	PongNuea	blej	None	Pong Nuea	20.321525	99.866817	17_fruit	b l ei̯	blej			
+266	b l e -	686	None	fruit	1507	NyaungGone	ble	None	Nyaung Gone	20.635025	96.545772	17_fruit	b l e	ble			
+267	b l e -	686	None	fruit	1507	NoeLae	ble	None	Noe Lae	19.941803	99.044742	17_fruit	b l e	ble			
+268	b l e -	686	None	fruit	1507	BanPaw	ble	None	Ban Paw	21.311225	99.557550	17_fruit	b l e	ble			
+269	ɓ l ɔːi̯	686	None	fruit	1507	ChaYeQing	ɓlɔːj	None	Cha Ye Qing	24.305717	98.463661	17_fruit	ɓ l ɔːi̯	ɓlɔːj			
+270	p l ɔːi̯	686	None	fruit	1507	GuangKa	plɔːj	ruma1248	Guang Ka	24.065714	97.796281	17_fruit	p l ɔːi̯	plɔːj			
+271	p l ɔːi̯	686	None	fruit	1507	MangBang	plɔːj	ruma1248	Mang Bang	24.416392	98.399078	17_fruit	p l ɔːi̯	plɔːj			
+272	p l ɔːi̯	686	None	fruit	1507	NanSang	plɔːj	ruma1248	Nan Sang	24.019728	97.819736	17_fruit	p l ɔːi̯	plɔːj			
+273	k ə r + b - aː n	739 737	None	grass	606	NamHsan	kәrbaːn	None	Namhsan	22.965064	97.163239	18_grass	k ə r + b aː n	kәrbaːn			
+274	k ə r + b - aː n	739 737	None	grass	606	KhunHawt	kәrbaːn	None	Khun Hawt	22.965064	97.163239	18_grass	k ə r + b aː n	kәrbaːn			
+275	b r ei̯ -	737	None	grass	606	HtanHsan	brej	None	Htan Hsan	22.675133	97.289942	18_grass	b r ei̯	brej			
+276	p r ai̯ -	737	None	grass	606	PangKham	praj	None	Pangkham	22.672097	97.161167	18_grass	p r ai̯	praj			
+277	p r ai̯ -	737	None	grass	606	ManLoi	praj	None	Man Loi	22.636019	97.139264	18_grass	p r ai̯	praj			
+278	p r ai̯ -	737	None	grass	606	MengDan	praj	khan1274	Meng Dan	24.296522	98.379886	18_grass	p r ai̯	praj			
+279	ɓ r ai̯ -	737	None	grass	606	ChuDongGua	ɓrai	None	Chu Dong Gua	24.330889	98.393125	18_grass	ɓ r ai̯	ɓrai			
+280	p - ə t	737	None	grass	606	XiangZhaiTang	pət	ruma1248	Xiang Zhai Tang	24.323819	98.556639	18_grass	p ə t	pət			
+281	p - ə t	737	None	grass	606	PongNuea	pət	None	Pong Nuea	20.321525	99.866817	18_grass	p ə t	pət			
+282	p - ə̆ t	737	None	grass	606	NyaungGone	pə̆t	None	Nyaung Gone	20.635025	96.545772	18_grass	p ə̆ t	pə̆t			
+283	p - ə̆ t	737	None	grass	606	NoeLae	pə̆t	None	Noe Lae	19.941803	99.044742	18_grass	p ə̆ t	pə̆t			
+284	p - ə̆ t	737	None	grass	606	BanPaw	pə̆t	None	Ban Paw	21.311225	99.557550	18_grass	p ə̆ t	pə̆t			
+285	b j ai̯	738	None	grass	606	ChaYeQing	bjai	None	Cha Ye Qing	24.305717	98.463661	18_grass	b j ai̯	bjai			
+286	b - a t	737	None	grass	606	GuangKa	bat	ruma1248	Guang Ka	24.065714	97.796281	18_grass	b a t	bat			
+287	b - ə t	737	None	grass	606	MangBang	bət	ruma1248	Mang Bang	24.416392	98.399078	18_grass	b ə t	bət			
+288	b - a t	737	None	grass	606	NanSang	bat	ruma1248	Nan Sang	24.019728	97.819736	18_grass	b a t	bat			
+289	tɕ ɛː m	1598	None	salty	1091	NamHsan	ʨɛːm	None	Namhsan	22.965064	97.163239	19_salty	tɕ ɛː m	ʨɛːm			
+290	s a ŋ	1597	None	salty	1091	KhunHawt	saŋ	None	Khun Hawt	22.965064	97.163239	19_salty	s a ŋ	saŋ			
+291	s ɔ ʔ + s a ŋ	1599 1597	None	salty	1091	HtanHsan	sɔɁ saŋ	None	Htan Hsan	22.675133	97.289942	19_salty	s ɔ ʔ + s a ŋ	sɔɁ saŋ			
+292	j ɛː m	1598	None	salty	1091	PangKham	jɛːm	None	Pangkham	22.672097	97.161167	19_salty	j ɛː m	jɛːm			
+293	s ɛ ʔ + s a ŋ	1599 1597	None	salty	1091	ManLoi	sɛɁ saŋ	None	Man Loi	22.636019	97.139264	19_salty	s ɛ ʔ + s a ŋ	sɛɁ saŋ			
+294	s a ŋ	1597	None	salty	1091	MengDan	saŋ	khan1274	Meng Dan	24.296522	98.379886	19_salty	s a ŋ	saŋ			
+295	tɕ eː m	1598	None	salty	1091	ChuDongGua	ʨeːm	None	Chu Dong Gua	24.330889	98.393125	19_salty	tɕ eː m	ʨeːm			
+296	s ɛ ʔ + s ɔ ŋ	1599 1597	None	salty	1091	XiangZhaiTang	sɛɁsɔŋ	ruma1248	Xiang Zhai Tang	24.323819	98.556639	19_salty	s ɛ ʔ + s ɔ ŋ	sɛɁsɔŋ			
+297	s ɔ ŋ	1597	None	salty	1091	PongNuea	sɔŋ	None	Pong Nuea	20.321525	99.866817	19_salty	s ɔ ŋ	sɔŋ			
+298	s ɔ k	1597	None	salty	1091	NyaungGone	sɔk	None	Nyaung Gone	20.635025	96.545772	19_salty	s ɔ k	sɔk			
+299	s ɔ ŋ	1597	None	salty	1091	NoeLae	sɔŋ	None	Noe Lae	19.941803	99.044742	19_salty	s ɔ ŋ	sɔŋ			
+300	s ɔ ŋ	1597	None	salty	1091	BanPaw	sɔŋ	None	Ban Paw	21.311225	99.557550	19_salty	s ɔ ŋ	sɔŋ			
+301	tɕ eː m	1598	None	salty	1091	ChaYeQing	ʨeːm	None	Cha Ye Qing	24.305717	98.463661	19_salty	tɕ eː m	ʨeːm			
+302	tɕ ɛː m	1598	None	salty	1091	GuangKa	ʨɛːm	ruma1248	Guang Ka	24.065714	97.796281	19_salty	tɕ ɛː m	ʨɛːm			
+303	tɕ eː m	1598	None	salty	1091	MangBang	ʨeːm	ruma1248	Mang Bang	24.416392	98.399078	19_salty	tɕ eː m	ʨeːm			
+304	s ɔ ŋ	1597	None	salty	1091	NanSang	sɔŋ	ruma1248	Nan Sang	24.019728	97.819736	19_salty	s ɔ ŋ	sɔŋ			
+305	ʔ a - + ʔ o ʔ	340 341	None	dog	2009	NamHsan	ɁaɁoɁ	None	Namhsan	22.965064	97.163239	20_dog	ʔ a + ʔ o ʔ	ɁaɁoɁ			
+306	ʔ a - + ʔ o ʔ	340 341	None	dog	2009	KhunHawt	ɁaɁoɁ	None	Khun Hawt	22.965064	97.163239	20_dog	ʔ a + ʔ o ʔ	ɁaɁoɁ			
+307	ʔ a - + ʔ o ʔ	340 341	None	dog	2009	HtanHsan	ɁaɁoɁ	None	Htan Hsan	22.675133	97.289942	20_dog	ʔ a + ʔ o ʔ	ɁaɁoɁ			
+308	ʔ a - + ʔ o ʔ	340 341	None	dog	2009	PangKham	ɁaɁoɁ	None	Pangkham	22.672097	97.161167	20_dog	ʔ a + ʔ o ʔ	ɁaɁoɁ			
+309	ʔ a - + ʔ o ʔ	340 341	None	dog	2009	ManLoi	ɁaɁoɁ	None	Man Loi	22.636019	97.139264	20_dog	ʔ a + ʔ o ʔ	ɁaɁoɁ			
+310	ʔ a - + ʔ u ʔ	340 341	None	dog	2009	MengDan	ʔaʔuʔ	khan1274	Meng Dan	24.296522	98.379886	20_dog	ʔ a + ʔ u ʔ	ʔaʔuʔ			
+311	ʔ a - + ʔ o ʔ	340 341	None	dog	2009	ChuDongGua	ʔaʔoʔ	None	Chu Dong Gua	24.330889	98.393125	20_dog	ʔ a + ʔ o ʔ	ʔaʔoʔ			
+312	s ou̯	340	None	dog	2009	XiangZhaiTang	sow	ruma1248	Xiang Zhai Tang	24.323819	98.556639	20_dog	s ou̯	sow			
+313	m a + s ou̯	339 340	None	dog	2009	PongNuea	masow	None	Pong Nuea	20.321525	99.866817	20_dog	m a + s ou̯	masow			
+314	m a + s o -	339 340	None	dog	2009	NyaungGone	maso	None	Nyaung Gone	20.635025	96.545772	20_dog	m a + s o	maso			
+315	m a + s o -	339 340	None	dog	2009	NoeLae	maso	None	Noe Lae	19.941803	99.044742	20_dog	m a + s o	maso			
+316	m a + s o -	1110 340	None	dog	2009	BanPaw	maso	None	Ban Paw	21.311225	99.557550	20_dog	m a + s o	maso			_-prefix/ma ?
+317	m a + ʔ o ʔ	339 341	None	dog	2009	ChaYeQing	maʔoʔ	None	Cha Ye Qing	24.305717	98.463661	20_dog	m a + ʔ o ʔ	maʔoʔ			
+318	s au̯	340	None	dog	2009	GuangKa	saw	ruma1248	Guang Ka	24.065714	97.796281	20_dog	s au̯	saw			
+319	s au̯	340	None	dog	2009	MangBang	saw	ruma1248	Mang Bang	24.416392	98.399078	20_dog	s au̯	saw			
+320	s ou̯	340	None	dog	2009	NanSang	sow	ruma1248	Nan Sang	24.019728	97.819736	20_dog	s ou̯	sow			
+321	g - a ʔ	88	None	bite	1403	NamHsan	ɡaɁ	None	Namhsan	22.965064	97.163239	21_bite	g a ʔ	ɡaɁ			
+322	g - a ʔ	88	None	bite	1403	KhunHawt	ɡaɁ	None	Khun Hawt	22.965064	97.163239	21_bite	g a ʔ	ɡaɁ			
+323	g - a ʔ	88	None	bite	1403	HtanHsan	ɡaɁ	None	Htan Hsan	22.675133	97.289942	21_bite	g a ʔ	ɡaɁ			
+324	g - a k	88	None	bite	1403	PangKham	ɡak	None	Pangkham	22.672097	97.161167	21_bite	g a k	ɡak			
+325	k - a k	88	None	bite	1403	ManLoi	kak	None	Man Loi	22.636019	97.139264	21_bite	k a k	kak			
+326	k i/j a ʔ	88	None	bite	1403	MengDan	kiaʔ	khan1274	Meng Dan	24.296522	98.379886	21_bite	k i/j a ʔ	kiaʔ			
+327	g - a ʔ	88	None	bite	1403	ChuDongGua	ɡa?	None	Chu Dong Gua	24.330889	98.393125	21_bite	g a ʔ	ɡa?			
+328	k - ɔ ʔ	88	None	bite	1403	XiangZhaiTang	kɔɁ	ruma1248	Xiang Zhai Tang	24.323819	98.556639	21_bite	k ɔ ʔ	kɔɁ			
+329	k - au̯ ʔ	88	None	bite	1403	PongNuea	kauɁ	None	Pong Nuea	20.321525	99.866817	21_bite	k au̯ ʔ	kauɁ			
+330	k - au̯ ʔ	88	None	bite	1403	NyaungGone	kauʔ	None	Nyaung Gone	20.635025	96.545772	21_bite	k au̯ ʔ	kauʔ			
+331	k - au̯ ʔ	88	None	bite	1403	NoeLae	kauɁ	None	Noe Lae	19.941803	99.044742	21_bite	k au̯ ʔ	kauɁ			
+332	k - au̯ ʔ	88	None	bite	1403	BanPaw	kauɁ	None	Ban Paw	21.311225	99.557550	21_bite	k au̯ ʔ	kauɁ			
+333	g - a k	88	None	bite	1403	ChaYeQing	ɡak	None	Cha Ye Qing	24.305717	98.463661	21_bite	g a k	ɡak			
+334	g - a k	88	None	bite	1403	GuangKa	ɡak	ruma1248	Guang Ka	24.065714	97.796281	21_bite	g a k	ɡak			
+335	g - ɔ k	88	None	bite	1403	MangBang	ɡɔk	ruma1248	Mang Bang	24.416392	98.399078	21_bite	g ɔ k	ɡɔk			
+336	k - ɔ k	88	None	bite	1403	NanSang	kɔk	ruma1248	Nan Sang	24.019728	97.819736	21_bite	k ɔ k	kɔk			
+337	n u ŋ + k r a ʔ	872 873	None	horn	1393	NamHsan	nuŋ kraɁ	None	Namhsan	22.965064	97.163239	22_horn	n u ŋ + k r a ʔ	nuŋ kraɁ			
+338	n ə ŋ	872	None	horn	1393	KhunHawt	nәŋ	None	Khun Hawt	22.965064	97.163239	22_horn	n ə ŋ	nәŋ			
+339	n u k	872	None	horn	1393	HtanHsan	nuk	None	Htan Hsan	22.675133	97.289942	22_horn	n u k	nuk			
+340	n ɨ ŋ	872	None	horn	1393	PangKham	nɨŋ	None	Pangkham	22.672097	97.161167	22_horn	n ɨ ŋ	nɨŋ			
+341	n u ŋ	872	None	horn	1393	ManLoi	nuŋ	None	Man Loi	22.636019	97.139264	22_horn	n u ŋ	nuŋ			
+342	n u ŋ	872	None	horn	1393	MengDan	nuŋ	khan1274	Meng Dan	24.296522	98.379886	22_horn	n u ŋ	nuŋ			
+343	n u ŋ	872	None	horn	1393	ChuDongGua	nuŋ	None	Chu Dong Gua	24.330889	98.393125	22_horn	n u ŋ	nuŋ			
+344	n ɨ ŋ	872	None	horn	1393	XiangZhaiTang	nɨŋ	ruma1248	Xiang Zhai Tang	24.323819	98.556639	22_horn	n ɨ ŋ	nɨŋ			
+345	n ɨ ŋ	872	None	horn	1393	PongNuea	nɨŋ	None	Pong Nuea	20.321525	99.866817	22_horn	n ɨ ŋ	nɨŋ			
+346	n ɨ k	872	None	horn	1393	NyaungGone	nɨk	None	Nyaung Gone	20.635025	96.545772	22_horn	n ɨ k	nɨk			
+347	n ɨ ŋ	872	None	horn	1393	NoeLae	nɨŋ	None	Noe Lae	19.941803	99.044742	22_horn	n ɨ ŋ	nɨŋ			
+348	n ɨ ŋ	872	None	horn	1393	BanPaw	nɨŋ	None	Ban Paw	21.311225	99.557550	22_horn	n ɨ ŋ	nɨŋ			
+349	n ɨ ŋ	872	None	horn	1393	ChaYeQing	nɨŋ	None	Cha Ye Qing	24.305717	98.463661	22_horn	n ɨ ŋ	nɨŋ			
+350	n ɨ ŋ	872	None	horn	1393	GuangKa	nɨŋ	ruma1248	Guang Ka	24.065714	97.796281	22_horn	n ɨ ŋ	nɨŋ			
+351	n ɨ ŋ	872	None	horn	1393	MangBang	nɨŋ	ruma1248	Mang Bang	24.416392	98.399078	22_horn	n ɨ ŋ	nɨŋ			
+352	n ɨ ŋ	872	None	horn	1393	NanSang	nɨŋ	ruma1248	Nan Sang	24.019728	97.819736	22_horn	n ɨ ŋ	nɨŋ			
+353	s a + ɗ aː	1890 1891	None	tail	1220	NamHsan	saɗaː	None	Namhsan	22.965064	97.163239	23_tail	s a + ɗ aː	saɗaː			
+354	s a + ɗ aː	1858 1891	None	tail	1220	KhunHawt	saɗaː	None	Khun Hawt	22.965064	97.163239	23_tail	s a + ɗ aː	saɗaː			_-:suffix/sa ?
+355	s a + ɗ aː	1890 1891	None	tail	1220	HtanHsan	saɗaː	None	Htan Hsan	22.675133	97.289942	23_tail	s a + ɗ aː	saɗaː			_-:suffix/sa ?
+356	s a + ɗ aː	1890 1891	None	tail	1220	PangKham	saɗaː	None	Pangkham	22.672097	97.161167	23_tail	s a + ɗ aː	saɗaː			
+357	s a + ɗ ɛː	1890 1891	None	tail	1220	ManLoi	saɗɛː	None	Man Loi	22.636019	97.139264	23_tail	s a + ɗ ɛː	saɗɛː			
+358	k ə + ɗ ɛː	1892 1891	None	tail	1220	MengDan	kəɗɛː	khan1274	Meng Dan	24.296522	98.379886	23_tail	k ə + ɗ ɛː	kəɗɛː			
+359	s a + d aː	1890 1891	None	tail	1220	ChuDongGua	sadaː	None	Chu Dong Gua	24.330889	98.393125	23_tail	s a + d aː	sadaː			
+360	s ə + d aː	1890 1891	None	tail	1220	XiangZhaiTang	sədaː	ruma1248	Xiang Zhai Tang	24.323819	98.556639	23_tail	s ə + d aː	sədaː			
+361	s a + d ɛa	1890 1891	None	tail	1220	PongNuea	sadɛa	None	Pong Nuea	20.321525	99.866817	23_tail	s a + d ɛa	sadɛa			
+362	s a + d a	1890 1891	None	tail	1220	NyaungGone	sada	None	Nyaung Gone	20.635025	96.545772	23_tail	s a + d a	sada			
+363	s a + d a	1890 1891	None	tail	1220	NoeLae	sada	None	Noe Lae	19.941803	99.044742	23_tail	s a + d a	sada			
+364	s a + d a	1563 1891	None	tail	1220	BanPaw	sada	None	Ban Paw	21.311225	99.557550	23_tail	s a + d a	sada			_-:prefix/sa ?
+365	kʰ a + ɗ aː	1322 1891	None	tail	1220	ChaYeQing	khaɗaː	None	Cha Ye Qing	24.305717	98.463661	23_tail	kʰ a + ɗ aː	khaɗaː			_-:prefix/kha ?
+366	s a + t aː	1858 1891	None	tail	1220	GuangKa	sataː	ruma1248	Guang Ka	24.065714	97.796281	23_tail	s a + t aː	sataː			_-:suffix/sa ?
+367	s a + t aː	1890 1891	None	tail	1220	MangBang	sataː	ruma1248	Mang Bang	24.416392	98.399078	23_tail	s a + t aː	sataː			
+368	s a + t aː	1890 1891	None	tail	1220	NanSang	sataː	ruma1248	Nan Sang	24.019728	97.819736	23_tail	s a + t aː	sataː			
+369	s i m	68	None	bird	937	NamHsan	sim	None	Namhsan	22.965064	97.163239	24_bird	s i m	sim			
+370	s i m	68	None	bird	937	KhunHawt	sim	None	Khun Hawt	22.965064	97.163239	24_bird	s i m	sim			
+371	s i m	68	None	bird	937	HtanHsan	sim	None	Htan Hsan	22.675133	97.289942	24_bird	s i m	sim			
+372	s i m	68	None	bird	937	PangKham	sim	None	Pangkham	22.672097	97.161167	24_bird	s i m	sim			
+373	s i m	68	None	bird	937	ManLoi	sim	None	Man Loi	22.636019	97.139264	24_bird	s i m	sim			
+374	s i m	68	None	bird	937	MengDan	sim	khan1274	Meng Dan	24.296522	98.379886	24_bird	s i m	sim			
+375	s i m	68	None	bird	937	ChuDongGua	sim	None	Chu Dong Gua	24.330889	98.393125	24_bird	s i m	sim			
+376	s iː m	68	None	bird	937	XiangZhaiTang	siːm	ruma1248	Xiang Zhai Tang	24.323819	98.556639	24_bird	s iː m	siːm			
+377	m a + s iː m	67 68	None	bird	937	PongNuea	masiːm	None	Pong Nuea	20.321525	99.866817	24_bird	m a + s iː m	masiːm			
+378	m a + s i m	67 68	None	bird	937	NyaungGone	masim	None	Nyaung Gone	20.635025	96.545772	24_bird	m a + s i m	masim			
+379	m a + s i m	67 68	None	bird	937	NoeLae	masim	None	Noe Lae	19.941803	99.044742	24_bird	m a + s i m	masim			
+380	m a + s i m	1110 68	None	bird	937	BanPaw	masim	None	Ban Paw	21.311225	99.557550	24_bird	m a + s i m	masim			_-prefix/ma ?
+381	s iː m	68	None	bird	937	ChaYeQing	siːm	None	Cha Ye Qing	24.305717	98.463661	24_bird	s iː m	siːm			
+382	s iː m	68	None	bird	937	GuangKa	siːm	ruma1248	Guang Ka	24.065714	97.796281	24_bird	s iː m	siːm			
+383	s iː m	68	None	bird	937	MangBang	siːm	ruma1248	Mang Bang	24.416392	98.399078	24_bird	s iː m	siːm			
+384	s iː m	68	None	bird	937	NanSang	siːm	ruma1248	Nan Sang	24.019728	97.819736	24_bird	s iː m	siːm			
+385	p - ə r	631	None	fly	1504	NamHsan	pәr	None	Namhsan	22.965064	97.163239	25_fly	p ə r	pәr			
+386	b - ə r	631	None	fly	1504	KhunHawt	bәr	None	Khun Hawt	22.965064	97.163239	25_fly	b ə r	bәr			
+387	ɓ - ə r	631	None	fly	1504	HtanHsan	ɓәr	None	Htan Hsan	22.675133	97.289942	25_fly	ɓ ə r	ɓәr			
+388	m - i n	631	None	fly	1504	PangKham	min	None	Pangkham	22.672097	97.161167	25_fly	m i n	min			
+389	b - ə r	631	None	fly	1504	ManLoi	bәr	None	Man Loi	22.636019	97.139264	25_fly	b ə r	bәr			
+390	pʰ r uː -	631	None	fly	1504	MengDan	phruː	khan1274	Meng Dan	24.296522	98.379886	25_fly	pʰ r uː	phruː			
+391	pʰ r uː -	631	None	fly	1504	ChuDongGua	phruː	None	Chu Dong Gua	24.330889	98.393125	25_fly	pʰ r uː	phruː			
+392	b - ə n	631	None	fly	1504	XiangZhaiTang	bən	ruma1248	Xiang Zhai Tang	24.323819	98.556639	25_fly	b ə n	bən			
+393	b - ə n	631	None	fly	1504	PongNuea	bən	None	Pong Nuea	20.321525	99.866817	25_fly	b ə n	bən			
+394	b - ə̆ n	631	None	fly	1504	NyaungGone	bə̆n	None	Nyaung Gone	20.635025	96.545772	25_fly	b ə̆ n	bə̆n			
+395	b - ə̆ n	631	None	fly	1504	NoeLae	bə̆n	None	Noe Lae	19.941803	99.044742	25_fly	b ə̆ n	bə̆n			
+396	b - ə̆ n	631	None	fly	1504	BanPaw	bə̆n	None	Ban Paw	21.311225	99.557550	25_fly	b ə̆ n	bə̆n			
+397	ɓ - ai̯ -	631	None	fly	1504	ChaYeQing	ɓaj	None	Cha Ye Qing	24.305717	98.463661	25_fly	ɓ ai̯	ɓaj			
+398	p - ɨː h	631	None	fly	1504	GuangKa	pɨːh	ruma1248	Guang Ka	24.065714	97.796281	25_fly	p ɨː h	pɨːh			
+399	p - ɨː -	631	None	fly	1504	MangBang	pɨː	ruma1248	Mang Bang	24.416392	98.399078	25_fly	p ɨː	pɨː			
+400	p - ɨː -	631	None	fly	1504	NanSang	pɨː	ruma1248	Nan Sang	24.019728	97.819736	25_fly	p ɨː	pɨː			
+401	k - a - + d a m + ɓ e ʔ	461 462 459	None	egg	744	NamHsan	kadam ɓeɁ	None	Namhsan	22.965064	97.163239	26_egg	k a + d a m + ɓ e ʔ	kadam ɓeɁ			
+402	k - a - + ɗ a m	1027 462	None	egg	744	KhunHawt	kaɗam	None	Khun Hawt	22.965064	97.163239	26_egg	k a + ɗ a m	kaɗam			_-:sufix/ka ?
+403	k - a - + ɗ a m	1027 462	None	egg	744	HtanHsan	kaɗam	None	Htan Hsan	22.675133	97.289942	26_egg	k a + ɗ a m	kaɗam			_-:suffix/ka ?
+404	g l au̯	461	None	egg	744	PangKham	ɡlaw	None	Pangkham	22.672097	97.161167	26_egg	g l au̯	ɡlaw			
+405	k l au̯ + kʰ ai̯	463 461	None	egg	744	ManLoi	klaw khaj	None	Man Loi	22.636019	97.139264	26_egg	k l au̯ + kʰ ai̯	klaw khaj			
+406	g l ɛːu̯	461	None	egg	744	MengDan	ɡlɛːw	khan1274	Meng Dan	24.296522	98.379886	26_egg	g l ɛːu̯	ɡlɛːw			
+407	g r aːu̯ + ʔ i/j a r	461 460	None	egg	744	ChuDongGua	ɡraːw ʔiar	None	Chu Dong Gua	24.330889	98.393125	26_egg	g r aːu̯ + ʔ i/j a r	ɡraːw ʔiar			
+408	p əː n	459	None	egg	744	XiangZhaiTang	pəːn	ruma1248	Xiang Zhai Tang	24.323819	98.556639	26_egg	p əː n	pəːn			
+409	p əa n	459	None	egg	744	PongNuea	pəan	None	Pong Nuea	20.321525	99.866817	26_egg	p əa n	pəan			
+410	p ə n + ʔ i/j a n	459 460	None	egg	744	NyaungGone	pən ʔian	None	Nyaung Gone	20.635025	96.545772	26_egg	p ə n + ʔ i/j a n	pən ʔian			
+411	p ə n + ʔ i/j a n	459 460	None	egg	744	NoeLae	pən Ɂian	None	Noe Lae	19.941803	99.044742	26_egg	p ə n + ʔ i/j a n	pən Ɂian			
+412	p ə n + ʔ i/j a n	459 460	None	egg	744	BanPaw	pən Ɂian	None	Ban Paw	21.311225	99.557550	26_egg	p ə n + ʔ i/j a n	pən Ɂian			
+413	b əː n	459	None	egg	744	ChaYeQing	bəːn	None	Cha Ye Qing	24.305717	98.463661	26_egg	b əː n	bəːn			
+414	b əː n	459	None	egg	744	GuangKa	bəːn	ruma1248	Guang Ka	24.065714	97.796281	26_egg	b əː n	bəːn			
+415	b əː n	459	None	egg	744	MangBang	bəːn	ruma1248	Mang Bang	24.416392	98.399078	26_egg	b əː n	bəːn			
+416	b əː n	459	None	egg	744	NanSang	bəːn	ruma1248	Nan Sang	24.019728	97.819736	26_egg	b əː n	bəːn			
+417	k aː	594	None	fish	227	NamHsan	kaː	None	Namhsan	22.965064	97.163239	27_fish	k aː	kaː			
+418	k aː	594	None	fish	227	KhunHawt	kaː	None	Khun Hawt	22.965064	97.163239	27_fish	k aː	kaː			
+419	k aː	594	None	fish	227	HtanHsan	kaː	None	Htan Hsan	22.675133	97.289942	27_fish	k aː	kaː			
+420	g aː	594	None	fish	227	PangKham	ɡaː	None	Pangkham	22.672097	97.161167	27_fish	g aː	ɡaː			
+421	g ɛː	594	None	fish	227	ManLoi	ɡɛː	None	Man Loi	22.636019	97.139264	27_fish	g ɛː	ɡɛː			
+422	k ɛː	594	None	fish	227	MengDan	kɛː	khan1274	Meng Dan	24.296522	98.379886	27_fish	k ɛː	kɛː			
+423	k aː	594	None	fish	227	ChuDongGua	kaː	None	Chu Dong Gua	24.330889	98.393125	27_fish	k aː	kaː			
+424	g aː	594	None	fish	227	XiangZhaiTang	ɡaː	ruma1248	Xiang Zhai Tang	24.323819	98.556639	27_fish	g aː	ɡaː			
+425	m a + g ɛa	593 594	None	fish	227	PongNuea	maɡɛa	None	Pong Nuea	20.321525	99.866817	27_fish	m a + g ɛa	maɡɛa			
+426	m a + g a	593 594	None	fish	227	NyaungGone	maɡa	None	Nyaung Gone	20.635025	96.545772	27_fish	m a + g a	maɡa			
+427	m a + g a	593 594	None	fish	227	NoeLae	maɡa	None	Noe Lae	19.941803	99.044742	27_fish	m a + g a	maɡa			
+428	m a + g a	1110 594	None	fish	227	BanPaw	maɡa	None	Ban Paw	21.311225	99.557550	27_fish	m a + g a	maɡa			_-prefix/ma ?
+429	k aː	594	None	fish	227	ChaYeQing	kaː	None	Cha Ye Qing	24.305717	98.463661	27_fish	k aː	kaː			
+430	k aː	594	None	fish	227	GuangKa	kaː	ruma1248	Guang Ka	24.065714	97.796281	27_fish	k aː	kaː			
+431	k aː	594	None	fish	227	MangBang	kaː	ruma1248	Mang Bang	24.416392	98.399078	27_fish	k aː	kaː			
+432	k aː	594	None	fish	227	NanSang	kaː	ruma1248	Nan Sang	24.019728	97.819736	27_fish	k aː	kaː			
+433	h a ɲ	1759	None	snake	730	NamHsan	haɲ	None	Namhsan	22.965064	97.163239	28_snake	h a ɲ	haɲ			
+434	h e ɲ	1759	None	snake	730	KhunHawt	heɲ	None	Khun Hawt	22.965064	97.163239	28_snake	h e ɲ	heɲ			
+435	h e ɲ	1759	None	snake	730	HtanHsan	heɲ	None	Htan Hsan	22.675133	97.289942	28_snake	h e ɲ	heɲ			
+436	h a ɲ	1759	None	snake	730	PangKham	haɲ	None	Pangkham	22.672097	97.161167	28_snake	h a ɲ	haɲ			
+437	h a n	1759	None	snake	730	ManLoi	han	None	Man Loi	22.636019	97.139264	28_snake	h a n	han			
+438	h ɔ n	1759	None	snake	730	MengDan	hɔn	khan1274	Meng Dan	24.296522	98.379886	28_snake	h ɔ n	hɔn			
+439	h ɔ ɲ	1759	None	snake	730	ChuDongGua	hɔɲ	None	Chu Dong Gua	24.330889	98.393125	28_snake	h ɔ ɲ	hɔɲ			
+440	h a ɲ	1759	None	snake	730	XiangZhaiTang	haɲ	ruma1248	Xiang Zhai Tang	24.323819	98.556639	28_snake	h a ɲ	haɲ			
+441	m a + h a ɲ	1758 1759	None	snake	730	PongNuea	mahaɲ	None	Pong Nuea	20.321525	99.866817	28_snake	m a + h a ɲ	mahaɲ			
+442	h a n	1759	None	snake	730	NyaungGone	han	None	Nyaung Gone	20.635025	96.545772	28_snake	h a n	han			
+443	m a + h a ɲ	1758 1759	None	snake	730	NoeLae	mahaɲ	None	Noe Lae	19.941803	99.044742	28_snake	m a + h a ɲ	mahaɲ			
+444	m a + h ă ɲ	1110 1759	None	snake	730	BanPaw	mahăɲ	None	Ban Paw	21.311225	99.557550	28_snake	m a + h ă ɲ	mahăɲ			_-prefix/ma ?
+445	h a n	1759	None	snake	730	ChaYeQing	han	None	Cha Ye Qing	24.305717	98.463661	28_snake	h a n	han			
+446	h a n	1759	None	snake	730	GuangKa	han	ruma1248	Guang Ka	24.065714	97.796281	28_snake	h a n	han			
+447	h a n	1759	None	snake	730	MangBang	han	ruma1248	Mang Bang	24.416392	98.399078	28_snake	h a n	han			
+448	h a n	1759	None	snake	730	NanSang	han	ruma1248	Nan Sang	24.019728	97.819736	28_snake	h a n	han			
+449	s iː -	1111	None	louse	1392	NamHsan	siː	None	Namhsan	22.965064	97.163239	29_louse	s iː	siː			
+450	s iː -	1111	None	louse	1392	KhunHawt	siː	None	Khun Hawt	22.965064	97.163239	29_louse	s iː	siː			
+451	s ei̯ -	1111	None	louse	1392	HtanHsan	sej	None	Htan Hsan	22.675133	97.289942	29_louse	s ei̯	sej			
+452	s ai̯ -	1111	None	louse	1392	PangKham	saj	None	Pangkham	22.672097	97.161167	29_louse	s ai̯	saj			
+453	s ai̯ -	1111	None	louse	1392	ManLoi	saj	None	Man Loi	22.636019	97.139264	29_louse	s ai̯	saj			
+454	k ə + b r a n	1112 1113	None	louse	1392	MengDan	kəbran	khan1274	Meng Dan	24.296522	98.379886	29_louse	k ə + b r a n	kəbran			
+455	s aːi̯	1111	None	louse	1392	ChuDongGua	saːj	None	Chu Dong Gua	24.330889	98.393125	29_louse	s aːi̯	saːj			
+456	m a + s ɛː -	1110 1111	None	louse	1392	XiangZhaiTang	masɛː	ruma1248	Xiang Zhai Tang	24.323819	98.556639	29_louse	m a + s ɛː	masɛː			
+457	m a + s ɛː -	1110 1111	None	louse	1392	PongNuea	masɛː	None	Pong Nuea	20.321525	99.866817	29_louse	m a + s ɛː	masɛː			
+458	m a + s ɛ -	1110 1111	None	louse	1392	NyaungGone	masɛ	None	Nyaung Gone	20.635025	96.545772	29_louse	m a + s ɛ	masɛ			
+459	m a + s ɛ -	1110 1111	None	louse	1392	NoeLae	masɛ	None	Noe Lae	19.941803	99.044742	29_louse	m a + s ɛ	masɛ			
+460	m a + s ɛ -	1110 1111	None	louse	1392	BanPaw	masɛ	None	Ban Paw	21.311225	99.557550	29_louse	m a + s ɛ	masɛ			_-prefix/ma ?
+461	m a + s ai̯ -	1110 1111	None	louse	1392	ChaYeQing	masaj	None	Cha Ye Qing	24.305717	98.463661	29_louse	m a + s ai̯	masaj			
+462	s ai̯ -	1111	None	louse	1392	GuangKa	saj	ruma1248	Guang Ka	24.065714	97.796281	29_louse	s ai̯	saj			
+463	s ai̯ -	1111	None	louse	1392	MangBang	saj	ruma1248	Mang Bang	24.416392	98.399078	29_louse	s ai̯	saj			
+464	s ai̯ ʔ	1111	None	louse	1392	NanSang	saiɁ	ruma1248	Nan Sang	24.019728	97.819736	29_louse	s ai̯ ʔ	saiɁ			
+465	k i ŋ	805	None	head	1256	NamHsan	kiŋ	None	Namhsan	22.965064	97.163239	30_head	k i ŋ	kiŋ			
+466	k e ɲ	805	None	head	1256	KhunHawt	keɲ	None	Khun Hawt	22.965064	97.163239	30_head	k e ɲ	keɲ			head
+467	k i ɲ	805	None	head	1256	HtanHsan	kiɲ	None	Htan Hsan	22.675133	97.289942	30_head	k i ɲ	kiɲ			head
+468	g i ɲ	805	None	head	1256	PangKham	ɡiɲ	None	Pangkham	22.672097	97.161167	30_head	g i ɲ	ɡiɲ			
+469	g i ŋ	805	None	head	1256	ManLoi	ɡiŋ	None	Man Loi	22.636019	97.139264	30_head	g i ŋ	ɡiŋ			
+470	k i ŋ	805	None	head	1256	MengDan	kiŋ	khan1274	Meng Dan	24.296522	98.379886	30_head	k i ŋ	kiŋ			
+471	g i ŋ	805	None	head	1256	ChuDongGua	ɡiŋ	None	Chu Dong Gua	24.330889	98.393125	30_head	g i ŋ	ɡiŋ			
+472	g i ɲ	805	None	head	1256	XiangZhaiTang	ɡiɲ	ruma1248	Xiang Zhai Tang	24.323819	98.556639	30_head	g i ɲ	ɡiɲ			
+473	g i ɲ	805	None	head	1256	PongNuea	ɡiɲ	None	Pong Nuea	20.321525	99.866817	30_head	g i ɲ	ɡiɲ			
+474	g ɨ n	805	None	head	1256	NyaungGone	ɡɨn	None	Nyaung Gone	20.635025	96.545772	30_head	g ɨ n	ɡɨn			
+475	g i ɲ	805	None	head	1256	NoeLae	ɡiɲ	None	Noe Lae	19.941803	99.044742	30_head	g i ɲ	ɡiɲ			
+476	g ɨ ɲ	805	None	head	1256	BanPaw	ɡɨɲ	None	Ban Paw	21.311225	99.557550	30_head	g ɨ ɲ	ɡɨɲ			
+477	k e n	757	None	head	1256	ChaYeQing	ken	None	Cha Ye Qing	24.305717	98.463661	30_head	k e n	ken			head
+478	k e n	805	None	head	1256	GuangKa	ken	ruma1248	Guang Ka	24.065714	97.796281	30_head	k e n	ken			head
+479	k ə n	805	None	head	1256	MangBang	kən	ruma1248	Mang Bang	24.416392	98.399078	30_head	k ə n	kən			
+480	k ə n	805	None	head	1256	NanSang	kən	ruma1248	Nan Sang	24.019728	97.819736	30_head	k ə n	kən			
+481	h u ʔ + k i ŋ	756 757	None	hair	1040	NamHsan	huɁkiŋ	None	Namhsan	22.965064	97.163239	31_hair	h u ʔ + k i ŋ	huɁkiŋ			
+482	h ou̯ ʔ + k e ɲ	756 805	None	hair	1040	KhunHawt	houɁ keɲ	None	Khun Hawt	22.965064	97.163239	31_hair	h ou̯ ʔ + k e ɲ	houɁ keɲ			 head
+483	h ou̯ ʔ + k i ɲ	756 805	None	hair	1040	HtanHsan	houɁ kiɲ	None	Htan Hsan	22.675133	97.289942	31_hair	h ou̯ ʔ + k i ɲ	houɁ kiɲ			 head
+484	h ɨ k + g i ɲ	756 757	None	hair	1040	PangKham	hɨk ɡiɲ	None	Pangkham	22.672097	97.161167	31_hair	h ɨ k + g i ɲ	hɨk ɡiɲ			
+485	h u k + g i ŋ	756 757	None	hair	1040	ManLoi	huk ɡiŋ	None	Man Loi	22.636019	97.139264	31_hair	h u k + g i ŋ	huk ɡiŋ			
+486	h u ʔ + k i ŋ	756 757	None	hair	1040	MengDan	huʔ kiŋ	khan1274	Meng Dan	24.296522	98.379886	31_hair	h u ʔ + k i ŋ	huʔ kiŋ			
+487	h u ʔ + k i ŋ	756 757	None	hair	1040	ChuDongGua	huʔ kiŋ	None	Chu Dong Gua	24.330889	98.393125	31_hair	h u ʔ + k i ŋ	huʔ kiŋ			
+488	h uːi̯	756	None	hair	1040	XiangZhaiTang	huːj	ruma1248	Xiang Zhai Tang	24.323819	98.556639	31_hair	h uːi̯	huːj			
+489	h ɨ k + g i ɲ	756 757	None	hair	1040	PongNuea	hɨk ɡiɲ	None	Pong Nuea	20.321525	99.866817	31_hair	h ɨ k + g i ɲ	hɨk ɡiɲ			
+490	h ɨ k + g ɨ n	756 757	None	hair	1040	NyaungGone	hɨk ɡɨn	None	Nyaung Gone	20.635025	96.545772	31_hair	h ɨ k + g ɨ n	hɨk ɡɨn			
+491	h ɨ k + g i ɲ	756 757	None	hair	1040	NoeLae	hɨk ɡiɲ	None	Noe Lae	19.941803	99.044742	31_hair	h ɨ k + g i ɲ	hɨk ɡiɲ			
+492	h ɨ k + g ɨ ɲ	756 757	None	hair	1040	BanPaw	hɨk ɡɨɲ	None	Ban Paw	21.311225	99.557550	31_hair	h ɨ k + g ɨ ɲ	hɨk ɡɨɲ			
+493	h ɨ k + k e n	756 757	None	hair	1040	ChaYeQing	hɨk ken	None	Cha Ye Qing	24.305717	98.463661	31_hair	h ɨ k + k e n	hɨk ken			 head
+494	h ɨ k + k e n	756 805	None	hair	1040	GuangKa	hɨk ken	ruma1248	Guang Ka	24.065714	97.796281	31_hair	h ɨ k + k e n	hɨk ken			 head
+495	h ɨ k + k ə n	756 757	None	hair	1040	MangBang	hɨkkən	ruma1248	Mang Bang	24.416392	98.399078	31_hair	h ɨ k + k ə n	hɨkkən			
+496	h ɨ k + k ə n	756 757	None	hair	1040	NanSang	hɨkkən	ruma1248	Nan Sang	24.019728	97.819736	31_hair	h ɨ k + k ə n	hɨkkən			
+497	ŋ aːi̯	485	None	eye	1248	NamHsan	ŋaːj	None	Namhsan	22.965064	97.163239	32_eye	ŋ aːi̯	ŋaːj			
+498	ŋ aːi̯	418	None	eye	1248	KhunHawt	ŋaːj	None	Khun Hawt	22.965064	97.163239	32_eye	ŋ aːi̯	ŋaːj			eye
+499	ŋ aːi̯	485	None	eye	1248	HtanHsan	ŋaːj	None	Htan Hsan	22.675133	97.289942	32_eye	ŋ aːi̯	ŋaːj			
+500	b l eː + ŋ aːi̯	486 485	None	eye	1248	PangKham	bleː ŋaːj	None	Pangkham	22.672097	97.161167	32_eye	b l eː + ŋ aːi̯	bleː ŋaːj			
+501	b l eː + ŋ aːi̯	486 485	None	eye	1248	ManLoi	bleː ŋaːj	None	Man Loi	22.636019	97.139264	32_eye	b l eː + ŋ aːi̯	bleː ŋaːj			
+502	ŋ aːi̯	485	None	eye	1248	MengDan	ŋaːj	khan1274	Meng Dan	24.296522	98.379886	32_eye	ŋ aːi̯	ŋaːj			
+503	ŋ aːi̯	485	None	eye	1248	ChuDongGua	ŋaːj	None	Chu Dong Gua	24.330889	98.393125	32_eye	ŋ aːi̯	ŋaːj			
+504	ŋ aːi̯	485	None	eye	1248	XiangZhaiTang	ŋaːj	ruma1248	Xiang Zhai Tang	24.323819	98.556639	32_eye	ŋ aːi̯	ŋaːj			
+505	ŋ aːi̯	485	None	eye	1248	PongNuea	ŋaːj	None	Pong Nuea	20.321525	99.866817	32_eye	ŋ aːi̯	ŋaːj			
+506	ŋ ai̯ -	485	None	eye	1248	NyaungGone	ŋaj	None	Nyaung Gone	20.635025	96.545772	32_eye	ŋ ai̯	ŋaj			
+507	ŋ ai̯ -	485	None	eye	1248	NoeLae	ŋaj	None	Noe Lae	19.941803	99.044742	32_eye	ŋ ai̯	ŋaj			
+508	ŋ ai̯ -	485	None	eye	1248	BanPaw	ŋaj	None	Ban Paw	21.311225	99.557550	32_eye	ŋ ai̯	ŋaj			
+509	ŋ aːi̯	485	None	eye	1248	ChaYeQing	ŋaːj	None	Cha Ye Qing	24.305717	98.463661	32_eye	ŋ aːi̯	ŋaːj			
+510	ŋ aːi̯	485	None	eye	1248	GuangKa	ŋaːj	ruma1248	Guang Ka	24.065714	97.796281	32_eye	ŋ aːi̯	ŋaːj			
+511	ŋ aːi̯	485	None	eye	1248	MangBang	ŋaːj	ruma1248	Mang Bang	24.416392	98.399078	32_eye	ŋ aːi̯	ŋaːj			
+512	ŋ aːi̯	485	None	eye	1248	NanSang	ŋaːj	ruma1248	Nan Sang	24.019728	97.819736	32_eye	ŋ aːi̯	ŋaːj			
+513	k ɔ ŋ + m u - h	1355 1356	None	nose	1221	NamHsan	kɔŋmuh	None	Namhsan	22.965064	97.163239	33_nose	k ɔ ŋ + m u h	kɔŋmuh			
+514	k ɔ ŋ + m u r̥ -	1355 1201	None	nose	1221	KhunHawt	kɔŋmur̥	None	Khun Hawt	22.965064	97.163239	33_nose	k ɔ ŋ + m u r̥	kɔŋmur̥			 mouth
+515	k ɔ ŋ + m u - h	1355 1356	None	nose	1221	HtanHsan	kɔŋmuh	None	Htan Hsan	22.675133	97.289942	33_nose	k ɔ ŋ + m u h	kɔŋmuh			
+516	g ɔ ŋ + m u - h	1355 1356	None	nose	1221	PangKham	ɡɔŋmuh	None	Pangkham	22.672097	97.161167	33_nose	g ɔ ŋ + m u h	ɡɔŋmuh			
+517	g ɔ ŋ + m u - h	1355 1356	None	nose	1221	ManLoi	ɡɔŋmuh	None	Man Loi	22.636019	97.139264	33_nose	g ɔ ŋ + m u h	ɡɔŋmuh			
+518	ʔ a + m ui̯ h	1358 1356	None	nose	1221	MengDan	ʔamujh	khan1274	Meng Dan	24.296522	98.379886	33_nose	ʔ a + m ui̯ h	ʔamujh			
+519	m ui̯ h	1356	None	nose	1221	ChuDongGua	mujh	None	Chu Dong Gua	24.330889	98.393125	33_nose	m ui̯ h	mujh			
+520	g u ŋ + m u - h	1355 1356	None	nose	1221	XiangZhaiTang	ɡuŋmuh	ruma1248	Xiang Zhai Tang	24.323819	98.556639	33_nose	g u ŋ + m u h	ɡuŋmuh			
+521	g u ŋ + m u - h	1355 1356	None	nose	1221	PongNuea	ɡuŋmuh	None	Pong Nuea	20.321525	99.866817	33_nose	g u ŋ + m u h	ɡuŋmuh			
+522	g u - + m u - h	1355 1356	None	nose	1221	NyaungGone	ɡumuh	None	Nyaung Gone	20.635025	96.545772	33_nose	g u + m u h	ɡumuh			
+523	g o ŋ + m u - h	1355 1356	None	nose	1221	NoeLae	ɡoŋmuh	None	Noe Lae	19.941803	99.044742	33_nose	g o ŋ + m u h	ɡoŋmuh			
+524	g u ŋ + m u - h	1355 1356	None	nose	1221	BanPaw	ɡuŋmuh	None	Ban Paw	21.311225	99.557550	33_nose	g u ŋ + m u h	ɡuŋmuh			
+525	k a - + d o ŋ + m u - h	1062 1093 1356	None	nose	1221	ChaYeQing	kadoŋmuh	None	Cha Ye Qing	24.305717	98.463661	33_nose	k a + d o ŋ + m u h	kadoŋmuh			_-:prefix/ka long ?
+526	k a - + d u ŋ + m u - h	1062 1357 1356	None	nose	1221	GuangKa	kaduŋ muh	ruma1248	Guang Ka	24.065714	97.796281	33_nose	k a + d u ŋ + m u h	kaduŋ muh			_-:suffix/ka ? ?
+527	k a - + d ɔ ŋ + m u - h	1355 1357 1356	None	nose	1221	MangBang	kadɔŋ muh	ruma1248	Mang Bang	24.416392	98.399078	33_nose	k a + d ɔ ŋ + m u h	kadɔŋ muh			
+528	k a - + d u ŋ + m u - h	1355 1357 1356	None	nose	1221	NanSang	kaduŋmuh	ruma1248	Nan Sang	24.019728	97.819736	33_nose	k a + d u ŋ + m u h	kaduŋmuh			
+529	l a j + ʨʰ ɔː - - ʔ	387 386	None	ear	1247	NamHsan	lajʨhɔːɁ	None	Namhsan	22.965064	97.163239	34_ear	l a j + ʨʰ ɔː ʔ	lajʨhɔːɁ			
+530	r a - + l a ŋ	387 389	None	ear	1247	KhunHawt	ralaŋ	None	Khun Hawt	22.965064	97.163239	34_ear	r a + l a ŋ	ralaŋ			
+531	l a - + l a ŋ	387 388	None	ear	1247	HtanHsan	lalaŋ	None	Htan Hsan	22.675133	97.289942	34_ear	l a + l a ŋ	lalaŋ			
+532	j̊ o - - k	386	None	ear	1247	PangKham	j̊ok	None	Pangkham	22.672097	97.161167	34_ear	j̊ o k	j̊ok			
+533	l ɛː - + j̊ o - - k	387 386	None	ear	1247	ManLoi	lɛːj̊ok	None	Man Loi	22.636019	97.139264	34_ear	l ɛː + j̊ o k	lɛːj̊ok			
+534	j̊ o - - k	386	None	ear	1247	MengDan	j̊ok	khan1274	Meng Dan	24.296522	98.379886	34_ear	j̊ o k	j̊ok			
+535	j̊ o - - ʔ	386	None	ear	1247	ChuDongGua	j̊o?	None	Chu Dong Gua	24.330889	98.393125	34_ear	j̊ o ʔ	j̊o?			
+536	j̊ au̯ - - ʔ	386	None	ear	1247	XiangZhaiTang	j̊auɁ	ruma1248	Xiang Zhai Tang	24.323819	98.556639	34_ear	j̊ au̯ ʔ	j̊auɁ			
+537	j a j̊ au̯ ʔ	386	None	ear	1247	PongNuea	jaj̊auɁ	None	Pong Nuea	20.321525	99.866817	34_ear	j a j̊ au̯ ʔ	jaj̊auɁ			
+538	j̊ ou̯ - - ʔ	386	None	ear	1247	NyaungGone	j̊ouʔ	None	Nyaung Gone	20.635025	96.545772	34_ear	j̊ ou̯ ʔ	j̊ouʔ			
+539	ʔ a + j̊ ou̯ - - ʔ	385 386	None	ear	1247	NoeLae	Ɂaj̊ouʔ	None	Noe Lae	19.941803	99.044742	34_ear	ʔ a + j̊ ou̯ ʔ	Ɂaj̊ouʔ			
+540	ʔ a + j̊ ou̯ - - ʔ	2042 386	None	ear	1247	BanPaw	Ɂaj̊ouɁ	None	Ban Paw	21.311225	99.557550	34_ear	ʔ a + j̊ ou̯ ʔ	Ɂaj̊ouɁ			two ?
+541	tɕʰ o - - k	386	None	ear	1247	ChaYeQing	ʨhok	None	Cha Ye Qing	24.305717	98.463661	34_ear	tɕʰ o k	ʨhok			
+542	tɕʰ o - - k	386	None	ear	1247	GuangKa	ʨhok	ruma1248	Guang Ka	24.065714	97.796281	34_ear	tɕʰ o k	ʨhok			
+543	l a - + tɕʰ o - - k	387 386	None	ear	1247	MangBang	laʨhok	ruma1248	Mang Bang	24.416392	98.399078	34_ear	l a + tɕʰ o k	laʨhok			
+544	tɕʰ o - - k	386	None	ear	1247	NanSang	ʨhok	ruma1248	Nan Sang	24.019728	97.819736	34_ear	tɕʰ o k	ʨhok			
+545	m - oː ʔ	1201	None	mouth	674	NamHsan	moːɁ	None	Namhsan	22.965064	97.163239	35_mouth	m oː ʔ	moːɁ			
+546	m - u r̥	1201	None	mouth	674	KhunHawt	mur̥	None	Khun Hawt	22.965064	97.163239	35_mouth	m u r̥	mur̥			mouth
+547	m - u r̥	1201	None	mouth	674	HtanHsan	mur̥	None	Htan Hsan	22.675133	97.289942	35_mouth	m u r̥	mur̥			
+548	m u/w a ʔ	1201	None	mouth	674	PangKham	muaɁ	None	Pangkham	22.672097	97.161167	35_mouth	m u/w a ʔ	muaɁ			
+549	m u/w a ʔ	1201	None	mouth	674	ManLoi	muaɁ	None	Man Loi	22.636019	97.139264	35_mouth	m u/w a ʔ	muaɁ			
+550	m - oi̯ ʔ	1201	None	mouth	674	MengDan	mojɁ	khan1274	Meng Dan	24.296522	98.379886	35_mouth	m oi̯ ʔ	mojɁ			
+551	m - oi̯ ʔ	1201	None	mouth	674	ChuDongGua	mojɁ	None	Chu Dong Gua	24.330889	98.393125	35_mouth	m oi̯ ʔ	mojɁ			
+552	m - oi̯ ʔ	1201	None	mouth	674	XiangZhaiTang	mojɁ	ruma1248	Xiang Zhai Tang	24.323819	98.556639	35_mouth	m oi̯ ʔ	mojɁ			
+553	m - oː c	1201	None	mouth	674	PongNuea	moːc	None	Pong Nuea	20.321525	99.866817	35_mouth	m oː c	moːc			
+554	m - o c	1201	None	mouth	674	NyaungGone	moc	None	Nyaung Gone	20.635025	96.545772	35_mouth	m o c	moc			
+555	m - o c	1201	None	mouth	674	NoeLae	moc	None	Noe Lae	19.941803	99.044742	35_mouth	m o c	moc			
+556	m - o t	1201	None	mouth	674	BanPaw	mot	None	Ban Paw	21.311225	99.557550	35_mouth	m o t	mot			
+557	m - oi̯ ʔ	1201	None	mouth	674	ChaYeQing	mojʔ	None	Cha Ye Qing	24.305717	98.463661	35_mouth	m oi̯ ʔ	mojʔ			
+558	m - oi̯ ʔ	1201	None	mouth	674	GuangKa	mojʔ	ruma1248	Guang Ka	24.065714	97.796281	35_mouth	m oi̯ ʔ	mojʔ			
+559	m - oi̯ ʔ	1201	None	mouth	674	MangBang	mojʔ	ruma1248	Mang Bang	24.416392	98.399078	35_mouth	m oi̯ ʔ	mojʔ			
+560	m - oi̯ ʔ	1201	None	mouth	674	NanSang	mojɁ	ruma1248	Nan Sang	24.019728	97.819736	35_mouth	m oi̯ ʔ	mojɁ			
+561	k ə r + ɗ a ʔ	1969 1968	None	tongue	1205	NamHsan	kәrɗaɁ	None	Namhsan	22.965064	97.163239	36_tongue	k ə r + ɗ a ʔ	kәrɗaɁ			
+562	k ə r + ɗ a ʔ	1969 1968	None	tongue	1205	KhunHawt	kәrɗaɁ	None	Khun Hawt	22.965064	97.163239	36_tongue	k ə r + ɗ a ʔ	kәrɗaɁ			
+563	k ə r + ɗ a ʔ	1969 1968	None	tongue	1205	HtanHsan	kәrɗaɁ	None	Htan Hsan	22.675133	97.289942	36_tongue	k ə r + ɗ a ʔ	kәrɗaɁ			
+564	k a - + ɗ a ʔ	1969 1968	None	tongue	1205	PangKham	kaɗaɁ	None	Pangkham	22.672097	97.161167	36_tongue	k a + ɗ a ʔ	kaɗaɁ			
+565	k a - + ɗ a ʔ	1969 1968	None	tongue	1205	ManLoi	kaɗaɁ	None	Man Loi	22.636019	97.139264	36_tongue	k a + ɗ a ʔ	kaɗaɁ			
+566	k ə - + d ɛ ʔ	1969 1968	None	tongue	1205	MengDan	kədɛʔ	khan1274	Meng Dan	24.296522	98.379886	36_tongue	k ə + d ɛ ʔ	kədɛʔ			
+567	k a - + ɗ a ʔ	1062 1968	None	tongue	1205	ChuDongGua	kaɗaʔ	None	Chu Dong Gua	24.330889	98.393125	36_tongue	k a + ɗ a ʔ	kaɗaʔ			_-:suffix/ka ?
+568	s ɨ + d a ʔ	1967 1968	None	tongue	1205	XiangZhaiTang	sɨdaʔ	ruma1248	Xiang Zhai Tang	24.323819	98.556639	36_tongue	s ɨ + d a ʔ	sɨdaʔ			
+569	s a + d a ʔ	1967 1968	None	tongue	1205	PongNuea	sadaɁ	None	Pong Nuea	20.321525	99.866817	36_tongue	s a + d a ʔ	sadaɁ			
+570	s a + d ă ʔ	1967 1968	None	tongue	1205	NyaungGone	sadăʔ	None	Nyaung Gone	20.635025	96.545772	36_tongue	s a + d ă ʔ	sadăʔ			
+571	s a + d ă ʔ	1967 1968	None	tongue	1205	NoeLae	sadăɁ	None	Noe Lae	19.941803	99.044742	36_tongue	s a + d ă ʔ	sadăɁ			
+572	s ɨ + d ă ʔ	1967 1968	None	tongue	1205	BanPaw	sɨdăʔ	None	Ban Paw	21.311225	99.557550	36_tongue	s ɨ + d ă ʔ	sɨdăʔ			
+573	kʰ a - + d a ʔ	1322 1968	None	tongue	1205	ChaYeQing	khadaʔ	None	Cha Ye Qing	24.305717	98.463661	36_tongue	kʰ a + d a ʔ	khadaʔ			_-:prefix/kha ?
+574	s a + t a ʔ	1858 1968	None	tongue	1205	GuangKa	sataɁ	ruma1248	Guang Ka	24.065714	97.796281	36_tongue	s a + t a ʔ	sataɁ			_-:suffix/sa ?
+575	s ə + t aː ʔ	1967 1968	None	tongue	1205	MangBang	sətaːɁ	ruma1248	Mang Bang	24.416392	98.399078	36_tongue	s ə + t aː ʔ	sətaːɁ			
+576	s a + t a ʔ	1967 1968	None	tongue	1205	NanSang	sataɁ	ruma1248	Nan Sang	24.019728	97.819736	36_tongue	s a + t a ʔ	sataɁ			
+577	r̥ aː ŋ	2000	None	tooth	1380	NamHsan	r̥aːŋ	None	Namhsan	22.965064	97.163239	37_tooth	r̥ aː ŋ	r̥aːŋ			
+578	r̥ aː ŋ	2000	None	tooth	1380	KhunHawt	r̥aːŋ	None	Khun Hawt	22.965064	97.163239	37_tooth	r̥ aː ŋ	r̥aːŋ			
+579	r̥ aː ŋ	2000	None	tooth	1380	HtanHsan	r̥aːŋ	None	Htan Hsan	22.675133	97.289942	37_tooth	r̥ aː ŋ	r̥aːŋ			
+580	r̥ aː ŋ	2000	None	tooth	1380	PangKham	r̥aːŋ	None	Pangkham	22.672097	97.161167	37_tooth	r̥ aː ŋ	r̥aːŋ			
+581	r̥ aː ŋ	2000	None	tooth	1380	ManLoi	r̥aːŋ	None	Man Loi	22.636019	97.139264	37_tooth	r̥ aː ŋ	r̥aːŋ			
+582	r̥ ɛː ŋ	2000	None	tooth	1380	MengDan	r̥ɛːŋ	khan1274	Meng Dan	24.296522	98.379886	37_tooth	r̥ ɛː ŋ	r̥ɛːŋ			
+583	ʂ aː ŋ	2000	None	tooth	1380	ChuDongGua	ʂaːŋ	None	Chu Dong Gua	24.330889	98.393125	37_tooth	ʂ aː ŋ	ʂaːŋ			
+584	r̥ aː ŋ	2000	None	tooth	1380	XiangZhaiTang	r̥aːŋ	ruma1248	Xiang Zhai Tang	24.323819	98.556639	37_tooth	r̥ aː ŋ	r̥aːŋ			
+585	r̥ aː ŋ	2000	None	tooth	1380	PongNuea	r̥aːŋ	None	Pong Nuea	20.321525	99.866817	37_tooth	r̥ aː ŋ	r̥aːŋ			
+586	r̥ a k	2000	None	tooth	1380	NyaungGone	r̥ak	None	Nyaung Gone	20.635025	96.545772	37_tooth	r̥ a k	r̥ak			
+587	r̥ a ŋ	2000	None	tooth	1380	NoeLae	r̥aŋ	None	Noe Lae	19.941803	99.044742	37_tooth	r̥ a ŋ	r̥aŋ			
+588	r̥ a ŋ	2000	None	tooth	1380	BanPaw	r̥aŋ	None	Ban Paw	21.311225	99.557550	37_tooth	r̥ a ŋ	r̥aŋ			
+589	x aː ŋ	2000	None	tooth	1380	ChaYeQing	xaːŋ	None	Cha Ye Qing	24.305717	98.463661	37_tooth	x aː ŋ	xaːŋ			
+590	sʲ aː ŋ	2000	None	tooth	1380	GuangKa	ᶊaːŋ	ruma1248	Guang Ka	24.065714	97.796281	37_tooth	sʲ aː ŋ	ᶊaːŋ			
+591	x aː ŋ	2000	None	tooth	1380	MangBang	xaːŋ	ruma1248	Mang Bang	24.416392	98.399078	37_tooth	x aː ŋ	xaːŋ			
+592	x aː ŋ	2000	None	tooth	1380	NanSang	xaːŋ	ruma1248	Nan Sang	24.019728	97.819736	37_tooth	x aː ŋ	xaːŋ			
+593	v ɛ ʔ	17	None	abdomen	1251	NamHsan	vɛɁ	None	Namhsan	22.965064	97.163239	38_abdomen	v ɛ ʔ	vɛɁ			
+594	v a c	17	None	abdomen	1251	KhunHawt	vac	None	Khun Hawt	22.965064	97.163239	38_abdomen	v a c	vac			
+595	v ai̯ c	17	None	abdomen	1251	HtanHsan	vaic	None	Htan Hsan	22.675133	97.289942	38_abdomen	v ai̯ c	vaic			
+596	w a ʔ	17	None	abdomen	1251	PangKham	waɁ	None	Pangkham	22.672097	97.161167	38_abdomen	w a ʔ	waɁ			
+597	v ai̯ ʔ	17	None	abdomen	1251	ManLoi	vaiɁ	None	Man Loi	22.636019	97.139264	38_abdomen	v ai̯ ʔ	vaiɁ			
+598	v e ʔ	17	None	abdomen	1251	MengDan	veʔ	khan1274	Meng Dan	24.296522	98.379886	38_abdomen	v e ʔ	veʔ			
+599	v ɛ ʔ	17	None	abdomen	1251	ChuDongGua	vɛʔ	None	Chu Dong Gua	24.330889	98.393125	38_abdomen	v ɛ ʔ	vɛʔ			
+600	v a c	17	None	abdomen	1251	XiangZhaiTang	vac	ruma1248	Xiang Zhai Tang	24.323819	98.556639	38_abdomen	v a c	vac			
+601	v ai̯ c	17	None	abdomen	1251	PongNuea	vaic	None	Pong Nuea	20.321525	99.866817	38_abdomen	v ai̯ c	vaic			
+602	v ă t	17	None	abdomen	1251	NyaungGone	văt	None	Nyaung Gone	20.635025	96.545772	38_abdomen	v ă t	văt			
+603	v ă c	17	None	abdomen	1251	NoeLae	văc	None	Noe Lae	19.941803	99.044742	38_abdomen	v ă c	văc			
+604	v ă t	17	None	abdomen	1251	BanPaw	văt	None	Ban Paw	21.311225	99.557550	38_abdomen	v ă t	văt			belly
+605	v a t	17	None	abdomen	1251	ChaYeQing	vat	None	Cha Ye Qing	24.305717	98.463661	38_abdomen	v a t	vat			
+606	v a t	17	None	abdomen	1251	GuangKa	vat	ruma1248	Guang Ka	24.065714	97.796281	38_abdomen	v a t	vat			
+607	v a t	17	None	abdomen	1251	MangBang	vat	ruma1248	Mang Bang	24.416392	98.399078	38_abdomen	v a t	vat			
+608	v a t	17	None	abdomen	1251	NanSang	vat	ruma1248	Nan Sang	24.019728	97.819736	38_abdomen	v a t	vat			
+609	b l e - + pʰ əː m	827 4	None	heart	1223	NamHsan	ble phәːm	None	Namhsan	22.965064	97.163239	39_heart	b l e + pʰ əː m	ble phәːm			heart breathe/phem
+610	b l ei̯ - + pʰ əː m	827 4	None	heart	1223	KhunHawt	blej phә:m	None	Khun Hawt	22.965064	97.163239	39_heart	b l ei̯ + pʰ əː m	blej phә:m			heart breathe/phem
+611	b l ei̯ - + pʰ əː m	827 4	None	heart	1223	HtanHsan	blej phәːm	None	Htan Hsan	22.675133	97.289942	39_heart	b l ei̯ + pʰ əː m	blej phәːm			heart breathe/phem
+612	b l eː - + pʰ əː m	827 4	None	heart	1223	PangKham	bleː phәːm	None	Pangkham	22.672097	97.161167	39_heart	b l eː + pʰ əː m	bleː phәːm			heart breathe/phem
+613	b l eː - + pʰ əː m	827 4	None	heart	1223	ManLoi	bleː phәːm	None	Man Loi	22.636019	97.139264	39_heart	b l eː + pʰ əː m	bleː phәːm			heart breathe/phem
+614	b l i - + n ɔi̯ h	827 826	None	heart	1223	MengDan	bli nɔjh	khan1274	Meng Dan	24.296522	98.379886	39_heart	b l i + n ɔi̯ h	bli nɔjh			heart heart/noh
+615	n ɔːi̯	826	None	heart	1223	ChuDongGua	nɔːj	None	Chu Dong Gua	24.330889	98.393125	39_heart	n ɔːi̯	nɔːj			heart/noh
+616	b l ei̯ - + n ɔ x	827 826	None	heart	1223	XiangZhaiTang	blejnɔx	ruma1248	Xiang Zhai Tang	24.323819	98.556639	39_heart	b l ei̯ + n ɔ x	blejnɔx			heart heart/noh
+617	b e - + r ɔː -	827 9	None	heart	1223	PongNuea	berɔː	None	Pong Nuea	20.321525	99.866817	39_heart	b e + r ɔː	berɔː			heart heart/rau
+618	b a + r au̯	827 9	None	heart	1223	NoeLae	baraw	None	Noe Lae	19.941803	99.044742	39_heart	b a + r au̯	baraw			heart heart/rau
+619	m a + h u + j ə	1110 823 824	None	heart	1223	BanPaw	mahujə	None	Ban Paw	21.311225	99.557550	39_heart	m a + h u + j ə	mahujə			_-prefix/ma ? ?
+620	b l ɔːi̯ + n ɔ h	827 826	None	heart	1223	ChaYeQing	blɔːjnɔh	None	Cha Ye Qing	24.305717	98.463661	39_heart	b l ɔːi̯ + n ɔ h	blɔːjnɔh			heart heart/noh
+621	p o ŋ + k ə + n ɔ h	7 175 826	None	heart	1223	GuangKa	poŋ kənɔh	ruma1248	Guang Ka	24.065714	97.796281	39_heart	p o ŋ + k ə + n ɔ h	poŋ kənɔh			heart/pon _-:prefix/ka heart/noh
+622	k ə + n ɔ h	175 826	None	heart	1223	MangBang	kənɔh	ruma1248	Mang Bang	24.416392	98.399078	39_heart	k ə + n ɔ h	kənɔh			_-:prefix/ka heart/noh
+623	p o n + k a + n ɔ h	7 175 826	None	heart	1223	NanSang	poŋkanɔh	ruma1248	Nan Sang	24.019728	97.819736	39_heart	p o n + k a + n ɔ h	poŋkanɔh			heart/pon _-:prefix/ka heart/noh
+624	k ə r + ɗ ɔː m	1062 1063	None	liver	1224	NamHsan	kәrɗɔːm	None	Namhsan	22.965064	97.163239	40_liver	k ə r + ɗ ɔː m	kәrɗɔːm			
+625	k a - + ɗ oː m	1027 1063	None	liver	1224	KhunHawt	kaɗoːm	None	Khun Hawt	22.965064	97.163239	40_liver	k a + ɗ oː m	kaɗoːm			_-:sufix/ka ?
+626	k a - + ɗ oː m	1027 1063	None	liver	1224	HtanHsan	kaɗoːm	None	Htan Hsan	22.675133	97.289942	40_liver	k a + ɗ oː m	kaɗoːm, ɗap			_-:suffix/ka ?
+627	k a - + ɗ ɔː m	1062 1063	None	liver	1224	PangKham	kaɗɔːm	None	Pangkham	22.672097	97.161167	40_liver	k a + ɗ ɔː m	kaɗɔːm			
+628	kʰ a - + ɗ ɔː m	1062 1063	None	liver	1224	ManLoi	khaɗɔːm	None	Man Loi	22.636019	97.139264	40_liver	kʰ a + ɗ ɔː m	khaɗɔːm			
+629	k ə - + ɗ ɔː m	1062 1063	None	liver	1224	MengDan	kəɗɔːm	khan1274	Meng Dan	24.296522	98.379886	40_liver	k ə + ɗ ɔː m	kəɗɔːm			
+630	k a - + ɗ ɔː m	1062 1063	None	liver	1224	ChuDongGua	kaɗɔːm	None	Chu Dong Gua	24.330889	98.393125	40_liver	k a + ɗ ɔː m	kaɗɔːm			_-:suffix/ka ?
+631	k a - + d oː m	1062 1063	None	liver	1224	XiangZhaiTang	kadoːm	ruma1248	Xiang Zhai Tang	24.323819	98.556639	40_liver	k a + d oː m	kadoːm			
+632	k a - + d oː m	1062 1063	None	liver	1224	PongNuea	kadoːm	None	Pong Nuea	20.321525	99.866817	40_liver	k a + d oː m	kadoːm			
+633	k a - + d o m	1062 1063	None	liver	1224	NyaungGone	kadom	None	Nyaung Gone	20.635025	96.545772	40_liver	k a + d o m	kadom			
+634	k a - + d o m	1062 1063	None	liver	1224	NoeLae	kadom	None	Noe Lae	19.941803	99.044742	40_liver	k a + d o m	kadom			
+635	k a - + d o m	1062 1063	None	liver	1224	BanPaw	kadom	None	Ban Paw	21.311225	99.557550	40_liver	k a + d o m	kadom			_-prefix/ka ?
+636	k a - + d oː m	1062 1063	None	liver	1224	ChaYeQing	kadoːm	None	Cha Ye Qing	24.305717	98.463661	40_liver	k a + d oː m	kadoːm			_-:prefix/ka ?
+637	k a - + t ɔː m	1062 1063	None	liver	1224	GuangKa	katɔːm	ruma1248	Guang Ka	24.065714	97.796281	40_liver	k a + t ɔː m	katɔːm			_-:suffix/ka ?
+638	k a - + t ɔː m	1062 1063	None	liver	1224	MangBang	katɔːm	ruma1248	Mang Bang	24.416392	98.399078	40_liver	k a + t ɔː m	katɔːm			
+639	r ɔː n + ʔ i/j a r	921 925	None	intestines	1991	MengDan	rɔːn ʔiar	khan1274	Meng Dan	24.296522	98.379886	41_intestines	r ɔː n + ʔ i/j a r	rɔːn ʔiar			
+640	r ɔː n	921	None	intestines	1991	ChuDongGua	rɔːn	None	Chu Dong Gua	24.330889	98.393125	41_intestines	r ɔː n	rɔːn			
+641	- v a c	922	None	intestines	1991	XiangZhaiTang	vac	ruma1248	Xiang Zhai Tang	24.323819	98.556639	41_intestines	v a c	vac			
+642	ɲ ɔ ŋ + - v ai̯ c	921 922	None	intestines	1991	PongNuea	ɲɔŋ vaic	None	Pong Nuea	20.321525	99.866817	41_intestines	ɲ ɔ ŋ + v ai̯ c	ɲɔŋ vaic			
+643	ɲ ɔ ŋ + - v a t	921 922	None	intestines	1991	NyaungGone	ɲɔŋ vat	None	Nyaung Gone	20.635025	96.545772	41_intestines	ɲ ɔ ŋ + v a t	ɲɔŋ vat			
+644	ɲ ɔ ŋ + - v a c	921 922	None	intestines	1991	NoeLae	ɲɔŋ vac	None	Noe Lae	19.941803	99.044742	41_intestines	ɲ ɔ ŋ + v a c	ɲɔŋ vac			
+645	ɲ ɔ ŋ + - v ă t	921 17	None	intestines	1991	BanPaw	ɲɔŋ văt	None	Ban Paw	21.311225	99.557550	41_intestines	ɲ ɔ ŋ + v ă t	ɲɔŋ văt			 belly
+646	kʰ ə + ɣ a n	923 921	None	intestines	1991	ChaYeQing	khəɣan	None	Cha Ye Qing	24.305717	98.463661	41_intestines	kʰ ə + ɣ a n	khəɣan			
+647	s ɔ + n v a t	924 922	None	intestines	1991	MangBang	sɔnvat	ruma1248	Mang Bang	24.416392	98.399078	41_intestines	s ɔ + n v a t	sɔnvat			
+648	s ɔ + n v a t	924 922	None	intestines	1991	NanSang	sɔnvat	ruma1248	Nan Sang	24.019728	97.819736	41_intestines	s ɔ + n v a t	sɔnvat			
+649	ɗ iː -	788	None	hand	1277	NamHsan	ɗiː	None	Namhsan	22.965064	97.163239	42_hand	ɗ iː	ɗiː			
+650	ɗ iː -	788	None	hand	1277	KhunHawt	ɗi:	None	Khun Hawt	22.965064	97.163239	42_hand	ɗ iː	ɗi:			
+651	ɗ iː -	788	None	hand	1277	HtanHsan	ɗiː	None	Htan Hsan	22.675133	97.289942	42_hand	ɗ iː	ɗiː			
+652	ɗ ai̯ -	788	None	hand	1277	PangKham	ɗaj	None	Pangkham	22.672097	97.161167	42_hand	ɗ ai̯	ɗaj			
+653	ɗ ai̯ -	788	None	hand	1277	ManLoi	ɗaj	None	Man Loi	22.636019	97.139264	42_hand	ɗ ai̯	ɗaj			
+654	ɗ ai̯ -	788	None	hand	1277	MengDan	ɗaj	khan1274	Meng Dan	24.296522	98.379886	42_hand	ɗ ai̯	ɗaj			
+655	ɗ ai̯ -	788	None	hand	1277	ChuDongGua	ɗaj	None	Chu Dong Gua	24.330889	98.393125	42_hand	ɗ ai̯	ɗaj			hand
+656	d ɛː -	788	None	hand	1277	XiangZhaiTang	dɛː	ruma1248	Xiang Zhai Tang	24.323819	98.556639	42_hand	d ɛː	dɛː			
+657	d ɛː -	788	None	hand	1277	PongNuea	dɛː	None	Pong Nuea	20.321525	99.866817	42_hand	d ɛː	dɛː			
+658	d ɛ -	788	None	hand	1277	NyaungGone	dɛ	None	Nyaung Gone	20.635025	96.545772	42_hand	d ɛ	dɛ			
+659	d ɛ -	788	None	hand	1277	NoeLae	dɛ	None	Noe Lae	19.941803	99.044742	42_hand	d ɛ	dɛ			
+660	d ɛ -	788	None	hand	1277	BanPaw	dɛ	None	Ban Paw	21.311225	99.557550	42_hand	d ɛ	dɛ			
+661	ɗ ai̯ -	788	None	hand	1277	ChaYeQing	ɗaj	None	Cha Ye Qing	24.305717	98.463661	42_hand	ɗ ai̯	ɗaj			
+662	t ai̯ -	788	None	hand	1277	GuangKa	taj	ruma1248	Guang Ka	24.065714	97.796281	42_hand	t ai̯	taj			
+663	t ai̯ -	788	None	hand	1277	MangBang	taj	ruma1248	Mang Bang	24.416392	98.399078	42_hand	t ai̯	taj			
+664	t ai̯ ʔ	788	None	hand	1277	NanSang	taiɁ	ruma1248	Nan Sang	24.019728	97.819736	42_hand	t ai̯ ʔ	taiɁ			
+665	r ə - + n i m	1221 1219	None	nail	502	NamHsan	rәnim	None	Namhsan	22.965064	97.163239	43_nail	r ə + n i m	rәnim			
+666	r ə - + n i m + ɗ iː	1221 1219 1222	None	nail	502	KhunHawt	rәnimɗiː	None	Khun Hawt	22.965064	97.163239	43_nail	r ə + n i m + ɗ iː	rәnimɗiː			
+667	r ə n + h i m	1221 1219	None	nail	502	HtanHsan	rәnhim	None	Htan Hsan	22.675133	97.289942	43_nail	r ə n + h i m	rәnhim			
+668	ʔ a + h i m	1220 1219	None	nail	502	PangKham	ʔahim	None	Pangkham	22.672097	97.161167	43_nail	ʔ a + h i m	ʔahim			
+669	ʔ a + h i m	1220 1219	None	nail	502	ManLoi	ʔahim	None	Man Loi	22.636019	97.139264	43_nail	ʔ a + h i m	ʔahim			
+670	ʔ a + h i m	1220 1219	None	nail	502	MengDan	ʔahim	khan1274	Meng Dan	24.296522	98.379886	43_nail	ʔ a + h i m	ʔahim			
+671	ʔ a + h i m	1220 1219	None	nail	502	ChuDongGua	ʔahim	None	Chu Dong Gua	24.330889	98.393125	43_nail	ʔ a + h i m	ʔahim			
+672	Ø/ə ŋ + h iː m	1218 1219	None	nail	502	XiangZhaiTang	ŋhiːm	ruma1248	Xiang Zhai Tang	24.323819	98.556639	43_nail	ŋ + h iː m	ŋhiːm			
+673	Ø/ə ŋ + h iː m	1218 1219	None	nail	502	PongNuea	ŋhiːm	None	Pong Nuea	20.321525	99.866817	43_nail	Ø/ə ŋ + h iː m	ŋhiːm			
+674	Ø/ə ŋ + h i m	1218 1219	None	nail	502	NyaungGone	ŋ him	None	Nyaung Gone	20.635025	96.545772	43_nail	Ø/ə ŋ + h i m	ŋ him			
+675	Ø/ə ŋ + h i m	1218 1219	None	nail	502	NoeLae	ŋ him	None	Noe Lae	19.941803	99.044742	43_nail	Ø/ə ŋ + h i m	ŋ him			
+676	Ø/ə ŋ + h i m	1218 1219	None	nail	502	BanPaw	ŋ him	None	Ban Paw	21.311225	99.557550	43_nail	Ø/ə ŋ + h i m	ŋ him			_-prefix/ŋ ?
+677	kʰ iː m	1219	None	nail	502	ChaYeQing	khiːm	None	Cha Ye Qing	24.305717	98.463661	43_nail	kʰ iː m	khiːm			
+678	kʰ iː m	1219	None	nail	502	GuangKa	khiːm	ruma1248	Guang Ka	24.065714	97.796281	43_nail	kʰ iː m	khiːm			
+679	kʰ iː m	1219	None	nail	502	MangBang	khiːm	ruma1248	Mang Bang	24.416392	98.399078	43_nail	kʰ iː m	khiːm			
+680	k iː m	1219	None	nail	502	NanSang	kiːm	ruma1248	Nan Sang	24.019728	97.819736	43_nail	k iː m	kiːm			
+681	dʑ ə ŋ	648	None	foot	1301	NamHsan	ʥәŋ	None	Namhsan	22.965064	97.163239	44_foot	dʑ ə ŋ	ʥәŋ			
+682	dʑ əː ŋ	648	None	foot	1301	KhunHawt	ʥәːŋ	None	Khun Hawt	22.965064	97.163239	44_foot	dʑ əː ŋ	ʥәːŋ			
+683	dʑ əː ŋ	648	None	foot	1301	HtanHsan	ʥәːŋ	None	Htan Hsan	22.675133	97.289942	44_foot	dʑ əː ŋ	ʥәːŋ			
+684	tɕ e ŋ	648	None	foot	1301	PangKham	ʨeŋ	None	Pangkham	22.672097	97.161167	44_foot	tɕ e ŋ	ʨeŋ			
+685	tɕ eː ŋ	648	None	foot	1301	ManLoi	ʨeːŋ	None	Man Loi	22.636019	97.139264	44_foot	tɕ eː ŋ	ʨeːŋ			
+686	tɕ ə ŋ	648	None	foot	1301	MengDan	ʨəŋ	khan1274	Meng Dan	24.296522	98.379886	44_foot	tɕ ə ŋ	ʨəŋ			
+687	dʑ ə ŋ	648	None	foot	1301	ChuDongGua	ʥəŋ	None	Chu Dong Gua	24.330889	98.393125	44_foot	dʑ ə ŋ	ʥəŋ			
+688	tɕ eː n	648	None	foot	1301	XiangZhaiTang	ʨeːn	ruma1248	Xiang Zhai Tang	24.323819	98.556639	44_foot	tɕ eː n	ʨeːn			
+689	c e ɲ	648	None	foot	1301	PongNuea	ceɲ	None	Pong Nuea	20.321525	99.866817	44_foot	c e ɲ	ceɲ			
+690	p l ɔ	649	None	foot	1301	NyaungGone	plɔ	None	Nyaung Gone	20.635025	96.545772	44_foot	p l ɔ	plɔ			
+691	c e ɲ	648	None	foot	1301	NoeLae	ceɲ	None	Noe Lae	19.941803	99.044742	44_foot	c e ɲ	ceɲ			
+692	c e ɲ	648	None	foot	1301	BanPaw	ceɲ	None	Ban Paw	21.311225	99.557550	44_foot	c e ɲ	ceɲ			
+693	dʑ ɔː n	648	None	foot	1301	ChaYeQing	ʥɔːn	None	Cha Ye Qing	24.305717	98.463661	44_foot	dʑ ɔː n	ʥɔːn			
+694	dʑ ɔː n	648	None	foot	1301	GuangKa	ʥɔːn	ruma1248	Guang Ka	24.065714	97.796281	44_foot	dʑ ɔː n	ʥɔːn			
+695	dʑ ɔː n	648	None	foot	1301	MangBang	ʥɔːn	ruma1248	Mang Bang	24.416392	98.399078	44_foot	dʑ ɔː n	ʥɔːn			
+696	dʑ ɔː n	648	None	foot	1301	NanSang	ʥɔːn	ruma1248	Nan Sang	24.019728	97.819736	44_foot	dʑ ɔː n	ʥɔːn			
+697	k a - + ʔ aː ŋ	140 141	None	bone	1394	NamHsan	kaɁaːŋ	None	Namhsan	22.965064	97.163239	45_bone	k a + ʔ aː ŋ	kaɁaːŋ			
+698	k a n + ʔ aː ŋ	140 141	None	bone	1394	KhunHawt	kanɁaːŋ	None	Khun Hawt	22.965064	97.163239	45_bone	k a n + ʔ aː ŋ	kanɁaːŋ			
+699	k ə n + ʔ aː ŋ	140 141	None	bone	1394	HtanHsan	kәnɁaːŋ	None	Htan Hsan	22.675133	97.289942	45_bone	k ə n + ʔ aː ŋ	kәnɁaːŋ			
+700	k a - + ʔ aː ŋ	140 141	None	bone	1394	PangKham	kaɁaːŋ	None	Pangkham	22.672097	97.161167	45_bone	k a + ʔ aː ŋ	kaɁaːŋ			
+701	k a - + ʔ aː ŋ	140 141	None	bone	1394	ManLoi	kaɁaːŋ	None	Man Loi	22.636019	97.139264	45_bone	k a + ʔ aː ŋ	kaɁaːŋ			
+702	k a - + ʔ ɛː ŋ	140 141	None	bone	1394	MengDan	kaʔɛːŋ	khan1274	Meng Dan	24.296522	98.379886	45_bone	k a + ʔ ɛː ŋ	kaʔɛːŋ			
+703	k a - + ʔ aː ŋ	1062 141	None	bone	1394	ChuDongGua	kaɁaːŋ	None	Chu Dong Gua	24.330889	98.393125	45_bone	k a + ʔ aː ŋ	kaɁaːŋ			_-:suffix/ka ?
+704	k a - + ʔ aː ŋ	140 141	None	bone	1394	XiangZhaiTang	kaɁaːŋ	ruma1248	Xiang Zhai Tang	24.323819	98.556639	45_bone	k a + ʔ aː ŋ	kaɁaːŋ			
+705	k a - + ʔ aː ŋ	140 141	None	bone	1394	PongNuea	kaɁaːŋ	None	Pong Nuea	20.321525	99.866817	45_bone	k a + ʔ aː ŋ	kaɁaːŋ			
+706	k a - + ʔ a k	140 141	None	bone	1394	NyaungGone	kaʔak	None	Nyaung Gone	20.635025	96.545772	45_bone	k a + ʔ a k	kaʔak			
+707	k a - + ʔ a ŋ	140 141	None	bone	1394	NoeLae	kaɁaŋ	None	Noe Lae	19.941803	99.044742	45_bone	k a + ʔ a ŋ	kaɁaŋ			
+708	k a - + ʔ a ŋ	1062 141	None	bone	1394	BanPaw	kaɁaŋ	None	Ban Paw	21.311225	99.557550	45_bone	k a + ʔ a ŋ	kaɁaŋ			_-prefix/ka ?
+709	k a - + ʔ aː ŋ	1062 141	None	bone	1394	ChaYeQing	kaʔaːŋ	None	Cha Ye Qing	24.305717	98.463661	45_bone	k a + ʔ aː ŋ	kaʔaːŋ			_-:prefix/ka ?
+710	k a - + ʔ aː ŋ	1062 141	None	bone	1394	GuangKa	kaɁaːŋ	ruma1248	Guang Ka	24.065714	97.796281	45_bone	k a + ʔ aː ŋ	kaɁaːŋ			_-:suffix/ka ?
+711	k a - + ʔ aː ŋ	140 141	None	bone	1394	MangBang	kaɁaːŋ	ruma1248	Mang Bang	24.416392	98.399078	45_bone	k a + ʔ aː ŋ	kaɁaːŋ			
+712	k a - + ʔ aː ŋ	140 141	None	bone	1394	NanSang	kaɁaːŋ	ruma1248	Nan Sang	24.019728	97.819736	45_bone	k a + ʔ aː ŋ	kaɁaːŋ			
+713	p r i/j a ŋ	541	None	fat	323	NamHsan	priaŋ	None	Namhsan	22.965064	97.163239	46_fat	p r i/j a ŋ	priaŋ			
+714	p r i/j a ŋ	541	None	fat	323	KhunHawt	priaŋ	None	Khun Hawt	22.965064	97.163239	46_fat	p r i/j a ŋ	priaŋ			
+715	p r i/j a ŋ	541	None	fat	323	HtanHsan	priaŋ	None	Htan Hsan	22.675133	97.289942	46_fat	p r i/j a ŋ	priaŋ			
+716	b r i/j a ŋ	541	None	fat	323	PangKham	briaŋ	None	Pangkham	22.672097	97.161167	46_fat	b r i/j a ŋ	briaŋ			
+717	b r i/j a ŋ	541	None	fat	323	ManLoi	briaŋ	None	Man Loi	22.636019	97.139264	46_fat	b r i/j a ŋ	briaŋ			
+718	p r i/j a ŋ	541	None	fat	323	MengDan	priaŋ	khan1274	Meng Dan	24.296522	98.379886	46_fat	p r i/j a ŋ	priaŋ			
+719	p r i/j a ŋ	541	None	fat	323	ChuDongGua	priaŋ	None	Chu Dong Gua	24.330889	98.393125	46_fat	p r i/j a ŋ	priaŋ			
+720	b r i/j a ŋ	541	None	fat	323	XiangZhaiTang	briaŋ	ruma1248	Xiang Zhai Tang	24.323819	98.556639	46_fat	b r i/j a ŋ	briaŋ			
+721	b r i/j a ŋ	541	None	fat	323	PongNuea	briaŋ	None	Pong Nuea	20.321525	99.866817	46_fat	b r i/j a ŋ	briaŋ			
+722	b r i/j a k	541	None	fat	323	NyaungGone	briak	None	Nyaung Gone	20.635025	96.545772	46_fat	b r i/j a k	briak			
+723	b r i/j a ŋ	541	None	fat	323	NoeLae	briaŋ	None	Noe Lae	19.941803	99.044742	46_fat	b r i/j a ŋ	briaŋ			
+724	b r i/j a ŋ	541	None	fat	323	BanPaw	briaŋ	None	Ban Paw	21.311225	99.557550	46_fat	b r i/j a ŋ	briaŋ			
+725	b - i/j o ŋ	541	None	fat	323	ChaYeQing	bjoŋ	None	Cha Ye Qing	24.305717	98.463661	46_fat	b i/j o ŋ	bjoŋ			
+726	p - i/j o ŋ	541	None	fat	323	GuangKa	pjoŋ	ruma1248	Guang Ka	24.065714	97.796281	46_fat	p i/j o ŋ	pjoŋ			
+727	p - i/j o ŋ	541	None	fat	323	MangBang	pjoŋ	ruma1248	Mang Bang	24.416392	98.399078	46_fat	p i/j o ŋ	pjoŋ			
+728	p - i/j o ŋ	541	None	fat	323	NanSang	pjoŋ	ruma1248	Nan Sang	24.019728	97.819736	46_fat	p i/j o ŋ	pjoŋ			
+729	h u r	1687	None	skin	763	NamHsan	hur	None	Namhsan	22.965064	97.163239	47_skin	h u r	hur			
+730	h u r	1687	None	skin	763	KhunHawt	hur	None	Khun Hawt	22.965064	97.163239	47_skin	h u r	hur			
+731	h uː r	1687	None	skin	763	HtanHsan	huːr	None	Htan Hsan	22.675133	97.289942	47_skin	h uː r	huːr			
+732	h uː n	1687	None	skin	763	PangKham	huːn	None	Pangkham	22.672097	97.161167	47_skin	h uː n	huːn			
+733	h u r	1687	None	skin	763	ManLoi	hur	None	Man Loi	22.636019	97.139264	47_skin	h u r	hur			
+734	h u r	1687	None	skin	763	MengDan	hur	khan1274	Meng Dan	24.296522	98.379886	47_skin	h u r	hur			
+735	h u r	1687	None	skin	763	ChuDongGua	hur	None	Chu Dong Gua	24.330889	98.393125	47_skin	h u r	hur			
+736	h uː n	1687	None	skin	763	XiangZhaiTang	huːn	ruma1248	Xiang Zhai Tang	24.323819	98.556639	47_skin	h uː n	huːn			
+737	h uː n	1687	None	skin	763	PongNuea	huːn	None	Pong Nuea	20.321525	99.866817	47_skin	h uː n	huːn			
+738	h u n	1687	None	skin	763	NyaungGone	hun	None	Nyaung Gone	20.635025	96.545772	47_skin	h u n	hun			
+739	h u n	1687	None	skin	763	NoeLae	hun	None	Noe Lae	19.941803	99.044742	47_skin	h u n	hun			
+740	h u n	1687	None	skin	763	BanPaw	hun	None	Ban Paw	21.311225	99.557550	47_skin	h u n	hun			
+741	h uː -	1687	None	skin	763	ChaYeQing	huː	None	Cha Ye Qing	24.305717	98.463661	47_skin	h uː	huː			
+742	h uː -	1687	None	skin	763	GuangKa	huː	ruma1248	Guang Ka	24.065714	97.796281	47_skin	h uː	huː			
+743	h uː -	1687	None	skin	763	MangBang	huː	ruma1248	Mang Bang	24.416392	98.399078	47_skin	h uː	huː			
+744	h uː -	1687	None	skin	763	NanSang	huː	ruma1248	Nan Sang	24.019728	97.819736	47_skin	h uː	huː			
+745	n̥ aː m	123	None	blood	946	NamHsan	n̥aːm	None	Namhsan	22.965064	97.163239	48_blood	n̥ aː m	n̥aːm			
+746	n̥ aː m	123	None	blood	946	KhunHawt	n̥aːm	None	Khun Hawt	22.965064	97.163239	48_blood	n̥ aː m	n̥aːm			
+747	n̥ aː m	123	None	blood	946	HtanHsan	n̥aːm	None	Htan Hsan	22.675133	97.289942	48_blood	n̥ aː m	n̥aːm			
+748	n̥ aː m	123	None	blood	946	PangKham	n̥a:m	None	Pangkham	22.672097	97.161167	48_blood	n̥ aː m	n̥a:m			
+749	n̥ aː m	123	None	blood	946	ManLoi	n̥aːm	None	Man Loi	22.636019	97.139264	48_blood	n̥ aː m	n̥aːm			
+750	n̥ ɛː m	123	None	blood	946	MengDan	n̥ɛːm	khan1274	Meng Dan	24.296522	98.379886	48_blood	n̥ ɛː m	n̥ɛːm			
+751	n̥ aː m	123	None	blood	946	ChuDongGua	n̥aːm	None	Chu Dong Gua	24.330889	98.393125	48_blood	n̥ aː m	n̥aːm			
+752	n̥ aː m	123	None	blood	946	XiangZhaiTang	n̥aːm	ruma1248	Xiang Zhai Tang	24.323819	98.556639	48_blood	n̥ aː m	n̥aːm			
+753	n̥ aː m	123	None	blood	946	PongNuea	n̥aːm	None	Pong Nuea	20.321525	99.866817	48_blood	n̥ aː m	n̥aːm			
+754	n̥ a m	123	None	blood	946	NyaungGone	n̥am	None	Nyaung Gone	20.635025	96.545772	48_blood	n̥ a m	n̥am			
+755	n̥ a m	123	None	blood	946	NoeLae	n̥am	None	Noe Lae	19.941803	99.044742	48_blood	n̥ a m	n̥am			
+756	n̥ a m	123	None	blood	946	BanPaw	n̥am	None	Ban Paw	21.311225	99.557550	48_blood	n̥ a m	n̥am			
+757	n̥ aː m	123	None	blood	946	ChaYeQing	n̥aːm	None	Cha Ye Qing	24.305717	98.463661	48_blood	n̥ aː m	n̥aːm			
+758	n̥ aː m	123	None	blood	946	GuangKa	n̥aːm	ruma1248	Guang Ka	24.065714	97.796281	48_blood	n̥ aː m	n̥aːm			
+759	n̥ aː m	123	None	blood	946	MangBang	n̥aːm	ruma1248	Mang Bang	24.416392	98.399078	48_blood	n̥ aː m	n̥aːm			
+760	n̥ aː m	123	None	blood	946	NanSang	n̥aːm	ruma1248	Nan Sang	24.019728	97.819736	48_blood	n̥ aː m	n̥aːm			
+761	b iː -	1432	None	person, human	683	NamHsan	biː	None	Namhsan	22.965064	97.163239	49_personhuman	b iː	biː			
+762	ɓ iː -	1432	None	person, human	683	KhunHawt	ɓi:	None	Khun Hawt	22.965064	97.163239	49_personhuman	ɓ iː	ɓi:			
+763	ɓ i -	1432	None	person, human	683	HtanHsan	ɓi	None	Htan Hsan	22.675133	97.289942	49_personhuman	ɓ i	ɓi			
+764	d u + ʔ iː -	1430 1431	None	person, human	683	PangKham	duʔiː	None	Pangkham	22.672097	97.161167	49_personhuman	d u + ʔ iː	duʔiː			
+765	ɗ u + ʔ iː -	1430 1431	None	person, human	683	ManLoi	ɗuʔiː	None	Man Loi	22.636019	97.139264	49_personhuman	ɗ u + ʔ iː	ɗuʔiː			
+766	d u + ʔ iː -	1430 1431	None	person, human	683	MengDan	duʔiː	khan1274	Meng Dan	24.296522	98.379886	49_personhuman	d u + ʔ iː	duʔiː			
+767	d u + ʔ iː -	1430 1431	None	person, human	683	ChuDongGua	duʔiː	None	Chu Dong Gua	24.330889	98.393125	49_personhuman	d u + ʔ iː	duʔiː			
+768	n a + ʔ ui̯	1433 1431	None	person, human	683	XiangZhaiTang	naɁuj	ruma1248	Xiang Zhai Tang	24.323819	98.556639	49_personhuman	n a + ʔ ui̯	naɁuj			
+769	d u + v ɨi̯	1430 1432	None	person, human	683	PongNuea	duvɨj	None	Pong Nuea	20.321525	99.866817	49_personhuman	d u + v ɨi̯	duvɨj			
+770	ʔ i -	1431	None	person, human	683	NyaungGone	ʔi	None	Nyaung Gone	20.635025	96.545772	49_personhuman	ʔ i	ʔi, duʔi			
+771	d u + ʔ i -	1430 1431	None	person, human	683	NoeLae	duɁi	None	Noe Lae	19.941803	99.044742	49_personhuman	d u + ʔ i	duɁi			
+772	d u + ʔ ɨi̯	1430 1431	None	person, human	683	BanPaw	duɁɨj	None	Ban Paw	21.311225	99.557550	49_personhuman	d u + ʔ ɨi̯	duɁɨj			
+773	d u + ʔ ui̯	1430 1431	None	person, human	683	ChaYeQing	duʔuj	None	Cha Ye Qing	24.305717	98.463661	49_personhuman	d u + ʔ ui̯	duʔuj			
+774	t a + ʔ iː -	1430 1431	None	person, human	683	GuangKa	taɁiː	ruma1248	Guang Ka	24.065714	97.796281	49_personhuman	t a + ʔ iː	taɁiː			
+775	t a + ʔ iː -	1430 1431	None	person, human	683	MangBang	taɁiː	ruma1248	Mang Bang	24.416392	98.399078	49_personhuman	t a + ʔ iː	taɁiː			
+776	t a + ʔ iː -	1430 1431	None	person, human	683	NanSang	taɁiː	ruma1248	Nan Sang	24.019728	97.819736	49_personhuman	t a + ʔ iː	taɁiː			
+777	k u/w a n	223	None	child	2099	NamHsan	kuan	None	Namhsan	22.965064	97.163239	50_child	k u/w a n	kuan			
+778	k u/w a n	223	None	child	2099	HtanHsan	kuan	None	Htan Hsan	22.675133	97.289942	50_child	k u/w a n	kuan			
+779	g - ɔː n	223	None	child	2099	PangKham	ɡɔːn	None	Pangkham	22.672097	97.161167	50_child	g ɔː n	ɡɔːn			
+780	g - ɔː n	223	None	child	2099	ManLoi	ɡɔːn	None	Man Loi	22.636019	97.139264	50_child	g ɔː n	ɡɔːn			
+781	k - ɔ n + ɲ ɔ m	223 224	None	child	2099	MengDan	kɔnɲɔm	khan1274	Meng Dan	24.296522	98.379886	50_child	k ɔ n + ɲ ɔ m	kɔnɲɔm			
+782	k - ɔː n	223	None	child	2099	ChuDongGua	kɔːn	None	Chu Dong Gua	24.330889	98.393125	50_child	k ɔː n	kɔːn			
+783	g - ɔː n	223	None	child	2099	XiangZhaiTang	ɡɔːn	ruma1248	Xiang Zhai Tang	24.323819	98.556639	50_child	g ɔː n	ɡɔːn			
+784	g - ɔː n	223	None	child	2099	PongNuea	ɡɔːn	None	Pong Nuea	20.321525	99.866817	50_child	g ɔː n	ɡɔːn			
+785	g - ɔ n	223	None	child	2099	NyaungGone	ɡɔn	None	Nyaung Gone	20.635025	96.545772	50_child	g ɔ n	ɡɔn			
+786	g - ɔ n	223	None	child	2099	NoeLae	ɡɔn	None	Noe Lae	19.941803	99.044742	50_child	g ɔ n	ɡɔn			
+787	g - ɔ n	223	None	child	2099	BanPaw	ɡɔn	None	Ban Paw	21.311225	99.557550	50_child	g ɔ n	ɡɔn			
+788	k - oː n	223	None	child	2099	ChaYeQing	koːn	None	Cha Ye Qing	24.305717	98.463661	50_child	k oː n	koːn			
+789	k - ɔː n	223	None	child	2099	GuangKa	kɔːn	ruma1248	Guang Ka	24.065714	97.796281	50_child	k ɔː n	kɔːn			
+790	k - ɔː n	223	None	child	2099	MangBang	kɔːn	ruma1248	Mang Bang	24.416392	98.399078	50_child	k ɔː n	kɔːn			
+791	k - ɔː n	223	None	child	2099	NanSang	kɔːn	ruma1248	Nan Sang	24.019728	97.819736	50_child	k ɔː n	kɔːn			
+792	tɕ ɨː	1248	None	name	1405	NamHsan	ʨɨː	None	Namhsan	22.965064	97.163239	51_name	tɕ ɨː	ʨɨː			
+793	dʑ ɨː	1248	None	name	1405	KhunHawt	ʥɨː	None	Khun Hawt	22.965064	97.163239	51_name	dʑ ɨː	ʥɨː			
+794	dʑ ɨː	1248	None	name	1405	HtanHsan	ʥɨː	None	Htan Hsan	22.675133	97.289942	51_name	dʑ ɨː	ʥɨː			
+795	tɕ ɨː	1248	None	name	1405	PangKham	ʨɨː	None	Pangkham	22.672097	97.161167	51_name	tɕ ɨː	ʨɨː			
+796	tɕ ɨː	1248	None	name	1405	ManLoi	ʨɨː	None	Man Loi	22.636019	97.139264	51_name	tɕ ɨː	ʨɨː			
+797	tɕ ɨː	1248	None	name	1405	MengDan	ʨɨː	khan1274	Meng Dan	24.296522	98.379886	51_name	tɕ ɨː	ʨɨː			
+798	tɕ ɨː	1248	None	name	1405	ChuDongGua	ʨɨː	None	Chu Dong Gua	24.330889	98.393125	51_name	tɕ ɨː	ʨɨː			
+799	tɕ ɨː	1248	None	name	1405	XiangZhaiTang	ʨɨː	ruma1248	Xiang Zhai Tang	24.323819	98.556639	51_name	tɕ ɨː	ʨɨː			
+800	tɕ ɨː	1248	None	name	1405	PongNuea	ʨɨː	None	Pong Nuea	20.321525	99.866817	51_name	tɕ ɨː	ʨɨː			
+801	c ɨ	1248	None	name	1405	NyaungGone	cɨ	None	Nyaung Gone	20.635025	96.545772	51_name	c ɨ	cɨ			
+802	c ɨ	1248	None	name	1405	NoeLae	cɨ	None	Noe Lae	19.941803	99.044742	51_name	c ɨ	cɨ			
+803	c ɨ	1248	None	name	1405	BanPaw	cɨ	None	Ban Paw	21.311225	99.557550	51_name	c ɨ	cɨ			
+804	dʑ ɨː	1248	None	name	1405	ChaYeQing	ʥɨː	None	Cha Ye Qing	24.305717	98.463661	51_name	dʑ ɨː	ʥɨː			
+805	dʑ ɨː	1248	None	name	1405	MangBang	ʥɨː	ruma1248	Mang Bang	24.416392	98.399078	51_name	dʑ ɨː	ʥɨː			
+806	tɕ ɨː	1248	None	name	1405	NanSang	ʨɨː	ruma1248	Nan Sang	24.019728	97.819736	51_name	tɕ ɨː	ʨɨː			
+807	r a + d eː ŋ	1511 1509	None	road, path	2457	NamHsan	radeːŋ	None	Namhsan	22.965064	97.163239	52_roadpath	r a + d eː ŋ	radeːŋ			
+808	r a + d eː ŋ	1511 1509	None	road, path	2457	KhunHawt	rade:ŋ	None	Khun Hawt	22.965064	97.163239	52_roadpath	r a + d eː ŋ	rade:ŋ			
+809	dʱ eː ŋ	1509	None	road, path	2457	HtanHsan	d̤eːŋ	None	Htan Hsan	22.675133	97.289942	52_roadpath	dʱ eː ŋ	d̤eːŋ			
+810	Ø/ə n + t eː ŋ	1508 1509	None	road, path	2457	PangKham	nteːŋ	None	Pangkham	22.672097	97.161167	52_roadpath	Ø/ə n + t eː ŋ	nteːŋ			
+811	Ø/ə n + t eː ŋ	1508 1509	None	road, path	2457	ManLoi	nteːŋ	None	Man Loi	22.636019	97.139264	52_roadpath	Ø/ə n + t eː ŋ	nteːŋ			
+812	d e ŋ + d aː ŋ	1509 1510	None	road, path	2457	ChuDongGua	deŋ daːŋ	None	Chu Dong Gua	24.330889	98.393125	52_roadpath	d e ŋ + d aː ŋ	deŋ daːŋ			
+813	Ø/ə n + t eː n	1508 1509	None	road, path	2457	XiangZhaiTang	nteːn	ruma1248	Xiang Zhai Tang	24.323819	98.556639	52_roadpath	Ø/ə n + t eː n	nteːn			
+814	Ø/ə n + t eː ɲ	1508 1509	None	road, path	2457	PongNuea	nteːɲ	None	Pong Nuea	20.321525	99.866817	52_roadpath	Ø/ə n + t eː ɲ	nteːɲ			
+815	Ø/ə n + t e n	1508 1509	None	road, path	2457	NyaungGone	n ten	None	Nyaung Gone	20.635025	96.545772	52_roadpath	Ø/ə n + t e n	n ten			
+816	Ø/ə n + t e ɲ	1508 1509	None	road, path	2457	NoeLae	n teɲ	None	Noe Lae	19.941803	99.044742	52_roadpath	Ø/ə n + t e ɲ	n teɲ			
+817	Ø/ə n + t e ɲ	1508 1509	None	road, path	2457	BanPaw	n teɲ	None	Ban Paw	21.311225	99.557550	52_roadpath	Ø/ə n + t e ɲ	n teɲ			
+818	Ø/ə n + d ɔː n	1265 1509	None	road, path	2457	ChaYeQing	ndɔːn	None	Cha Ye Qing	24.305717	98.463661	52_roadpath	Ø/ə n + d ɔː n	ndɔːn			_-:prefix/n ?
+819	Ø/ə n + d ɔː n	1508 1509	None	road, path	2457	GuangKa	ndɔːn	ruma1248	Guang Ka	24.065714	97.796281	52_roadpath	Ø/ə n + d ɔː n	ndɔːn			
+820	Ø/ə n + d ɔː n	1508 1509	None	road, path	2457	MangBang	ndɔːn	ruma1248	Mang Bang	24.416392	98.399078	52_roadpath	Ø/ə n + d ɔː n	ndɔːn			
+821	Ø/ə n + d ɔ n	1508 1509	None	road, path	2457	NanSang	n dɔn	ruma1248	Nan Sang	24.019728	97.819736	52_roadpath	Ø/ə n + d ɔ n	n dɔn			
+822	dʑ ɨ ŋ	1652	None	sew	1457	NamHsan	ʥɨŋ	None	Namhsan	22.965064	97.163239	53_sew	dʑ ɨ ŋ	ʥɨŋ			
+823	dʑ e ɲ	1652	None	sew	1457	KhunHawt	ʥeɲ	None	Khun Hawt	22.965064	97.163239	53_sew	dʑ e ɲ	ʥeɲ			
+824	dʑ i ɲ	1652	None	sew	1457	HtanHsan	ʥiɲ	None	Htan Hsan	22.675133	97.289942	53_sew	dʑ i ɲ	ʥiɲ			
+825	tɕ i ŋ	1652	None	sew	1457	PangKham	ʨiŋ	None	Pangkham	22.672097	97.161167	53_sew	tɕ i ŋ	ʨiŋ			
+826	tɕ i n	1652	None	sew	1457	ManLoi	ʨin	None	Man Loi	22.636019	97.139264	53_sew	tɕ i n	ʨin			
+827	tɕ i ŋ	1652	None	sew	1457	MengDan	ʨiŋ	khan1274	Meng Dan	24.296522	98.379886	53_sew	tɕ i ŋ	ʨiŋ			
+828	dʑ i ŋ	1652	None	sew	1457	ChuDongGua	ʥiŋ	None	Chu Dong Gua	24.330889	98.393125	53_sew	dʑ i ŋ	ʥiŋ			
+829	tɕ i ɲ	1652	None	sew	1457	XiangZhaiTang	ʨiɲ	ruma1248	Xiang Zhai Tang	24.323819	98.556639	53_sew	tɕ i ɲ	ʨiɲ			
+830	tɕ i ɲ	1652	None	sew	1457	PongNuea	ʨiɲ	None	Pong Nuea	20.321525	99.866817	53_sew	tɕ i ɲ	ʨiɲ			
+831	c i n	1652	None	sew	1457	NyaungGone	cin	None	Nyaung Gone	20.635025	96.545772	53_sew	c i n	cin			
+832	c i ɲ	1652	None	sew	1457	NoeLae	ciɲ	None	Noe Lae	19.941803	99.044742	53_sew	c i ɲ	ciɲ			
+833	c i n	1652	None	sew	1457	BanPaw	cin	None	Ban Paw	21.311225	99.557550	53_sew	c i n	cin			
+834	dʑ e n	1652	None	sew	1457	ChaYeQing	ʥen	None	Cha Ye Qing	24.305717	98.463661	53_sew	dʑ e n	ʥen			
+835	k a + dʑ ə n	1062 1652	None	sew	1457	GuangKa	kaʥən	ruma1248	Guang Ka	24.065714	97.796281	53_sew	k a + dʑ ə n	kaʥən			_-:suffix/ka ?
+836	dʑ ə n	1652	None	sew	1457	MangBang	ʥən	ruma1248	Mang Bang	24.416392	98.399078	53_sew	dʑ ə n	ʥən			
+837	dʑ ə n	1652	None	sew	1457	NanSang	ʥən	ruma1248	Nan Sang	24.019728	97.819736	53_sew	dʑ ə n	ʥən			
+838	ŋ a r	576	None	fire	221	NamHsan	ŋar	None	Namhsan	22.965064	97.163239	54_fire	ŋ a r	ŋar			
+839	ŋ a r	576	None	fire	221	KhunHawt	ŋar	None	Khun Hawt	22.965064	97.163239	54_fire	ŋ a r	ŋar			
+840	ŋ a l	576	None	fire	221	HtanHsan	ŋal	None	Htan Hsan	22.675133	97.289942	54_fire	ŋ a l	ŋal			fire
+841	ŋ ɔː -	576	None	fire	221	PangKham	ŋɔː	None	Pangkham	22.672097	97.161167	54_fire	ŋ ɔː	ŋɔː			
+842	ŋ ɔː -	576	None	fire	221	ManLoi	ŋɔː	None	Man Loi	22.636019	97.139264	54_fire	ŋ ɔː	ŋɔː			
+843	ŋ a l	576	None	fire	221	MengDan	ŋal	khan1274	Meng Dan	24.296522	98.379886	54_fire	ŋ a l	ŋal			
+844	ŋ ɔ r	576	None	fire	221	ChuDongGua	ŋɔr	None	Chu Dong Gua	24.330889	98.393125	54_fire	ŋ ɔ r	ŋɔr			
+845	ŋ ɔː -	576	None	fire	221	XiangZhaiTang	ŋɔː	ruma1248	Xiang Zhai Tang	24.323819	98.556639	54_fire	ŋ ɔː	ŋɔː			
+846	ŋ ɔː -	576	None	fire	221	PongNuea	ŋɔː	None	Pong Nuea	20.321525	99.866817	54_fire	ŋ ɔː	ŋɔː			
+847	ŋ ɔ -	576	None	fire	221	NyaungGone	ŋɔ	None	Nyaung Gone	20.635025	96.545772	54_fire	ŋ ɔ	ŋɔ			
+848	ŋ ɔ -	576	None	fire	221	NoeLae	ŋɔ	None	Noe Lae	19.941803	99.044742	54_fire	ŋ ɔ	ŋɔ			
+849	ŋ ɔ -	576	None	fire	221	BanPaw	ŋɔ	None	Ban Paw	21.311225	99.557550	54_fire	ŋ ɔ	ŋɔ			fire
+850	ŋ ai̯ -	576	None	fire	221	ChaYeQing	ŋaj	None	Cha Ye Qing	24.305717	98.463661	54_fire	ŋ ai̯	ŋaj			
+851	ŋ ai̯ -	576	None	fire	221	GuangKa	ŋaj	ruma1248	Guang Ka	24.065714	97.796281	54_fire	ŋ ai̯	ŋaj			
+852	ŋ ai̯ -	576	None	fire	221	MangBang	ŋaj	ruma1248	Mang Bang	24.416392	98.399078	54_fire	ŋ ai̯	ŋaj			
+853	ŋ ai̯ ʔ	576	None	fire	221	NanSang	ŋaiɁ	ruma1248	Nan Sang	24.019728	97.819736	54_fire	ŋ ai̯ ʔ	ŋaiɁ			
+854	k a + f aː ŋ	36 37	None	ashes	646	NamHsan	kafaːŋ	None	Namhsan	22.965064	97.163239	55_ashes	k a + f aː ŋ	kafaːŋ			
+855	k a + f aː ŋ	1027 37	None	ashes	646	KhunHawt	kafaːŋ	None	Khun Hawt	22.965064	97.163239	55_ashes	k a + f aː ŋ	kafaːŋ			_-:sufix/ka ?
+856	k a + f aː ŋ	1027 37	None	ashes	646	HtanHsan	kafaːŋ	None	Htan Hsan	22.675133	97.289942	55_ashes	k a + f aː ŋ	kafaːŋ			_-:suffix/ka ?
+857	k a + f aː ŋ	36 37	None	ashes	646	PangKham	kafaːŋ	None	Pangkham	22.672097	97.161167	55_ashes	k a + f aː ŋ	kafaːŋ			
+858	k a + f aː ŋ	36 37	None	ashes	646	ManLoi	kafaːŋ	None	Man Loi	22.636019	97.139264	55_ashes	k a + f aː ŋ	kafaːŋ			
+859	k ə + f ɛː ŋ	36 37	None	ashes	646	MengDan	kəfɛːŋ	khan1274	Meng Dan	24.296522	98.379886	55_ashes	k ə + f ɛː ŋ	kəfɛːŋ			
+860	k a + f aː ŋ	1062 37	None	ashes	646	ChuDongGua	kafaːŋ	None	Chu Dong Gua	24.330889	98.393125	55_ashes	k a + f aː ŋ	kafaːŋ			_-:suffix/ka ?
+861	k a + f aː ŋ	36 37	None	ashes	646	XiangZhaiTang	kafaːŋ	ruma1248	Xiang Zhai Tang	24.323819	98.556639	55_ashes	k a + f aː ŋ	kafaːŋ			
+862	b r ɔ + ŋ ɔː	34 35	None	ashes	646	PongNuea	brɔŋɔː	None	Pong Nuea	20.321525	99.866817	55_ashes	b r ɔ + ŋ ɔː	brɔŋɔː			
+863	b r ɔ + ŋ ɔ	34 35	None	ashes	646	NyaungGone	brɔ ŋɔ	None	Nyaung Gone	20.635025	96.545772	55_ashes	b r ɔ + ŋ ɔ	brɔ ŋɔ			
+864	b r ɔ + ŋ ɔ	34 35	None	ashes	646	NoeLae	brɔ ŋɔ	None	Noe Lae	19.941803	99.044742	55_ashes	b r ɔ + ŋ ɔ	brɔ ŋɔ			
+865	b r ɔ + ŋ ɔ	34 576	None	ashes	646	BanPaw	brɔ ŋɔ	None	Ban Paw	21.311225	99.557550	55_ashes	b r ɔ + ŋ ɔ	brɔ ŋɔ			 fire
+866	k a + f aː ŋ	1062 37	None	ashes	646	ChaYeQing	kafaːŋ	None	Cha Ye Qing	24.305717	98.463661	55_ashes	k a + f aː ŋ	kafaːŋ			_-:prefix/ka ?
+867	k a + f aː ŋ	1062 37	None	ashes	646	GuangKa	kafaːŋ	ruma1248	Guang Ka	24.065714	97.796281	55_ashes	k a + f aː ŋ	kafaːŋ			_-:suffix/ka ?
+868	k a + f aː ŋ	36 37	None	ashes	646	MangBang	kafaːŋ	ruma1248	Mang Bang	24.416392	98.399078	55_ashes	k a + f aː ŋ	kafaːŋ			
+869	k a + f aː ŋ	36 37	None	ashes	646	NanSang	kafaːŋ	ruma1248	Nan Sang	24.019728	97.819736	55_ashes	k a + f aː ŋ	kafaːŋ			
+870	ɗ ɨ ʔ + ŋ a r	1738 1739	None	smoke	778	NamHsan	ɗɨʔŋar	None	Namhsan	22.965064	97.163239	56_smoke	ɗ ɨ ʔ + ŋ a r	ɗɨʔŋar			
+871	ɗ ə k	1738	None	smoke	778	KhunHawt	ɗәk	None	Khun Hawt	22.965064	97.163239	56_smoke	ɗ ə k	ɗәk			
+872	ɗ ə k + ŋ a l	1738 576	None	smoke	778	HtanHsan	ɗәkŋal	None	Htan Hsan	22.675133	97.289942	56_smoke	ɗ ə k + ŋ a l	ɗәkŋal			 fire
+873	ɗ ɔ k + ŋ ɔː -	1738 1739	None	smoke	778	PangKham	ɗɔk ŋɔː	None	Pangkham	22.672097	97.161167	56_smoke	ɗ ɔ k + ŋ ɔː	ɗɔk ŋɔː			
+874	ɗ a k	1738	None	smoke	778	ManLoi	ɗak	None	Man Loi	22.636019	97.139264	56_smoke	ɗ a k	ɗak			
+875	ɗ ɔ ʔ	1738	None	smoke	778	MengDan	ɗɔʔ	khan1274	Meng Dan	24.296522	98.379886	56_smoke	ɗ ɔ ʔ	ɗɔʔ			
+876	ɗ ɔː k	1738	None	smoke	778	ChuDongGua	ɗɔːk	None	Chu Dong Gua	24.330889	98.393125	56_smoke	ɗ ɔː k	ɗɔːk			
+877	d a k	1738	None	smoke	778	XiangZhaiTang	dak	ruma1248	Xiang Zhai Tang	24.323819	98.556639	56_smoke	d a k	dak			
+878	d a k	1738	None	smoke	778	PongNuea	dak	None	Pong Nuea	20.321525	99.866817	56_smoke	d a k	dak			
+879	d ă k	1738	None	smoke	778	NyaungGone	dăk	None	Nyaung Gone	20.635025	96.545772	56_smoke	d ă k	dăk			
+880	d ă k	1738	None	smoke	778	NoeLae	dăk	None	Noe Lae	19.941803	99.044742	56_smoke	d ă k	dăk			
+881	d ă k	1738	None	smoke	778	BanPaw	dăk	None	Ban Paw	21.311225	99.557550	56_smoke	d ă k	dăk			
+882	ɗ a k	1738	None	smoke	778	ChaYeQing	ɗak	None	Cha Ye Qing	24.305717	98.463661	56_smoke	ɗ a k	ɗak			
+883	t a k	1738	None	smoke	778	GuangKa	tak	ruma1248	Guang Ka	24.065714	97.796281	56_smoke	t a k	tak			
+884	t a k	1738	None	smoke	778	MangBang	tak	ruma1248	Mang Bang	24.416392	98.399078	56_smoke	t a k	tak			
+885	t a k	1738	None	smoke	778	NanSang	tak	ruma1248	Nan Sang	24.019728	97.819736	56_smoke	t a k	tak			
+886	kʰ r - i ʔ	1722	None	smell	1586	NamHsan	khriɁ	None	Namhsan	22.965064	97.163239	57_smell	kʰ r i ʔ	khriɁ			
+887	k r u/w ə t	1722	None	smell	1586	KhunHawt	kruət	None	Khun Hawt	22.965064	97.163239	57_smell	k r u/w ə t	kruət	Probably problematic to align.		
+888	kʰ r - ɨ ʔ	1722	None	smell	1586	HtanHsan	khrɨʔ	None	Htan Hsan	22.675133	97.289942	57_smell	kʰ r ɨ ʔ	khrɨʔ			
+889	kʰ r - ɔː t	1722	None	smell	1586	PangKham	khrɔːt	None	Pangkham	22.672097	97.161167	57_smell	kʰ r ɔː t	khrɔːt			
+890	kʰ r - i t	1722	None	smell	1586	ManLoi	khrit	None	Man Loi	22.636019	97.139264	57_smell	kʰ r i t	khrit			
+891	ʔ ui̯ h	1721	None	smell	1586	MengDan	ʔujh	khan1274	Meng Dan	24.296522	98.379886	57_smell	ʔ ui̯ h	ʔujh			
+892	ʔ ui̯ h	1721	None	smell	1586	ChuDongGua	ʔujh	None	Chu Dong Gua	24.330889	98.393125	57_smell	ʔ ui̯ h	ʔujh			
+893	ʔ u - h	1721	None	smell	1586	XiangZhaiTang	Ɂuh	ruma1248	Xiang Zhai Tang	24.323819	98.556639	57_smell	ʔ u h	Ɂuh			
+894	ɲ̊ ɔː - ʔ	1721	None	smell	1586	PongNuea	ɲ̥ɔːɁ	None	Pong Nuea	20.321525	99.866817	57_smell	ɲ̊ ɔː ʔ	ɲ̥ɔːɁ			
+895	ɲ̊ ɔ - ʔ	1721	None	smell	1586	NyaungGone	ɲ̥ɔʔ	None	Nyaung Gone	20.635025	96.545772	57_smell	ɲ̊ ɔ ʔ	ɲ̥ɔʔ			
+896	ɲ̊ ɔ - ʔ	1721	None	smell	1586	NoeLae	ɲ̥ɔɁ	None	Noe Lae	19.941803	99.044742	57_smell	ɲ̊ ɔ ʔ	ɲ̥ɔɁ			
+897	ɲ̊ ɔ - ʔ	1721	None	smell	1586	BanPaw	ɲ̥ɔɁ	None	Ban Paw	21.311225	99.557550	57_smell	ɲ̊ ɔ ʔ	ɲ̥ɔɁ			
+898	ʔ u - h	1721	None	smell	1586	ChaYeQing	ʔuh	None	Cha Ye Qing	24.305717	98.463661	57_smell	ʔ u h	ʔuh			
+899	ɲ ɔi̯ - ʔ	1721	None	smell	1586	GuangKa	ɲɔjɁ	ruma1248	Guang Ka	24.065714	97.796281	57_smell	ɲ ɔi̯ ʔ	ɲɔjɁ			
+900	ɲ ɔːi̯ ʔ	1721	None	smell	1586	MangBang	ɲɔːj?	ruma1248	Mang Bang	24.416392	98.399078	57_smell	ɲ ɔːi̯ ʔ	ɲɔːj?			
+901	ɲ ɔi̯ - ʔ	1721	None	smell	1586	NanSang	ɲɔjɁ	ruma1248	Nan Sang	24.019728	97.819736	57_smell	ɲ ɔi̯ ʔ	ɲɔjɁ			
+902	ŋ əː p	1637	None	see	1409	NamHsan	ŋәːp	None	Namhsan	22.965064	97.163239	58_see	ŋ əː p	ŋәːp			
+903	dʑ əː - -	1636	None	see	1409	KhunHawt	ʥәː	None	Khun Hawt	22.965064	97.163239	58_see	dʑ əː	ʥәː			
+904	j əː - -	1635	None	see	1409	HtanHsan	jəː	None	Htan Hsan	22.675133	97.289942	58_see	j əː	jəː			
+905	dʑ ə - ɯ	1636	None	see	1409	PangKham	ʥәɯ	None	Pangkham	22.672097	97.161167	58_see	dʑ ə ɯ	ʥәɯ			
+906	dʑ əː - -	1636	None	see	1409	ManLoi	ʥәː	None	Man Loi	22.636019	97.139264	58_see	dʑ əː	ʥәː			
+907	dʑ ɨː - -	1636	None	see	1409	MengDan	ʥɨː	khan1274	Meng Dan	24.296522	98.379886	58_see	dʑ ɨː	ʥɨː			
+908	j ɨː - -	1635	None	see	1409	ChuDongGua	jɨː	None	Chu Dong Gua	24.330889	98.393125	58_see	j ɨː	jɨː			
+909	j əɯ̯	1635	None	see	1409	XiangZhaiTang	jəɯ	ruma1248	Xiang Zhai Tang	24.323819	98.556639	58_see	j əɯ̯	jəɯ			
+910	j əɯ̯	1635	None	see	1409	PongNuea	jəɯ	None	Pong Nuea	20.321525	99.866817	58_see	j əɯ̯	jəɯ			
+911	j ə - -	1635	None	see	1409	NyaungGone	jə	None	Nyaung Gone	20.635025	96.545772	58_see	j ə	jə			
+912	j ə - -	1635	None	see	1409	NoeLae	jə	None	Noe Lae	19.941803	99.044742	58_see	j ə	jə			
+913	j ə - -	1635	None	see	1409	BanPaw	jə	None	Ban Paw	21.311225	99.557550	58_see	j ə	jə			
+914	dʑ eː w -	1636	None	see	1409	ChaYeQing	ʥeːw	None	Cha Ye Qing	24.305717	98.463661	58_see	dʑ eː w	ʥeːw			
+915	j eu̯	1635	None	see	1409	GuangKa	jew	ruma1248	Guang Ka	24.065714	97.796281	58_see	j eu̯	jew			
+916	j eu̯	1635	None	see	1409	MangBang	jew	ruma1248	Mang Bang	24.416392	98.399078	58_see	j eu̯	jew			
+917	j eu̯	1635	None	see	1409	NanSang	jew	ruma1248	Nan Sang	24.019728	97.819736	58_see	j eu̯	jew			
+918	h ɔː m	442	None	eat	1336	NamHsan	hɔːm	None	Namhsan	22.965064	97.163239	59_eat	h ɔː m	hɔːm			
+919	h ɔː m	442	None	eat	1336	KhunHawt	hɔːm	None	Khun Hawt	22.965064	97.163239	59_eat	h ɔː m	hɔːm			
+920	h ɔ m	442	None	eat	1336	HtanHsan	hɔm	None	Htan Hsan	22.675133	97.289942	59_eat	h ɔ m	hɔm			
+921	h ɔː m	442	None	eat	1336	PangKham	hɔːm	None	Pangkham	22.672097	97.161167	59_eat	h ɔː m	hɔːm			
+922	h ɔː m	442	None	eat	1336	ManLoi	hɔːm	None	Man Loi	22.636019	97.139264	59_eat	h ɔː m	hɔːm			
+923	h ɔː m	442	None	eat	1336	MengDan	hɔːm	khan1274	Meng Dan	24.296522	98.379886	59_eat	h ɔː m	hɔːm			
+924	h oː m	442	None	eat	1336	ChuDongGua	hoːm	None	Chu Dong Gua	24.330889	98.393125	59_eat	h oː m	hoːm			
+925	h oː m	442	None	eat	1336	XiangZhaiTang	hoːm	ruma1248	Xiang Zhai Tang	24.323819	98.556639	59_eat	h oː m	hoːm			
+926	h oː m	442	None	eat	1336	PongNuea	hoːm	None	Pong Nuea	20.321525	99.866817	59_eat	h oː m	hoːm			
+927	h o m	442	None	eat	1336	NyaungGone	hom	None	Nyaung Gone	20.635025	96.545772	59_eat	h o m	hom			
+928	h o m	442	None	eat	1336	NoeLae	hom	None	Noe Lae	19.941803	99.044742	59_eat	h o m	hom			
+929	h o m	442	None	eat	1336	BanPaw	hom	None	Ban Paw	21.311225	99.557550	59_eat	h o m	hom			
+930	h oː m	442	None	eat	1336	ChaYeQing	hoːm	None	Cha Ye Qing	24.305717	98.463661	59_eat	h oː m	hoːm			
+931	h oː m	442	None	eat	1336	GuangKa	hoːm	ruma1248	Guang Ka	24.065714	97.796281	59_eat	h oː m	hoːm			
+932	h o m	442	None	eat	1336	MangBang	hom	ruma1248	Mang Bang	24.416392	98.399078	59_eat	h o m	hom			
+933	h oː m	442	None	eat	1336	NanSang	hoːm	ruma1248	Nan Sang	24.019728	97.819736	59_eat	h oː m	hoːm			
+934	ɗ i/j a ŋ	368	None	drink	1401	NamHsan	ɗiaŋ	None	Namhsan	22.965064	97.163239	60_drink	ɗ i/j a ŋ	ɗiaŋ			
+935	t i/j a ŋ	368	None	drink	1401	KhunHawt	tiaŋ	None	Khun Hawt	22.965064	97.163239	60_drink	t i/j a ŋ	tiaŋ			
+936	ɗ i/j a ŋ	368	None	drink	1401	HtanHsan	ɗiaŋ	None	Htan Hsan	22.675133	97.289942	60_drink	ɗ i/j a ŋ	ɗiaŋ			
+937	ɗ i/j a ŋ	368	None	drink	1401	PangKham	ɗiaŋ	None	Pangkham	22.672097	97.161167	60_drink	ɗ i/j a ŋ	ɗiaŋ			
+938	ɗ i/j a ŋ	368	None	drink	1401	ManLoi	ɗiaŋ	None	Man Loi	22.636019	97.139264	60_drink	ɗ i/j a ŋ	ɗiaŋ			
+939	d i/j a ŋ	368	None	drink	1401	MengDan	diaŋ	khan1274	Meng Dan	24.296522	98.379886	60_drink	d i/j a ŋ	diaŋ			
+940	d i/j a ŋ	368	None	drink	1401	ChuDongGua	diaŋ	None	Chu Dong Gua	24.330889	98.393125	60_drink	d i/j a ŋ	diaŋ			
+941	d i/j a ŋ	368	None	drink	1401	XiangZhaiTang	diaŋ	ruma1248	Xiang Zhai Tang	24.323819	98.556639	60_drink	d i/j a ŋ	diaŋ			
+942	d i/j a ŋ	368	None	drink	1401	PongNuea	diaŋ	None	Pong Nuea	20.321525	99.866817	60_drink	d i/j a ŋ	diaŋ			
+943	d i/j a k	368	None	drink	1401	NyaungGone	diak	None	Nyaung Gone	20.635025	96.545772	60_drink	d i/j a k	diak			
+944	d i/j a ŋ	368	None	drink	1401	NoeLae	diaŋ	None	Noe Lae	19.941803	99.044742	60_drink	d i/j a ŋ	diaŋ			
+945	d i/j a ŋ	368	None	drink	1401	BanPaw	diaŋ	None	Ban Paw	21.311225	99.557550	60_drink	d i/j a ŋ	diaŋ			
+946	tɕ - o ŋ	368	None	drink	1401	ChaYeQing	ʨoŋ	None	Cha Ye Qing	24.305717	98.463661	60_drink	tɕ o ŋ	ʨoŋ			
+947	tɕ - o ŋ	368	None	drink	1401	GuangKa	ʨoŋ	ruma1248	Guang Ka	24.065714	97.796281	60_drink	tɕ o ŋ	ʨoŋ			
+948	tɕ - o ŋ	368	None	drink	1401	MangBang	ʨoŋ	ruma1248	Mang Bang	24.416392	98.399078	60_drink	tɕ o ŋ	ʨoŋ			
+949	tɕ - o ŋ	368	None	drink	1401	NanSang	ʨoŋ	ruma1248	Nan Sang	24.019728	97.819736	60_drink	tɕ o ŋ	ʨoŋ			
+950	b ɛ ʔ	1778	None	spit	1440	NamHsan	bɛɁ	None	Namhsan	22.965064	97.163239	61_spit	b ɛ ʔ	bɛɁ			
+951	b ai̯ c	1778	None	spit	1440	KhunHawt	baic	None	Khun Hawt	22.965064	97.163239	61_spit	b ai̯ c	baic			
+952	b ai̯ c	1778	None	spit	1440	HtanHsan	baic	None	Htan Hsan	22.675133	97.289942	61_spit	b ai̯ c	baic			
+953	p a ʔ	1778	None	spit	1440	PangKham	paɁ	None	Pangkham	22.672097	97.161167	61_spit	p a ʔ	paɁ			
+954	p ai̯ ʔ + ɓ ai̯ ʔ	1778 1779	None	spit	1440	ManLoi	paiɁ ɓaiɁ	None	Man Loi	22.636019	97.139264	61_spit	p ai̯ ʔ + ɓ ai̯ ʔ	paiɁ ɓaiɁ			
+955	p e ʔ	1778	None	spit	1440	MengDan	peʔ	khan1274	Meng Dan	24.296522	98.379886	61_spit	p e ʔ	peʔ			
+956	b ɛ ʔ	1778	None	spit	1440	ChuDongGua	bɛ?	None	Chu Dong Gua	24.330889	98.393125	61_spit	b ɛ ʔ	bɛ?			
+957	p e c	1778	None	spit	1440	XiangZhaiTang	pec	ruma1248	Xiang Zhai Tang	24.323819	98.556639	61_spit	p e c	pec			
+958	p ai̯ c	1778	None	spit	1440	PongNuea	paic	None	Pong Nuea	20.321525	99.866817	61_spit	p ai̯ c	paic			
+959	p ă t	1778	None	spit	1440	NyaungGone	păt	None	Nyaung Gone	20.635025	96.545772	61_spit	p ă t	păt			
+960	p ă c	1778	None	spit	1440	NoeLae	păc	None	Noe Lae	19.941803	99.044742	61_spit	p ă c	păc			
+961	p ă t	1778	None	spit	1440	BanPaw	păt	None	Ban Paw	21.311225	99.557550	61_spit	p ă t	păt			
+962	b a t	1778	None	spit	1440	ChaYeQing	bat	None	Cha Ye Qing	24.305717	98.463661	61_spit	b a t	bat			
+963	b a t	1778	None	spit	1440	GuangKa	bat	ruma1248	Guang Ka	24.065714	97.796281	61_spit	b a t	bat			
+964	b a t	1778	None	spit	1440	MangBang	bat	ruma1248	Mang Bang	24.416392	98.399078	61_spit	b a t	bat			
+965	b a t	1778	None	spit	1440	NanSang	bat	ruma1248	Nan Sang	24.019728	97.819736	61_spit	b a t	bat			
+966	kʰ r i ʔ + pʰ əː m	6 4	None	breathe	1407	NamHsan	khriɁ phә:m	None	Namhsan	22.965064	97.163239	62_breathe	kʰ r i ʔ + pʰ əː m	khriɁ phә:m			 breathe/phem
+967	k a + nʰ ɔ h + pʰ əː m	175 826 4	None	breathe	1407	KhunHawt	kanhɔh phә:m	None	Khun Hawt	22.965064	97.163239	62_breathe	k a + nʰ ɔ h + pʰ əː m	kanhɔh phә:m			_-:prefix/ka heart/noh breathe/phem
+968	k ə + nˀ ɔ h + pʰ əː m	175 826 4	None	breathe	1407	HtanHsan	kәnɁɔh phәːm	None	Htan Hsan	22.675133	97.289942	62_breathe	k ə + nˀ ɔ h + pʰ əː m	kәnɁɔh phәːm			_-:prefix/ka heart/noh breathe/phem
+969	tʰ ui̯ + pʰ əː m	8 4	None	breathe	1407	PangKham	thuj phәːm	None	Pangkham	22.672097	97.161167	62_breathe	tʰ ui̯ + pʰ əː m	thuj phәːm			breathe/doh breathe/phem
+970	pʰ əː m + - l e h	4 173	None	breathe	1407	ManLoi	phәːm leh	None	Man Loi	22.636019	97.139264	62_breathe	pʰ əː m + l e h	phәːm leh			breathe/phem ?
+971	pʰ əː m	4	None	breathe	1407	MengDan	phəːm	khan1274	Meng Dan	24.296522	98.379886	62_breathe	pʰ əː m	phəːm			breathe/phem
+972	- h ə h + pʰ əː m	173 4	None	breathe	1407	ChuDongGua	həh phəːm	None	Chu Dong Gua	24.330889	98.393125	62_breathe	h ə h + pʰ əː m	həh phəːm			breathe/hek breathe/phem
+973	- h ə k + pʰ əː m	173 4	None	breathe	1407	XiangZhaiTang	hək phəːm	ruma1248	Xiang Zhai Tang	24.323819	98.556639	62_breathe	h ə k + pʰ əː m	hək phəːm			breathe/hek breathe/phem
+974	- h ə k + pʰ əː m	173 4	None	breathe	1407	PongNuea	hək phəːm	None	Pong Nuea	20.321525	99.866817	62_breathe	h ə k + pʰ əː m	hək phəːm			breathe/hek breathe/phem
+975	pʰ ə m	4	None	breathe	1407	NyaungGone	phəm	None	Nyaung Gone	20.635025	96.545772	62_breathe	pʰ ə m	phəm			breathe/phem
+976	- h ə̆ k + pʰ ə m	173 4	None	breathe	1407	NoeLae	hə̆k phəm	None	Noe Lae	19.941803	99.044742	62_breathe	h ə̆ k + pʰ ə m	hə̆k phəm			breathe/hek breathe/phem
+977	- h ə̆ k + pʰ ə m	173 4	None	breathe	1407	BanPaw	hə̆k phəm	None	Ban Paw	21.311225	99.557550	62_breathe	h ə̆ k + pʰ ə m	hə̆k phəm			breathe/hek breathe/phem
+978	- d o h + pʰ eː m	8 4	None	breathe	1407	ChaYeQing	doh pheːm	None	Cha Ye Qing	24.305717	98.463661	62_breathe	d o h + pʰ eː m	doh pheːm			breathe/doh breathe/phem
+979	- t o h + pʰ ɛː m	8 4	None	breathe	1407	GuangKa	toh phɛːm	ruma1248	Guang Ka	24.065714	97.796281	62_breathe	t o h + pʰ ɛː m	toh phɛːm			breathe/doh breathe/phem
+980	- t o h + pʰ əː m	8 4	None	breathe	1407	MangBang	toh phəːm	ruma1248	Mang Bang	24.416392	98.399078	62_breathe	t o h + pʰ əː m	toh phəːm			breathe/doh breathe/phem
+981	- t o h + pʰ əː m	8 4	None	breathe	1407	NanSang	tohphəːm	ruma1248	Nan Sang	24.019728	97.819736	62_breathe	t o h + pʰ əː m	tohphəːm			breathe/doh breathe/phem
+982	j u m	976	None	laugh	1355	NamHsan	jum	None	Namhsan	22.965064	97.163239	63_laugh	j u m	jum			
+983	dʑ u m	976	None	laugh	1355	KhunHawt	ʥum	None	Khun Hawt	22.965064	97.163239	63_laugh	dʑ u m	ʥum			
+984	dʑ u m	976	None	laugh	1355	HtanHsan	ʥum	None	Htan Hsan	22.675133	97.289942	63_laugh	dʑ u m	ʥum			
+985	k a n + ɲ a - h	974 975	None	laugh	1355	PangKham	kanɲah	None	Pangkham	22.672097	97.161167	63_laugh	k a n + ɲ a h	kanɲah			
+986	k a - + ɲ a - h	974 975	None	laugh	1355	ManLoi	kaɲah	None	Man Loi	22.636019	97.139264	63_laugh	k a + ɲ a h	kaɲah			
+987	k a - + ŋ i/j a h	974 975	None	laugh	1355	MengDan	kaŋiah	khan1274	Meng Dan	24.296522	98.379886	63_laugh	k a + ŋ i/j a h	kaŋiah			
+988	k ə + ɲ ai̯ h	974 975	None	laugh	1355	ChuDongGua	kəɲajh	None	Chu Dong Gua	24.330889	98.393125	63_laugh	k ə + ɲ ai̯ h	kəɲajh			
+989	k a - + ɲ a - h	974 975	None	laugh	1355	XiangZhaiTang	kaɲah	ruma1248	Xiang Zhai Tang	24.323819	98.556639	63_laugh	k a + ɲ a h	kaɲah			
+990	k a - + ɲ a - h	974 975	None	laugh	1355	PongNuea	kaɲah	None	Pong Nuea	20.321525	99.866817	63_laugh	k a + ɲ a h	kaɲah			
+991	k a - + ɲ a - h	974 975	None	laugh	1355	NyaungGone	kaɲăh	None	Nyaung Gone	20.635025	96.545772	63_laugh	k a + ɲ a h	kaɲăh			
+992	k a - + ɲ a - h	974 975	None	laugh	1355	NoeLae	kaɲăh	None	Noe Lae	19.941803	99.044742	63_laugh	k a + ɲ a h	kaɲăh			
+993	k a - + ɲ a - h	1062 975	None	laugh	1355	BanPaw	kaɲăh	None	Ban Paw	21.311225	99.557550	63_laugh	k a + ɲ a h	kaɲăh			_-prefix/ka ?
+994	k ə - + ɲ a - h	974 975	None	laugh	1355	ChaYeQing	kəɲah	None	Cha Ye Qing	24.305717	98.463661	63_laugh	k ə + ɲ a h	kəɲah			
+995	k ə - + ɲ a - h	974 975	None	laugh	1355	GuangKa	kəɲah	ruma1248	Guang Ka	24.065714	97.796281	63_laugh	k ə + ɲ a h	kəɲah			
+996	k ə - + ɲ a - h	974 975	None	laugh	1355	MangBang	kəɲah	ruma1248	Mang Bang	24.416392	98.399078	63_laugh	k ə + ɲ a h	kəɲah			
+997	k a - + ɲ a - h	974 975	None	laugh	1355	NanSang	kaɲah	ruma1248	Nan Sang	24.019728	97.819736	63_laugh	k a + ɲ a h	kaɲah			
+998	n a p	957	None	know	3626	NamHsan	nap	None	Namhsan	22.965064	97.163239	64_know	n a p	nap			
+999	n a p	957	None	know	3626	KhunHawt	nap	None	Khun Hawt	22.965064	97.163239	64_know	n a p	nap			
+1000	n a p	957	None	know	3626	HtanHsan	nap	None	Htan Hsan	22.675133	97.289942	64_know	n a p	nap			
+1001	n a p	957	None	know	3626	PangKham	nap	None	Pangkham	22.672097	97.161167	64_know	n a p	nap			
+1002	n a ʔ	957	None	know	3626	ManLoi	naɁ	None	Man Loi	22.636019	97.139264	64_know	n a ʔ	naɁ			
+1003	n a p	957	None	know	3626	MengDan	nap	khan1274	Meng Dan	24.296522	98.379886	64_know	n a p	nap			
+1004	n a p	957	None	know	3626	ChuDongGua	nap	None	Chu Dong Gua	24.330889	98.393125	64_know	n a p	nap			
+1005	n a p	957	None	know	3626	XiangZhaiTang	nap	ruma1248	Xiang Zhai Tang	24.323819	98.556639	64_know	n a p	nap			
+1006	n a p	957	None	know	3626	PongNuea	nap	None	Pong Nuea	20.321525	99.866817	64_know	n a p	nap			
+1007	n ă p	957	None	know	3626	NyaungGone	năp	None	Nyaung Gone	20.635025	96.545772	64_know	n ă p	năp			
+1008	n ă p	957	None	know	3626	NoeLae	năp	None	Noe Lae	19.941803	99.044742	64_know	n ă p	năp			
+1009	n ă p	957	None	know	3626	BanPaw	năp	None	Ban Paw	21.311225	99.557550	64_know	n ă p	năp			
+1010	n ɔ ʔ	957	None	know	3626	ChaYeQing	nɔʔ	None	Cha Ye Qing	24.305717	98.463661	64_know	n ɔ ʔ	nɔʔ			
+1011	n ɔː ʔ	957	None	know	3626	GuangKa	nɔːʔ	ruma1248	Guang Ka	24.065714	97.796281	64_know	n ɔː ʔ	nɔːʔ			
+1012	n ɔː ʔ	957	None	know	3626	MangBang	nɔːʔ	ruma1248	Mang Bang	24.416392	98.399078	64_know	n ɔː ʔ	nɔːʔ			
+1013	n aː -	957	None	know	3626	NanSang	naː	ruma1248	Nan Sang	24.019728	97.819736	64_know	n aː	naː			
+1014	dʑ ɔː - -	559	None	fear	1419	NamHsan	ʥɔː	None	Namhsan	22.965064	97.163239	65_fear	dʑ ɔː	ʥɔː			
+1015	j ou̯	558	None	fear	1419	KhunHawt	jow	None	Khun Hawt	22.965064	97.163239	65_fear	j ou̯	jow			
+1016	dʑ oː - -	559	None	fear	1419	HtanHsan	ʥoː	None	Htan Hsan	22.675133	97.289942	65_fear	dʑ oː	ʥoː			
+1017	dʑ oː - -	559	None	fear	1419	PangKham	ʥoː	None	Pangkham	22.672097	97.161167	65_fear	dʑ oː	ʥoː			
+1018	dʑ ɔː - -	559	None	fear	1419	ManLoi	ʥɔː	None	Man Loi	22.636019	97.139264	65_fear	dʑ ɔː	ʥɔː			
+1019	dʑ oː - -	559	None	fear	1419	MengDan	ʥoː	khan1274	Meng Dan	24.296522	98.379886	65_fear	dʑ oː	ʥoː			
+1020	j oː -	558	None	fear	1419	ChuDongGua	joː	None	Chu Dong Gua	24.330889	98.393125	65_fear	j oː	joː			
+1021	j ou̯	558	None	fear	1419	PongNuea	jow	None	Pong Nuea	20.321525	99.866817	65_fear	j ou̯	jow			
+1022	k a + c u/w - a	560 559	None	fear	1419	NyaungGone	kacua	None	Nyaung Gone	20.635025	96.545772	65_fear	k a + c u/w a	kacua			
+1023	k a + c u/w - a	560 559	None	fear	1419	NoeLae	kacua	None	Noe Lae	19.941803	99.044742	65_fear	k a + c u/w a	kacua			
+1024	j o -	558	None	fear	1419	BanPaw	jo	None	Ban Paw	21.311225	99.557550	65_fear	j o	jo			
+1025	dʑ au̯	559	None	fear	1419	ChaYeQing	ʥaw	None	Cha Ye Qing	24.305717	98.463661	65_fear	dʑ au̯	ʥaw			
+1026	j au̯	558	None	fear	1419	GuangKa	jaw	ruma1248	Guang Ka	24.065714	97.796281	65_fear	j au̯	jaw			
+1027	j au̯	558	None	fear	1419	MangBang	jaw	ruma1248	Mang Bang	24.416392	98.399078	65_fear	j au̯	jaw			
+1028	j au̯	558	None	fear	1419	NanSang	jaw	ruma1248	Nan Sang	24.019728	97.819736	65_fear	j au̯	jaw			
+1029	ʔ i ʔ	1704	None	sleep	1585	NamHsan	ɁiɁ	None	Namhsan	22.965064	97.163239	66_sleep	ʔ i ʔ	ɁiɁ			
+1030	ʔ iː t	1704	None	sleep	1585	KhunHawt	Ɂiːt	None	Khun Hawt	22.965064	97.163239	66_sleep	ʔ iː t	Ɂiːt			
+1031	ʔ i ʔ	1704	None	sleep	1585	HtanHsan	ɁiɁ	None	Htan Hsan	22.675133	97.289942	66_sleep	ʔ i ʔ	ɁiɁ			
+1032	ʔ iː t	1704	None	sleep	1585	PangKham	Ɂiːt	None	Pangkham	22.672097	97.161167	66_sleep	ʔ iː t	Ɂiːt			
+1033	ʔ i t	1704	None	sleep	1585	ManLoi	Ɂit	None	Man Loi	22.636019	97.139264	66_sleep	ʔ i t	Ɂit			
+1034	ʔ i t	1704	None	sleep	1585	MengDan	ʔit	khan1274	Meng Dan	24.296522	98.379886	66_sleep	ʔ i t	ʔit			
+1035	ʔ i t	1704	None	sleep	1585	ChuDongGua	ʔit	None	Chu Dong Gua	24.330889	98.393125	66_sleep	ʔ i t	ʔit			
+1036	ʔ i ʔ	1704	None	sleep	1585	XiangZhaiTang	ʔiʔ	ruma1248	Xiang Zhai Tang	24.323819	98.556639	66_sleep	ʔ i ʔ	ʔiʔ			
+1037	ʔ iː ʔ	1704	None	sleep	1585	PongNuea	ʔiːʔ	None	Pong Nuea	20.321525	99.866817	66_sleep	ʔ iː ʔ	ʔiːʔ			
+1038	ʔ i ʔ	1704	None	sleep	1585	NyaungGone	ʔiʔ	None	Nyaung Gone	20.635025	96.545772	66_sleep	ʔ i ʔ	ʔiʔ			
+1039	ʔ i ʔ	1704	None	sleep	1585	NoeLae	ɁiɁ	None	Noe Lae	19.941803	99.044742	66_sleep	ʔ i ʔ	ɁiɁ			
+1040	ʔ i t	1704	None	sleep	1585	BanPaw	ʔit	None	Ban Paw	21.311225	99.557550	66_sleep	ʔ i t	ʔit			
+1041	ʔ i ʔ	1704	None	sleep	1585	ChaYeQing	ɁiɁ	None	Cha Ye Qing	24.305717	98.463661	66_sleep	ʔ i ʔ	ɁiɁ			
+1042	ʔ i ʔ	1704	None	sleep	1585	GuangKa	ɁiɁ	ruma1248	Guang Ka	24.065714	97.796281	66_sleep	ʔ i ʔ	ɁiɁ			
+1043	ʔ i ʔ	1704	None	sleep	1585	MangBang	ɁiɁ	ruma1248	Mang Bang	24.416392	98.399078	66_sleep	ʔ i ʔ	ɁiɁ			
+1044	ʔ i ʔ	1704	None	sleep	1585	NanSang	ɁiɁ	ruma1248	Nan Sang	24.019728	97.819736	66_sleep	ʔ i ʔ	ɁiɁ			
+1045	g r aː - - ʔ	1618	None	scratch	1436	NamHsan	graːɁ	None	Namhsan	22.965064	97.163239	67_scratch	g r aː ʔ	graːɁ			
+1046	k r aːi̯ ʔ	1618	None	scratch	1436	KhunHawt	kraːjɁ	None	Khun Hawt	22.965064	97.163239	67_scratch	k r aːi̯ ʔ	kraːjɁ			
+1047	k r aːi̯ ʔ	1618	None	scratch	1436	HtanHsan	kraːjɁ	None	Htan Hsan	22.675133	97.289942	67_scratch	k r aːi̯ ʔ	kraːjɁ			
+1048	k r - i/j a h	1618	None	scratch	1436	PangKham	kriah	None	Pangkham	22.672097	97.161167	67_scratch	k r i/j a h	kriah			
+1049	k r - i/j a ʔ	1618	None	scratch	1436	ManLoi	kriaɁ	None	Man Loi	22.636019	97.139264	67_scratch	k r i/j a ʔ	kriaɁ			
+1050	b o ʔ	1617	None	scratch	1436	MengDan	boʔ	khan1274	Meng Dan	24.296522	98.379886	67_scratch	b o ʔ	boʔ			
+1051	b o ʔ	1617	None	scratch	1436	ChuDongGua	boʔ	None	Chu Dong Gua	24.330889	98.393125	67_scratch	b o ʔ	boʔ			
+1052	b ou̯ ʔ	1617	None	scratch	1436	XiangZhaiTang	bouɁ	ruma1248	Xiang Zhai Tang	24.323819	98.556639	67_scratch	b ou̯ ʔ	bouɁ			
+1053	b ou̯ ʔ	1617	None	scratch	1436	PongNuea	bouɁ	None	Pong Nuea	20.321525	99.866817	67_scratch	b ou̯ ʔ	bouɁ			
+1054	b ou̯ ʔ	1617	None	scratch	1436	NyaungGone	bouʔ	None	Nyaung Gone	20.635025	96.545772	67_scratch	b ou̯ ʔ	bouʔ			
+1055	b ou̯ ʔ	1617	None	scratch	1436	NoeLae	bouɁ	None	Noe Lae	19.941803	99.044742	67_scratch	b ou̯ ʔ	bouɁ			
+1056	b ou̯ ʔ	1617	None	scratch	1436	BanPaw	bouɁ	None	Ban Paw	21.311225	99.557550	67_scratch	b ou̯ ʔ	bouɁ			
+1057	ɓ o k	1617	None	scratch	1436	ChaYeQing	ɓok	None	Cha Ye Qing	24.305717	98.463661	67_scratch	ɓ o k	ɓok			
+1058	p o k	1617	None	scratch	1436	GuangKa	pok	ruma1248	Guang Ka	24.065714	97.796281	67_scratch	p o k	pok			
+1059	p o k	1617	None	scratch	1436	MangBang	pok	ruma1248	Mang Bang	24.416392	98.399078	67_scratch	p o k	pok			
+1060	k - a - - - + b aː n	1618 1617	None	scratch	1436	NanSang	kabaːn	ruma1248	Nan Sang	24.019728	97.819736	67_scratch	k a + b aː n	kabaːn			
+1061	j a m	304	None	die	1494	NamHsan	jam	None	Namhsan	22.965064	97.163239	68_die	j a m	jam			
+1062	j a m	304	None	die	1494	KhunHawt	jam	None	Khun Hawt	22.965064	97.163239	68_die	j a m	jam			
+1063	j a m	304	None	die	1494	HtanHsan	jam	None	Htan Hsan	22.675133	97.289942	68_die	j a m	jam			
+1064	j a m	304	None	die	1494	PangKham	jam	None	Pangkham	22.672097	97.161167	68_die	j a m	jam			
+1065	j aː m	304	None	die	1494	ManLoi	jaːm	None	Man Loi	22.636019	97.139264	68_die	j aː m	jaːm			
+1066	dʑ a m	304	None	die	1494	MengDan	ʥam	khan1274	Meng Dan	24.296522	98.379886	68_die	dʑ a m	ʥam			
+1067	j a m	304	None	die	1494	ChuDongGua	jam	None	Chu Dong Gua	24.330889	98.393125	68_die	j a m	jam			
+1068	j a m	304	None	die	1494	XiangZhaiTang	jam	ruma1248	Xiang Zhai Tang	24.323819	98.556639	68_die	j a m	jam			
+1069	j a m	304	None	die	1494	PongNuea	jam	None	Pong Nuea	20.321525	99.866817	68_die	j a m	jam			
+1070	j ă m	304	None	die	1494	NyaungGone	jăm	None	Nyaung Gone	20.635025	96.545772	68_die	j ă m	jăm			
+1071	j ă m	304	None	die	1494	NoeLae	jăm	None	Noe Lae	19.941803	99.044742	68_die	j ă m	jăm			
+1072	j ă m	304	None	die	1494	BanPaw	jăm	None	Ban Paw	21.311225	99.557550	68_die	j ă m	jăm			
+1073	dʑ ɔː m	304	None	die	1494	ChaYeQing	ʥɔːm	None	Cha Ye Qing	24.305717	98.463661	68_die	dʑ ɔː m	ʥɔːm			
+1074	dʑ ɔː m	304	None	die	1494	GuangKa	ʥɔːm	ruma1248	Guang Ka	24.065714	97.796281	68_die	dʑ ɔː m	ʥɔːm			
+1075	j ɔ m	304	None	die	1494	MangBang	jɔm	ruma1248	Mang Bang	24.416392	98.399078	68_die	j ɔ m	jɔm			
+1076	j ɔ m	304	None	die	1494	NanSang	jɔm	ruma1248	Nan Sang	24.019728	97.819736	68_die	j ɔ m	jɔm			
+1077	m ɔ ʔ	1673	None	sit	1416	NamHsan	mɔɁ	None	Namhsan	22.965064	97.163239	69_sit	m ɔ ʔ	mɔɁ			
+1078	m o ʔ	1673	None	sit	1416	KhunHawt	moɁ	None	Khun Hawt	22.965064	97.163239	69_sit	m o ʔ	moɁ			
+1079	m ɔ ʔ	1673	None	sit	1416	HtanHsan	mɔɁ	None	Htan Hsan	22.675133	97.289942	69_sit	m ɔ ʔ	mɔɁ			
+1080	m ɔ ŋ	1673	None	sit	1416	PangKham	mɔŋ	None	Pangkham	22.672097	97.161167	69_sit	m ɔ ŋ	mɔŋ			
+1081	m ɔ ŋ	1673	None	sit	1416	ManLoi	mɔŋ	None	Man Loi	22.636019	97.139264	69_sit	m ɔ ŋ	mɔŋ			
+1082	ŋ oːi̯	1672	None	sit	1416	MengDan	ŋoːj	khan1274	Meng Dan	24.296522	98.379886	69_sit	ŋ oːi̯	ŋoːj			
+1083	ŋ oːi̯	1672	None	sit	1416	ChuDongGua	ŋoːj	None	Chu Dong Gua	24.330889	98.393125	69_sit	ŋ oːi̯	ŋoːj			
+1084	k ɔi̯	1674	None	sit	1416	XiangZhaiTang	kɔj	ruma1248	Xiang Zhai Tang	24.323819	98.556639	69_sit	k ɔi̯	kɔj			
+1085	t ui̯ c	1670	None	sit	1416	PongNuea	tuic	None	Pong Nuea	20.321525	99.866817	69_sit	t ui̯ c	tuic			
+1086	t u c	1670	None	sit	1416	NyaungGone	tuc	None	Nyaung Gone	20.635025	96.545772	69_sit	t u c	tuc			
+1087	t u c	1670	None	sit	1416	NoeLae	tuc	None	Noe Lae	19.941803	99.044742	69_sit	t u c	tuc			
+1088	t u t	1670	None	sit	1416	BanPaw	tut	None	Ban Paw	21.311225	99.557550	69_sit	t u t	tut			
+1089	ʔ a k	1671	None	sit	1416	ChaYeQing	Ɂak	None	Cha Ye Qing	24.305717	98.463661	69_sit	ʔ a k	Ɂak			
+1090	ʔ ɔ k	1671	None	sit	1416	GuangKa	Ɂɔk	ruma1248	Guang Ka	24.065714	97.796281	69_sit	ʔ ɔ k	Ɂɔk			
+1091	ʔ ɔ k	1671	None	sit	1416	MangBang	Ɂɔk	ruma1248	Mang Bang	24.416392	98.399078	69_sit	ʔ ɔ k	Ɂɔk			
+1092	ʔ a k	1671	None	sit	1416	NanSang	Ɂak	ruma1248	Nan Sang	24.019728	97.819736	69_sit	ʔ a k	Ɂak			
+1093	dʑ ə ŋ	1796	None	stand	1442	NamHsan	ʥәŋ	None	Namhsan	22.965064	97.163239	70_stand	dʑ ə ŋ	ʥәŋ			
+1094	dʑ a ŋ	1796	None	stand	1442	KhunHawt	ʥaŋ	None	Khun Hawt	22.965064	97.163239	70_stand	dʑ a ŋ	ʥaŋ			
+1095	dʑ a ŋ	1796	None	stand	1442	HtanHsan	ʥaŋ	None	Htan Hsan	22.675133	97.289942	70_stand	dʑ a ŋ	ʥaŋ			
+1096	tɕ a ŋ	1796	None	stand	1442	PangKham	ʨaŋ	None	Pangkham	22.672097	97.161167	70_stand	tɕ a ŋ	ʨaŋ			
+1097	tɕ a ŋ	1796	None	stand	1442	ManLoi	ʨaŋ	None	Man Loi	22.636019	97.139264	70_stand	tɕ a ŋ	ʨaŋ			
+1098	tɕ a ŋ	1796	None	stand	1442	MengDan	ʨaŋ	khan1274	Meng Dan	24.296522	98.379886	70_stand	tɕ a ŋ	ʨaŋ			
+1099	dʑ a ŋ	1796	None	stand	1442	ChuDongGua	ʥaŋ	None	Chu Dong Gua	24.330889	98.393125	70_stand	dʑ a ŋ	ʥaŋ			
+1100	tɕ ɔ ŋ	1796	None	stand	1442	XiangZhaiTang	ʨɔŋ	ruma1248	Xiang Zhai Tang	24.323819	98.556639	70_stand	tɕ ɔ ŋ	ʨɔŋ			
+1101	tɕ ɔ ŋ	1796	None	stand	1442	PongNuea	ʨɔŋ	None	Pong Nuea	20.321525	99.866817	70_stand	tɕ ɔ ŋ	ʨɔŋ			
+1102	c ɔ k	1796	None	stand	1442	NyaungGone	cɔk	None	Nyaung Gone	20.635025	96.545772	70_stand	c ɔ k	cɔk			
+1103	c ɔ ŋ	1796	None	stand	1442	NoeLae	cɔŋ	None	Noe Lae	19.941803	99.044742	70_stand	c ɔ ŋ	cɔŋ			
+1104	c ɔ ŋ	1796	None	stand	1442	BanPaw	cɔŋ	None	Ban Paw	21.311225	99.557550	70_stand	c ɔ ŋ	cɔŋ			
+1105	dʑ a ŋ	1796	None	stand	1442	ChaYeQing	ʥaŋ	None	Cha Ye Qing	24.305717	98.463661	70_stand	dʑ a ŋ	ʥaŋ			
+1106	dʑ ɔ ŋ	1796	None	stand	1442	GuangKa	ʥɔŋ	ruma1248	Guang Ka	24.065714	97.796281	70_stand	dʑ ɔ ŋ	ʥɔŋ			
+1107	dʑ ɔ ŋ	1796	None	stand	1442	MangBang	ʥɔŋ	ruma1248	Mang Bang	24.416392	98.399078	70_stand	dʑ ɔ ŋ	ʥɔŋ			
+1108	dʑ ɔ ŋ	1796	None	stand	1442	NanSang	ʥɔŋ	ruma1248	Nan Sang	24.019728	97.819736	70_stand	dʑ ɔ ŋ	ʥɔŋ			
+1109	dʑ ɔ h	504	None	fall, to drop	1280	NamHsan	ʥɔh	None	Namhsan	22.965064	97.163239	71_falltodrop	dʑ ɔ h	ʥɔh			
+1110	dʑ o h	504	None	fall, to drop	1280	KhunHawt	ʥoh	None	Khun Hawt	22.965064	97.163239	71_falltodrop	dʑ o h	ʥoh			
+1111	dʑ ɔ h	504	None	fall, to drop	1280	HtanHsan	ʥɔh	None	Htan Hsan	22.675133	97.289942	71_falltodrop	dʑ ɔ h	ʥɔh			
+1112	tɕ o h	504	None	fall, to drop	1280	PangKham	ʨoh	None	Pangkham	22.672097	97.161167	71_falltodrop	tɕ o h	ʨoh			
+1113	tɕ ɔ h	504	None	fall, to drop	1280	ManLoi	ʨɔh	None	Man Loi	22.636019	97.139264	71_falltodrop	tɕ ɔ h	ʨɔh			
+1114	tɕ ɔ h	504	None	fall, to drop	1280	MengDan	ʨɔh	khan1274	Meng Dan	24.296522	98.379886	71_falltodrop	tɕ ɔ h	ʨɔh			
+1115	dʑ ɔ h	504	None	fall, to drop	1280	ChuDongGua	ʥɔh	None	Chu Dong Gua	24.330889	98.393125	71_falltodrop	dʑ ɔ h	ʥɔh			
+1116	tɕ ou̯ h	504	None	fall, to drop	1280	PongNuea	ʨouh	None	Pong Nuea	20.321525	99.866817	71_falltodrop	tɕ ou̯ h	ʨouh			
+1117	c ou̯ h	504	None	fall, to drop	1280	NyaungGone	couh	None	Nyaung Gone	20.635025	96.545772	71_falltodrop	c ou̯ h	couh			
+1118	c o h	504	None	fall, to drop	1280	NoeLae	coh	None	Noe Lae	19.941803	99.044742	71_falltodrop	c o h	coh			
+1119	c ou̯ h	504	None	fall, to drop	1280	BanPaw	couh	None	Ban Paw	21.311225	99.557550	71_falltodrop	c ou̯ h	couh			
+1120	dʑ ɔ h	504	None	fall, to drop	1280	ChaYeQing	ʥɔh	None	Cha Ye Qing	24.305717	98.463661	71_falltodrop	dʑ ɔ h	ʥɔh			
+1121	dʑ o h	504	None	fall, to drop	1280	GuangKa	ʥoh	ruma1248	Guang Ka	24.065714	97.796281	71_falltodrop	dʑ o h	ʥoh			
+1122	dʑ o h	504	None	fall, to drop	1280	MangBang	ʥoh	ruma1248	Mang Bang	24.416392	98.399078	71_falltodrop	dʑ o h	ʥoh			
+1123	dʑ o h	504	None	fall, to drop	1280	NanSang	ʥoh	ruma1248	Nan Sang	24.019728	97.819736	71_falltodrop	dʑ o h	ʥoh			
+1124	d ɛ h	720	None	give	1447	NamHsan	dɛh	None	Namhsan	22.965064	97.163239	72_give	d ɛ h	dɛh			
+1125	d ai̯ h	720	None	give	1447	KhunHawt	daih	None	Khun Hawt	22.965064	97.163239	72_give	d ai̯ h	daih			
+1126	d ai̯ h	720	None	give	1447	HtanHsan	daih	None	Htan Hsan	22.675133	97.289942	72_give	d ai̯ h	daih			
+1127	d e h	720	None	give	1447	PangKham	deh	None	Pangkham	22.672097	97.161167	72_give	d e h	deh			
+1128	t ɛ h	720	None	give	1447	ManLoi	tɛh	None	Man Loi	22.636019	97.139264	72_give	t ɛ h	tɛh			
+1129	d e h	720	None	give	1447	MengDan	deh	khan1274	Meng Dan	24.296522	98.379886	72_give	d e h	deh			
+1130	d ɛ h	720	None	give	1447	ChuDongGua	dɛh	None	Chu Dong Gua	24.330889	98.393125	72_give	d ɛ h	dɛh			
+1131	t ai̯ h	720	None	give	1447	XiangZhaiTang	tajh	ruma1248	Xiang Zhai Tang	24.323819	98.556639	72_give	t ai̯ h	tajh			
+1132	t ai̯ h	720	None	give	1447	PongNuea	taih	None	Pong Nuea	20.321525	99.866817	72_give	t ai̯ h	taih			
+1133	t ai̯ h	720	None	give	1447	NyaungGone	taih	None	Nyaung Gone	20.635025	96.545772	72_give	t ai̯ h	taih			
+1134	t ai̯ h	720	None	give	1447	NoeLae	taih	None	Noe Lae	19.941803	99.044742	72_give	t ai̯ h	taih			
+1135	t ai̯ h	720	None	give	1447	BanPaw	taih	None	Ban Paw	21.311225	99.557550	72_give	t ai̯ h	taih			
+1136	d ɛ h	720	None	give	1447	ChaYeQing	dɛh	None	Cha Ye Qing	24.305717	98.463661	72_give	d ɛ h	dɛh			
+1137	d ɛ h	720	None	give	1447	GuangKa	dɛh	ruma1248	Guang Ka	24.065714	97.796281	72_give	d ɛ h	dɛh			
+1138	d ɛ h	720	None	give	1447	MangBang	dɛh	ruma1248	Mang Bang	24.416392	98.399078	72_give	d ɛ h	dɛh			
+1139	d ɛ h	720	None	give	1447	NanSang	dɛh	ruma1248	Nan Sang	24.019728	97.819736	72_give	d ɛ h	dɛh			
+1140	s a + k u/w a ʔ	1563 1567	None	rub hard with both hands	1449	NamHsan	sakuaɁ	None	Namhsan	22.965064	97.163239	73_rubhardwithbothhands	s a + k u/w a ʔ	sakuaɁ			
+1141	d u + d i t	1565 1566	None	rub hard with both hands	1449	KhunHawt	dudit	None	Khun Hawt	22.965064	97.163239	73_rubhardwithbothhands	d u + d i t	dudit			
+1142	tʰ u + tʰ ei̯ ʔ	1565 1564	None	rub hard with both hands	1449	HtanHsan	thutheiɁ	None	Htan Hsan	22.675133	97.289942	73_rubhardwithbothhands	tʰ u + tʰ ei̯ ʔ	thutheiɁ			
+1143	s a + b ɔ t	1563 1564	None	rub hard with both hands	1449	PangKham	sabɔt	None	Pangkham	22.672097	97.161167	73_rubhardwithbothhands	s a + b ɔ t	sabɔt			
+1144	s a + ɓ ɔ ʔ	1563 1564	None	rub hard with both hands	1449	ManLoi	saɓɔɁ	None	Man Loi	22.636019	97.139264	73_rubhardwithbothhands	s a + ɓ ɔ ʔ	saɓɔɁ			
+1145	tʰ u ʔ + ɗ ai̯	1564 1566	None	rub hard with both hands	1449	MengDan	thuʔɗaj	khan1274	Meng Dan	24.296522	98.379886	73_rubhardwithbothhands	tʰ u ʔ + ɗ ai̯	thuʔɗaj			
+1146	s ə + ɓ ɔː t + ɗ ai̯	1563 1564 788	None	rub hard with both hands	1449	ChuDongGua	səɓɔːt ɗaj	None	Chu Dong Gua	24.330889	98.393125	73_rubhardwithbothhands	s ə + ɓ ɔː t + ɗ ai̯	səɓɔːt ɗaj			 ? hand
+1147	s a + b o ʔ	1563 1564	None	rub hard with both hands	1449	XiangZhaiTang	saboɁ	ruma1248	Xiang Zhai Tang	24.323819	98.556639	73_rubhardwithbothhands	s a + b o ʔ	saboɁ			
+1148	s a + b ɔː ʔ	1563 1564	None	rub hard with both hands	1449	PongNuea	sabɔːɁ	None	Pong Nuea	20.321525	99.866817	73_rubhardwithbothhands	s a + b ɔː ʔ	sabɔːɁ			
+1149	s a + b ɔ ʔ	1563 1564	None	rub hard with both hands	1449	NyaungGone	sabɔʔ	None	Nyaung Gone	20.635025	96.545772	73_rubhardwithbothhands	s a + b ɔ ʔ	sabɔʔ			
+1150	s a + b ɔ -	1563 1564	None	rub hard with both hands	1449	NoeLae	sabɔ	None	Noe Lae	19.941803	99.044742	73_rubhardwithbothhands	s a + b ɔ	sabɔ			
+1151	s a + b ɔ ʔ	1563 1564	None	rub hard with both hands	1449	BanPaw	sabɔɁ	None	Ban Paw	21.311225	99.557550	73_rubhardwithbothhands	s a + b ɔ ʔ	sabɔɁ			_-:prefix/sa ?
+1152	s ə + b o ʔ	1563 1564	None	rub hard with both hands	1449	ChaYeQing	səboɁ	None	Cha Ye Qing	24.305717	98.463661	73_rubhardwithbothhands	s ə + b o ʔ	səboɁ			
+1153	tʰ u + tʰ i k	1565 1566	None	rub hard with both hands	1449	GuangKa	thuthik	ruma1248	Guang Ka	24.065714	97.796281	73_rubhardwithbothhands	tʰ u + tʰ i k	thuthik			
+1154	tʰ u + tʰ iː -	1565 1566	None	rub hard with both hands	1449	MangBang	thuthiː	ruma1248	Mang Bang	24.416392	98.399078	73_rubhardwithbothhands	tʰ u + tʰ iː	thuthiː			
+1155	tʰ u + tʰ iː -	1565 1566	None	rub hard with both hands	1449	NanSang	thuthiː	ruma1248	Nan Sang	24.019728	97.819736	73_rubhardwithbothhands	tʰ u + tʰ iː	thuthiː			
+1156	g - ə p	287	None	cut	1432	NamHsan	ɡәp	None	Namhsan	22.965064	97.163239	74_cut	g ə p	ɡәp			
+1157	g - ə p	287	None	cut	1432	KhunHawt	ɡәp	None	Khun Hawt	22.965064	97.163239	74_cut	g ə p	ɡәp			
+1158	g - ə p	287	None	cut	1432	HtanHsan	ɡәp	None	Htan Hsan	22.675133	97.289942	74_cut	g ə p	ɡәp			
+1159	k - a p	287	None	cut	1432	PangKham	kap	None	Pangkham	22.672097	97.161167	74_cut	k a p	kap			
+1160	k - a p	287	None	cut	1432	ManLoi	kap	None	Man Loi	22.636019	97.139264	74_cut	k a p	kap			
+1161	k i/j a p	287	None	cut	1432	MengDan	kiap	khan1274	Meng Dan	24.296522	98.379886	74_cut	k i/j a p	kiap			
+1162	k - a p	287	None	cut	1432	ChuDongGua	kap	None	Chu Dong Gua	24.330889	98.393125	74_cut	k a p	kap			
+1163	k - ə p	287	None	cut	1432	XiangZhaiTang	kəp	ruma1248	Xiang Zhai Tang	24.323819	98.556639	74_cut	k ə p	kəp			
+1164	k - ə p	287	None	cut	1432	PongNuea	kəp	None	Pong Nuea	20.321525	99.866817	74_cut	k ə p	kəp			
+1165	k - ă p	287	None	cut	1432	NyaungGone	kăp	None	Nyaung Gone	20.635025	96.545772	74_cut	k ă p	kăp			
+1166	k - ə̆ p	287	None	cut	1432	NoeLae	kə̆p	None	Noe Lae	19.941803	99.044742	74_cut	k ə̆ p	kə̆p			
+1167	k a + k - ə̆ p	1062 287	None	cut	1432	BanPaw	kakə̆p	None	Ban Paw	21.311225	99.557550	74_cut	k a + k ə̆ p	kakə̆p			_-prefix/ka ?
+1168	k - e p	287	None	cut	1432	ChaYeQing	kep	None	Cha Ye Qing	24.305717	98.463661	74_cut	k e p	kep			
+1169	k j a p	287	None	cut	1432	GuangKa	kjap	ruma1248	Guang Ka	24.065714	97.796281	74_cut	k j a p	kjap			
+1170	k i/j a p	287	None	cut	1432	MangBang	kiap	ruma1248	Mang Bang	24.416392	98.399078	74_cut	k i/j a p	kiap			
+1171	k i/j a p	287	None	cut	1432	NanSang	kiap	ruma1248	Nan Sang	24.019728	97.819736	74_cut	k i/j a p	kiap			
+1172	k ə h + ɓ ɨ ŋ	321 322	None	dig	1418	NamHsan	kәhɓɨŋ	None	Namhsan	22.965064	97.163239	75_dig	k ə h + ɓ ɨ ŋ	kәhɓɨŋ			
+1173	k əː ŋ	321	None	dig	1418	KhunHawt	kәːŋ	None	Khun Hawt	22.965064	97.163239	75_dig	k əː ŋ	kәːŋ			
+1174	k əː ŋ	321	None	dig	1418	HtanHsan	kәːŋ	None	Htan Hsan	22.675133	97.289942	75_dig	k əː ŋ	kәːŋ			
+1175	g ə h	321	None	dig	1418	PangKham	ɡəh	None	Pangkham	22.672097	97.161167	75_dig	g ə h	ɡəh			
+1176	g ə h	321	None	dig	1418	ManLoi	ɡəh	None	Man Loi	22.636019	97.139264	75_dig	g ə h	ɡəh			
+1177	l o ʔ	321	None	dig	1418	MengDan	loʔ	khan1274	Meng Dan	24.296522	98.379886	75_dig	l o ʔ	loʔ			
+1178	l o ʔ	321	None	dig	1418	ChuDongGua	loʔ	None	Chu Dong Gua	24.330889	98.393125	75_dig	l o ʔ	loʔ			
+1179	g ə x	321	None	dig	1418	XiangZhaiTang	ɡəx	ruma1248	Xiang Zhai Tang	24.323819	98.556639	75_dig	g ə x	ɡəx			
+1180	g ə h	321	None	dig	1418	PongNuea	ɡəh	None	Pong Nuea	20.321525	99.866817	75_dig	g ə h	ɡəh			
+1181	g ə̆ h	321	None	dig	1418	NyaungGone	ɡə̆h	None	Nyaung Gone	20.635025	96.545772	75_dig	g ə̆ h	ɡə̆h			
+1182	g ə̆ h	321	None	dig	1418	NoeLae	ɡə̆h	None	Noe Lae	19.941803	99.044742	75_dig	g ə̆ h	ɡə̆h			
+1183	g ə̆ h	321	None	dig	1418	BanPaw	ɡə̆h	None	Ban Paw	21.311225	99.557550	75_dig	g ə̆ h	ɡə̆h			
+1184	kʰ u t	321	None	dig	1418	ChaYeQing	khut	None	Cha Ye Qing	24.305717	98.463661	75_dig	kʰ u t	khut			
+1185	l o k	321	None	dig	1418	GuangKa	lok	ruma1248	Guang Ka	24.065714	97.796281	75_dig	l o k	lok			
+1186	l o k	321	None	dig	1418	MangBang	lok	ruma1248	Mang Bang	24.416392	98.399078	75_dig	l o k	lok			
+1187	k ə h	321	None	dig	1418	NanSang	kəh	ruma1248	Nan Sang	24.019728	97.819736	75_dig	k ə h	kəh			
+1188	g u ʔ	206	None	burn	2102	NamHsan	ɡuɁ	None	Namhsan	22.965064	97.163239	76_burn	g u ʔ	ɡuɁ			
+1189	g uː t	206	None	burn	2102	KhunHawt	ɡuːt	None	Khun Hawt	22.965064	97.163239	76_burn	g uː t	ɡuːt			
+1190	g uː ʔ	206	None	burn	2102	HtanHsan	ɡuːɁ	None	Htan Hsan	22.675133	97.289942	76_burn	g uː ʔ	ɡuːɁ			
+1191	ɗ ɔ k	206	None	burn	2102	PangKham	ɗɔk	None	Pangkham	22.672097	97.161167	76_burn	ɗ ɔ k	ɗɔk			
+1192	ɗ o k	206	None	burn	2102	ManLoi	ɗok	None	Man Loi	22.636019	97.139264	76_burn	ɗ o k	ɗok			
+1193	ɗ o ʔ	206	None	burn	2102	MengDan	ɗoʔ	khan1274	Meng Dan	24.296522	98.379886	76_burn	ɗ o ʔ	ɗoʔ			
+1194	ɗ o ʔ	206	None	burn	2102	ChuDongGua	ɗoʔ	None	Chu Dong Gua	24.330889	98.393125	76_burn	ɗ o ʔ	ɗoʔ			
+1195	d ou̯ ʔ	206	None	burn	2102	XiangZhaiTang	douɁ	ruma1248	Xiang Zhai Tang	24.323819	98.556639	76_burn	d ou̯ ʔ	douɁ			
+1196	d ou̯ ʔ	206	None	burn	2102	PongNuea	douɁ	None	Pong Nuea	20.321525	99.866817	76_burn	d ou̯ ʔ	douɁ			
+1197	d ou̯ ʔ	206	None	burn	2102	NyaungGone	douʔ	None	Nyaung Gone	20.635025	96.545772	76_burn	d ou̯ ʔ	douʔ			
+1198	d ou̯ ʔ	206	None	burn	2102	NoeLae	douɁ	None	Noe Lae	19.941803	99.044742	76_burn	d ou̯ ʔ	douɁ			
+1199	d ou̯ ʔ	206	None	burn	2102	BanPaw	douɁ	None	Ban Paw	21.311225	99.557550	76_burn	d ou̯ ʔ	douɁ			
+1200	ɗ o k	206	None	burn	2102	ChaYeQing	ɗok	None	Cha Ye Qing	24.305717	98.463661	76_burn	ɗ o k	ɗok			
+1201	t o k	206	None	burn	2102	GuangKa	tok	ruma1248	Guang Ka	24.065714	97.796281	76_burn	t o k	tok			
+1202	t o k	206	None	burn	2102	MangBang	tok	ruma1248	Mang Bang	24.416392	98.399078	76_burn	t o k	tok			
+1203	t o k	206	None	burn	2102	NanSang	tok	ruma1248	Nan Sang	24.019728	97.819736	76_burn	t o k	tok			
+1204	b i/j a m	890	None	hunt	1435	NamHsan	biam	None	Namhsan	22.965064	97.163239	77_hunt	b i/j a m	biam			
+1205	k - o h + p r iː	895 891	None	hunt	1435	KhunHawt	koh priː	None	Khun Hawt	22.965064	97.163239	77_hunt	k o h + p r iː	koh priː			
+1206	l u/w a ŋ + b r ei̯	894 891	None	hunt	1435	HtanHsan	luaŋbrej	None	Htan Hsan	22.675133	97.289942	77_hunt	l u/w a ŋ + b r ei̯	luaŋbrej			
+1207	k - u h + p r ai̯	895 891	None	hunt	1435	PangKham	kuh praj	None	Pangkham	22.672097	97.161167	77_hunt	k u h + p r ai̯	kuh praj			
+1208	kʰ r ɔ h + p r ai̯	895 891	None	hunt	1435	ManLoi	khrɔh praj	None	Man Loi	22.636019	97.139264	77_hunt	kʰ r ɔ h + p r ai̯	khrɔh praj			
+1209	- l i p + r - i ŋ	892 894	None	hunt	1435	MengDan	lip riŋ	khan1274	Meng Dan	24.296522	98.379886	77_hunt	l i p + r i ŋ	lip riŋ			
+1210	k l ɔː - + b r ai̯	892 891	None	hunt	1435	ChuDongGua	klɔː brai	None	Chu Dong Gua	24.330889	98.393125	77_hunt	k l ɔː + b r ai̯	klɔː brai			
+1211	- l ɨ p + p r ɛː	892 891	None	hunt	1435	XiangZhaiTang	lɨpprɛː	ruma1248	Xiang Zhai Tang	24.323819	98.556639	77_hunt	l ɨ p + p r ɛː	lɨpprɛː			
+1212	- ŋ au̯ h	895	None	hunt	1435	PongNuea	ŋauh	None	Pong Nuea	20.321525	99.866817	77_hunt	ŋ au̯ h	ŋauh			
+1213	- l ɛ - + kʰ - ɛ - + p r ɛ	892 895 891	None	hunt	1435	NyaungGone	lɛ khɛ prɛ	None	Nyaung Gone	20.635025	96.545772	77_hunt	l ɛ + kʰ ɛ + p r ɛ	lɛ khɛ prɛ			
+1214	- l ɛ - + p r ɛ	892 891	None	hunt	1435	NoeLae	lɛ prɛ	None	Noe Lae	19.941803	99.044742	77_hunt	l ɛ + p r ɛ	lɛ prɛ			
+1215	b - a - + p r ɛ	890 891	None	hunt	1435	BanPaw	ba prɛ	None	Ban Paw	21.311225	99.557550	77_hunt	b a + p r ɛ	ba prɛ			
+1216	l ə p + b j ai̯	892 890	None	hunt	1435	ChaYeQing	ləp bjaj	None	Cha Ye Qing	24.305717	98.463661	77_hunt	l ə p + b j ai̯	ləp bjaj			
+1217	p - ai̯ + t oː	891 893	None	hunt	1435	GuangKa	pai toː	ruma1248	Guang Ka	24.065714	97.796281	77_hunt	p ai̯ + t oː	pai toː			
+1218	- l ɛː -	892	None	hunt	1435	MangBang	lɛː	ruma1248	Mang Bang	24.416392	98.399078	77_hunt	l ɛː	lɛː			
+1219	j ɨ + t oː	896 893	None	hunt	1435	NanSang	jɨtoː	ruma1248	Nan Sang	24.019728	97.819736	77_hunt	j ɨ + t oː	jɨtoː			
+1220	b i/j a m	941	None	kill	1417	NamHsan	biam	None	Namhsan	22.965064	97.163239	78_kill	b i/j a m	biam			
+1221	p i/j a m	941	None	kill	1417	KhunHawt	piam	None	Khun Hawt	22.965064	97.163239	78_kill	p i/j a m	piam			
+1222	ɓ i/j a m	941	None	kill	1417	HtanHsan	ɓiam	None	Htan Hsan	22.675133	97.289942	78_kill	ɓ i/j a m	ɓiam			
+1223	ŋ ɔ h	940	None	kill	1417	PangKham	ŋɔh	None	Pangkham	22.672097	97.161167	78_kill	ŋ ɔ h	ŋɔh			
+1224	ŋ a h	940	None	kill	1417	ManLoi	ŋah	None	Man Loi	22.636019	97.139264	78_kill	ŋ a h	ŋah			
+1225	ŋ a h	940	None	kill	1417	MengDan	ŋah	khan1274	Meng Dan	24.296522	98.379886	78_kill	ŋ a h	ŋah			
+1226	ŋ a h	940	None	kill	1417	ChuDongGua	ŋah	None	Chu Dong Gua	24.330889	98.393125	78_kill	ŋ a h	ŋah			
+1227	ŋ ɔ h	940	None	kill	1417	XiangZhaiTang	ŋɔh	ruma1248	Xiang Zhai Tang	24.323819	98.556639	78_kill	ŋ ɔ h	ŋɔh			
+1228	ŋ au̯ h	940	None	kill	1417	PongNuea	ŋauh	None	Pong Nuea	20.321525	99.866817	78_kill	ŋ au̯ h	ŋauh			
+1229	ŋ au̯ h	940	None	kill	1417	NyaungGone	ŋauh	None	Nyaung Gone	20.635025	96.545772	78_kill	ŋ au̯ h	ŋauh			
+1230	ŋ au̯ h	940	None	kill	1417	NoeLae	ŋauh	None	Noe Lae	19.941803	99.044742	78_kill	ŋ au̯ h	ŋauh			
+1231	ŋ au̯ h	940	None	kill	1417	BanPaw	ŋauh	None	Ban Paw	21.311225	99.557550	78_kill	ŋ au̯ h	ŋauh			
+1232	ŋ ɔ h	940	None	kill	1417	ChaYeQing	ŋɔh	None	Cha Ye Qing	24.305717	98.463661	78_kill	ŋ ɔ h	ŋɔh			
+1233	ŋ ai̯ ʔ	940	None	kill	1417	GuangKa	ŋai?	ruma1248	Guang Ka	24.065714	97.796281	78_kill	ŋ ai̯ ʔ	ŋai?			
+1234	ŋ ai̯ -	940	None	kill	1417	MangBang	ŋaj	ruma1248	Mang Bang	24.416392	98.399078	78_kill	ŋ ai̯	ŋaj			
+1235	ŋ ai̯ -	940	None	kill	1417	NanSang	ŋai	ruma1248	Nan Sang	24.019728	97.819736	78_kill	ŋ ai̯	ŋai			
+1236	ʔ u r	1411	None	one	1493	NamHsan	Ɂur	None	Namhsan	22.965064	97.163239	79_one	ʔ u r	Ɂur			
+1237	ʔ uː -	1411	None	one	1493	KhunHawt	Ɂuː	None	Khun Hawt	22.965064	97.163239	79_one	ʔ uː	Ɂuː			
+1238	ʔ uː -	1411	None	one	1493	HtanHsan	Ɂu:	None	Htan Hsan	22.675133	97.289942	79_one	ʔ uː	Ɂu:			
+1239	ʔ uː -	1411	None	one	1493	PangKham	Ɂuː	None	Pangkham	22.672097	97.161167	79_one	ʔ uː	Ɂuː			
+1240	ʔ uː -	1411	None	one	1493	ManLoi	Ɂuː	None	Man Loi	22.636019	97.139264	79_one	ʔ uː	Ɂuː			
+1241	l u - ʔ	1412	None	one	1493	MengDan	luʔ	khan1274	Meng Dan	24.296522	98.379886	79_one	l u ʔ	luʔ			
+1242	ʔ uː -	1411	None	one	1493	ChuDongGua	Ɂuː	None	Chu Dong Gua	24.330889	98.393125	79_one	ʔ uː	Ɂuː			
+1243	ʔ uː -	1411	None	one	1493	XiangZhaiTang	Ɂuː	ruma1248	Xiang Zhai Tang	24.323819	98.556639	79_one	ʔ uː	Ɂuː, l̥ejh			
+1244	l əi̯ h	1412	None	one	1493	PongNuea	lәih	None	Pong Nuea	20.321525	99.866817	79_one	l əi̯ h	lәih			
+1245	ʔ u -	1411	None	one	1493	NyaungGone	ʔu	None	Nyaung Gone	20.635025	96.545772	79_one	ʔ u	ʔu, l̥eih			
+1246	ʔ u -	1411	None	one	1493	NoeLae	Ɂu	None	Noe Lae	19.941803	99.044742	79_one	ʔ u	Ɂu, l̥eih			
+1247	l̥ ei̯ - h	1412	None	one	1493	NoeLae	l̥eih	None	Noe Lae	19.941803	99.044742	79_one	l̥ ei̯ h	Ɂu, l̥eih			
+1248	ʔ u -	1411	None	one	1493	BanPaw	Ɂu	None	Ban Paw	21.311225	99.557550	79_one	ʔ u	Ɂu, l̥eih			
+1249	l̥ ei̯ - h	1412	None	one	1493	BanPaw	l̥eih	None	Ban Paw	21.311225	99.557550	79_one	l̥ ei̯ h	Ɂu, l̥eih			
+1250	ʔ uː -	1411	None	one	1493	ChaYeQing	ʔuː	None	Cha Ye Qing	24.305717	98.463661	79_one	ʔ uː	ʔuː			
+1251	ʔ uː -	1411	None	one	1493	GuangKa	Ɂuː	ruma1248	Guang Ka	24.065714	97.796281	79_one	ʔ uː	Ɂuː			
+1252	ʔ uː -	1411	None	one	1493	MangBang	Ɂuː	ruma1248	Mang Bang	24.416392	98.399078	79_one	ʔ uː	Ɂuː			
+1253	ʔ uː -	1411	None	one	1493	NanSang	Ɂuː	ruma1248	Nan Sang	24.019728	97.819736	79_one	ʔ uː	Ɂuː			
+1254	ʔ a r	2042	None	two	1498	NamHsan	Ɂar	None	Namhsan	22.965064	97.163239	80_two	ʔ a r	Ɂar			
+1255	ʔ a r	2042	None	two	1498	KhunHawt	Ɂar	None	Khun Hawt	22.965064	97.163239	80_two	ʔ a r	Ɂar			
+1256	ʔ aː -	2042	None	two	1498	HtanHsan	Ɂa:	None	Htan Hsan	22.675133	97.289942	80_two	ʔ aː	Ɂa:			
+1257	ʔ aː -	2042	None	two	1498	PangKham	Ɂaː	None	Pangkham	22.672097	97.161167	80_two	ʔ aː	Ɂaː			
+1258	ʔ ɛː -	2042	None	two	1498	ManLoi	Ɂɛː	None	Man Loi	22.636019	97.139264	80_two	ʔ ɛː	Ɂɛː			
+1259	ʔ ɛː -	2042	None	two	1498	MengDan	ʔɛː	khan1274	Meng Dan	24.296522	98.379886	80_two	ʔ ɛː	ʔɛː			
+1260	ʔ aː -	2042	None	two	1498	ChuDongGua	Ɂaː	None	Chu Dong Gua	24.330889	98.393125	80_two	ʔ aː	Ɂaː			
+1261	ʔ aː -	2042	None	two	1498	XiangZhaiTang	Ɂaː	ruma1248	Xiang Zhai Tang	24.323819	98.556639	80_two	ʔ aː	Ɂaː			
+1262	ʔ aː -	2042	None	two	1498	PongNuea	Ɂaː	None	Pong Nuea	20.321525	99.866817	80_two	ʔ aː	Ɂaː			
+1263	h a - + ʔ a	2042 2043	None	two	1498	NyaungGone	haʔa	None	Nyaung Gone	20.635025	96.545772	80_two	h a + ʔ a	haʔa			
+1264	ʔ a -	2042	None	two	1498	NoeLae	Ɂa	None	Noe Lae	19.941803	99.044742	80_two	ʔ a	Ɂa			
+1265	ʔ a -	2042	None	two	1498	BanPaw	Ɂa	None	Ban Paw	21.311225	99.557550	80_two	ʔ a	Ɂa			two
+1266	ʔ eː -	2042	None	two	1498	ChaYeQing	ʔeː	None	Cha Ye Qing	24.305717	98.463661	80_two	ʔ eː	ʔeː			
+1267	ʔ ɛː -	2042	None	two	1498	GuangKa	ʔɛː	ruma1248	Guang Ka	24.065714	97.796281	80_two	ʔ ɛː	ʔɛː			
+1268	ʔ ɛː -	2042	None	two	1498	MangBang	ʔɛː	ruma1248	Mang Bang	24.416392	98.399078	80_two	ʔ ɛː	ʔɛː			
+1269	ʔ aː -	2042	None	two	1498	NanSang	Ɂaː	ruma1248	Nan Sang	24.019728	97.819736	80_two	ʔ aː	Ɂaː			
+1270	ʔ u/w ai̯	1950	None	three	492	NamHsan	Ɂuaj	None	Namhsan	22.965064	97.163239	81_three	ʔ u/w ai̯	Ɂuaj			
+1271	ʔ u/w ai̯	1950	None	three	492	KhunHawt	Ɂuaj	None	Khun Hawt	22.965064	97.163239	81_three	ʔ u/w ai̯	Ɂuaj			
+1272	ʔ u/w ai̯	1950	None	three	492	HtanHsan	Ɂuaj	None	Htan Hsan	22.675133	97.289942	81_three	ʔ u/w ai̯	Ɂuaj			
+1273	ʔ u/w ai̯	1950	None	three	492	PangKham	Ɂuaj	None	Pangkham	22.672097	97.161167	81_three	ʔ u/w ai̯	Ɂuaj			
+1274	ʔ u/w ai̯	1950	None	three	492	ManLoi	Ɂuaj	None	Man Loi	22.636019	97.139264	81_three	ʔ u/w ai̯	Ɂuaj			
+1275	ʔ - oi̯ -	1950	None	three	492	MengDan	ʔoj	khan1274	Meng Dan	24.296522	98.379886	81_three	ʔ oi̯	ʔoj			
+1276	ʔ - oi̯ -	1950	None	three	492	ChuDongGua	Ɂoj	None	Chu Dong Gua	24.330889	98.393125	81_three	ʔ oi̯	Ɂoj			
+1277	ʔ oːi̯	1950	None	three	492	XiangZhaiTang	Ɂoːj	ruma1248	Xiang Zhai Tang	24.323819	98.556639	81_three	ʔ oːi̯	Ɂoːj			
+1278	ʔ oːi̯	1950	None	three	492	PongNuea	Ɂoːj	None	Pong Nuea	20.321525	99.866817	81_three	ʔ oːi̯	Ɂoːj			
+1279	ʔ - oi̯ -	1950	None	three	492	NyaungGone	ʔoj	None	Nyaung Gone	20.635025	96.545772	81_three	ʔ oi̯	ʔoj			
+1280	ʔ - oi̯ -	1950	None	three	492	NoeLae	Ɂoj	None	Noe Lae	19.941803	99.044742	81_three	ʔ oi̯	Ɂoj			
+1281	ʔ - oi̯ -	1950	None	three	492	BanPaw	Ɂoj	None	Ban Paw	21.311225	99.557550	81_three	ʔ oi̯	Ɂoj			
+1282	ʔ oːi̯	1950	None	three	492	ChaYeQing	ʔoːj	None	Cha Ye Qing	24.305717	98.463661	81_three	ʔ oːi̯	ʔoːj			
+1283	ʔ oːi̯	1950	None	three	492	GuangKa	ʔoːj	ruma1248	Guang Ka	24.065714	97.796281	81_three	ʔ oːi̯	ʔoːj			
+1284	ʔ oːi̯	1950	None	three	492	MangBang	ʔoːj	ruma1248	Mang Bang	24.416392	98.399078	81_three	ʔ oːi̯	ʔoːj			
+1285	ʔ - oi̯ -	1950	None	three	492	NanSang	Ɂoj	ruma1248	Nan Sang	24.019728	97.819736	81_three	ʔ oi̯	Ɂoj			
+1286	pʰ - o n	665	None	four	1500	NamHsan	phon	None	Namhsan	22.965064	97.163239	82_four	pʰ o n	phon			
+1287	pʰ - o n	665	None	four	1500	KhunHawt	phon	None	Khun Hawt	22.965064	97.163239	82_four	pʰ o n	phon			
+1288	pʰ - oː n	665	None	four	1500	HtanHsan	phoːn	None	Htan Hsan	22.675133	97.289942	82_four	pʰ oː n	phoːn			
+1289	pʰ u/w a n	665	None	four	1500	PangKham	phuan	None	Pangkham	22.672097	97.161167	82_four	pʰ u/w a n	phuan			
+1290	pʰ - ɔː n	665	None	four	1500	ManLoi	phɔːn	None	Man Loi	22.636019	97.139264	82_four	pʰ ɔː n	phɔːn			
+1291	pʰ - o n	665	None	four	1500	MengDan	phon	khan1274	Meng Dan	24.296522	98.379886	82_four	pʰ o n	phon			
+1292	pʰ - ɔ n	665	None	four	1500	ChuDongGua	phɔn	None	Chu Dong Gua	24.330889	98.393125	82_four	pʰ ɔ n	phɔn			
+1293	Ø/ə m + pʰ u/w a n	666 665	None	four	1500	XiangZhaiTang	mphuan	ruma1248	Xiang Zhai Tang	24.323819	98.556639	82_four	Ø/ə m + pʰ u/w a n	mphuan			
+1294	Ø/ə m + pʰ au̯ n	666 665	None	four	1500	PongNuea	mphaun	None	Pong Nuea	20.321525	99.866817	82_four	Ø/ə m + pʰ au̯ n	mphaun			
+1295	Ø/ə m + pʰ u/w a n	666 665	None	four	1500	NyaungGone	m phuan	None	Nyaung Gone	20.635025	96.545772	82_four	Ø/ə m + pʰ u/w a n	m phuan			
+1296	Ø/ə m + pʰ u/w a n	666 665	None	four	1500	NoeLae	m phuan	None	Noe Lae	19.941803	99.044742	82_four	Ø/ə m + pʰ u/w a n	m phuan			
+1297	pʰ u/w a n	665	None	four	1500	BanPaw	phuan	None	Ban Paw	21.311225	99.557550	82_four	pʰ u/w a n	phuan			
+1298	pʰ - oː m	665	None	four	1500	ChaYeQing	phoːm	None	Cha Ye Qing	24.305717	98.463661	82_four	pʰ oː m	phoːm			
+1299	pʰ - oː n	665	None	four	1500	GuangKa	phoːn	ruma1248	Guang Ka	24.065714	97.796281	82_four	pʰ oː n	phoːn			
+1300	pʰ - oː m	665	None	four	1500	MangBang	phoːm	ruma1248	Mang Bang	24.416392	98.399078	82_four	pʰ oː m	phoːm			
+1301	pʰ - o n	665	None	four	1500	NanSang	phon	ruma1248	Nan Sang	24.019728	97.819736	82_four	pʰ o n	phon			
+1302	b - r a m	1135	None	many	1198	NamHsan	bram	None	Namhsan	22.965064	97.163239	83_many	b r a m	bram			
+1303	s ə p	1137	None	many	1198	KhunHawt	sәp	None	Khun Hawt	22.965064	97.163239	83_many	s ə p	sәp,			
+1304	p ə r + tɕ əɯ̯	1135 1136	None	many	1198	HtanHsan	pәrʨәɯ	None	Htan Hsan	22.675133	97.289942	83_many	p ə r + tɕ əɯ̯	pәrʨәɯ			
+1305	r i/j a n	1138	None	many	1198	PangKham	rian	None	Pangkham	22.672097	97.161167	83_many	r i/j a n	rian			
+1306	r i/j a n	1138	None	many	1198	ManLoi	rian	None	Man Loi	22.636019	97.139264	83_many	r i/j a n	rian			
+1307	b - r a m	1135	None	many	1198	MengDan	bram	khan1274	Meng Dan	24.296522	98.379886	83_many	b r a m	bram			
+1308	b - r a m	1135	None	many	1198	ChuDongGua	bram	None	Chu Dong Gua	24.330889	98.393125	83_many	b r a m	bram			
+1309	k ɨ n	1134	None	many	1198	NyaungGone	kɨn	None	Nyaung Gone	20.635025	96.545772	83_many	k ɨ n	kɨn			
+1310	k ɨ n	1134	None	many	1198	NoeLae	kɨn	None	Noe Lae	19.941803	99.044742	83_many	k ɨ n	kɨn			
+1311	k ɨ n	1134	None	many	1198	BanPaw	kɨn	None	Ban Paw	21.311225	99.557550	83_many	k ɨ n	kɨn			
+1312	g ɨ n	1134	None	many	1198	ChaYeQing	ɡɨn	None	Cha Ye Qing	24.305717	98.463661	83_many	g ɨ n	ɡɨn			
+1313	g ɨ n	1134	None	many	1198	GuangKa	ɡɨn	ruma1248	Guang Ka	24.065714	97.796281	83_many	g ɨ n	ɡɨn			
+1314	g ɨ n	1134	None	many	1198	MangBang	ɡɨn	ruma1248	Mang Bang	24.416392	98.399078	83_many	g ɨ n	ɡɨn			
+1315	k ɨ n	1134	None	many	1198	NanSang	kɨn	ruma1248	Nan Sang	24.019728	97.819736	83_many	k ɨ n	kɨn			
+1316	r̥ ə ŋ + r̥ ə ŋ	1093 1094	None	long	1203	NamHsan	r̥әŋr̥әŋ	None	Namhsan	22.965064	97.163239	84_long	r̥ ə ŋ + r̥ ə ŋ	r̥әŋr̥әŋ			
+1317	l̥ əː ŋ	1093	None	long	1203	KhunHawt	l̥әːŋ	None	Khun Hawt	22.965064	97.163239	84_long	l̥ əː ŋ	l̥әːŋ			
+1318	l̥ əː ŋ	1093	None	long	1203	HtanHsan	l̥әːŋ	None	Htan Hsan	22.675133	97.289942	84_long	l̥ əː ŋ	l̥әːŋ			
+1319	dʱ o ŋ	1093	None	long	1203	PangKham	d̤oŋ	None	Pangkham	22.672097	97.161167	84_long	dʱ o ŋ	d̤oŋ			
+1320	t o ŋ	1093	None	long	1203	ManLoi	toŋ	None	Man Loi	22.636019	97.139264	84_long	t o ŋ	toŋ			
+1321	d o ŋ	1093	None	long	1203	MengDan	doŋ	khan1274	Meng Dan	24.296522	98.379886	84_long	d o ŋ	doŋ			
+1322	d o ŋ	1093	None	long	1203	ChuDongGua	doŋ	None	Chu Dong Gua	24.330889	98.393125	84_long	d o ŋ	doŋ			long
+1323	t o ŋ	1093	None	long	1203	PongNuea	toŋ	None	Pong Nuea	20.321525	99.866817	84_long	t o ŋ	toŋ			
+1324	t o k	1093	None	long	1203	NyaungGone	tok	None	Nyaung Gone	20.635025	96.545772	84_long	t o k	tok			
+1325	t o ŋ	1093	None	long	1203	NoeLae	toŋ	None	Noe Lae	19.941803	99.044742	84_long	t o ŋ	toŋ			
+1326	t o ŋ	1093	None	long	1203	BanPaw	toŋ	None	Ban Paw	21.311225	99.557550	84_long	t o ŋ	toŋ			long
+1327	d o ŋ	1093	None	long	1203	ChaYeQing	doŋ	None	Cha Ye Qing	24.305717	98.463661	84_long	d o ŋ	doŋ			long
+1328	d o ŋ	1093	None	long	1203	GuangKa	doŋ	ruma1248	Guang Ka	24.065714	97.796281	84_long	d o ŋ	doŋ			long
+1329	d o ŋ	1093	None	long	1203	MangBang	doŋ	ruma1248	Mang Bang	24.416392	98.399078	84_long	d o ŋ	doŋ			
+1330	d o ŋ	1093	None	long	1203	NanSang	doŋ	ruma1248	Nan Sang	24.019728	97.819736	84_long	d o ŋ	doŋ			
+1331	n ɔ ʔ	703	None	full	1429	NamHsan	nɔɁ	None	Namhsan	22.965064	97.163239	85_full	n ɔ ʔ	nɔɁ			
+1332	n o ʔ	703	None	full	1429	KhunHawt	noɁ	None	Khun Hawt	22.965064	97.163239	85_full	n o ʔ	noɁ			
+1333	n au̯ ʔ	703	None	full	1429	HtanHsan	nauɁ	None	Htan Hsan	22.675133	97.289942	85_full	n au̯ ʔ	nauɁ			
+1334	n o ʔ	703	None	full	1429	PangKham	noɁ	None	Pangkham	22.672097	97.161167	85_full	n o ʔ	noɁ			
+1335	n o k	703	None	full	1429	ManLoi	nok	None	Man Loi	22.636019	97.139264	85_full	n o k	nok			
+1336	n o ʔ	703	None	full	1429	MengDan	noʔ	khan1274	Meng Dan	24.296522	98.379886	85_full	n o ʔ	noʔ			
+1337	n o k	703	None	full	1429	ChuDongGua	nok	None	Chu Dong Gua	24.330889	98.393125	85_full	n o k	nok			
+1338	n ou̯ ʔ	703	None	full	1429	XiangZhaiTang	nouɁ	ruma1248	Xiang Zhai Tang	24.323819	98.556639	85_full	n ou̯ ʔ	nouɁ			
+1339	n ou̯ ʔ	703	None	full	1429	PongNuea	nouɁ	None	Pong Nuea	20.321525	99.866817	85_full	n ou̯ ʔ	nouɁ			
+1340	n ou̯ ʔ	703	None	full	1429	NyaungGone	nouʔ	None	Nyaung Gone	20.635025	96.545772	85_full	n ou̯ ʔ	nouʔ			
+1341	n ou̯ ʔ	703	None	full	1429	NoeLae	nouɁ	None	Noe Lae	19.941803	99.044742	85_full	n ou̯ ʔ	nouɁ			
+1342	n ou̯ ʔ	703	None	full	1429	BanPaw	nouɁ	None	Ban Paw	21.311225	99.557550	85_full	n ou̯ ʔ	nouɁ			
+1343	n o k	703	None	full	1429	ChaYeQing	nok	None	Cha Ye Qing	24.305717	98.463661	85_full	n o k	nok			
+1344	n o k	703	None	full	1429	GuangKa	nok	ruma1248	Guang Ka	24.065714	97.796281	85_full	n o k	nok			
+1345	n o k	703	None	full	1429	MangBang	nok	ruma1248	Mang Bang	24.416392	98.399078	85_full	n o k	nok			
+1346	n o k	703	None	full	1429	NanSang	nok	ruma1248	Nan Sang	24.019728	97.819736	85_full	n o k	nok			
+1347	kʰ ɔ n + ʔ i + d - a m	1480 1479 1478	None	right side	1019	NamHsan	khɔn Ɂidam	None	Namhsan	22.965064	97.163239	86_rightside	kʰ ɔ n + ʔ i + d a m	khɔn Ɂidam			
+1348	kʰ ɔ n + n a p	1029 1026	None	right side	1019	KhunHawt	khɔnnap	None	Khun Hawt	22.965064	97.163239	86_rightside	kʰ ɔ n + n a p	khɔnnap			side side
+1349	kʰ ɔ n + n a p	1029 1026	None	right side	1019	HtanHsan	khɔnnap	None	Htan Hsan	22.675133	97.289942	86_rightside	kʰ ɔ n + n a p	khɔnnap			side side
+1350	ʔ a + ʔ ɔ h	1479 1476	None	right side	1019	PangKham	ʔaʔɔh	None	Pangkham	22.672097	97.161167	86_rightside	ʔ a + ʔ ɔ h	ʔaʔɔh			
+1351	ʔ a + ʔ ɔ h	1479 1476	None	right side	1019	ManLoi	ʔaʔɔh	None	Man Loi	22.636019	97.139264	86_rightside	ʔ a + ʔ ɔ h	ʔaʔɔh			
+1352	d i ŋ + ʔ a + ʔ ɔi̯ h	1478 1479 1476	None	right side	1019	MengDan	diŋʔaʔɔjh	khan1274	Meng Dan	24.296522	98.379886	86_rightside	d i ŋ + ʔ a + ʔ ɔi̯ h	diŋʔaʔɔjh			
+1353	d u/w a - + ʔ ɔi̯ h	1478 1476	None	right side	1019	ChuDongGua	dua?ɔjh	None	Chu Dong Gua	24.330889	98.393125	86_rightside	d u/w a + ʔ ɔi̯ h	dua?ɔjh			
+1354	n a - + ʔ a h	1477 1476	None	right side	1019	XiangZhaiTang	naɁah	ruma1248	Xiang Zhai Tang	24.323819	98.556639	86_rightside	n a + ʔ a h	naɁah			
+1355	ʔ a + ʔ a h	1479 1476	None	right side	1019	PongNuea	ʔaʔah	None	Pong Nuea	20.321525	99.866817	86_rightside	ʔ a + ʔ a h	ʔaʔah			
+1356	ʔ a + ʔ a h	1479 1476	None	right side	1019	NyaungGone	ʔaʔăh	None	Nyaung Gone	20.635025	96.545772	86_rightside	ʔ a + ʔ a h	ʔaʔăh			
+1357	ʔ a + ʔ a h	1479 1476	None	right side	1019	NoeLae	ɁaɁăh	None	Noe Lae	19.941803	99.044742	86_rightside	ʔ a + ʔ a h	ɁaɁăh		1	
+1358	n a + ʔ a h	1026 1476	None	right side	1019	BanPaw	naɁăh	None	Ban Paw	21.311225	99.557550	86_rightside	n a + ʔ a h	naɁăh		0	side ?
+1359	n a - + ʔ e h	1026 1476	None	right side	1019	ChaYeQing	naʔeh	None	Cha Ye Qing	24.305717	98.463661	86_rightside	n a + ʔ e h	naʔeh			side ?
+1360	ʔ a + ʔ ɛ h	1479 1476	None	right side	1019	GuangKa	ɁaɁɛh	ruma1248	Guang Ka	24.065714	97.796281	86_rightside	ʔ a + ʔ ɛ h	ɁaɁɛh			
+1361	ʔ a + ʔ ə h	1479 1476	None	right side	1019	MangBang	ɁaɁəh	ruma1248	Mang Bang	24.416392	98.399078	86_rightside	ʔ a + ʔ ə h	ɁaɁəh			
+1362	ʔ a + ʔ ə h	1479 1476	None	right side	1019	NanSang	ɁaɁəh	ruma1248	Nan Sang	24.019728	97.819736	86_rightside	ʔ a + ʔ ə h	ɁaɁəh			
+1363	kʰ ɔ n + ʔ i + v eː	1027 1028 1030	None	left side	244	NamHsan	khɔn Ɂiveː	None	Namhsan	22.965064	97.163239	87_leftside	kʰ ɔ n + ʔ i + v eː	khɔn Ɂiveː			
+1364	kʰ ɔ n + k a - + n a p	1029 1027 1026	None	left side	244	KhunHawt	khɔnkanap	None	Khun Hawt	22.965064	97.163239	87_leftside	kʰ ɔ n + k a + n a p	khɔnkanap			side _-:sufix/ka side
+1365	kʰ ɔ n + k a - + n a p	1029 1027 1026	None	left side	244	HtanHsan	khɔnkanap	None	Htan Hsan	22.675133	97.289942	87_leftside	kʰ ɔ n + k a + n a p	khɔnkanap			side _-:suffix/ka side
+1366	ʔ a + k a ʔ	1028 1027	None	left side	244	PangKham	ʔakaʔ	None	Pangkham	22.672097	97.161167	87_leftside	ʔ a + k a ʔ	ʔakaʔ			
+1367	ʔ a + g a ʔ	1028 1027	None	left side	244	ManLoi	ʔaɡaʔ	None	Man Loi	22.636019	97.139264	87_leftside	ʔ a + g a ʔ	ʔaɡaʔ			
+1368	ʔ a + k ɛ ʔ	1028 1027	None	left side	244	MengDan	ʔakɛʔ	khan1274	Meng Dan	24.296522	98.379886	87_leftside	ʔ a + k ɛ ʔ	ʔakɛʔ			
+1369	ʔ a + k a ʔ	1028 1027	None	left side	244	ChuDongGua	?aka?	None	Chu Dong Gua	24.330889	98.393125	87_leftside	ʔ a + k a ʔ	?aka?			
+1370	n a - + g a ʔ	1026 1027	None	left side	244	XiangZhaiTang	naɡaɁ	ruma1248	Xiang Zhai Tang	24.323819	98.556639	87_leftside	n a + g a ʔ	naɡaɁ			
+1371	ʔ a + g a ʔ	1028 1027	None	left side	244	PongNuea	ʔaɡaɁ	None	Pong Nuea	20.321525	99.866817	87_leftside	ʔ a + g a ʔ	ʔaɡaɁ			
+1372	ʔ a + g ă ʔ	1028 1027	None	left side	244	NyaungGone	ʔaɡăʔ	None	Nyaung Gone	20.635025	96.545772	87_leftside	ʔ a + g ă ʔ	ʔaɡăʔ			
+1373	ʔ a + g ă ʔ	1028 1027	None	left side	244	NoeLae	ɁaɡăɁ	None	Noe Lae	19.941803	99.044742	87_leftside	ʔ a + g ă ʔ	ɁaɡăɁ			
+1374	n a - + g ă ʔ	1026 1027	None	left side	244	BanPaw	naɡăɁ	None	Ban Paw	21.311225	99.557550	87_leftside	n a + g ă ʔ	naɡăɁ			side ?
+1375	n a - + k a ʔ	1026 1027	None	left side	244	ChaYeQing	nakaʔ	None	Cha Ye Qing	24.305717	98.463661	87_leftside	n a + k a ʔ	nakaʔ			side ?
+1376	ʔ a + k a ʔ	1028 1027	None	left side	244	GuangKa	ɁakaɁ	ruma1248	Guang Ka	24.065714	97.796281	87_leftside	ʔ a + k a ʔ	ɁakaɁ			
+1377	ʔ a + k a ʔ	1028 1027	None	left side	244	MangBang	ɁakaɁ	ruma1248	Mang Bang	24.416392	98.399078	87_leftside	ʔ a + k a ʔ	ɁakaɁ			
+1378	ʔ a + k a ʔ	1028 1027	None	left side	244	NanSang	ɁakaɁ	ruma1248	Nan Sang	24.019728	97.819736	87_leftside	ʔ a + k a ʔ	ɁakaɁ			
+1379	s a + ŋ aːi̯	521 522	None	far	1406	NamHsan	saŋaːj	None	Namhsan	22.965064	97.163239	88_far	s a + ŋ aːi̯	saŋaːj			
+1380	s a + ŋ aːi̯	1858 418	None	far	1406	KhunHawt	saŋaːj	None	Khun Hawt	22.965064	97.163239	88_far	s a + ŋ aːi̯	saŋaːj			_-:suffix/sa eye
+1381	s a + ŋ aːi̯	521 522	None	far	1406	HtanHsan	saŋaːj	None	Htan Hsan	22.675133	97.289942	88_far	s a + ŋ aːi̯	saŋaːj			_-:suffix/sa ?
+1382	d o ŋ	520	None	far	1406	PangKham	doŋ	None	Pangkham	22.672097	97.161167	88_far	d o ŋ	doŋ			
+1383	t o ŋ	520	None	far	1406	ManLoi	toŋ	None	Man Loi	22.636019	97.139264	88_far	t o ŋ	toŋ			
+1384	d o ŋ	520	None	far	1406	MengDan	doŋ	khan1274	Meng Dan	24.296522	98.379886	88_far	d o ŋ	doŋ			
+1385	d o ŋ	1093	None	far	1406	ChuDongGua	doŋ	None	Chu Dong Gua	24.330889	98.393125	88_far	d o ŋ	doŋ			long
+1386	t o ŋ	520	None	far	1406	XiangZhaiTang	toŋ	ruma1248	Xiang Zhai Tang	24.323819	98.556639	88_far	t o ŋ	toŋ			
+1387	t o ŋ	520	None	far	1406	PongNuea	toŋ	None	Pong Nuea	20.321525	99.866817	88_far	t o ŋ	toŋ			
+1388	n - - + t o k	522 520	None	far	1406	NyaungGone	n tok	None	Nyaung Gone	20.635025	96.545772	88_far	n + t o k	n tok			
+1389	t o ŋ	520	None	far	1406	NoeLae	toŋ	None	Noe Lae	19.941803	99.044742	88_far	t o ŋ	toŋ			
+1390	t o ŋ	1093	None	far	1406	BanPaw	toŋ	None	Ban Paw	21.311225	99.557550	88_far	t o ŋ	toŋ			long
+1391	d o ŋ	1093	None	far	1406	ChaYeQing	doŋ	None	Cha Ye Qing	24.305717	98.463661	88_far	d o ŋ	doŋ			long
+1392	d o ŋ	1093	None	far	1406	GuangKa	doŋ	ruma1248	Guang Ka	24.065714	97.796281	88_far	d o ŋ	doŋ			long
+1393	d o ŋ	520	None	far	1406	MangBang	doŋ	ruma1248	Mang Bang	24.416392	98.399078	88_far	d o ŋ	doŋ			
+1394	d o ŋ	520	None	far	1406	NanSang	doŋ	ruma1248	Nan Sang	24.019728	97.819736	88_far	d o ŋ	doŋ			
+1395	t a - + d a ʔ	1266 1269	None	near	1942	NamHsan	tadaɁ	None	Namhsan	22.965064	97.163239	89_near	t a + d a ʔ	tadaɁ			
+1396	d a t	1266	None	near	1942	KhunHawt	dat	None	Khun Hawt	22.965064	97.163239	89_near	d a t	dat			
+1397	d a t	1266	None	near	1942	HtanHsan	dat	None	Htan Hsan	22.675133	97.289942	89_near	d a t	dat			
+1398	ʔ a + dʱ a t	1270 1266	None	near	1942	PangKham	Ɂad̤at	None	Pangkham	22.672097	97.161167	89_near	ʔ a + dʱ a t	Ɂad̤at			
+1399	t a ʔ	1266	None	near	1942	ManLoi	taɁ	None	Man Loi	22.636019	97.139264	89_near	t a ʔ	taɁ			
+1400	Ø/ə n + d a t	1265 1266	None	near	1942	MengDan	ndat	khan1274	Meng Dan	24.296522	98.379886	89_near	Ø/ə n + d a t	ndat			
+1401	d a t	1266	None	near	1942	ChuDongGua	dat	None	Chu Dong Gua	24.330889	98.393125	89_near	d a t	dat			
+1402	Ø/ə m + t a t	1271 1266	None	near	1942	XiangZhaiTang	mtat	ruma1248	Xiang Zhai Tang	24.323819	98.556639	89_near	Ø/ə m + t a t	mtat			
+1403	kʰ r i/j a ʔ	1264	None	near	1942	PongNuea	khriaɁ	None	Pong Nuea	20.321525	99.866817	89_near	kʰ r i/j a ʔ	khriaɁ			
+1404	kʰ r i/j a ʔ	1264	None	near	1942	NyaungGone	khriaʔ	None	Nyaung Gone	20.635025	96.545772	89_near	kʰ r i/j a ʔ	khriaʔ			
+1405	kʰ r i/j a ʔ	1264	None	near	1942	NoeLae	khriaɁ	None	Noe Lae	19.941803	99.044742	89_near	kʰ r i/j a ʔ	khriaɁ			
+1406	kʰ r i/j a ʔ	1264	None	near	1942	BanPaw	khriaɁ	None	Ban Paw	21.311225	99.557550	89_near	kʰ r i/j a ʔ	khriaɁ	complex syllable		
+1407	Ø/ə n + d ɔ ʔ	1265 1266	None	near	1942	ChaYeQing	ndɔʔ	None	Cha Ye Qing	24.305717	98.463661	89_near	Ø/ə n + d ɔ ʔ	ndɔʔ			_-:prefix/n ?
+1408	t ə - + tɕ ɔ m	1266 1267	None	near	1942	GuangKa	təʨɔm	ruma1248	Guang Ka	24.065714	97.796281	89_near	t ə + tɕ ɔ m	təʨɔm			
+1409	k a + tɕ a m	1268 1267	None	near	1942	MangBang	kaʨam	ruma1248	Mang Bang	24.416392	98.399078	89_near	k a + tɕ a m	kaʨam			
+1410	k a + tɕ a m	1268 1267	None	near	1942	NanSang	kaʨam	ruma1248	Nan Sang	24.019728	97.819736	89_near	k a + tɕ a m	kaʨam			
+1411	h a + ʔ ɨː	1924 1927	None	this	1214	NamHsan	haɁɨː	None	Namhsan	22.965064	97.163239	90_this	h a + ʔ ɨː	haɁɨː			
+1412	ʔ a + n i n	1924 1923	None	this	1214	KhunHawt	Ɂanin	None	Khun Hawt	22.965064	97.163239	90_this	ʔ a + n i n	Ɂanin			
+1413	ʔ a + n i n	1924 1923	None	this	1214	HtanHsan	Ɂanin	None	Htan Hsan	22.675133	97.289942	90_this	ʔ a + n i n	Ɂanin			
+1414	n iː -	1923	None	this	1214	PangKham	niː	None	Pangkham	22.672097	97.161167	90_this	n iː	niː			
+1415	n a ŋ + ʔ ɨː	1923 1924	None	this	1214	ManLoi	naŋɁɨː	None	Man Loi	22.636019	97.139264	90_this	n a ŋ + ʔ ɨː	naŋɁɨː			
+1416	ɗ u + ʔ ɯː	1926 1924	None	this	1214	MengDan	ɗuʔɯː	khan1274	Meng Dan	24.296522	98.379886	90_this	ɗ u + ʔ ɯː	ɗuʔɯː			
+1417	h a + ʔ ɨ	1924 1925	None	this	1214	ChuDongGua	ha?ɨ	None	Chu Dong Gua	24.330889	98.393125	90_this	h a + ʔ ɨ	ha?ɨ			
+1418	ʔ a + n iː -	1924 1923	None	this	1214	XiangZhaiTang	Ɂaniː	ruma1248	Xiang Zhai Tang	24.323819	98.556639	90_this	ʔ a + n iː	Ɂaniː			
+1419	n ɨi̯	1923	None	this	1214	PongNuea	nɨj	None	Pong Nuea	20.321525	99.866817	90_this	n ɨi̯	nɨj			
+1420	n i -	1923	None	this	1214	NyaungGone	ni	None	Nyaung Gone	20.635025	96.545772	90_this	n i	ni			
+1421	n i -	1923	None	this	1214	NoeLae	ni	None	Noe Lae	19.941803	99.044742	90_this	n i	ni			
+1422	n ɨi̯	1923	None	this	1214	BanPaw	nɨj	None	Ban Paw	21.311225	99.557550	90_this	n ɨi̯	nɨj			
+1423	ʔ a + n i n	1924 1923	None	this	1214	ChaYeQing	ʔanin	None	Cha Ye Qing	24.305717	98.463661	90_this	ʔ a + n i n	ʔanin			this ?
+1424	n iː -	1923	None	this	1214	GuangKa	niː	ruma1248	Guang Ka	24.065714	97.796281	90_this	n iː	niː			
+1425	ʔ a + n iː -	1924 1923	None	this	1214	MangBang	Ɂaniː	ruma1248	Mang Bang	24.416392	98.399078	90_this	ʔ a + n iː	Ɂaniː			
+1426	ʔ a + n i -	1924 1923	None	this	1214	NanSang	Ɂani	ruma1248	Nan Sang	24.019728	97.819736	90_this	ʔ a + n i	Ɂani			
+1427	dʑ ə m	106	None	black	163	NamHsan	ʥәm	None	Namhsan	22.965064	97.163239	91_black	dʑ ə m	ʥәm			
+1428	dʑ ə m	106	None	black	163	KhunHawt	ʥәm	None	Khun Hawt	22.965064	97.163239	91_black	dʑ ə m	ʥәm			
+1429	dʑ ə m	106	None	black	163	HtanHsan	ʥәm	None	Htan Hsan	22.675133	97.289942	91_black	dʑ ə m	ʥәm			
+1430	v a ŋ	105	None	black	163	PangKham	vaŋ	None	Pangkham	22.672097	97.161167	91_black	v a ŋ	vaŋ			
+1431	v a ŋ	105	None	black	163	ManLoi	vaŋ	None	Man Loi	22.636019	97.139264	91_black	v a ŋ	vaŋ			
+1432	v a ŋ	105	None	black	163	MengDan	vaŋ	khan1274	Meng Dan	24.296522	98.379886	91_black	v a ŋ	vaŋ			
+1433	v a ŋ	105	None	black	163	ChuDongGua	vaŋ	None	Chu Dong Gua	24.330889	98.393125	91_black	v a ŋ	vaŋ			
+1434	v ɔ ŋ	105	None	black	163	XiangZhaiTang	vɔŋ	ruma1248	Xiang Zhai Tang	24.323819	98.556639	91_black	v ɔ ŋ	vɔŋ			
+1435	v ɔ ŋ	105	None	black	163	PongNuea	vɔŋ	None	Pong Nuea	20.321525	99.866817	91_black	v ɔ ŋ	vɔŋ			
+1436	v ɔ k	105	None	black	163	NyaungGone	vɔk	None	Nyaung Gone	20.635025	96.545772	91_black	v ɔ k	vɔk			
+1437	v ɔ ŋ	105	None	black	163	NoeLae	vɔŋ	None	Noe Lae	19.941803	99.044742	91_black	v ɔ ŋ	vɔŋ			
+1438	v ɔ ŋ	105	None	black	163	BanPaw	vɔŋ	None	Ban Paw	21.311225	99.557550	91_black	v ɔ ŋ	vɔŋ			
+1439	v a ŋ	105	None	black	163	ChaYeQing	vaŋ	None	Cha Ye Qing	24.305717	98.463661	91_black	v a ŋ	vaŋ			
+1440	v ɔ ŋ	105	None	black	163	GuangKa	vɔŋ	ruma1248	Guang Ka	24.065714	97.796281	91_black	v ɔ ŋ	vɔŋ			
+1441	v ɔ ŋ	105	None	black	163	MangBang	vɔŋ	ruma1248	Mang Bang	24.416392	98.399078	91_black	v ɔ ŋ	vɔŋ			
+1442	ʔ i + v ɔ ŋ	107 105	None	black	163	NanSang	Ɂivɔŋ	ruma1248	Nan Sang	24.019728	97.819736	91_black	ʔ i + v ɔ ŋ	Ɂivɔŋ			
+1443	b l ɔ ʔ	2112	None	white	1335	NamHsan	blɔɁ	None	Namhsan	22.965064	97.163239	92_white	b l ɔ ʔ	blɔɁ			
+1444	b l ɔː ʔ	2112	None	white	1335	KhunHawt	blɔːɁ	None	Khun Hawt	22.965064	97.163239	92_white	b l ɔː ʔ	blɔːɁ			
+1445	p l ɔ ʔ	2112	None	white	1335	HtanHsan	plɔʔ	None	Htan Hsan	22.675133	97.289942	92_white	p l ɔ ʔ	plɔʔ			
+1446	l uːi̯	2111	None	white	1335	PangKham	luːj	None	Pangkham	22.672097	97.161167	92_white	l uːi̯	luːj			
+1447	l uːi̯	2111	None	white	1335	ManLoi	luːj	None	Man Loi	22.636019	97.139264	92_white	l uːi̯	luːj			
+1448	p l ɔ ʔ	2112	None	white	1335	MengDan	plɔʔ	khan1274	Meng Dan	24.296522	98.379886	92_white	p l ɔ ʔ	plɔʔ			
+1449	b l ɔ ʔ	2112	None	white	1335	ChuDongGua	blɔʔ	None	Chu Dong Gua	24.330889	98.393125	92_white	b l ɔ ʔ	blɔʔ			
+1450	l uːi̯	2111	None	white	1335	XiangZhaiTang	luːj	ruma1248	Xiang Zhai Tang	24.323819	98.556639	92_white	l uːi̯	luːj			
+1451	l uːi̯	2111	None	white	1335	PongNuea	luːj	None	Pong Nuea	20.321525	99.866817	92_white	l uːi̯	luːj			
+1452	l ui̯	2111	None	white	1335	NyaungGone	luj	None	Nyaung Gone	20.635025	96.545772	92_white	l ui̯	luj			
+1453	l ui̯	2111	None	white	1335	NoeLae	luj	None	Noe Lae	19.941803	99.044742	92_white	l ui̯	luj			
+1454	l ui̯	2111	None	white	1335	BanPaw	luj	None	Ban Paw	21.311225	99.557550	92_white	l ui̯	luj			
+1455	l ɨi̯ h	2111	None	white	1335	ChaYeQing	lɨjh	None	Cha Ye Qing	24.305717	98.463661	92_white	l ɨi̯ h	lɨjh			
+1456	l ui̯	2111	None	white	1335	GuangKa	luj	ruma1248	Guang Ka	24.065714	97.796281	92_white	l ui̯	luj			
+1457	l uːi̯	2111	None	white	1335	MangBang	luːj	ruma1248	Mang Bang	24.416392	98.399078	92_white	l uːi̯	luːj			
+1458	ʔ i + l ui̯	2113 2111	None	white	1335	NanSang	Ɂiluj	ruma1248	Nan Sang	24.019728	97.819736	92_white	ʔ i + l ui̯	Ɂiluj, luj			
+1459	k ə n + m ɛː -	1289 1290	None	new	1231	NamHsan	kәnmɛː	None	Namhsan	22.965064	97.163239	93_new	k ə n + m ɛː	kәnmɛː			
+1460	k a r + m ei̯	1289 1290	None	new	1231	KhunHawt	karmej	None	Khun Hawt	22.965064	97.163239	93_new	k a r + m ei̯	karmej			
+1461	k ə n + m ei̯	1289 1290	None	new	1231	HtanHsan	kәnmej	None	Htan Hsan	22.675133	97.289942	93_new	k ə n + m ei̯	kәnmej			
+1462	k a + m aːi̯	1289 1290	None	new	1231	PangKham	kamaːj	None	Pangkham	22.672097	97.161167	93_new	k a + m aːi̯	kamaːj			
+1463	k a + m aːi̯	1289 1290	None	new	1231	ManLoi	kamaːj	None	Man Loi	22.636019	97.139264	93_new	k a + m aːi̯	kamaːj			
+1464	k a + m ai̯	1289 1290	None	new	1231	MengDan	kamaj	khan1274	Meng Dan	24.296522	98.379886	93_new	k a + m ai̯	kamaj			
+1465	k a + m ai̯	1062 1290	None	new	1231	ChuDongGua	kamaj	None	Chu Dong Gua	24.330889	98.393125	93_new	k a + m ai̯	kamaj			_-:suffix/ka ?
+1466	k a + m aːi̯	1289 1290	None	new	1231	XiangZhaiTang	kamaːj	ruma1248	Xiang Zhai Tang	24.323819	98.556639	93_new	k a + m aːi̯	kamaːj			
+1467	k a + m aːi̯	1289 1290	None	new	1231	PongNuea	kamaːj	None	Pong Nuea	20.321525	99.866817	93_new	k a + m aːi̯	kamaːj			
+1468	k a + m ai̯	1289 1290	None	new	1231	NyaungGone	kamaj	None	Nyaung Gone	20.635025	96.545772	93_new	k a + m ai̯	kamaj			
+1469	k a + m ai̯	1289 1290	None	new	1231	NoeLae	kamaj	None	Noe Lae	19.941803	99.044742	93_new	k a + m ai̯	kamaj			
+1470	k a + m ai̯	1062 1290	None	new	1231	BanPaw	kamaj	None	Ban Paw	21.311225	99.557550	93_new	k a + m ai̯	kamaj			_-prefix/ka ?
+1471	l ə + m ai̯	1291 1290	None	new	1231	ChaYeQing	ləmaj	None	Cha Ye Qing	24.305717	98.463661	93_new	l ə + m ai̯	ləmaj			
+1472	t a + m aːi̯	1292 1290	None	new	1231	GuangKa	tamaːj	ruma1248	Guang Ka	24.065714	97.796281	93_new	t a + m aːi̯	tamaːj			
+1473	t a + m aːi̯	1292 1290	None	new	1231	MangBang	tamaːj	ruma1248	Mang Bang	24.416392	98.399078	93_new	t a + m aːi̯	tamaːj			
+1474	t a + m aːi̯	1292 1290	None	new	1231	NanSang	tamaːj	ruma1248	Nan Sang	24.019728	97.819736	93_new	t a + m aːi̯	tamaːj			
+1475	k o n + tɕʰ aː	1391 1393	None	old-aged	2112	NamHsan	konʨhaː	None	Namhsan	22.965064	97.163239	94_oldaged	k o n + tɕʰ aː	konʨhaː			
+1476	p a + ʔ aː n	1392 1391	None	old-aged	2112	KhunHawt	paɁaːn	None	Khun Hawt	22.965064	97.163239	94_oldaged	p a + ʔ aː n	paɁaːn			
+1477	p ə + ʔ aː n	1392 1391	None	old-aged	2112	HtanHsan	pәɁaːn	None	Htan Hsan	22.675133	97.289942	94_oldaged	p ə + ʔ aː n	pәɁaːn			
+1478	k a t	1391	None	old-aged	2112	PangKham	kat	None	Pangkham	22.672097	97.161167	94_oldaged	k a t	kat			
+1479	k a ʔ	1391	None	old-aged	2112	ManLoi	kaɁ	None	Man Loi	22.636019	97.139264	94_oldaged	k a ʔ	kaɁ			
+1480	k ɛ t	1391	None	old-aged	2112	MengDan	kɛt	khan1274	Meng Dan	24.296522	98.379886	94_oldaged	k ɛ t	kɛt			
+1481	g a t	1391	None	old-aged	2112	ChuDongGua	ɡat	None	Chu Dong Gua	24.330889	98.393125	94_oldaged	g a t	ɡat			
+1482	k a t	1391	None	old-aged	2112	XiangZhaiTang	kat	ruma1248	Xiang Zhai Tang	24.323819	98.556639	94_oldaged	k a t	kat			
+1483	k a t	1391	None	old-aged	2112	PongNuea	kat	None	Pong Nuea	20.321525	99.866817	94_oldaged	k a t	kat			
+1484	k ă t	1391	None	old-aged	2112	NyaungGone	kăt	None	Nyaung Gone	20.635025	96.545772	94_oldaged	k ă t	kăt			
+1485	k ă t	1391	None	old-aged	2112	NoeLae	kăt	None	Noe Lae	19.941803	99.044742	94_oldaged	k ă t	kăt			
+1486	k ă t	1391	None	old-aged	2112	BanPaw	kăt	None	Ban Paw	21.311225	99.557550	94_oldaged	k ă t	kăt			
+1487	g ɔ ʔ	1391	None	old-aged	2112	ChaYeQing	ɡɔʔ	None	Cha Ye Qing	24.305717	98.463661	94_oldaged	g ɔ ʔ	ɡɔʔ			
+1488	g ɔː ʔ	1391	None	old-aged	2112	GuangKa	ɡɔːʔ	ruma1248	Guang Ka	24.065714	97.796281	94_oldaged	g ɔː ʔ	ɡɔːʔ			
+1489	g ɔː ʔ	1391	None	old-aged	2112	MangBang	ɡɔːʔ	ruma1248	Mang Bang	24.416392	98.399078	94_oldaged	g ɔː ʔ	ɡɔːʔ			
+1490	g ɔ ʔ	1391	None	old-aged	2112	NanSang	ɡɔɁ	ruma1248	Nan Sang	24.019728	97.819736	94_oldaged	g ɔ ʔ	ɡɔɁ			
+1491	k - a t	269	None	cold	1287	NamHsan	kat	None	Namhsan	22.965064	97.163239	95_cold	k a t	kat			
+1492	k - a t	269	None	cold	1287	KhunHawt	kat	None	Khun Hawt	22.965064	97.163239	95_cold	k a t	kat			
+1493	k - a t	269	None	cold	1287	HtanHsan	kat	None	Htan Hsan	22.675133	97.289942	95_cold	k a t	kat			
+1494	g i/j a ʔ	269	None	cold	1287	PangKham	ɡiaɁ	None	Pangkham	22.672097	97.161167	95_cold	g i/j a ʔ	ɡiaɁ			
+1495	g - a ʔ	269	None	cold	1287	ManLoi	ɡaɁ	None	Man Loi	22.636019	97.139264	95_cold	g a ʔ	ɡaɁ			
+1496	g - a t	269	None	cold	1287	MengDan	ɡat	khan1274	Meng Dan	24.296522	98.379886	95_cold	g a t	ɡat			
+1497	k - a t	269	None	cold	1287	ChuDongGua	kat	None	Chu Dong Gua	24.330889	98.393125	95_cold	k a t	kat			
+1498	g - a t	269	None	cold	1287	XiangZhaiTang	ɡat	ruma1248	Xiang Zhai Tang	24.323819	98.556639	95_cold	g a t	ɡat			
+1499	g - a t	269	None	cold	1287	PongNuea	ɡat	None	Pong Nuea	20.321525	99.866817	95_cold	g a t	ɡat			
+1500	g - ă t	269	None	cold	1287	NyaungGone	ɡăt	None	Nyaung Gone	20.635025	96.545772	95_cold	g ă t	ɡăt			
+1501	g - ă t	269	None	cold	1287	NoeLae	ɡăt	None	Noe Lae	19.941803	99.044742	95_cold	g ă t	ɡăt			
+1502	g - ă t	269	None	cold	1287	BanPaw	ɡăt	None	Ban Paw	21.311225	99.557550	95_cold	g ă t	ɡăt			
+1503	k - o k	269	None	cold	1287	ChaYeQing	kok	None	Cha Ye Qing	24.305717	98.463661	95_cold	k o k	kok			
+1504	k - ɔː ʔ	269	None	cold	1287	GuangKa	kɔːɁ	ruma1248	Guang Ka	24.065714	97.796281	95_cold	k ɔː ʔ	kɔːɁ			
+1505	k - ɔː ʔ	269	None	cold	1287	MangBang	kɔːɁ	ruma1248	Mang Bang	24.416392	98.399078	95_cold	k ɔː ʔ	kɔːɁ			
+1506	k - ɔː ʔ	269	None	cold	1287	NanSang	kɔːɁ	ruma1248	Nan Sang	24.019728	97.819736	95_cold	k ɔː ʔ	kɔːɁ			
+1507	dʑ a n	855	None	heavy	1210	NamHsan	ʥan	None	Namhsan	22.965064	97.163239	96_heavy	dʑ a n	ʥan			
+1508	dʑ a n	855	None	heavy	1210	KhunHawt	ʥan	None	Khun Hawt	22.965064	97.163239	96_heavy	dʑ a n	ʥan			
+1509	dʑ a n	855	None	heavy	1210	HtanHsan	ʥan	None	Htan Hsan	22.675133	97.289942	96_heavy	dʑ a n	ʥan			
+1510	tɕ a n	855	None	heavy	1210	PangKham	ʨan	None	Pangkham	22.672097	97.161167	96_heavy	tɕ a n	ʨan			
+1511	tɕ ɔ n	855	None	heavy	1210	ManLoi	ʨɔn	None	Man Loi	22.636019	97.139264	96_heavy	tɕ ɔ n	ʨɔn			
+1512	tɕ a n	855	None	heavy	1210	MengDan	ʨan	khan1274	Meng Dan	24.296522	98.379886	96_heavy	tɕ a n	ʨan			
+1513	dʑ ɔː n	855	None	heavy	1210	ChuDongGua	ʥɔːn	None	Chu Dong Gua	24.330889	98.393125	96_heavy	dʑ ɔː n	ʥɔːn			
+1514	tɕ a n	855	None	heavy	1210	XiangZhaiTang	ʨan	ruma1248	Xiang Zhai Tang	24.323819	98.556639	96_heavy	tɕ a n	ʨan			
+1515	tɕ a n	855	None	heavy	1210	PongNuea	ʨan	None	Pong Nuea	20.321525	99.866817	96_heavy	tɕ a n	ʨan			
+1516	c ă n	855	None	heavy	1210	NyaungGone	căn	None	Nyaung Gone	20.635025	96.545772	96_heavy	c ă n	căn			
+1517	c ă n	855	None	heavy	1210	NoeLae	căn	None	Noe Lae	19.941803	99.044742	96_heavy	c ă n	căn			
+1518	c a n	855	None	heavy	1210	BanPaw	can	None	Ban Paw	21.311225	99.557550	96_heavy	c a n	can			
+1519	dʑ ɔː n	855	None	heavy	1210	ChaYeQing	ʥɔːn	None	Cha Ye Qing	24.305717	98.463661	96_heavy	dʑ ɔː n	ʥɔːn			*heavy
+1520	dʑ ɔ n	855	None	heavy	1210	GuangKa	ʥɔn	ruma1248	Guang Ka	24.065714	97.796281	96_heavy	dʑ ɔ n	ʥɔn			
+1521	dʑ ɔː n	855	None	heavy	1210	MangBang	ʥɔːn	ruma1248	Mang Bang	24.416392	98.399078	96_heavy	dʑ ɔː n	ʥɔːn			
+1522	dʑ a n	855	None	heavy	1210	NanSang	ʥan	ruma1248	Nan Sang	24.019728	97.819736	96_heavy	dʑ a n	ʥan			
+1523	ʔ a + s e + m i + m ə h	2129 2130 2 2131	None	who?	1235	NamHsan	ʔase mimәh	None	Namhsan	22.965064	97.163239	97_who	ʔ a + s e + m i + m ə h	ʔase mimәh			
+1524	s i - + ʔ a n + m ɔ h	2130 2129 2077	None	who?	1235	KhunHawt	siɁan mɔh	None	Khun Hawt	22.965064	97.163239	97_who	s i + ʔ a n + m ɔ h	siɁan mɔh			 ? what
+1525	s i + m i + m ɔ h	2130 2 2131	None	who?	1235	HtanHsan	simimɔh	None	Htan Hsan	22.675133	97.289942	97_who	s i + m i + m ɔ h	simimɔh			
+1526	ʔ a - + s eː -	2129 2130	None	who?	1235	PangKham	Ɂaseː	None	Pangkham	22.672097	97.161167	97_who	ʔ a + s eː	Ɂaseː			
+1527	ʔ a - + s ei̯ -	2129 2130	None	who?	1235	ManLoi	Ɂasej	None	Man Loi	22.636019	97.139264	97_who	ʔ a + s ei̯	Ɂasej			
+1528	ʔ i - + s iː -	2129 2130	None	who?	1235	MengDan	ʔi siː	khan1274	Meng Dan	24.296522	98.379886	97_who	ʔ i + s iː	ʔi siː			
+1529	s iː n + m u h	2078 2077	None	who?	1235	ChuDongGua	siːn muh	None	Chu Dong Gua	24.330889	98.393125	97_who	s iː n + m u h	siːn muh			what what
+1530	ʔ a - + s ei̯ -	2129 2130	None	who?	1235	XiangZhaiTang	Ɂasej	ruma1248	Xiang Zhai Tang	24.323819	98.556639	97_who	ʔ a + s ei̯	Ɂasej			
+1531	ʔ a - + s ei̯ -	2129 2130	None	who?	1235	PongNuea	ʔasej	None	Pong Nuea	20.321525	99.866817	97_who	ʔ a + s ei̯	ʔasej			
+1532	ʔ a - + s e -	2129 2130	None	who?	1235	NyaungGone	ʔase	None	Nyaung Gone	20.635025	96.545772	97_who	ʔ a + s e	ʔase			
+1533	ʔ a - + s e -	2129 2130	None	who?	1235	NoeLae	Ɂase	None	Noe Lae	19.941803	99.044742	97_who	ʔ a + s e	Ɂase			
+1534	ʔ a - + s e -	2129 2130	None	who?	1235	BanPaw	Ɂase	None	Ban Paw	21.311225	99.557550	97_who	ʔ a + s e	Ɂase			 ?
+1535	ʔ a - + s i -	1924 2130	None	who?	1235	ChaYeQing	ʔasi	None	Cha Ye Qing	24.305717	98.463661	97_who	ʔ a + s i	ʔasi			this ?
+1536	s iː -	2130	None	who?	1235	GuangKa	siː	ruma1248	Guang Ka	24.065714	97.796281	97_who	s iː	siː			
+1537	s i - + - - d ə h	2130 3	None	who?	1235	MangBang	si dəh	ruma1248	Mang Bang	24.416392	98.399078	97_who	s i + d ə h	si dəh			
+1538	tɕʰ i - + m̥ əː -	2130 2131	None	who?	1235	NanSang	ʨhim̥əː	ruma1248	Nan Sang	24.019728	97.819736	97_who	tɕʰ i + m̥ əː	ʨhim̥əː			
+1539	s i n + - - m ə - + h a + ʔ ɨː	2078 2077 2079 2080	None	what?	1236	NamHsan	sinmә haɁɨː	None	Namhsan	22.965064	97.163239	98_what	s i n + m ə + h a + ʔ ɨː	sinmә haɁɨː			
+1540	s i - + - - m ɔ h	2078 2077	None	what?	1236	KhunHawt	simɔh	None	Khun Hawt	22.965064	97.163239	98_what	s i + m ɔ h	simɔh			 what
+1541	s ə n + - - m ə h	2078 2077	None	what?	1236	HtanHsan	sәnmәh	None	Htan Hsan	22.675133	97.289942	98_what	s ə n + m ə h	sәnmәh			
+1542	s i - + - - m u h	2078 2077	None	what?	1236	PangKham	simuh	None	Pangkham	22.672097	97.161167	98_what	s i + m u h	simuh			
+1543	s i - + - - m u h	2078 2077	None	what?	1236	ManLoi	simuh	None	Man Loi	22.636019	97.139264	98_what	s i + m u h	simuh			
+1544	s i - + n ə m u h	2078 2077	None	what?	1236	MengDan	sinəmuh	khan1274	Meng Dan	24.296522	98.379886	98_what	s i + n ə m u h	sinəmuh			
+1545	s iː n + - - m u h	2078 2077	None	what?	1236	ChuDongGua	siːnmuh	None	Chu Dong Gua	24.330889	98.393125	98_what	s iː n + m u h	siːnmuh			what what
+1546	- - m a - + s ei̯ -	2077 2078	None	what?	1236	XiangZhaiTang	masej	ruma1248	Xiang Zhai Tang	24.323819	98.556639	98_what	m a + s ei̯	masej			
+1547	- - m a - + s ei̯ -	2077 2078	None	what?	1236	PongNuea	masej	None	Pong Nuea	20.321525	99.866817	98_what	m a + s ei̯	masej			
+1548	- - m a - + s e -	2077 2078	None	what?	1236	NyaungGone	mase	None	Nyaung Gone	20.635025	96.545772	98_what	m a + s e	mase			
+1549	- - m a - + s e -	2077 2078	None	what?	1236	NoeLae	mase	None	Noe Lae	19.941803	99.044742	98_what	m a + s e	mase			
+1550	- - m a - + s e -	1110 2078	None	what?	1236	BanPaw	mase	None	Ban Paw	21.311225	99.557550	98_what	m a + s e	mase			_-prefix/ma ?
+1551	s ə - + - - m u h	2078 2077	None	what?	1236	ChaYeQing	səmuh	None	Cha Ye Qing	24.305717	98.463661	98_what	s ə + m u h	səmuh			
+1552	s ə - + - - m o h	2078 2077	None	what?	1236	GuangKa	səmoh	ruma1248	Guang Ka	24.065714	97.796281	98_what	s ə + m o h	səmoh			
+1553	s i -	2078	None	what?	1236	MangBang	si	ruma1248	Mang Bang	24.416392	98.399078	98_what	s i	si			
+1554	tɕʰ ə n + - - m̥ əː -	2078 2077	None	what?	1236	NanSang	ʨhənm̥əː	ruma1248	Nan Sang	24.019728	97.819736	98_what	tɕʰ ə n + m̥ əː	ʨhənm̥əː			
+1555	ʔ ɔː -	1	None	I	1209	NamHsan	Ɂɔː	None	Namhsan	22.965064	97.163239	99_i	ʔ ɔː	Ɂɔː			
+1556	ʔ oː -	1	None	I	1209	KhunHawt	Ɂoː	None	Khun Hawt	22.965064	97.163239	99_i	ʔ oː	Ɂoː			
+1557	ʔ ɔː -	1	None	I	1209	HtanHsan	Ɂɔː	None	Htan Hsan	22.675133	97.289942	99_i	ʔ ɔː	Ɂɔː			
+1558	ʔ ɔː -	1	None	I	1209	ManLoi	Ɂɔː	None	Man Loi	22.636019	97.139264	99_i	ʔ ɔː	Ɂɔː			
+1559	ʔ oː -	1	None	I	1209	MengDan	ʔoː	khan1274	Meng Dan	24.296522	98.379886	99_i	ʔ oː	ʔoː			
+1560	ʔ oː -	1	None	I	1209	ChuDongGua	ʔoː	None	Chu Dong Gua	24.330889	98.393125	99_i	ʔ oː	ʔoː			
+1561	ʔ ou̯	1	None	I	1209	XiangZhaiTang	Ɂow	ruma1248	Xiang Zhai Tang	24.323819	98.556639	99_i	ʔ ou̯	Ɂow			
+1562	ʔ ou̯	1	None	I	1209	PongNuea	Ɂow	None	Pong Nuea	20.321525	99.866817	99_i	ʔ ou̯	Ɂow			
+1563	ʔ o -	1	None	I	1209	NyaungGone	ʔo	None	Nyaung Gone	20.635025	96.545772	99_i	ʔ o	ʔo			
+1564	ʔ o -	1	None	I	1209	NoeLae	Ɂo	None	Noe Lae	19.941803	99.044742	99_i	ʔ o	Ɂo			
+1565	ʔ o -	1	None	I	1209	BanPaw	Ɂo	None	Ban Paw	21.311225	99.557550	99_i	ʔ o	Ɂo			
+1566	ʔ au̯	1	None	I	1209	ChaYeQing	Ɂaw	None	Cha Ye Qing	24.305717	98.463661	99_i	ʔ au̯	Ɂaw			
+1567	ʔ au̯ -	1	None	I	1209	GuangKa	Ɂau	ruma1248	Guang Ka	24.065714	97.796281	99_i	ʔ au̯	Ɂau			
+1568	ʔ au̯	1	None	I	1209	MangBang	Ɂaw	ruma1248	Mang Bang	24.416392	98.399078	99_i	ʔ au̯	Ɂaw			
+1569	ʔ au̯	1	None	I	1209	NanSang	Ɂaw	ruma1248	Nan Sang	24.019728	97.819736	99_i	ʔ au̯	Ɂaw			
+1570	m iː -	2213	None	you (sg.)	1213	NamHsan	miː	None	Namhsan	22.965064	97.163239	100_yousg	m iː	miː			
+1571	m iː -	2213	None	you (sg.)	1213	KhunHawt	miː	None	Khun Hawt	22.965064	97.163239	100_yousg	m iː	miː			
+1572	m iː -	2213	None	you (sg.)	1213	HtanHsan	miː	None	Htan Hsan	22.675133	97.289942	100_yousg	m iː	miː			
+1573	m ai̯ -	2213	None	you (sg.)	1213	PangKham	maj	None	Pangkham	22.672097	97.161167	100_yousg	m ai̯	maj			
+1574	m ai̯ -	2213	None	you (sg.)	1213	ManLoi	maj	None	Man Loi	22.636019	97.139264	100_yousg	m ai̯	maj			
+1575	m əi̯	2213	None	you (sg.)	1213	MengDan	məj	khan1274	Meng Dan	24.296522	98.379886	100_yousg	m əi̯	məj			
+1576	m ɔːi̯	2213	None	you (sg.)	1213	ChuDongGua	mɔːj	None	Chu Dong Gua	24.330889	98.393125	100_yousg	m ɔːi̯	mɔːj			
+1577	m ɛː -	2213	None	you (sg.)	1213	XiangZhaiTang	mɛː	ruma1248	Xiang Zhai Tang	24.323819	98.556639	100_yousg	m ɛː	mɛː			
+1578	m ɛː -	2213	None	you (sg.)	1213	PongNuea	mɛː	None	Pong Nuea	20.321525	99.866817	100_yousg	m ɛː	mɛː			
+1579	m ɛ -	2213	None	you (sg.)	1213	NyaungGone	mɛ	None	Nyaung Gone	20.635025	96.545772	100_yousg	m ɛ	mɛ			
+1580	m ɛ -	2213	None	you (sg.)	1213	NoeLae	mɛ	None	Noe Lae	19.941803	99.044742	100_yousg	m ɛ	mɛ			
+1581	m ɛ -	2213	None	you (sg.)	1213	BanPaw	mɛ	None	Ban Paw	21.311225	99.557550	100_yousg	m ɛ	mɛ			
+1582	m ai̯ -	2213	None	you (sg.)	1213	ChaYeQing	maj	None	Cha Ye Qing	24.305717	98.463661	100_yousg	m ai̯	maj			
+1583	m ai̯ -	2213	None	you (sg.)	1213	GuangKa	maj	ruma1248	Guang Ka	24.065714	97.796281	100_yousg	m ai̯	maj			
+1584	m ai̯ -	2213	None	you (sg.)	1213	MangBang	maj	ruma1248	Mang Bang	24.416392	98.399078	100_yousg	m ai̯	maj			
+1585	m ai̯ -	2213	None	you (sg.)	1213	NanSang	maj	ruma1248	Nan Sang	24.019728	97.819736	100_yousg	m ai̯	maj			
+1586	l̥ e i̯ h	1412		one		XiangZhaiTang	l̥ejh						l̥ e i̯ h	Ɂuː, l̥ejh			
