@@ -17,12 +17,12 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/deepadungpalaung",
-            "dc:created": "b6f6914"
+            "dc:created": "a5a0274"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
-            "rdf:about": "https://github.com/glottolog/glottolog/",
+            "rdf:about": "https://github.com/glottolog/glottolog",
             "dc:created": "v4.3"
         },
         {
@@ -56,7 +56,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 1585,
+            "dc:extent": 1584,
             "tableSchema": {
                 "columns": [
                     {
@@ -277,7 +277,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 1585,
+            "dc:extent": 1584,
             "tableSchema": {
                 "columns": [
                     {

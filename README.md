@@ -11,6 +11,7 @@ Conceptlists in Concepticon:
 - [Deepadung-2015-100](https://concepticon.clld.org/contributions/Deepadung-2015-100)
 ## Notes
 
+This dataset has been additionally hand-curated in the EDICTOR tool and can be accessed at https://lingulist.de/edictor/links/deepadungpalaung.html. 
 
 
 
@@ -26,15 +27,15 @@ Conceptlists in Concepticon:
 
 - **Varieties:** 16
 - **Concepts:** 100
-- **Lexemes:** 1,585
+- **Lexemes:** 1,584
 - **Sources:** 1
 - **Synonymy:** 1.00
-- **Cognacy:** 1,585 cognates in 219 cognate sets (36 singletons)
+- **Cognacy:** 1,584 cognates in 219 cognate sets (35 singletons)
 - **Cognate Diversity:** 0.08
 - **Invalid lexemes:** 0
-- **Tokens:** 6,395
-- **Segments:** 78 (0 BIPA errors, 0 CTLS sound class errors, 78 CLTS modified)
-- **Inventory size (avg):** 51.88
+- **Tokens:** 6,269
+- **Segments:** 96 (0 BIPA errors, 0 CTLS sound class errors, 96 CLTS modified)
+- **Inventory size (avg):** 56.31
 
 # Contributors
 

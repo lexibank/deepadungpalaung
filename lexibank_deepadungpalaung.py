@@ -4,8 +4,10 @@ from pathlib import Path
 from pylexibank import Concept, Language, FormSpec
 from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank.util import progressbar
+from lingpy import Wordlist
 
 from clldutils.misc import slug
+from unicodedata import normalize
 
 
 @attr.s
@@ -33,6 +35,13 @@ class Dataset(BaseDataset):
             separators=',',
             )
 
+    def cmd_download(self, args):
+        print('updating ...')
+        self.raw_dir.download(
+            "https://lingulist.de/edictor/triples/get_data.py?file=deepadungpalaung&remote_dbase=deepadungpalaung.sqlite3",
+            "deepadungpalaung.tsv"
+        )
+
     def cmd_makecldf(self, args):
         args.writer.add_sources()
 
@@ -49,25 +58,53 @@ class Dataset(BaseDataset):
             concepts[concept.number] = idx
         languages = args.writer.add_languages(lookup_factory="Name")
 
-        # here we need to add the lexemes
+        # we combine with the manually edited wordlist to retrieve the lexeme
+        # values
+        wl = Wordlist(self.raw_dir.joinpath('deepadungpalaung.tsv').as_posix())
+        mapper = {(concept, language, normalize("NFD", form)): segments for (idx, concept,
+                language, form, segments) in wl.iter_rows(
+                    'concept', 'doculect', 'form', 'tokens')}
         data = self.raw_dir.read_csv('100item-phylo.Sheet1.csv', dicts=False)
         for i, row in progressbar(enumerate(data[4:])):
             number = row[0].strip().strip('.')
+            concept = row[1].strip()
             for j in range(0, len(row)-2, 2):
                 language = data[2][j+2]
                 value = row[j+2]
                 if value.strip() and value.strip() not in ['-----']:
-                    if not 'or' in row[3+j]:
-                        cogid = str(int(float(row[j+3])))
+                    if ',' in row[j+2]:
+                        forms = [v.strip() for v in value.split(',')]
+                        cogids = [str(int(float(x))) for x in row[j+3].split(' or ')]
                     else:
-                        cogid = row[j+3].split()[0]
-                    for lexeme in args.writer.add_forms_from_value(
-                            Parameter_ID=concepts[number],
-                            Language_ID=languages[language],
-                            Value=value.strip(),
-                            Source='Deepadung2015'):
+                        forms = [value.strip()]
+                        cogids = [str(int(float(row[j+3].split(' or ')[0])))]
+
+                    for form, cogid in zip(forms, cogids):
+                        try:
+                            segments = mapper[concept, languages[language],
+                                    form]
+                            lexeme = args.writer.add_form_with_segments(
+                                    Parameter_ID=concepts[number],
+                                    Language_ID=languages[language],
+                                    Value=value.strip(),
+                                    Form=form,
+                                    Segments=segments,
+                                    Source="Deepadung2015"
+                                    )
+                        except:
+                            args.log.warn('lexeme missing {0} / {1} / {2}'.format(
+                                        concept, language, form))
+                            lexeme = args.writer.add_form(
+                                    Parameter_ID=concepts[number],
+                                    Language_ID=languages[language],
+                                    Value=value.strip(),
+                                    Form=form,
+                                    Source="Deepadung2015"
+                                    )
                         args.writer.add_cognate(
                                 lexeme=lexeme,
                                 Cognateset_ID=cogid+'-'+number,
-                                Source='Deepadung2015')
+                                Source="Deepadung2015"
+                                )
+
 
