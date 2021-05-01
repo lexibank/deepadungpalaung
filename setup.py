@@ -16,6 +16,6 @@ setup(
     include_package_data=True,
     zip_safe=False,
     entry_points={"lexibank.dataset": ["deepadungpalaung=lexibank_deepadungpalaung:Dataset"]},
-    install_requires=["pylexibank>=3"],
+    install_requires=["pylexibank>=3", "pyedictor>=0.1.2"],
     extras_require={"test": ["pytest-cldf"]},
 )

@@ -5,6 +5,7 @@ from pylexibank import Concept, Language, FormSpec
 from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank.util import progressbar
 from lingpy import Wordlist
+from pyedictor import fetch
 
 from clldutils.misc import slug
 from unicodedata import normalize
@@ -37,10 +38,9 @@ class Dataset(BaseDataset):
 
     def cmd_download(self, args):
         print('updating ...')
-        self.raw_dir.download(
-            "https://lingulist.de/edictor/triples/get_data.py?file=deepadungpalaung&remote_dbase=deepadungpalaung.sqlite3",
-            "deepadungpalaung.tsv"
-        )
+        with open(self.raw_dir.joinpath("deepadungpalaung.tsv"), "w",
+                encoding="utf-8") as f:
+            f.write(fetch("deepadungpalaung"))
 
     def cmd_makecldf(self, args):
         args.writer.add_sources()

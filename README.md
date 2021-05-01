@@ -33,9 +33,9 @@ This dataset has been additionally hand-curated in the EDICTOR tool and can be a
 - **Cognacy:** 1,584 cognates in 219 cognate sets (35 singletons)
 - **Cognate Diversity:** 0.08
 - **Invalid lexemes:** 0
-- **Tokens:** 6,269
-- **Segments:** 96 (0 BIPA errors, 0 CTLS sound class errors, 96 CLTS modified)
-- **Inventory size (avg):** 56.31
+- **Tokens:** 6,257
+- **Segments:** 95 (0 BIPA errors, 0 CTLS sound class errors, 95 CLTS modified)
+- **Inventory size (avg):** 56.00
 
 # Contributors
 
