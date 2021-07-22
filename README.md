@@ -1,8 +1,16 @@
 # CLDF dataset derived from Deepadung et al.'s "Lexical Comparison of Palaung Dialects" from 2015
 
-Cite the source dataset as
+[![CLDF validation](https://github.com/lexibank/deepadungpalaung/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/deepadungpalaung/actions?query=workflow%3ACLDF-validation)
 
-> Deepadung, Sujaritlak; Buakaw, Supakit; and Rattanapitak, Ampica (2015): A lexical comparison of the Palaung dialects spoken in China, Myanmar, and Thailand. Mon-Khmer Studies 44. 19-38.
+## How to cite
+
+If you use these data please cite
+- the original source
+  > Deepadung, Sujaritlak; Buakaw, Supakit; and Rattanapitak, Ampica (2015): A lexical comparison of the Palaung dialects spoken in China, Myanmar, and Thailand. Mon-Khmer Studies 44. 19-38.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-BY-4.0 license
 
@@ -48,3 +56,10 @@ Rattanapitak, Ampika | | data collector | Author, DataCollector
 
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
