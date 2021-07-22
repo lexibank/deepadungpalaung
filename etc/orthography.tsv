@@ -3,7 +3,7 @@ Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
 $	NULL
 oj$	oi̯
 ej$	ei̯
-au$	au̯
+au$	au̯	I, new diphthongs
 au	au̯
 ou	ou̯
 oj	oi̯
@@ -25,7 +25,6 @@ aːi$	aːi̯
 aːi	aːi̯
 eːj	eːi̯
 eːi	eːi̯
-au$	au̯	I, new diphthongs
 ja	j a	cut
 ^ja	j a
 ia	i/j a
@@ -267,7 +266,6 @@ k	k	hɨk ken, pakjəː	GuangKa, HtanHsan, NamHsan, ChaYeQing, ChuDongGua, PangKh
 ^ʨ	tɕ	ʨɨː, ʨan	ManLoi, PangKham, MengDan, XiangZhaiTang, PongNuea, NamHsan, ChaYeQing, GuangKa, ChuDongGua, MangBang, NanSang	42	U+005e U+02a8
 ɲ$	ɲ	ɡiɲ, haɲ	PongNuea, NoeLae, HtanHsan, KhunHawt, BanPaw, XiangZhaiTang, PangKham, ChuDongGua, NamHsan	39	U+0272 U+0024
 h	h	riah hej, ʔahim	ManLoi, HtanHsan, GuangKa, MengDan, KhunHawt, ChuDongGua, BanPaw, NamHsan, MangBang, NoeLae, PangKham, NyaungGone, ChaYeQing, PongNuea, NanSang	39	U+0068
-ă	ă	dăk, năp	BanPaw, NyaungGone, NoeLae	37	U+0103
 s	s	mase, masim	NyaungGone, PongNuea, NoeLae, BanPaw, XiangZhaiTang, ChaYeQing, ManLoi, HtanHsan, NamHsan, GuangKa, PangKham, MengDan, MangBang, NanSang	34	U+0073
 ^j	j	jam, jew	PongNuea, NanSang, ChuDongGua, MangBang, BanPaw, HtanHsan, NyaungGone, NamHsan, GuangKa, PangKham, NoeLae, KhunHawt, XiangZhaiTang, ManLoi	34	U+005e U+006a
 ɛ	ɛ	dɛh, ʔɛm	PongNuea, NamHsan, GuangKa, ChuDongGua, MengDan, NyaungGone, ChaYeQing, ManLoi, NoeLae, XiangZhaiTang, MangBang, NanSang, KhunHawt, BanPaw	33	U+025b
