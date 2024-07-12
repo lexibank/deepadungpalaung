@@ -27,14 +27,14 @@ This dataset has been additionally hand-curated in the EDICTOR tool and can be a
 
 
 [![CLDF validation](https://github.com/lexibank/deepadungpalaung/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/deepadungpalaung/actions?query=workflow%3ACLDF-validation)
-![Glottolog: 31%](https://img.shields.io/badge/Glottolog-31%25-red.svg "Glottolog: 31%")
+![Glottolog: 37%](https://img.shields.io/badge/Glottolog-37%25-red.svg "Glottolog: 37%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 16
-- **Concepts:** 100
+- **Varieties:** 16 (linked to 3 different Glottocodes)
+- **Concepts:** 100 (linked to 100 different Concepticon concept sets)
 - **Lexemes:** 1,584
 - **Sources:** 1
 - **Synonymy:** 1.00
@@ -42,18 +42,18 @@ This dataset has been additionally hand-curated in the EDICTOR tool and can be a
 - **Cognate Diversity:** 0.08
 - **Invalid lexemes:** 0
 - **Tokens:** 6,257
-- **Segments:** 94 (0 BIPA errors, 0 CTLS sound class errors, 94 CLTS modified)
+- **Segments:** 94 (0 BIPA errors, 0 CLTS sound class errors, 94 CLTS modified)
 - **Inventory size (avg):** 55.94
 
 # Contributors
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Johann-Mattis List | @LinguList | maintainer | Other
+Johann-Mattis List | @LinguList | maintainer | Editor
+Dan Briggs | @DanBriggs | Orthography conversion | Other
 Deepadung, Sujaritlak | | data collector | Author, DataCollector
 Buakaw, Supakit | | data collector | Author, DataCollector
 Rattanapitak, Ampika | | data collector | Author, DataCollector
-
 
 
 
