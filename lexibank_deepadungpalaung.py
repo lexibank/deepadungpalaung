@@ -27,7 +27,7 @@ class CustomLanguage(Language):
     Latitude = attr.ib(default=None)
     Longitude = attr.ib(default=None)
     SubGroup = attr.ib(default="Palaung")
-    Family = attr.ib(default="Austro-Asiatic")
+    Family = attr.ib(default=None)
     Location = attr.ib(default=None)
     EthnicName=attr.ib(default=None)
     Abbreviation=attr.ib(default=None)

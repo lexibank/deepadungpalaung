@@ -1,17 +1,17 @@
 ID,Name,Abbreviation,Location,EthnicName,Glottocode,Latitude,Longitude
-ChuDongGua,Chu Dong Gua,CDG,"Santaishan, Dehong",Liang/Ta-ang,, 24.330889, 98.393125
+ChuDongGua,Chu Dong Gua,CDG,"Santaishan, Dehong",Liang/Ta-ang,shwe1236, 24.330889, 98.393125
 MengDan,Meng Dan,MD,"Santaishan, Dehong",Pule/Ka-ang,khan1274, 24.296522, 98.379886
 NanSang,Nan Sang,NS,"Ruili, Dehong",Rumai,ruma1248, 24.019728, 97.819736
 GuangKa,Guang Ka,GK,"Ruili, Dehong",Rumai,ruma1248, 24.065714, 97.796281
 MangBang,Mang Bang,MB,"Longchuan, Dehong",Rumai,ruma1248, 24.416392, 98.399078
 ChaYeQing,Cha Ye Qing,CYQ,"Mangshi, Dehong",Raokot/La-ang,, 24.305717, 98.463661
-XiangZhaiTang,Xiang Zhai Tang,XCT,"Mangshi, Dehong",Raojin/Na-ang,ruma1248, 24.323819, 98.556639
-NamHsan,Namhsan,NH,"Namhsan Township, Shan",Ta-ang/SaamLoong,, 22.965064, 97.163239
-KhunHawt,Khun Hawt,KH,"Namhsan, Shan",Ta-ang,, 22.965064, 97.163239
-HtanHsan,Htan Hsan,TS,"Hsipaw, Shan",Ta-ang,, 22.675133, 97.289942
-PangKham,Pangkham,PK,"Hsipaw, Shan",Dara-ang/Ta-ang,, 22.672097, 97.161167
-ManLoi,Man Loi,ML,"Hsipaw, Shan",Dara-ang/Katiang,, 22.636019, 97.139264
-NyaungGone,Nyaung Gone,NG,"Kalaw, Shan",Da-ang,, 20.635025, 96.545772
-BanPaw,Ban Paw,BP,"KengTung, Shan",Dara-ang,, 21.311225, 99.557550
-NoeLae,Noe Lae,NL,"Fang, Chiang Mai",Dara-ang,, 19.941803, 99.044742
-PongNuea,Pong Nuea,PN,"Mae Sai, Chiang Rai",Dara-ang,, 20.321525, 99.866817
+XiangZhaiTang,Xiang Zhai Tang,XCT,"Mangshi, Dehong",Raojin/Na-ang,raoj1238, 24.323819, 98.556639
+NamHsan,Namhsan,NH,"Namhsan Township, Shan",Ta-ang/SaamLoong,shwe1236, 22.965064, 97.163239
+KhunHawt,Khun Hawt,KH,"Namhsan, Shan",Ta-ang,shwe1236, 22.965064, 97.163239
+HtanHsan,Htan Hsan,TS,"Hsipaw, Shan",Ta-ang,shwe1236, 22.675133, 97.289942
+PangKham,Pangkham,PK,"Hsipaw, Shan",Dara-ang/Ta-ang,ruch1235, 22.672097, 97.161167
+ManLoi,Man Loi,ML,"Hsipaw, Shan",Dara-ang/Katiang,ruch1235, 22.636019, 97.139264
+NyaungGone,Nyaung Gone,NG,"Kalaw, Shan",Da-ang,ruch1235, 20.635025, 96.545772
+BanPaw,Ban Paw,BP,"KengTung, Shan",Dara-ang,ruch1235, 21.311225, 99.557550
+NoeLae,Noe Lae,NL,"Fang, Chiang Mai",Dara-ang,ruch1235, 19.941803, 99.044742
+PongNuea,Pong Nuea,PN,"Mae Sai, Chiang Rai",Dara-ang,ruch1235, 20.321525, 99.866817
