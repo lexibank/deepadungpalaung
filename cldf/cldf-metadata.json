@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/lexibank/deepadungpalaung",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1",
+            "dc:created": "v1.1-2-g1f8eb9c",
             "dc:title": "Repository"
         },
         {

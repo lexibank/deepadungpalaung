@@ -16,7 +16,6 @@ class CustomConcept(Concept):
     Number = attr.ib(default=None)
 
 
-
 @attr.s
 class CustomLexeme(Lexeme):
     Partial_Cognacy = attr.ib(default=None)
@@ -29,8 +28,8 @@ class CustomLanguage(Language):
     SubGroup = attr.ib(default="Palaung")
     Family = attr.ib(default=None)
     Location = attr.ib(default=None)
-    EthnicName=attr.ib(default=None)
-    Abbreviation=attr.ib(default=None)
+    EthnicName = attr.ib(default=None)
+    Abbreviation = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
@@ -45,8 +44,7 @@ class Dataset(BaseDataset):
 
     def cmd_download(self, args):
         print('updating ...')
-        with open(self.raw_dir.joinpath("deepadungpalaung.tsv"), "w",
-                encoding="utf-8") as f:
+        with open(self.raw_dir.joinpath("deepadungpalaung.tsv"), "w", encoding="utf-8") as f:
             f.write(fetch("deepadungpalaung"))
 
     def cmd_makecldf(self, args):
@@ -88,8 +86,7 @@ class Dataset(BaseDataset):
 
                     for form, cogid in zip(forms, cogids):
                         try:
-                            segments, cogids = mapper[concept, languages[language],
-                                    form]
+                            segments, cogids = mapper[concept, languages[language], form]
                             lexeme = args.writer.add_form_with_segments(
                                     Parameter_ID=concepts[number],
                                     Language_ID=languages[language],
@@ -115,5 +112,3 @@ class Dataset(BaseDataset):
                                 Cognateset_ID=cogid+'-'+number,
                                 Source="Deepadung2015"
                                 )
-
-

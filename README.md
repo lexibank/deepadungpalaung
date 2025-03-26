@@ -49,11 +49,11 @@ This dataset has been additionally hand-curated in the EDICTOR tool and can be a
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Johann-Mattis List | @LinguList | maintainer | Other
+Johann-Mattis List | @LinguList | maintainer | Editor
+Dan Briggs | @DanBriggs | Orthography conversion | Other
 Deepadung, Sujaritlak | | data collector | Author, DataCollector
 Buakaw, Supakit | | data collector | Author, DataCollector
 Rattanapitak, Ampika | | data collector | Author, DataCollector
-
 
 
 
